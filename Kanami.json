@@ -6154,6 +6154,1236 @@
             }
         }
     },
+    "22998001": {
+        "id": 22998001,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_001",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0189-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0165-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998002": {
+        "id": 22998002,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_002",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0193-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0193-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998003": {
+        "id": 22998003,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_003",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0191-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0141-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998004": {
+        "id": 22998004,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_004",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0183-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0137-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998005": {
+        "id": 22998005,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_005",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0181-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0195-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998006": {
+        "id": 22998006,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_006",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0187-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0107-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998007": {
+        "id": 22998007,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_007",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0185-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0169-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998008": {
+        "id": 22998008,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_008",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0197-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0131-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998009": {
+        "id": 22998009,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_009",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0195-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0103-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998010": {
+        "id": 22998010,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_010",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0165-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0149-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998011": {
+        "id": 22998011,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_011",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0167-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0189-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998012": {
+        "id": 22998012,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_012",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0161-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0155-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998013": {
+        "id": 22998013,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_013",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0163-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0197-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998014": {
+        "id": 22998014,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_014",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0173-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0129-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998015": {
+        "id": 22998015,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_015",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0175-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0153-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998016": {
+        "id": 22998016,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_016",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0169-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0127-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998017": {
+        "id": 22998017,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_017",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0171-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0163-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998018": {
+        "id": 22998018,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_018",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0177-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0185-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "击败最后的对手吧，和香奈美一起！",
+            "en": "Defeat the final opponent with Kanami!",
+            "ja": "香奈美と一緒に最後の敵を倒そう！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "카나미와 함께 마지막 적을 처치하자!",
+                "es": "¡Derrota al último oponente con Kanami!",
+                "fr": "Éliminez le dernier adversaire avec Kanami !",
+                "de": "Besiege den letzten Gegner mit Kanami!",
+                "ru": "Победите последнего соперника вместе с Канами!",
+                "pt-br": "Derrote o último oponente com Kanami!",
+                "zh-hans": "击败最后的对手吧，和香奈美一起！"
+            }
+        }
+    },
+    "22998019": {
+        "id": 22998019,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_019",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0179-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0121-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998020": {
+        "id": 22998020,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_020",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0159-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0183-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "大危机！离敌方胜出只差击败五个人了。",
+            "en": "Alert! Just five more kills until the opponent wins.",
+            "ja": "大ピンチ！敵が後5人撃破で勝利になります。"
+        },
+        "translation": {
+            "cn": {
+                "ko": "큰일 났어! 5명만 더 처치하면 적군이 이겨.",
+                "es": "¡Alerta! Solo 5 muertes más para que gane el adversario.",
+                "fr": "Attention ! Encore cinq éliminations et l'adversaire gagne.",
+                "de": "Achtung! Nur noch fünf Kills, bis der Gegner gewinnt.",
+                "ru": "Тревога! Сопернику осталось пять убийств до победы!",
+                "pt-br": "Alerta! Apenas mais cinco abates até que o adversário vença.",
+                "zh-hans": "大危机！离敌方胜出只差击败五个人了。"
+            }
+        }
+    },
+    "22998021": {
+        "id": 22998021,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_021",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0157-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0145-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998022": {
+        "id": 22998022,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_022",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0155-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0113-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "第一声呐喊！",
+            "en": "First cry!",
+            "ja": "最初の叫び！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "첫 번째 함성!",
+                "es": "¡Primer grito!",
+                "fr": "Premier cri !",
+                "de": "Erster Schrei!",
+                "ru": "Есть первый!",
+                "pt-br": "Primeiro choro!",
+                "zh-hans": "第一声呐喊！"
+            }
+        }
+    },
+    "22998023": {
+        "id": 22998023,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_023",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0153-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0159-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998024": {
+        "id": 22998024,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_024",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0151-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0115-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998025": {
+        "id": 22998025,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_025",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0149-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0179-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998026": {
+        "id": 22998026,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_026",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0147-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0143-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998027": {
+        "id": 22998027,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_027",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0145-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0191-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998028": {
+        "id": 22998028,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_028",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0143-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0147-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998029": {
+        "id": 22998029,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_029",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0141-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0123-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998030": {
+        "id": 22998030,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_030",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0133-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0181-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998031": {
+        "id": 22998031,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_031",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0135-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0117-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998032": {
+        "id": 22998032,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_032",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0137-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0171-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998033": {
+        "id": 22998033,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_033",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0139-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0119-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998034": {
+        "id": 22998034,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_034",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0127-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0125-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998035": {
+        "id": 22998035,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_035",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0129-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0151-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998036": {
+        "id": 22998036,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_036",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0131-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0187-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998044": {
+        "id": 22998044,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_048",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0125-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0177-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998045": {
+        "id": 22998045,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_049",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0123-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0139-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998046": {
+        "id": 22998046,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_050",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0113-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0111-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998047": {
+        "id": 22998047,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_051",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0115-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0167-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998048": {
+        "id": 22998048,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_052",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0109-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0133-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998049": {
+        "id": 22998049,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_053",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0111-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0173-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998043": {
+        "id": 22998043,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_054",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0105-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0135-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998075": {
+        "id": 22998075,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_055",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0107-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0175-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998058": {
+        "id": 22998058,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_057",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0103-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0109-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998059": {
+        "id": 22998059,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_058",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0117-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0161-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998060": {
+        "id": 22998060,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_059",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0119-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0105-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998068": {
+        "id": 22998068,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_073",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0021-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0025-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998069": {
+        "id": 22998069,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_074",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0023-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0035-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998070": {
+        "id": 22998070,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_075",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0025-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0023-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998071": {
+        "id": 22998071,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_076",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0027-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0031-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998072": {
+        "id": 22998072,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_077",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0029-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0037-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998073": {
+        "id": 22998073,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_078",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Escort-0031-event.wav",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0029-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998067": {
+        "id": 22998067,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_079",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0025-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0035-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998063": {
+        "id": 22998063,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_080",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0037-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0027-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998064": {
+        "id": 22998064,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_081",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0035-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0037-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998065": {
+        "id": 22998065,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_082",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0041-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0041-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998066": {
+        "id": 22998066,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_083",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0039-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0033-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998054": {
+        "id": 22998054,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_084",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0029-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0031-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998055": {
+        "id": 22998055,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_085",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0027-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0025-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998056": {
+        "id": 22998056,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_086",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0033-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0029-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998057": {
+        "id": 22998057,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_087",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Ming-0031-event.wav",
+            "ja": "Vox_Communicate_Kanami_Ming_JP-0039-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22994081": {
+        "id": 22994081,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_098_JP",
+        "file": {
+            "cn": "",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0033-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22994082": {
+        "id": 22994082,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_099_JP",
+        "file": {
+            "cn": "",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0021-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22994083": {
+        "id": 22994083,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_100_JP",
+        "file": {
+            "cn": "",
+            "ja": "Vox_Communicate_Kanami_Escort_JP-0027-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998084": {
+        "id": 22998084,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_116",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0027-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0025-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998085": {
+        "id": 22998085,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_117",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0025-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0035-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998086": {
+        "id": 22998086,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_118",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0023-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0029-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998087": {
+        "id": 22998087,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_119",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0021-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0037-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998088": {
+        "id": 22998088,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_120",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0033-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0027-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998089": {
+        "id": 22998089,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_121",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0035-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0033-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998090": {
+        "id": 22998090,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_122",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0029-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0031-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998091": {
+        "id": 22998091,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_123",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0031-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0021-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998092": {
+        "id": 22998092,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_124",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Biochemical-0037-event.wav",
+            "ja": "Vox_Communicate_Kanami_Biochemical_JP-0023-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22998076": {
+        "id": 22998076,
+        "title": {},
+        "path": "Vox_Communicate_Kanami_125",
+        "file": {
+            "cn": "Vox_Communicate_Kanami_Common-0121-event.wav",
+            "ja": "Vox_Communicate_Kanami_Common_JP-0157-event.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22137022": {
         "id": 22137022,
         "title": {
