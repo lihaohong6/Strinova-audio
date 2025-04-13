@@ -243,7 +243,7 @@ voice_conversion_table: dict[VoiceType, dict[str, tuple[str, str]]] = {
         "026": ("", "Attackers win"),
         "027": ("", "(Demolition) Won round, all alive"),
         "028": ("", "(Demolition) Won round, last player alive"),
-        "029": ("", "(Demolition) Won round, last player to die"),
+        "029": ("", "(Demolition) Lost round, last player to die"),
         "030": ("", "Select character"),
         "031": ("", "Select character"),
         "032": ("", "Battle about to start"),
