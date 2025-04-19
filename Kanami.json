@@ -1584,7 +1584,8 @@
         },
         "transcription": {
             "cn": "我站在银河的中心眺望着未来。",
-            "en": "I stand at the heart of the galaxy, gazing into the future."
+            "en": "I stand at the heart of the galaxy, gazing into the future.",
+            "ja": "銀河の中心から、未来を眺めてる。"
         },
         "translation": {
             "cn": {}
@@ -1634,7 +1635,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "属长曲已确认。"
+            "cn": "入场曲已确认。"
         },
         "translation": {
             "cn": {}
@@ -1653,7 +1654,7 @@
             "en": "Vox_SelectCharacter-0248-event.wav"
         },
         "transcription": {
-            "cn": "舞台站位，却任务。",
+            "cn": "舞台站位，确认无误。",
             "ja": "",
             "en": "Hear my melody!"
         },
@@ -1781,8 +1782,9 @@
             "en": "Vox_Kanami_InGame_Hall_red01-0015-event.wav"
         },
         "transcription": {
-            "cn": "我會一直唱到世界的盡頭。",
-            "en": "I will sing until the world's very end!"
+            "cn": "我会一直唱到世界的尽头。",
+            "en": "I will sing until the world's very end!",
+            "ja": "世界の終わりまで、私は歌え続ける。"
         },
         "translation": {
             "cn": {}
@@ -1801,7 +1803,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "飄逸的裙摆，就像是盛開的花。",
+            "cn": "飘逸的裙摆，就像是盛开的花。",
             "ja": "",
             "en": "飄逸的裙摆,就像是盛開的花。"
         },
@@ -1856,7 +1858,8 @@
         },
         "transcription": {
             "cn": "我要以歌声，与世界对话。",
-            "en": "I speak to the world through my songs."
+            "en": "I speak to the world through my songs.",
+            "ja": "私の歌声で、世界を繋げる。"
         },
         "translation": {
             "cn": {}
@@ -1919,7 +1922,8 @@
         },
         "transcription": {
             "cn": "可以去听你在乐谱中的位置了。",
-            "en": "Let's find out where you stand in my score."
+            "en": "Let's find out where you stand in my score.",
+            "ja": "あなたの音程はどこかな。"
         },
         "translation": {
             "cn": {}
@@ -2021,7 +2025,8 @@
         },
         "transcription": {
             "cn": "我能感知到你的存在。",
-            "en": "I sense your presence."
+            "en": "I sense your presence.",
+            "ja": "あなたの居場所は感じてきるよ。"
         },
         "translation": {
             "cn": {}
@@ -2072,7 +2077,8 @@
         },
         "transcription": {
             "cn": "声音是波动的情绪。",
-            "en": "Sounds are vibrations of emotions."
+            "en": "Sounds are vibrations of emotions.",
+            "ja": "気持ちを隠しても、声でばれるよ。"
         },
         "translation": {
             "cn": {}
@@ -2112,7 +2118,8 @@
         },
         "transcription": {
             "cn": "外界的声音真嘈杂。",
-            "en": "It's so noisy here."
+            "en": "It's so noisy here.",
+            "ja": "外の声が騒がしいね。"
         },
         "translation": {
             "cn": {}
@@ -2152,7 +2159,8 @@
         },
         "transcription": {
             "cn": "可以纵情欢畅了。",
-            "en": "Time to sing my heart out."
+            "en": "Time to sing my heart out.",
+            "ja": "もう思い切り歌えるよ。"
         },
         "translation": {
             "cn": {}
@@ -2203,7 +2211,8 @@
         },
         "transcription": {
             "cn": "无限歌声，环绕世界！",
-            "en": "My song fills the world!"
+            "en": "My song fills the world!",
+            "ja": "私の歌声を、世界中に届ける！"
         },
         "translation": {
             "cn": {}
@@ -2253,8 +2262,9 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0115-event [427219945=136945955].wav"
         },
         "transcription": {
-            "cn": "在愛與歌聲中淪陷吧。",
-            "en": "Submit to love and music!"
+            "cn": "在爱与歌声中沦陷吧。",
+            "en": "Submit to love and music!",
+            "ja": "愛と歌声に覚えさせて上げる。"
         },
         "translation": {
             "cn": {}
@@ -2305,7 +2315,8 @@
         },
         "transcription": {
             "cn": "生生不息。",
-            "en": "The power of music never dies!"
+            "en": "The power of music never dies!",
+            "ja": "歌声は消えないよ。"
         },
         "translation": {
             "cn": {}
@@ -2345,7 +2356,8 @@
         },
         "transcription": {
             "cn": "情绪还在酝酿。",
-            "en": "My emotions are still brewing!"
+            "en": "My emotions are still brewing!",
+            "ja": "まだ気持ちの準備中なんだ。"
         },
         "translation": {
             "cn": {}
@@ -2538,7 +2550,8 @@
         },
         "transcription": {
             "cn": "声音贯穿灵魂了吗？",
-            "en": "Did my voice pierce your soul?"
+            "en": "Did my voice pierce your soul?",
+            "ja": "魂が声に繋がれてかな。"
         },
         "translation": {
             "cn": {}
@@ -2589,7 +2602,8 @@
         },
         "transcription": {
             "cn": "这是记忆的回响。",
-            "en": "The Echoes of Memories."
+            "en": "The Echoes of Memories.",
+            "ja": "これが記憶の残響よ。"
         },
         "translation": {
             "cn": {}
@@ -2640,7 +2654,8 @@
         },
         "transcription": {
             "cn": "跟随节奏倒下吧。",
-            "en": "Fall in tune with the rhythm!"
+            "en": "Fall in tune with the rhythm!",
+            "ja": "リズムの共に散りなさい。"
         },
         "translation": {
             "cn": {}
@@ -2691,7 +2706,8 @@
         },
         "transcription": {
             "cn": "消除一切杂音。",
-            "en": "Silence the chaos!"
+            "en": "Silence the chaos!",
+            "ja": "ノイズはすべて排除する。"
         },
         "translation": {
             "cn": {}
@@ -2731,7 +2747,8 @@
         },
         "transcription": {
             "cn": "聆听灵魂的共振。",
-            "en": "Hear the soul's resonance!"
+            "en": "Hear the soul's resonance!",
+            "ja": "魂の共鳴を聞いて。"
         },
         "translation": {
             "cn": {}
@@ -2771,7 +2788,8 @@
         },
         "transcription": {
             "cn": "跨越三重奏鸣。",
-            "en": "Crossing the trio!"
+            "en": "Crossing the trio!",
+            "ja": "トリオ以上に響て。"
         },
         "translation": {
             "cn": {}
@@ -2811,7 +2829,8 @@
         },
         "transcription": {
             "cn": "颠覆命运乐章。",
-            "en": "Rewrite the symphony of fate!"
+            "en": "Rewrite the symphony of fate!",
+            "ja": "運命の楽章を覆す。"
         },
         "translation": {
             "cn": {}
@@ -2850,7 +2869,7 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0111-event [427219945=136945955].wav"
         },
         "transcription": {
-            "cn": "晚来会想。",
+            "cn": "万籁汇响。",
             "en": "Echoes of a grand harmony!"
         },
         "translation": {
@@ -2891,7 +2910,8 @@
         },
         "transcription": {
             "cn": "我会化作永恒的士气之歌！",
-            "en": "I am the eternal song!"
+            "en": "I am the eternal song!",
+            "ja": "わたしは、不滅の歌になる！"
         },
         "translation": {
             "cn": {}
@@ -2931,7 +2951,8 @@
         },
         "transcription": {
             "cn": "你的声音太微弱了。",
-            "en": "Your voice is too faint."
+            "en": "Your voice is too faint.",
+            "ja": "あなた、声が弱弱過ぎるよ。"
         },
         "translation": {
             "cn": {}
@@ -2970,8 +2991,9 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0087-event.wav"
         },
         "transcription": {
-            "cn": "无法，不发声了。",
-            "en": "I'm losing my voice."
+            "cn": "无法，发声了。",
+            "en": "I'm losing my voice.",
+            "ja": "声が、出ない"
         },
         "translation": {
             "cn": {}
@@ -3010,8 +3032,9 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0107-event.wav"
         },
         "transcription": {
-            "cn": "沒能逾越。",
-            "en": "I couldn't overcome."
+            "cn": "没能逾越。",
+            "en": "I couldn't overcome.",
+            "ja": "超えられない、壁。"
         },
         "translation": {
             "cn": {}
@@ -3050,8 +3073,9 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0095-event.wav"
         },
         "transcription": {
-            "cn": "zuk，دین。",
-            "en": "It hurts."
+            "cn": "好痛。",
+            "en": "It hurts.",
+            "ja": "痛い。"
         },
         "translation": {
             "cn": {}
@@ -3091,7 +3115,8 @@
         },
         "transcription": {
             "cn": "音乐，本就是一种救赎。",
-            "en": "Redemption through music."
+            "en": "Redemption through music.",
+            "ja": "音楽は救いだよ。"
         },
         "translation": {
             "cn": {}
@@ -3131,7 +3156,8 @@
         },
         "transcription": {
             "cn": "歌声的翅膀被折断了。",
-            "en": "The wings of my song have been clipped."
+            "en": "The wings of my song have been clipped.",
+            "ja": "歌声の翼が折られちゃった。"
         },
         "translation": {
             "cn": {}
@@ -3170,8 +3196,9 @@
             "en": "Vox_Kanami_InGame_Kill_red01-0093-event.wav"
         },
         "transcription": {
-            "cn": "要提前謝幕了嗎？",
-            "en": "It's too early for a curtain call."
+            "cn": "要提前谢幕了嗎？",
+            "en": "It's too early for a curtain call.",
+            "ja": "ここで幕切れか。"
         },
         "translation": {
             "cn": {}
@@ -3251,7 +3278,8 @@
         },
         "transcription": {
             "cn": "回应我的求助好吗。",
-            "en": "Please respond to my call!"
+            "en": "Please respond to my call!",
+            "ja": "私のお願いに答えてくれる。"
         },
         "translation": {
             "cn": {}
@@ -3302,7 +3330,8 @@
         },
         "transcription": {
             "cn": "还不可以说再见啊。",
-            "en": "It's not time to say goodbye yet."
+            "en": "It's not time to say goodbye yet.",
+            "ja": "さようならはまだ早いよ"
         },
         "translation": {
             "cn": {}
@@ -3342,7 +3371,8 @@
         },
         "transcription": {
             "cn": "谢谢你让我回归战斗。",
-            "en": "Thank you for bringing me back."
+            "en": "Thank you for bringing me back.",
+            "ja": "戦場に元してくれて、ありがとう。"
         },
         "translation": {
             "cn": {}
@@ -3382,7 +3412,8 @@
         },
         "transcription": {
             "cn": "开始安装炸弹。",
-            "en": "Planting the bomb!"
+            "en": "Planting the bomb!",
+            "ja": "爆弾の設置を始めるよ。"
         },
         "translation": {
             "cn": {}
@@ -3422,7 +3453,8 @@
         },
         "transcription": {
             "cn": "我失去了炸弹。",
-            "en": "I picked up the bomb."
+            "en": "I picked up the bomb.",
+            "ja": "爆弾"
         },
         "translation": {
             "cn": {}
@@ -3462,7 +3494,8 @@
         },
         "transcription": {
             "cn": "开始拆除炸弹。",
-            "en": "Diffusing the bomb!"
+            "en": "Diffusing the bomb!",
+            "ja": "爆弾を解除するね。"
         },
         "translation": {
             "cn": {}
@@ -3635,7 +3668,7 @@
             "en": "Vox_Kanami_InGame_Result_original-0040-event.wav"
         },
         "transcription": {
-            "cn": "怎么才能避免林场发挥失常呢？",
+            "cn": "怎么才能避免临场发挥失常呢？",
             "ja": "",
             "en": "How can I avoid messing up in the heat of the moment?"
         },
@@ -3658,7 +3691,7 @@
             "en": "Vox_Kanami_InGame_Result_original-0042-event.wav"
         },
         "transcription": {
-            "cn": "其实在低谷，向奈美也会撑下去的。",
+            "cn": "其实在低谷，香奈美也会撑下去的。",
             "ja": "",
             "en": "Even at my lowest, I will keep pushing through."
         },
@@ -3732,7 +3765,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "小奈美的心好痛。",
+            "cn": "香奈美的心好痛。",
             "ja": "",
             "en": "Ah, my heart aches so much."
         },
@@ -3836,7 +3869,7 @@
         },
         "transcription": {
             "cn": "我预感胜利会一直延续下去哦。",
-            "ja": "",
+            "ja": "これからずっと勝ち続けちゃうかも。",
             "en": "I can feel this winning streak continuing!"
         },
         "translation": {
@@ -3935,7 +3968,7 @@
             "en": "Vox_Kanami_InGame_Result_red01-0028-event.wav"
         },
         "transcription": {
-            "cn": "优优独播剧场——YoYo，Television，Series，Exclusive。",
+            "cn": "每一次胜利，都是值得庆祝的里程碑。",
             "en": "Every victory is worth celebrating!"
         },
         "translation": {
@@ -4052,7 +4085,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "小奶妹明明最不想说的。",
+            "cn": "香奈美明明最不想输的。",
             "ja": "",
             "en": "I don't want to lose."
         },
@@ -4169,7 +4202,7 @@
             "en": "Vox_Kanami_InGame_Result_red01-0038-event.wav"
         },
         "transcription": {
-            "cn": "哼哼，這是勝利的高音！",
+            "cn": "哼哼，這是胜利的高音！",
             "en": "This is the song of victory!"
         },
         "translation": {
@@ -4472,7 +4505,7 @@
             "en": "Vox_Kanami_InGame_Easter_egg_red01-0033-event.wav"
         },
         "transcription": {
-            "cn": "拉威，我相信你能引领变革。",
+            "cn": "拉薇，我相信你能引领变革。",
             "en": "I have faith in you, Louine."
         },
         "translation": {
@@ -4512,7 +4545,7 @@
             "en": "Vox_Kanami_InGame_Easter_egg_red01-0037-event.wav"
         },
         "transcription": {
-            "cn": "失去拉威了吗？",
+            "cn": "失去拉薇了吗？",
             "en": "We've lost Louine!"
         },
         "translation": {
@@ -4612,7 +4645,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0068-event.wav"
         },
         "transcription": {
-            "cn": "敵人，應聲道地。",
+            "cn": "敌人，应声倒地。",
             "ja": "",
             "en": "Enemy down! Just like that!"
         },
@@ -4681,7 +4714,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0066-event.wav"
         },
         "transcription": {
-            "cn": "遠處有敵人，小心一點哦！",
+            "cn": "远处有敌人，小心一点哦！",
             "ja": "",
             "en": "Enemy ahead! Stay alert!"
         },
@@ -4704,7 +4737,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0076-event.wav"
         },
         "transcription": {
-            "cn": "敵人就躲在前方了。",
+            "cn": "敌人就躲在前方了。",
             "ja": "",
             "en": "There's an enemy hiding up ahead!"
         },
@@ -4750,7 +4783,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0072-event.wav"
         },
         "transcription": {
-            "cn": "注意！敵人的數量可不少呢！",
+            "cn": "注意！敌人的数量可不少呢！",
             "ja": "",
             "en": "Watch out! There's quite a few of them!"
         },
@@ -4819,7 +4852,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0062-event.wav"
         },
         "transcription": {
-            "cn": "小奈美正在与敌人交战呢。",
+            "cn": "香奈美正在与敌人交战呢。",
             "ja": "",
             "en": "Kanami is engaging the enemy!"
         },
@@ -4865,7 +4898,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0092-event.wav"
         },
         "transcription": {
-            "cn": "哼，敵人果然躲不過我的子彈吶。",
+            "cn": "哼，敌人果然躲不过我的子弹哪。",
             "ja": "",
             "en": "The enemy couldn't dodge my bullets!"
         },
@@ -4888,7 +4921,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0098-event.wav"
         },
         "transcription": {
-            "cn": "敵人馬上就要倒地了。",
+            "cn": "敌人馬上就要倒地了。",
             "ja": "",
             "en": "The enemy is about to go down!"
         },
@@ -4911,7 +4944,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0096-event.wav"
         },
         "transcription": {
-            "cn": "敵人逃不出我的舞台啦。",
+            "cn": "敌人逃不出我的舞台啦。",
             "ja": "",
             "en": "The enemy can't escape my stage."
         },
@@ -4980,7 +5013,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0090-event.wav"
         },
         "transcription": {
-            "cn": "有敵人在左側發起攻擊哦。",
+            "cn": "有敌人在左侧发起攻击哦。",
             "ja": "",
             "en": "Enemy attacking from the left!"
         },
@@ -5003,7 +5036,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0088-event.wav"
         },
         "transcription": {
-            "cn": "讨厌了，居然从左侧偷袭向奈美。",
+            "cn": "讨厌啦，居然从左侧偷袭向奈美。",
             "ja": "",
             "en": "Oh, a sneak attack from the left!"
         },
@@ -5026,7 +5059,7 @@
             "en": "Vox_Kanami_InGame_Barrier_free_original-0082-event.wav"
         },
         "transcription": {
-            "cn": "有敵人在右側發起攻擊喲。",
+            "cn": "有敌人在右侧发起攻击哦。",
             "ja": "",
             "en": "Enemy attacking from the right!"
         },
@@ -5484,7 +5517,7 @@
             "en": "Vox_Kanami_InGame_Tactical_Item_red01-0038-event.wav"
         },
         "transcription": {
-            "cn": "攔截器。",
+            "cn": "拦截器。",
             "en": "Interceptor!"
         },
         "translation": {
@@ -5565,7 +5598,8 @@
         },
         "transcription": {
             "cn": "闪光弹。",
-            "en": "Flashbang!"
+            "en": "Flashbang!",
+            "ja": "眩しくなるよ。"
         },
         "translation": {
             "cn": {}
@@ -5604,7 +5638,7 @@
             "en": "Vox_Kanami_InGame_Tactical_Item_red01-0034-event.wav"
         },
         "transcription": {
-            "cn": "恢復一下。",
+            "cn": "恢复一下。",
             "en": "Phew, let's recover."
         },
         "translation": {
@@ -5644,7 +5678,7 @@
             "en": "Vox_Kanami_InGame_Tactical_Item_red01-0042-event.wav"
         },
         "transcription": {
-            "cn": "蜂巢雷。",
+            "cn": "风场雷。",
             "en": "Windstorm grenade!"
         },
         "translation": {
@@ -5684,7 +5718,7 @@
             "en": "Vox_Kanami_InGame_Tactical_Item_red01-0040-event.wav"
         },
         "transcription": {
-            "cn": "解锁雷。",
+            "cn": "减速雷。",
             "en": "Spawn grenade!"
         },
         "translation": {
@@ -5884,7 +5918,7 @@
             "en": "Vox_Kanami_InGame_Mark_red01-0039-event.wav"
         },
         "transcription": {
-            "cn": "進攻這裡。",
+            "cn": "进攻这里。",
             "en": "Attack this position."
         },
         "translation": {
@@ -6164,7 +6198,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "战斗开始啦。",
+            "ja": "戦闘開始。"
         },
         "translation": {
             "cn": {}
@@ -6180,7 +6215,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "距离战斗结束还剩40秒。",
+            "ja": "終了まで後40秒だよ。"
         },
         "translation": {
             "cn": {}
@@ -6196,7 +6232,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "只剩20秒了哦。",
+            "ja": "残り20秒。"
         },
         "translation": {
             "cn": {}
@@ -6212,7 +6249,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "啊——演出完美谢幕，大家辛苦了！",
+            "ja": "最後まで完璧だったね、みんなもお疲れ様！"
         },
         "translation": {
             "cn": {}
@@ -6228,7 +6266,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "聚光灯关上了，表演，也结束了。",
+            "ja": "スポットクーラーが消えて、ステージも終わちゃった。"
         },
         "translation": {
             "cn": {}
@@ -6244,7 +6283,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "这就是最后的希望了。",
+            "ja": "これが、最後の希望だよ。"
         },
         "translation": {
             "cn": {}
@@ -6260,7 +6300,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "对面的舞台上，只剩下独唱了呢。",
+            "ja": "向こうはソロステージなちゃったね。"
         },
         "translation": {
             "cn": {}
@@ -6276,7 +6317,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "炸弹携带者被击倒了。",
+            "ja": "爆弾キャリアが倒されたよ。"
         },
         "translation": {
             "cn": {}
@@ -6292,7 +6334,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "炸弹掉落在了A区。",
+            "ja": "爆弾がAサイトに落ちたよ。"
         },
         "translation": {
             "cn": {}
@@ -6308,7 +6351,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "炸弹掉落在了B区。",
+            "ja": "爆弾がBサイトに落ちたよ。"
         },
         "translation": {
             "cn": {}
@@ -6324,7 +6368,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "炸弹安装完毕，即将为公演增添最璀璨的色彩。",
+            "ja": "爆弾セット完了、最高の花を咲かせるよ。"
         },
         "translation": {
             "cn": {}
@@ -6340,7 +6385,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "上半场最后的表演了，稍微调整状态，继续前进吧。",
+            "ja": "前半最後のパフォーマンスだよ、調子を整いて、このまま行こう。"
         },
         "translation": {
             "cn": {}
@@ -6356,7 +6402,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "现在是关键时刻哦。",
+            "ja": "今が正念場だよ。"
         },
         "translation": {
             "cn": {}
@@ -6372,7 +6419,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "攻守互换。",
+            "ja": "攻守交代。"
         },
         "translation": {
             "cn": {}
@@ -6388,7 +6436,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "公演加时了，香奈美会陪你战到最后的。",
+            "ja": "ステージが延長になったね、香奈美は最後まで隣にいるよ"
         },
         "translation": {
             "cn": {}
@@ -6404,7 +6453,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "只要战胜最后十个对手，公演就圆满落幕了。",
+            "ja": "後10人倒せば、今回の公演は無事終了だよ。"
         },
         "translation": {
             "cn": {}
@@ -6420,7 +6470,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "只差战胜最后五个对手了，加油。",
+            "ja": "残り5人、頑張って。"
         },
         "translation": {
             "cn": {}
@@ -6462,7 +6513,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "敌方再战胜十个人，演出就终止了。",
+            "ja": "敵が後10人倒したら、公演中止になっちゃうよ。"
         },
         "translation": {
             "cn": {}
@@ -6480,7 +6532,7 @@
         "transcription": {
             "cn": "大危机！离敌方胜出只差击败五个人了。",
             "en": "Alert! Just five more kills until the opponent wins.",
-            "ja": "大ピンチ！敵が後5人撃破で勝利になります。"
+            "ja": "大ピンチだよ！敵の勝利まで、後5人。"
         },
         "translation": {
             "cn": {
@@ -6504,7 +6556,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "距离敌方胜出，只差击败最后一个人了。",
+            "ja": "敵の勝利まで、後一人。"
         },
         "translation": {
             "cn": {}
@@ -6546,7 +6599,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "真是势均力敌的对局，就连香奈美，也开始心潮澎湃了。",
+            "ja": "本当に互角の勝負だね、胸が高鳴ちゃった。"
         },
         "translation": {
             "cn": {}
@@ -6562,7 +6616,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "哇，真是梦寐以求的完美表演哪。",
+            "ja": "夢のような完璧のパフォーマンスだね。"
         },
         "translation": {
             "cn": {}
@@ -6578,7 +6633,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "各位成功地守护了很多东西呢。",
+            "ja": "みんな、無事に守れたね。"
         },
         "translation": {
             "cn": {}
@@ -6594,7 +6650,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "只要聚集起大家的力量，就一定能改变很多事情。"
         },
         "translation": {
             "cn": {}
@@ -6610,7 +6666,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "全员留在舞台上的身姿，是不是比任何时候都更加耀眼呢。"
         },
         "translation": {
             "cn": {}
@@ -6626,7 +6682,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "啊，好险啊，香奈美可一直在为你提心吊胆呢。",
+            "ja": "あっ、危なかった、香奈美、ずっと心配だったんだ"
         },
         "translation": {
             "cn": {}
@@ -6642,7 +6699,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "即使面对这样的局面，也战到了最后。",
+            "ja": "こんな状況でも、最後まで立ち続けたね。"
         },
         "translation": {
             "cn": {}
@@ -6650,7 +6708,9 @@
     },
     "22998030": {
         "id": 22998030,
-        "title": {},
+        "title": {
+            "en": "Attackers select character"
+        },
         "path": "Vox_Communicate_Kanami_030",
         "file": {
             "cn": "Vox_Communicate_Kanami_Common-0133-event.wav",
@@ -6658,7 +6718,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "选择角色，朝向舞台的最高峰发起进攻吧。",
+            "ja": "仲間を選んで、ステージの頂きに向かって進もう。"
         },
         "translation": {
             "cn": {}
@@ -6666,7 +6727,9 @@
     },
     "22998031": {
         "id": 22998031,
-        "title": {},
+        "title": {
+            "en": "Defenders select character"
+        },
         "path": "Vox_Communicate_Kanami_031",
         "file": {
             "cn": "Vox_Communicate_Kanami_Common-0135-event.wav",
@@ -6674,7 +6737,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "选择角色，守护最珍贵的事物吧。",
+            "ja": "仲間を選んで、一番大事なものを守りどうぞ。"
         },
         "translation": {
             "cn": {}
@@ -6690,7 +6754,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "演出马上就要开始啦，各位，准备好了吗？",
+            "ja": "公演がそろそろ始まるよ、準備はできた。"
         },
         "translation": {
             "cn": {}
@@ -6706,7 +6771,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "五，四，三，二，一，go！",
+            "ja": "５、４、３、２、１、レッツゴー！"
         },
         "translation": {
             "cn": {}
@@ -6722,7 +6788,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "你是炸弹携带者，香奈美会祈祷你一切顺利的。",
+            "ja": "君が爆弾キャリアだね、全部うまく行くように、香奈美が祈ってあげる。"
         },
         "translation": {
             "cn": {}
@@ -6738,7 +6805,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "保护好炸弹携带者，登上未知的舞台吧。",
+            "ja": "爆弾キャリアを守って、未知のステージに登て行こう。"
         },
         "translation": {
             "cn": {}
@@ -6754,7 +6822,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "各位，要守护好阵地哦。",
+            "ja": "みんな、ちゃんと陣地を守るね。"
         },
         "translation": {
             "cn": {}
@@ -6770,7 +6839,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "在团体公演前热身一下，有助于保持节奏感。",
+            "ja": "すこしワームアップしよ、体にリズム感が立て来るよ。"
         },
         "translation": {
             "cn": {}
@@ -6786,7 +6856,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "热身快结束啦，各位，马上就要登台PK喽。"
         },
         "translation": {
             "cn": {}
@@ -6802,7 +6872,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "三，二，一，各位，让我们出发。",
+            "ja": "３、２、１、みんな、出発。"
         },
         "translation": {
             "cn": {}
@@ -6818,7 +6889,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "领先队伍已取得了20分。",
+            "ja": "一のチームが、20ポイント取ったよ。"
         },
         "translation": {
             "cn": {}
@@ -6834,7 +6906,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "领先队伍已取得了30分。",
+            "ja": "一のチームが、30ポイント取ったよ。"
         },
         "translation": {
             "cn": {}
@@ -6850,7 +6923,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "决赛阶段开始了哦，逆弦化风暴出现。",
+            "ja": "ファイナルステージ開始、逆弦化ストームだ。"
         },
         "translation": {
             "cn": {}
@@ -6866,7 +6940,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "决赛阶段开始了哦。",
+            "ja": "ファイナルステージが始まるよ。"
         },
         "translation": {
             "cn": {}
@@ -6882,7 +6957,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "逆弦化风暴出现。"
         },
         "translation": {
             "cn": {}
@@ -6898,7 +6973,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "团队超弦护甲已激活，一起奋勇向前吧。",
+            "ja": "チームの超弦アーマーが発動したよ。一緒に前に進もう。"
         },
         "translation": {
             "cn": {}
@@ -6914,7 +6990,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "团队重型护甲已激活，被保护的感觉真好呢。",
+            "ja": "チームのヘビアーマーが発動したよ。守られる感じが、すごく安心だね。"
         },
         "translation": {
             "cn": {}
@@ -6930,7 +7007,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "团队轻型护甲已激活，事情变得有趣了哦。",
+            "ja": "チームのライトアーマーが発動したよ。面白くなってきたね。"
         },
         "translation": {
             "cn": {}
@@ -6946,7 +7024,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "答应我，一定要护送目标，抵达终点哦。"
         },
         "translation": {
             "cn": {}
@@ -6962,7 +7040,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "出发啦，快去拦截敌方的运载目标吧。"
         },
         "translation": {
             "cn": {}
@@ -6978,7 +7056,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "运载目标顺利抵达当前检查点。"
         },
         "translation": {
             "cn": {}
@@ -6994,7 +7072,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "运载目标快接近终点了。"
         },
         "translation": {
             "cn": {}
@@ -7010,7 +7088,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "加时。",
+            "ja": "延長だよー。"
         },
         "translation": {
             "cn": {}
@@ -7026,7 +7105,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "上半场的演出结束了。"
         },
         "translation": {
             "cn": {}
@@ -7234,7 +7313,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "十，九，八，七，六，五，四，三，二，一。",
+            "ja": "10、9、8、7、6、5、4、3、2、1。"
         },
         "translation": {
             "cn": {}
@@ -7250,7 +7330,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "补给物资到啦。"
         },
         "translation": {
             "cn": {}
@@ -7266,7 +7346,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "注意，能量物质即将凝聚。"
         },
         "translation": {
             "cn": {}
@@ -7274,7 +7354,9 @@
     },
     "22998087": {
         "id": 22998087,
-        "title": {},
+        "title": {
+            "en": "(Outbreak) Superstrings final stand"
+        },
         "path": "Vox_Communicate_Kanami_119",
         "file": {
             "cn": "Vox_Communicate_Kanami_Biochemical-0021-event.wav",
@@ -7282,7 +7364,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "决战开始，强者来展示真正的实力吧。"
         },
         "translation": {
             "cn": {}
@@ -7290,7 +7372,9 @@
     },
     "22998088": {
         "id": 22998088,
-        "title": {},
+        "title": {
+            "en": "(Outbreak) Crystallines final stand"
+        },
         "path": "Vox_Communicate_Kanami_120",
         "file": {
             "cn": "Vox_Communicate_Kanami_Biochemical-0033-event.wav",
@@ -7298,7 +7382,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "决战开始，这必然是一场恶战。"
         },
         "translation": {
             "cn": {}
@@ -7314,7 +7398,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "入侵成功。"
         },
         "translation": {
             "cn": {}
@@ -7330,7 +7414,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "存活下来就是一种胜利。"
         },
         "translation": {
             "cn": {}
@@ -7346,7 +7430,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "对战结束。"
         },
         "translation": {
             "cn": {}
@@ -7362,7 +7446,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "强化物资终于到啦。"
         },
         "translation": {
             "cn": {}
@@ -7378,7 +7462,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": ""
+            "cn": "只要信念不倒，一切就还有希望。"
         },
         "translation": {
             "cn": {}
@@ -7402,7 +7486,7 @@
         "transcription": {
             "cn": "卡拉彼丘！",
             "en": "Strinova.",
-            "ja": "カラビヤウ。"
+            "ja": "ストリノバ。"
         },
         "translation": {
             "cn": {

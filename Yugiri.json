@@ -139,7 +139,7 @@
             "en": "Vox_Yugiri_InGame_Skill_original-0033-event.wav"
         },
         "transcription": {
-            "cn": "窝窝已经休息好了。",
+            "cn": "蜗蜗已经休息好了。",
             "en": "My snail is rested and ready."
         },
         "translation": {
@@ -689,7 +689,7 @@
             "en": "Vox_Yugiri_InGame_Rescue_original-0029-event [427219945=136945955].wav"
         },
         "transcription": {
-            "cn": "啊……射手了……",
+            "cn": "啊……失手了……",
             "en": "Oops."
         },
         "translation": {
@@ -706,7 +706,7 @@
             "en": "Vox_Yugiri_InGame_Kill_original-0092-event.wav"
         },
         "transcription": {
-            "cn": "這次……沒有逃開……",
+            "cn": "这次……没有逃开……",
             "en": "Couldn't get away in time."
         },
         "translation": {
@@ -723,7 +723,7 @@
             "en": "Vox_Yugiri_InGame_Kill_original-0094-event.wav"
         },
         "transcription": {
-            "cn": "可惡，竟然輸了……",
+            "cn": "可恶，竟然输了……",
             "en": "Damn it... I lost..."
         },
         "translation": {
@@ -945,7 +945,7 @@
             "en": "Vox_Yugiri_InGame_Result_original-0026-event.wav"
         },
         "transcription": {
-            "cn": "輸了……我……我果然還是不行……",
+            "cn": "输了……我……我果然还是不行……",
             "en": "I've lost? I knew I wasn't cut out for it."
         },
         "translation": {
@@ -1125,7 +1125,7 @@
             "en": "Vox_Yugiri_InGame_Easter_egg_original-0018-event.wav"
         },
         "transcription": {
-            "cn": "我，我还没准备喝。",
+            "cn": "我，我还没准备好。",
             "en": "I'm... not... ready..."
         },
         "translation": {
@@ -1210,7 +1210,7 @@
             "en": "Vox_Yugiri_InGame_Barrier_free_original-0070-event.wav"
         },
         "transcription": {
-            "cn": "远处有狄青。",
+            "cn": "远处有敌情。",
             "en": "Enemy in the distance."
         },
         "translation": {
@@ -1227,7 +1227,7 @@
             "en": "Vox_Yugiri_InGame_Barrier_free_original-0064-event.wav"
         },
         "transcription": {
-            "cn": "近出有敵人。",
+            "cn": "近处有敌人。",
             "en": "Enemy close by."
         },
         "translation": {
@@ -1278,7 +1278,7 @@
             "en": "Vox_Yugiri_InGame_Barrier_free_original-0062-event.wav"
         },
         "transcription": {
-            "cn": "群弟来袭，戒备。",
+            "cn": "群敌来袭，戒备。",
             "en": "Incoming hostiles. Get ready."
         },
         "translation": {
@@ -1346,7 +1346,7 @@
             "en": "Vox_Yugiri_InGame_Barrier_free_original-0084-event.wav"
         },
         "transcription": {
-            "cn": "敵人重創！，乘勝追擊！",
+            "cn": "敌人重创，乘胜追击！",
             "en": "Enemy critically wounded. Don't let them escape!"
         },
         "translation": {
@@ -1414,7 +1414,7 @@
             "en": "Vox_Yugiri_InGame_Barrier_free_original-0092-event.wav"
         },
         "transcription": {
-            "cn": "敵方正在壓制。",
+            "cn": "敌方正在压制。",
             "en": "Enemy suppressive fire!"
         },
         "translation": {
@@ -1852,7 +1852,7 @@
             "en": "Vox_Yugiri_InGame_Tactical_Item_original-0042-event.wav"
         },
         "transcription": {
-            "cn": "封城雷，把他们吹走！",
+            "cn": "风场雷，把他们吹走！",
             "en": "Windstorm grenade, out with you!"
         },
         "translation": {
@@ -2039,7 +2039,7 @@
             "en": "Vox_Yugiri_InGame_Mark_original-0041-event.wav"
         },
         "transcription": {
-            "cn": "这里有护驾。",
+            "cn": "这里有护甲。",
             "en": "Armor here."
         },
         "translation": {
@@ -2099,7 +2099,7 @@
             "en": "Vox_Yugiri_OutGame_Equipment_original-0020-event.wav"
         },
         "transcription": {
-            "cn": "我叫幽霧，是实验室的逃离者。让我去战斗吧，我很强，也会好好听话的。",
+            "cn": "我叫幽雾，是实验室的逃离者。让我去战斗吧，我很强，也会好好听话的。",
             "en": "My name is Yugiri. I escaped from the lab. Let me fight for you. I am capable and loyal."
         },
         "translation": {
@@ -2159,7 +2159,7 @@
             "en": "Vox_Yugiri_OutGame_Equipment_original-0016-event.wav"
         },
         "transcription": {
-            "cn": "我來游泳看。",
+            "cn": "我来用用看。",
             "en": "Let me try it."
         },
         "translation": {
