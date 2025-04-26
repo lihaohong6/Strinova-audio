@@ -479,7 +479,7 @@
         },
         "transcription": {
             "cn": "哼。",
-            "ja": "",
+            "ja": "くっ",
             "en": "..."
         },
         "translation": {
@@ -1509,7 +1509,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Don't panic, Michelle. As your captain, I will protect you."
+            "en": "Don't panic, Michelle. As your captain, I will protect you.",
+            "ja": "怖がるなミシェル。僕が君の隊長だ。僕が君を守る"
         },
         "translation": {
             "cn": {}
@@ -2039,7 +2040,7 @@
         "transcription": {
             "cn": "全员，进攻！",
             "en": "All units, attack!",
-            "ja": ""
+            "ja": "全員、進め!"
         },
         "translation": {
             "cn": {
@@ -2073,7 +2074,7 @@
         "transcription": {
             "cn": "等等！",
             "en": "Wait!",
-            "ja": ""
+            "ja": "待て!"
         },
         "translation": {
             "cn": {
@@ -2107,7 +2108,7 @@
         "transcription": {
             "cn": "全员，撤退！",
             "en": "All units, retreat!",
-            "ja": ""
+            "ja": "全員、撤退!"
         },
         "translation": {
             "cn": {
@@ -2141,7 +2142,7 @@
         "transcription": {
             "cn": "谢谢。",
             "en": "Thanks.",
-            "ja": ""
+            "ja": "ありがとう"
         },
         "translation": {
             "cn": {
@@ -2175,7 +2176,7 @@
         "transcription": {
             "cn": "还不错。",
             "en": "Not bad.",
-            "ja": ""
+            "ja": "悪くない"
         },
         "translation": {
             "cn": {
@@ -2209,7 +2210,7 @@
         "transcription": {
             "cn": "是。",
             "en": "Yes.",
-            "ja": ""
+            "ja": "はい。"
         },
         "translation": {
             "cn": {
@@ -2243,7 +2244,7 @@
         "transcription": {
             "cn": "不。",
             "en": "No.",
-            "ja": ""
+            "ja": "いいえ。"
         },
         "translation": {
             "cn": {
@@ -2277,7 +2278,7 @@
         "transcription": {
             "cn": "抱歉。",
             "en": "Sorry.",
-            "ja": ""
+            "ja": "すまない。"
         },
         "translation": {
             "cn": {
@@ -2311,7 +2312,7 @@
         "transcription": {
             "cn": "嗯，你好。",
             "en": "Hello.",
-            "ja": ""
+            "ja": "あぁ、こんにちは"
         },
         "translation": {
             "cn": {

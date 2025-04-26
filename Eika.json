@@ -2858,7 +2858,7 @@
         "transcription": {
             "cn": "那就这样吧。",
             "en": "So be it.",
-            "ja": ""
+            "ja": "いいよ"
         },
         "translation": {
             "cn": {
@@ -2892,7 +2892,7 @@
         "transcription": {
             "cn": "这样可不行。",
             "en": "That won't cut it.",
-            "ja": ""
+            "ja": "だめだって"
         },
         "translation": {
             "cn": {
@@ -2926,7 +2926,7 @@
         "transcription": {
             "cn": "抱、抱歉……",
             "en": "S-Sorry...",
-            "ja": ""
+            "ja": "ごめんなさい"
         },
         "translation": {
             "cn": {
@@ -2960,7 +2960,7 @@
         "transcription": {
             "cn": "啊，你好。",
             "en": "Oh, hello.",
-            "ja": ""
+            "ja": "こんにちわ"
         },
         "translation": {
             "cn": {
@@ -2990,7 +2990,7 @@
         },
         "transcription": {
             "cn": "天干物燥，小心手雷！",
-            "ja": "",
+            "ja": "グレネードよお人、クッキーがかんそしてるからね。えい",
             "en": "Ha ha ha!"
         },
         "translation": {
@@ -3036,7 +3036,7 @@
         },
         "transcription": {
             "cn": "烟雾弹，可不是我点着了什么东西啊。",
-            "ja": "",
+            "ja": "煙なるけど、あたしが燃やしたわけじゃないからね",
             "en": "Smoke grenade! Don't worry, I didn't set anything on fire."
         },
         "translation": {
@@ -3059,7 +3059,7 @@
         },
         "transcription": {
             "cn": "闪光弹，啊，啊，感觉用多了会影响视力。",
-            "ja": "",
+            "ja": "閃光弾！うー　ねが悪くなりそ",
             "en": "Flashbang! It's bad for your eyes!"
         },
         "translation": {
@@ -3128,7 +3128,7 @@
         },
         "transcription": {
             "cn": "减速雷！给我变得像操场的沙坑一样吧！",
-            "ja": "",
+            "ja": "減速ボム、整備してないグラウンドみたいにはしみにくくなれ",
             "en": "Slowing grenade! Hehe, it'll be like the sandbox on our playground!"
         },
         "translation": {
@@ -3174,7 +3174,7 @@
         },
         "transcription": {
             "cn": "有危险。",
-            "ja": "",
+            "ja": "危ない！",
             "en": "Danger!"
         },
         "translation": {

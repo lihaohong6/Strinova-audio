@@ -5965,7 +5965,7 @@
         },
         "transcription": {
             "cn": "别乱动，我不会弄疼你的。",
-            "ja": "",
+            "ja": "動かないでください。痛くはしませんので。",
             "en": "Don't move. I won't hurt you."
         },
         "translation": {
@@ -6843,7 +6843,7 @@
         "transcription": {
             "cn": "我觉得不行诶……",
             "en": "I don't think so...",
-            "ja": "そでわちょっと"
+            "ja": "それはちょっと"
         },
         "translation": {
             "cn": {
@@ -6957,7 +6957,7 @@
         "transcription": {
             "cn": "你好呀！",
             "en": "Hello!",
-            "ja": "こにちわ"
+            "ja": "こんにちは"
         },
         "translation": {
             "cn": {
@@ -6987,7 +6987,7 @@
         },
         "transcription": {
             "cn": "这里是猎虎，你的代号是什么？",
-            "ja": "こちわ、コードネームタイガー。あなたのコードネームは何でありますか？",
+            "ja": "こちら、コードネームタイガー。あなたのコードネームは何でありますか？",
             "en": "This is Tiger. What's your code name?"
         },
         "translation": {
