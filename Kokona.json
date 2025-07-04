@@ -4474,7 +4474,9 @@
     },
     "22124232": {
         "id": 22124232,
-        "title": {},
+        "title": {
+            "en": "Reviving an ally Celestia"
+        },
         "path": "Vox_Kokona_BPCHAT_143",
         "file": {
             "cn": "",
@@ -4608,7 +4610,7 @@
         "id": 22124144,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Revived successfully"
         },
         "path": "Vox_Kokona_BPCHAT_147_a",
         "file": {
@@ -4682,7 +4684,7 @@
         "transcription": {
             "cn": "啊，星绘……对不起，我们现在，是敌人……",
             "ja": "ああ、星里絵ちゃん……。 ごめんね、今は敵同士だから……。",
-            "en": "Get up, Michelle. Did you forget my training?"
+            "en": "Get up, Michele. Did you forget my training?"
         },
         "translation": {
             "cn": {

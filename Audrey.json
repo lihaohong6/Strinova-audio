@@ -2357,7 +2357,7 @@
         },
         "transcription": {
             "cn": "硝烟，猜疑，纷争。即使面对末日，我也会继续坚守重拾的荣光。",
-            "ja": ""
+            "ja": "スモーク、サスピション、コンフリクト。たとえ終末が訪れようと、取り戻した栄光は命にかけて守る。"
         },
         "translation": {
             "cn": {
@@ -2413,7 +2413,7 @@
         },
         "transcription": {
             "cn": "我将见证格罗夫的每一场战争。",
-            "ja": ""
+            "ja": "私はグローブ家のすべての戦いを見届ける。"
         },
         "translation": {
             "cn": {
@@ -2513,8 +2513,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "独角兽的铁蹄将粉碎一切弦阻。",
-            "ja": ""
+            "cn": "独角兽的铁蹄将粉碎一切险阻。",
+            "ja": "ユニコーンの蹄鉄はあらゆる困難を踏破する。"
         },
         "translation": {
             "cn": {
@@ -2570,7 +2570,7 @@
         },
         "transcription": {
             "cn": "奥黛丽·格洛夫，恭候多时了。",
-            "ja": ""
+            "ja": "オードリー・グローブ、ここに立つ。"
         },
         "translation": {
             "cn": {
@@ -2617,7 +2617,7 @@
             "en": "Vox_Audrey_InGame_Hall_original-0015-event.wav"
         },
         "transcription": {
-            "cn": "既然来了,那就取得荣耀吧！",
+            "cn": "既然来了，那就取得荣耀吧！",
             "en": "Since you're here, try to achieve glory!",
             "ja": "この私がいるんだから勝利を握って当然よ！"
         },
@@ -2648,8 +2648,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "长盛丽，慕容光。",
-            "ja": ""
+            "cn": "常胜利，沐容光。",
+            "ja": "勝利、そして栄光を。"
         },
         "translation": {
             "cn": {
@@ -2717,7 +2717,7 @@
         },
         "transcription": {
             "cn": "让敌人在枪与盾的堡垒前叹息吧。",
-            "ja": ""
+            "ja": "銃と盾の要塞を前に落胆するが良い。"
         },
         "translation": {
             "cn": {
@@ -2772,8 +2772,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "就让你们见识一下格罗夫家族的决议。",
-            "ja": ""
+            "cn": "就让你们见识一下格罗夫家族的决意。",
+            "ja": "グローブ家の決意を存分に見せつけるわ！"
         },
         "translation": {
             "cn": {
@@ -2829,7 +2829,7 @@
         },
         "transcription": {
             "cn": "试试打破这面盾牌吧，你们会后悔的。",
-            "ja": ""
+            "ja": "この盾を越えようとすれば、後悔するだけよ！"
         },
         "translation": {
             "cn": {
@@ -2885,7 +2885,7 @@
         },
         "transcription": {
             "cn": "从现在开始，这里是格罗夫家族的地盘了。",
-            "ja": ""
+            "ja": "これよりここをグローブの領地とする。"
         },
         "translation": {
             "cn": {
@@ -2930,7 +2930,7 @@
         },
         "transcription": {
             "cn": "格洛夫的堡垒，千不可摧。",
-            "ja": ""
+            "ja": "グローブ家の砦は、決して崩れない！"
         },
         "translation": {
             "cn": {
@@ -2975,7 +2975,7 @@
         },
         "transcription": {
             "cn": "毁灭的炮声即将奏响。",
-            "ja": ""
+            "ja": "破壊の砲声が響き渡る時が来た。"
         },
         "translation": {
             "cn": {
@@ -3031,7 +3031,7 @@
         },
         "transcription": {
             "cn": "焚尽一切，寸草不生！",
-            "ja": ""
+            "ja": "バーン・イット・オール・トゥ・アッシズ！"
         },
         "translation": {
             "cn": {
@@ -3086,8 +3086,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "一耳挥尽祝融光。",
-            "ja": ""
+            "cn": "以尔灰烬铸荣光。",
+            "ja": "その灰で栄光を築く！"
         },
         "translation": {
             "cn": {
@@ -3113,7 +3113,7 @@
         "transcription": {
             "cn": "别想逃出这片火海！",
             "en": "You will not escape the flames!",
-            "ja": "火力最大!焼き尽くしてあげる!"
+            "ja": "火力最大！焼き尽くしてあげる！"
         },
         "translation": {
             "cn": {
@@ -3143,7 +3143,7 @@
         },
         "transcription": {
             "cn": "你可听见独角兽的嘶鸣。",
-            "ja": ""
+            "ja": "ユニコーンの嘶きを聞け！"
         },
         "translation": {
             "cn": {
@@ -3188,7 +3188,7 @@
         },
         "transcription": {
             "cn": "此刻的停歇，是为了下一刻的爆发。",
-            "ja": ""
+            "ja": "今の静けさは次の爆発につながる。"
         },
         "translation": {
             "cn": {
@@ -3210,7 +3210,7 @@
         },
         "transcription": {
             "cn": "呃。",
-            "ja": "",
+            "ja": "うっ！",
             "en": "Ah!"
         },
         "translation": {
@@ -3289,7 +3289,7 @@
         },
         "transcription": {
             "cn": "以卵击石罢了，可悲。",
-            "ja": ""
+            "ja": "無謀ね、哀れだわ！"
         },
         "translation": {
             "cn": {
@@ -3345,7 +3345,7 @@
         },
         "transcription": {
             "cn": "你只是在浪费我的子弹。",
-            "ja": ""
+            "ja": "弾の無駄でしかない。"
         },
         "translation": {
             "cn": {
@@ -3401,7 +3401,7 @@
         },
         "transcription": {
             "cn": "你连灰尘都不会留下。",
-            "ja": ""
+            "ja": "灰すら残らないわ！"
         },
         "translation": {
             "cn": {
@@ -3457,7 +3457,7 @@
         },
         "transcription": {
             "cn": "你的价值只有这点而已吗？",
-            "ja": ""
+            "ja": "あんたの価値はそれだけかしら。"
         },
         "translation": {
             "cn": {
@@ -3513,7 +3513,7 @@
         },
         "transcription": {
             "cn": "倒在独角兽的铁蹄下，是对你的嘉奖。",
-            "ja": ""
+            "ja": "ユニコーンの蹄鉄に踏まれることを、光栄に思いなさい！"
         },
         "translation": {
             "cn": {
@@ -3568,8 +3568,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "你也只配给我注注信。",
-            "ja": ""
+            "cn": "你也只配给助助兴。",
+            "ja": "少しだけ楽しませてもらったわ。"
         },
         "translation": {
             "cn": {
@@ -3614,7 +3614,7 @@
         },
         "transcription": {
             "cn": "不过是胜了又胜。",
-            "ja": ""
+            "ja": "ただ勝ち続けるのみ。"
         },
         "translation": {
             "cn": {
@@ -3659,7 +3659,7 @@
         },
         "transcription": {
             "cn": "胜利的天平已然清晰。",
-            "ja": ""
+            "ja": "勝利の天秤はこちらに傾いた。"
         },
         "translation": {
             "cn": {
@@ -3704,7 +3704,7 @@
         },
         "transcription": {
             "cn": "一切尽在我的掌握。",
-            "ja": ""
+            "ja": "すべては私の手の内にある！"
         },
         "translation": {
             "cn": {
@@ -3748,8 +3748,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "荣耀的烈焰，敌荡四方。",
-            "ja": ""
+            "cn": "荣耀的烈焰，涤荡四方。",
+            "ja": "栄光の炎がこの地を清める！"
         },
         "translation": {
             "cn": {
@@ -3794,7 +3794,7 @@
         },
         "transcription": {
             "cn": "格洛夫的征途不会停止。",
-            "ja": ""
+            "ja": "グローブの戦いが止まることはない！"
         },
         "translation": {
             "cn": {
@@ -3838,8 +3838,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "一眼还眼。",
-            "ja": ""
+            "cn": "以眼还眼。",
+            "ja": "やられたらやり返すまで！"
         },
         "translation": {
             "cn": {
@@ -3884,7 +3884,7 @@
         },
         "transcription": {
             "cn": "管家，请帮我保管好日记。",
-            "ja": ""
+            "ja": "チーヤ、この日記を……しっかりと…守ってほしい……"
         },
         "translation": {
             "cn": {
@@ -3929,7 +3929,7 @@
         },
         "transcription": {
             "cn": "现在的我，还是成为不了奥黛丽吗？",
-            "ja": ""
+            "ja": "今の私では、やはり……オードリーに……なれないのか…"
         },
         "translation": {
             "cn": {
@@ -3973,8 +3973,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "格洛夫們，不要讓榮光熄滅。",
-            "ja": ""
+            "cn": "格洛夫们，不要让荣光熄灭。",
+            "ja": "グローブの者たちよ、栄光を絶やさないで！"
         },
         "translation": {
             "cn": {
@@ -4019,7 +4019,7 @@
         },
         "transcription": {
             "cn": "面对格罗夫家族，失败是必然的。",
-            "ja": ""
+            "ja": "グローブ家に立ち向かって、勝てるはずなどないわ！"
         },
         "translation": {
             "cn": {
@@ -4063,8 +4063,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "別暗算了。",
-            "ja": ""
+            "cn": "呃，被暗算了。",
+            "ja": "うっ、計られたか……"
         },
         "translation": {
             "cn": {
@@ -4109,7 +4109,7 @@
         },
         "transcription": {
             "cn": "好冷，我感受不到温度了。",
-            "ja": ""
+            "ja": "寒い……温度を感じない……"
         },
         "translation": {
             "cn": {
@@ -4154,7 +4154,7 @@
         },
         "transcription": {
             "cn": "荣耀的道路，我没守住吗？",
-            "ja": ""
+            "ja": "栄光の道が、守りきれなかった……"
         },
         "translation": {
             "cn": {
@@ -4199,7 +4199,7 @@
         },
         "transcription": {
             "cn": "我…我需要帮助。",
-            "ja": ""
+            "ja": "助けを……お願い……"
         },
         "translation": {
             "cn": {
@@ -4255,7 +4255,7 @@
         },
         "transcription": {
             "cn": "不要屈服，继续保持战斗的意志。",
-            "ja": ""
+            "ja": "屈するな！戦う意思を保ち続けるのよ！"
         },
         "translation": {
             "cn": {
@@ -4300,7 +4300,7 @@
         },
         "transcription": {
             "cn": "多谢，让我与你并进而行吧。",
-            "ja": ""
+            "ja": "ありがとう、共に戦わせてほしい。"
         },
         "translation": {
             "cn": {
@@ -4345,7 +4345,7 @@
         },
         "transcription": {
             "cn": "准备安装炸弹。",
-            "ja": ""
+            "ja": "爆弾の設置を開始するわ。"
         },
         "translation": {
             "cn": {
@@ -4390,7 +4390,7 @@
         },
         "transcription": {
             "cn": "请把炸弹交给我吧。",
-            "ja": ""
+            "ja": "爆弾は私に任せて。"
         },
         "translation": {
             "cn": {
@@ -4435,7 +4435,7 @@
         },
         "transcription": {
             "cn": "正在拆除炸弹。",
-            "ja": ""
+            "ja": "今爆弾を解除している。"
         },
         "translation": {
             "cn": {
@@ -4480,7 +4480,7 @@
         },
         "transcription": {
             "cn": "炸弹就交给各位了。",
-            "ja": ""
+            "ja": "爆弾はみんなに託した。"
         },
         "translation": {
             "cn": {
@@ -4525,7 +4525,7 @@
         },
         "transcription": {
             "cn": "请当心，这里有炸弹。",
-            "ja": ""
+            "ja": "気をつけなさい。ここには爆弾がある。"
         },
         "translation": {
             "cn": {
@@ -4570,7 +4570,7 @@
         },
         "transcription": {
             "cn": "风，会指向胜利的方向。",
-            "ja": ""
+            "ja": "風が勝利に導いてくれる。"
         },
         "translation": {
             "cn": {
@@ -4626,7 +4626,7 @@
         },
         "transcription": {
             "cn": "格罗夫家族，可不会轻易放过你们的。",
-            "ja": "",
+            "ja": "覚悟しなさい！グローブ家がただで済ませると思わないで！",
             "en": "A Grove always pays her debts."
         },
         "translation": {
@@ -4649,7 +4649,7 @@
         },
         "transcription": {
             "cn": "哼，下次就没这么便宜的买卖了。",
-            "ja": "",
+            "ja": "次の取引は、高く付くわよ！",
             "en": "You won't get away next time."
         },
         "translation": {
@@ -4671,8 +4671,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "马失前提罢了，再战不迟。",
-            "ja": ""
+            "cn": "马失前蹄罢了，再战不迟。",
+            "ja": "不覚を取った……もう一戦だ！"
         },
         "translation": {
             "cn": {
@@ -4693,8 +4693,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "伤痛也是成就我们的一环不要气馁。",
-            "ja": ""
+            "cn": "伤痛，也是成就我们的一环。不要气馁。",
+            "ja": "痛みも私達の糧、気落ちする必要はない。"
         },
         "translation": {
             "cn": {
@@ -4715,8 +4715,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "熔光不会熄灭，独角兽将沐浴着战火重新归来。",
-            "ja": ""
+            "cn": "荣光不会熄灭，独角兽将沐浴着战火重新归来。",
+            "ja": "栄光は不滅！ユニコーンは戦火を浴びて帰ってくる。"
         },
         "translation": {
             "cn": {
@@ -4737,7 +4737,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "刚刚只是排练而已好戏还在后面呢。",
+            "cn": "刚刚只是排练而已，好戏还在后面呢。",
             "ja": "",
             "en": "Just you wait. I won't lose next time."
         },
@@ -4841,7 +4841,7 @@
         },
         "transcription": {
             "cn": "就这，我连汗都没流呢。",
-            "ja": "",
+            "ja": "これだけ？ウォーミングアップにもならないわ！",
             "en": "Is that it? I've barely sweated."
         },
         "translation": {
@@ -4864,7 +4864,7 @@
         },
         "transcription": {
             "cn": "哼，作为对手还算有点价值。",
-            "ja": "",
+            "ja": "ふん、練習相手ぐらいの価値はあるわね！",
             "en": "A worthy opponent."
         },
         "translation": {
@@ -4910,7 +4910,7 @@
         },
         "transcription": {
             "cn": "每一场胜利都是前往未来的基石。",
-            "ja": ""
+            "ja": "ひとつひとつの勝利は未来へ布石だ。"
         },
         "translation": {
             "cn": {
@@ -4932,7 +4932,7 @@
         },
         "transcription": {
             "cn": "这场胜利是献给格罗夫家族的所有人，非我一人独享。",
-            "ja": ""
+            "ja": "この勝利は、グローブ家のみんなに捧げる。"
         },
         "translation": {
             "cn": {
@@ -4954,7 +4954,7 @@
         },
         "transcription": {
             "cn": "愿格洛夫的明天充满辉煌与光荣。",
-            "ja": ""
+            "ja": "グローブの明日は、栄光と輝きに満ちている。"
         },
         "translation": {
             "cn": {
@@ -5056,7 +5056,7 @@
         },
         "transcription": {
             "cn": "逆流前行是一件很困难的事情，但这并不可怕，我们将依旧并肩而行。",
-            "ja": ""
+            "ja": "逆境に立ち向かうのは容易ではない。だが我々は決して怯まず、共に進む。"
         },
         "translation": {
             "cn": {
@@ -5077,7 +5077,7 @@
             "en": ""
         },
         "transcription": {
-            "cn": "只有毫里之差，舞台马上就要迎来高潮了。",
+            "cn": "只有毫厘之差，舞台马上就要迎来高潮了。",
             "ja": "",
             "en": "Hmm. Regrettable."
         },
@@ -5135,7 +5135,7 @@
         },
         "transcription": {
             "cn": "把我的英姿牢记在心吧。",
-            "ja": "",
+            "ja": "私の勇姿をしっかりと心に刻んでおきなさい！",
             "en": "You will remember me."
         },
         "translation": {
@@ -5181,7 +5181,7 @@
         },
         "transcription": {
             "cn": "胜利的冠冕当为勇敢者而留存。",
-            "ja": ""
+            "ja": "勇者の手にこそ、勝利の冠は輝く。"
         },
         "translation": {
             "cn": {
@@ -5203,7 +5203,7 @@
         },
         "transcription": {
             "cn": "唯有胜利与荣耀才能与我们相衬。",
-            "ja": ""
+            "ja": "私達には、勝利と栄光がふさわしい。"
         },
         "translation": {
             "cn": {
@@ -5271,7 +5271,7 @@
         },
         "transcription": {
             "cn": "这才是我的对手该有的风分。",
-            "ja": ""
+            "ja": "それでこそ私のライバルにふさわしい！"
         },
         "translation": {
             "cn": {
@@ -5316,7 +5316,7 @@
         },
         "transcription": {
             "cn": "第一把火，烧起来吧。",
-            "ja": ""
+            "ja": "始まりを告げる炎よ、燃え盛れ！"
         },
         "translation": {
             "cn": {
@@ -5360,8 +5360,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "你的光芒十分耀眼呢，星慧小姐。",
-            "ja": ""
+            "cn": "你的光芒十分耀眼呢，星绘小姐。",
+            "ja": "星理恵さん、その溢れる輝きは本当に眩しいわ！"
         },
         "translation": {
             "cn": {
@@ -5406,7 +5406,7 @@
         },
         "transcription": {
             "cn": "我的火焰，直到最后一刻都不会熄灭。",
-            "ja": ""
+            "ja": "私の炎は、最後まで消えることはない！"
         },
         "translation": {
             "cn": {
@@ -5451,7 +5451,7 @@
         },
         "transcription": {
             "cn": "不要灰心，越过这道阻碍，等待我们的只有胜利。",
-            "ja": ""
+            "ja": "諦めるな！この壁を乗り越えれば、勝利が待っている！"
         },
         "translation": {
             "cn": {
@@ -5496,7 +5496,7 @@
         },
         "transcription": {
             "cn": "蜗牛跑得还真慢呢。",
-            "ja": "",
+            "ja": "逃げ足が遅すぎよ、蝸牛ちゃん。",
             "en": "The snail sure is slow."
         },
         "translation": {
@@ -5519,7 +5519,7 @@
         },
         "transcription": {
             "cn": "我的觉悟在你之上。",
-            "ja": ""
+            "ja": "私の覚悟には到底及ばないな。"
         },
         "translation": {
             "cn": {
@@ -5541,7 +5541,7 @@
         },
         "transcription": {
             "cn": "哼，光辉之下，无所遁形。",
-            "ja": ""
+            "ja": "この光の中で、何を隠そうとも無駄だ。"
         },
         "translation": {
             "cn": {
@@ -5677,8 +5677,8 @@
             "en": "Vox_Audrey_InGame_Easter_egg_original-0046-event.wav"
         },
         "transcription": {
-            "cn": "这一次，你在为什么二战呢？",
-            "ja": "",
+            "cn": "这一次，你在为什么而战呢？",
+            "ja": "今回はなんのために戦っているの？",
             "en": "What do you fight for this time?"
         },
         "translation": {
@@ -5700,8 +5700,8 @@
             "en": "Vox_Audrey_InGame_Easter_egg_original-0042-event.wav"
         },
         "transcription": {
-            "cn": "星慧小姐，快回到安全的地方吧。",
-            "ja": "",
+            "cn": "星绘小姐，快回到安全的地方吧。",
+            "ja": "星理恵さん、安全なところに戻りましょう！",
             "en": "Please return to a safe location, Miss Astierred."
         },
         "translation": {
@@ -5724,7 +5724,7 @@
         },
         "transcription": {
             "cn": "我可不允许我的对手输给别人。",
-            "ja": "",
+            "ja": "立て！私以外の人に負けるなんて許さないわよ。",
             "en": "Only I may defeat my opponent."
         },
         "translation": {
@@ -5747,7 +5747,7 @@
         },
         "transcription": {
             "cn": "敵人已被擊倒。",
-            "ja": "",
+            "ja": "敵を倒したわ。",
             "en": "Enemy down."
         },
         "translation": {
@@ -5770,7 +5770,7 @@
         },
         "transcription": {
             "cn": "解决了。",
-            "ja": "",
+            "ja": "これで終わりよ。",
             "en": "Got it."
         },
         "translation": {
@@ -5793,7 +5793,7 @@
         },
         "transcription": {
             "cn": "远处有敌人。",
-            "ja": "",
+            "ja": "遠方に敵の気配が……",
             "en": "Enemy in the distance!"
         },
         "translation": {
@@ -5815,8 +5815,8 @@
             "en": "Vox_Audrey_InGame_Barrier_free_original-0096-event.wav"
         },
         "transcription": {
-            "cn": "敌人从远处发起了攻击当心。",
-            "ja": "",
+            "cn": "敌人从远处发起了攻击，当心。",
+            "ja": "これで終わりよ！",
             "en": "The enemy is attacking from afar. Watch out!"
         },
         "translation": {
@@ -5839,7 +5839,7 @@
         },
         "transcription": {
             "cn": "前方发现敌人。",
-            "ja": "",
+            "ja": "前に敵が現れたわ。",
             "en": "Enemy spotted up ahead."
         },
         "translation": {
@@ -5862,7 +5862,7 @@
         },
         "transcription": {
             "cn": "注意，敌人就在眼前！",
-            "ja": "",
+            "ja": "敵がひしめき合っているわ。",
             "en": "Watch out! Enemy ahead!"
         },
         "translation": {
@@ -5885,7 +5885,7 @@
         },
         "transcription": {
             "cn": "前方发现多名敌人。",
-            "ja": "",
+            "ja": "何人がこっちに近づいている。気を引き締めて！",
             "en": "Multiple enemies ahead!"
         },
         "translation": {
@@ -5931,7 +5931,7 @@
         },
         "transcription": {
             "cn": "击中目标了，小事一桩。",
-            "ja": "",
+            "ja": "目標にあたった！他愛もないわね！",
             "en": "Target hit. Piece of cake."
         },
         "translation": {
@@ -5953,8 +5953,8 @@
             "en": "Vox_Audrey_InGame_Barrier_free_original-0080-event.wav"
         },
         "transcription": {
-            "cn": "正在浇火。",
-            "ja": "",
+            "cn": "正在交火。",
+            "ja": "交戦中よ！",
             "en": "Shots fired."
         },
         "translation": {
@@ -5977,7 +5977,7 @@
         },
         "transcription": {
             "cn": "打中他们了。",
-            "ja": "",
+            "ja": "敵に命中させたわ！",
             "en": "Got them."
         },
         "translation": {
@@ -6000,7 +6000,7 @@
         },
         "transcription": {
             "cn": "哼，重创目标。",
-            "ja": "",
+            "ja": "ふん、目標はもう重傷だよ。",
             "en": "Target maimed."
         },
         "translation": {
@@ -6022,8 +6022,8 @@
             "en": "Vox_Audrey_InGame_Barrier_free_original-0064-event.wav"
         },
         "transcription": {
-            "cn": "敌人被中窗了。",
-            "ja": "",
+            "cn": "敌人被重创了。",
+            "ja": "敵はもう瀕死ね。",
             "en": "Enemy critically wounded."
         },
         "translation": {
@@ -6046,7 +6046,7 @@
         },
         "transcription": {
             "cn": "敵人沒有招架之力了。",
-            "ja": "",
+            "ja": "向こうはもう反撃する力もないわ。",
             "en": "Enemy about to go down."
         },
         "translation": {
@@ -6069,7 +6069,7 @@
         },
         "transcription": {
             "cn": "有敵情，就在我的正前方。",
-            "ja": "",
+            "ja": "敵は私の真正面よ！",
             "en": "Enemy ahead! Twelve o'clock!"
         },
         "translation": {
@@ -6092,7 +6092,7 @@
         },
         "transcription": {
             "cn": "敌人正在对我开火。",
-            "ja": "",
+            "ja": "私に狙いをつけている敵がいるわ。",
             "en": "I'm taking fire!"
         },
         "translation": {
@@ -6115,7 +6115,7 @@
         },
         "transcription": {
             "cn": "左侧有敌人开火。",
-            "ja": "",
+            "ja": "弾が左から飛んできてる。",
             "en": "Taking fire on the left."
         },
         "translation": {
@@ -6138,7 +6138,7 @@
         },
         "transcription": {
             "cn": "注意左侧的敌人。",
-            "ja": "",
+            "ja": "左側の敵に気をつけて！",
             "en": "Watch out! Enemy on the left!"
         },
         "translation": {
@@ -6161,7 +6161,7 @@
         },
         "transcription": {
             "cn": "看好右侧的敌人。",
-            "ja": "",
+            "ja": "右側の敵の動きにも目を配って！",
             "en": "Watch out! Enemy on the right!"
         },
         "translation": {
@@ -6183,8 +6183,8 @@
             "en": "Vox_Audrey_InGame_Barrier_free_original-0062-event.wav"
         },
         "transcription": {
-            "cn": "又曾有敌人压制。",
-            "ja": "",
+            "cn": "右侧有敌人压制。",
+            "ja": "敵が右側から攻めてきてるわ！",
             "en": "Enemy suppressive fire on the right."
         },
         "translation": {
@@ -6206,8 +6206,8 @@
             "en": "Vox_Audrey_InGame_Barrier_free_original-0058-event.wav"
         },
         "transcription": {
-            "cn": "小心胜后。",
-            "ja": "",
+            "cn": "小心身后！",
+            "ja": "背中は危ないわよ！",
             "en": "Behind you!"
         },
         "translation": {
@@ -6230,7 +6230,7 @@
         },
         "transcription": {
             "cn": "背后有敌袭。",
-            "ja": "",
+            "ja": "背後から敵襲よ。",
             "en": "Enemy at our rear!"
         },
         "translation": {
@@ -6257,7 +6257,7 @@
         "transcription": {
             "cn": "全速进攻！",
             "en": "Full attack!",
-            "ja": ""
+            "ja": "全速前進！"
         },
         "translation": {
             "cn": {
@@ -6287,7 +6287,7 @@
         },
         "transcription": {
             "cn": "進攻。",
-            "ja": ""
+            "ja": "一気に攻めるわ。"
         },
         "translation": {
             "cn": {
@@ -6313,7 +6313,7 @@
         "transcription": {
             "cn": "见机行事！",
             "en": "Act accordingly!",
-            "ja": ""
+            "ja": "臨機応変！"
         },
         "translation": {
             "cn": {
@@ -6343,7 +6343,7 @@
         },
         "transcription": {
             "cn": "少安毋躁。",
-            "ja": ""
+            "ja": "落ち着きなさい。"
         },
         "translation": {
             "cn": {
@@ -6369,7 +6369,7 @@
         "transcription": {
             "cn": "撤退。",
             "en": "Retreat.",
-            "ja": ""
+            "ja": "撤退よ！"
         },
         "translation": {
             "cn": {
@@ -6399,7 +6399,7 @@
         },
         "transcription": {
             "cn": "撤退。",
-            "ja": ""
+            "ja": "一旦引くわよ。"
         },
         "translation": {
             "cn": {
@@ -6425,7 +6425,7 @@
         "transcription": {
             "cn": "谢谢你！",
             "en": "Thank you!",
-            "ja": ""
+            "ja": "ありがとう！"
         },
         "translation": {
             "cn": {
@@ -6455,7 +6455,7 @@
         },
         "transcription": {
             "cn": "多谢。",
-            "ja": ""
+            "ja": "感謝いたします。"
         },
         "translation": {
             "cn": {
@@ -6481,7 +6481,7 @@
         "transcription": {
             "cn": "表现不错！",
             "en": "Well done!",
-            "ja": ""
+            "ja": "よくやったわね！"
         },
         "translation": {
             "cn": {
@@ -6511,7 +6511,7 @@
         },
         "transcription": {
             "cn": "嗯，还不错。",
-            "ja": ""
+            "ja": "ええ、いいと思う。"
         },
         "translation": {
             "cn": {
@@ -6537,7 +6537,7 @@
         "transcription": {
             "cn": "好的。",
             "en": "Okay.",
-            "ja": ""
+            "ja": "ええ。"
         },
         "translation": {
             "cn": {
@@ -6567,7 +6567,7 @@
         },
         "transcription": {
             "cn": "我知道了。",
-            "ja": ""
+            "ja": "承知したわ。"
         },
         "translation": {
             "cn": {
@@ -6593,7 +6593,7 @@
         "transcription": {
             "cn": "不可以。",
             "en": "No.",
-            "ja": ""
+            "ja": "だめよ！"
         },
         "translation": {
             "cn": {
@@ -6623,7 +6623,7 @@
         },
         "transcription": {
             "cn": "请容我拒绝。",
-            "ja": ""
+            "ja": "お断りします。"
         },
         "translation": {
             "cn": {
@@ -6649,7 +6649,7 @@
         "transcription": {
             "cn": "抱歉了。",
             "en": "Sorry.",
-            "ja": ""
+            "ja": "ごめんなさい！"
         },
         "translation": {
             "cn": {
@@ -6679,7 +6679,7 @@
         },
         "transcription": {
             "cn": "失礼了。",
-            "ja": ""
+            "ja": "失礼。"
         },
         "translation": {
             "cn": {
@@ -6705,7 +6705,7 @@
         "transcription": {
             "cn": "你好。",
             "en": "Hello.",
-            "ja": ""
+            "ja": "こんにちは。"
         },
         "translation": {
             "cn": {
@@ -6734,8 +6734,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "桂安。",
-            "ja": ""
+            "cn": "贵安。",
+            "ja": "ご機嫌よう。"
         },
         "translation": {
             "cn": {
@@ -6779,8 +6779,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "守雷。",
-            "ja": ""
+            "cn": "手雷。",
+            "ja": "行くわよ！"
         },
         "translation": {
             "cn": {
@@ -6825,7 +6825,7 @@
         },
         "transcription": {
             "cn": "启用拦截者。",
-            "ja": ""
+            "ja": "インターセプター、スタート！"
         },
         "translation": {
             "cn": {
@@ -6870,7 +6870,7 @@
         },
         "transcription": {
             "cn": "我来做掩护。",
-            "ja": ""
+            "ja": "私が援護する。"
         },
         "translation": {
             "cn": {
@@ -6914,8 +6914,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "上光弹。",
-            "ja": ""
+            "cn": "闪光弹。",
+            "ja": "これを受けよ！閃光弾！"
         },
         "translation": {
             "cn": {
@@ -6960,7 +6960,7 @@
         },
         "transcription": {
             "cn": "暂时停下脚步，休息片刻吧。",
-            "ja": ""
+            "ja": "足を止めて、一息入れましょう！"
         },
         "translation": {
             "cn": {
@@ -7004,8 +7004,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "封闯雷。",
-            "ja": ""
+            "cn": "风场雷。",
+            "ja": "風を起こせ！風雷ボム！"
         },
         "translation": {
             "cn": {
@@ -7050,7 +7050,7 @@
         },
         "transcription": {
             "cn": "别想从这里通过。",
-            "ja": ""
+            "ja": "ここを通れると思うな。"
         },
         "translation": {
             "cn": {
@@ -7094,8 +7094,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "不输警报器。",
-            "ja": ""
+            "cn": "部署警报器。",
+            "ja": "警報機をセットする。"
         },
         "translation": {
             "cn": {
@@ -7140,7 +7140,7 @@
         },
         "transcription": {
             "cn": "这里有危险的气息。",
-            "ja": ""
+            "ja": "不穏な気配を感じる。"
         },
         "translation": {
             "cn": {
@@ -7185,7 +7185,7 @@
         },
         "transcription": {
             "cn": "我来守住这里。",
-            "ja": ""
+            "ja": "この場所は私が守る。"
         },
         "translation": {
             "cn": {
@@ -7230,7 +7230,7 @@
         },
         "transcription": {
             "cn": "我需要支援。",
-            "ja": ""
+            "ja": "支援を要請する。"
         },
         "translation": {
             "cn": {
@@ -7275,7 +7275,7 @@
         },
         "transcription": {
             "cn": "向这里进攻。",
-            "ja": ""
+            "ja": "この地点に攻め入るわ。"
         },
         "translation": {
             "cn": {
@@ -7320,7 +7320,7 @@
         },
         "transcription": {
             "cn": "请注意此处。",
-            "ja": ""
+            "ja": "ここに気をつけて！"
         },
         "translation": {
             "cn": {
@@ -7364,8 +7364,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "这里是河岸中炸弹。",
-            "ja": ""
+            "cn": "这里适合安装炸弹。",
+            "ja": "ここに爆弾をセットするといい。"
         },
         "translation": {
             "cn": {
@@ -7410,7 +7410,7 @@
         },
         "transcription": {
             "cn": "这里有炸弹。",
-            "ja": ""
+            "ja": "爆弾を見つけた。"
         },
         "translation": {
             "cn": {
@@ -7455,7 +7455,7 @@
         },
         "transcription": {
             "cn": "发现子弹补给。",
-            "ja": ""
+            "ja": "弾の補給を見つけた。"
         },
         "translation": {
             "cn": {
@@ -7499,8 +7499,8 @@
             "en": ""
         },
         "transcription": {
-            "cn": "这里有护甲部级。",
-            "ja": ""
+            "cn": "这里有护甲补给。",
+            "ja": "防具がここにあるわよ。"
         },
         "translation": {
             "cn": {
@@ -7545,7 +7545,7 @@
         },
         "transcription": {
             "cn": "发现战术道具。",
-            "ja": ""
+            "ja": "戦術アイテムを発見したわ。"
         },
         "translation": {
             "cn": {
@@ -7571,7 +7571,7 @@
         "transcription": {
             "cn": "卡拉彼丘。",
             "en": "Strinova.",
-            "ja": ""
+            "ja": "ストリノヴァ。"
         },
         "translation": {
             "cn": {

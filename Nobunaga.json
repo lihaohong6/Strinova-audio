@@ -1381,7 +1381,9 @@
     },
     "22108143": {
         "id": 22108143,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy Meredith"
+        },
         "path": "Vox_Nobunaga_BPCHAT_143",
         "file": {
             "cn": "",
@@ -1432,7 +1434,9 @@
     },
     "22108146": {
         "id": 22108146,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy Bai Mo"
+        },
         "path": "Vox_Nobunaga_BPCHAT_146",
         "file": {
             "cn": "",
@@ -1466,7 +1470,9 @@
     },
     "22108148": {
         "id": 22108148,
-        "title": {},
+        "title": {
+            "en": "Ally Michele downs an enemy"
+        },
         "path": "Vox_Nobunaga_BPCHAT_148",
         "file": {
             "cn": "",
@@ -1475,7 +1481,7 @@
         },
         "transcription": {
             "cn": "",
-            "en": "You've done well, Michelle."
+            "en": "You've done well, Michele."
         },
         "translation": {
             "cn": {}
@@ -1500,7 +1506,9 @@
     },
     "22108150": {
         "id": 22108150,
-        "title": {},
+        "title": {
+            "en": "Reviving an ally Michele"
+        },
         "path": "Vox_Nobunaga_BPCHAT_150",
         "file": {
             "cn": "",
@@ -1509,7 +1517,7 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Don't panic, Michelle. As your captain, I will protect you.",
+            "en": "Don't panic, Michele. As your captain, I will protect you.",
             "ja": "怖がるなミシェル。僕が君の隊長だ。僕が君を守る"
         },
         "translation": {

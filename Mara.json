@@ -1185,7 +1185,9 @@
     },
     "22122147": {
         "id": 22122147,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy Galatea"
+        },
         "path": "Vox_Mara_BPCHAT_143",
         "file": {
             "cn": "Vox_Mara_InGame_Easter_egg_original-0034-event.wav",

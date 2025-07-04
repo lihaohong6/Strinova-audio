@@ -1397,7 +1397,9 @@
     },
     "22109144": {
         "id": 22109144,
-        "title": {},
+        "title": {
+            "en": "Reviving Meredith"
+        },
         "path": "Vox_Reiichi_BPCHAT_144",
         "file": {
             "cn": "",
@@ -1759,7 +1761,7 @@
         "transcription": {
             "cn": "敌人复生了。",
             "ja": "",
-            "en": "The enemies tripled."
+            "en": "The enemies crippled."
         },
         "translation": {
             "cn": {
