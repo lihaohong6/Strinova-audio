@@ -2653,7 +2653,7 @@
         "id": 22132321,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "First Kill in the round"
         },
         "path": "Vox_Ming_BPCHAT_141_red01_a",
         "file": {
@@ -2683,7 +2683,7 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Come here, Louine. I've got you covered."
+            "en": "Come here, Lawine. I've got you covered."
         },
         "translation": {
             "cn": {}
@@ -2693,7 +2693,7 @@
         "id": 22132322,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Last Ally Survivor"
         },
         "path": "Vox_Ming_BPCHAT_142_red01_a",
         "file": {
@@ -2716,7 +2716,7 @@
         "id": 22132143,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Fuchsia kills an enemy"
         },
         "path": "Vox_Ming_BPCHAT_143",
         "file": {
@@ -2739,7 +2739,7 @@
         "id": 22132323,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "The Scissors are behind in score"
         },
         "path": "Vox_Ming_BPCHAT_143_red01_a",
         "file": {
@@ -2762,7 +2762,7 @@
         "id": 22132144,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Fuchsia plants the bomb"
         },
         "path": "Vox_Ming_BPCHAT_144",
         "file": {
@@ -2785,7 +2785,7 @@
         "id": 22132324,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Enemy Audrey is killed"
         },
         "path": "Vox_Ming_BPCHAT_144_red01_a",
         "file": {
@@ -2808,7 +2808,7 @@
         "id": 22132145,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "The Scissors are behind in score"
         },
         "path": "Vox_Ming_BPCHAT_145",
         "file": {
@@ -2831,7 +2831,7 @@
         "id": 22132326,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Kanami kills an enemy"
         },
         "path": "Vox_Ming_BPCHAT_145_red01_a",
         "file": {
@@ -2842,7 +2842,7 @@
         "transcription": {
             "cn": "这一枪真是稳健可靠啊香奈美。",
             "ja": "",
-            "en": "Nice and steady, Konami."
+            "en": "Nice and steady, Kanami."
         },
         "translation": {
             "cn": {
@@ -2854,7 +2854,7 @@
         "id": 22132327,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reiichi kills an enemy"
         },
         "path": "Vox_Ming_BPCHAT_145_red01_b",
         "file": {
@@ -2865,7 +2865,7 @@
         "transcription": {
             "cn": "不错啊，令，你的手工发明派上用场了。",
             "ja": "",
-            "en": "Not bad, Raichi. Your inventions have proven useful."
+            "en": "Not bad, Reiichi. Your inventions have proven useful."
         },
         "translation": {
             "cn": {
@@ -2877,7 +2877,7 @@
         "id": 22132146,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Michele is killed"
         },
         "path": "Vox_Ming_BPCHAT_146",
         "file": {
@@ -2900,7 +2900,7 @@
         "id": 22132328,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reviving Meredith"
         },
         "path": "Vox_Ming_BPCHAT_146_red01_a",
         "file": {
@@ -2923,7 +2923,7 @@
         "id": 22132147,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Revenge on Michele"
         },
         "path": "Vox_Ming_BPCHAT_147",
         "file": {
@@ -2946,7 +2946,7 @@
         "id": 22132329,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Eika kills an enemy"
         },
         "path": "Vox_Ming_BPCHAT_147_red01_a",
         "file": {
@@ -2957,7 +2957,7 @@
         "transcription": {
             "cn": "好枪法呀，艾卡。回去以后，咱们再单独切磋一下。",
             "ja": "",
-            "en": "Way to go, Aika! Let's have a spar soon!"
+            "en": "Way to go, Eika! Let's have a spar soon!"
         },
         "translation": {
             "cn": {
@@ -2969,7 +2969,7 @@
         "id": 22132148,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Killed by Michele"
         },
         "path": "Vox_Ming_BPCHAT_148",
         "file": {
@@ -2992,7 +2992,7 @@
         "id": 22132149,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Fuchsia is killed"
         },
         "path": "Vox_Ming_BPCHAT_149",
         "file": {
@@ -4990,7 +4990,7 @@
         "id": 22132150,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reviving Fuchsia"
         },
         "path": "Vox_Ming_BPCHAT_150",
         "file": {
