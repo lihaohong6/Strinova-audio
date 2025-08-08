@@ -349,6 +349,22 @@
             "cn": {}
         }
     },
+    "22125108": {
+        "id": 22125108,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_108",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_108.wav",
+            "ja": "Vox_Chiyo_BPCHAT_108.wav",
+            "en": "Vox_Chiyo_BPCHAT_108.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125109": {
         "id": 22125109,
         "title": {},
@@ -1795,6 +1811,22 @@
                 "pt-br": "Saudações.",
                 "zh-hans": "您好"
             }
+        }
+    },
+    "22125090": {
+        "id": 22125090,
+        "title": {},
+        "path": "Vox_Chiyo_COM_090",
+        "file": {
+            "cn": "Vox_Chiyo_COM_090.wav",
+            "ja": "Vox_Chiyo_COM_090.wav",
+            "en": "Vox_Chiyo_COM_090.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125091": {

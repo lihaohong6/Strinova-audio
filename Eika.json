@@ -1,4 +1,38 @@
 {
+    "22119066": {
+        "id": 22119066,
+        "title": {
+            "cn": "",
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": ""
+        },
+        "path": "Vox_Aika_BPCHAR_066",
+        "file": {
+            "cn": "Vox_Aika_BPCHAR_066.wav",
+            "ja": "Vox_Aika_BPCHAR_066.wav",
+            "en": "Vox_Aika_BPCHAR_066.wav"
+        },
+        "transcription": {
+            "cn": "我就是照亮普雷顿之心的火焰。",
+            "en": "I am the flame that lights up the heart of Preton.",
+            "ja": "プレイトンの心を照らす炎！アイカとはアタシのことだ！ってね！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "전 프레톤의 심장을 밝히는 불꽃이에요.",
+                "es": "Soy la llama que ilumina el corazón de Preton.",
+                "fr": "Je suis la flamme qui illumine le cœur de Preton.",
+                "de": "Ich bin die Flamme, die das Herz von Preton erhellt.",
+                "ru": "Я пламя, что горит в сердце Претона.",
+                "pt-br": "Sou a chama que ilumina o coração de Preton.",
+                "zh-hans": "我就是照亮普雷顿之心的火焰。",
+                "zh-Hans": "我就是照亮普雷顿之心的火焰。",
+                "en": "I am the flame that lights up the heart of Preton."
+            }
+        }
+    },
     "22119067": {
         "id": 22119067,
         "title": {
@@ -657,6 +691,45 @@
             "cn": "Vox_Aika_BPCHAT_080_red01_a.wav",
             "ja": "Vox_Aika_BPCHAT_080_red01_a.wav",
             "en": "Vox_Aika_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22119108": {
+        "id": 22119108,
+        "title": {
+            "cn": "",
+            "en": ""
+        },
+        "path": "Vox_Aika_BPCHAT_108",
+        "file": {
+            "cn": "Vox_Aika_BPCHAT_108.wav",
+            "ja": "Vox_Aika_BPCHAT_108.wav",
+            "en": "Vox_Aika_BPCHAT_108.wav"
+        },
+        "transcription": {
+            "cn": "疼！疼！疼！疼！",
+            "ja": "くっそぉ！",
+            "en": "Ah!"
+        },
+        "translation": {
+            "cn": {
+                "en": ""
+            }
+        }
+    },
+    "22119294": {
+        "id": 22119294,
+        "title": {},
+        "path": "Vox_Aika_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "",
+            "ja": "Vox_Aika_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Aika_BPCHAT_108_red01_a.wav"
         },
         "transcription": {
             "cn": ""
@@ -1837,7 +1910,7 @@
         "file": {
             "cn": "Vox_Aika_BPCHAT_136_red01_a.wav",
             "ja": "Vox_Aika_BPCHAT_136_red01_a.wav",
-            "en": ""
+            "en": "Vox_Aika_BPCHAT_136_red01_a.wav"
         },
         "transcription": {
             "cn": ""
@@ -1929,21 +2002,18 @@
     "22119244": {
         "id": 22119244,
         "title": {},
-        "path": "Vox_Aika_BPCHAR_066_red01_a",
+        "path": "Vox_Aika_BPCHAT_137_red01_a",
         "file": {
-            "cn": "Vox_SelectCharacter-0287-event.wav",
-            "ja": "Vox_SelectCharacter-0287-event.wav",
-            "en": "Vox_SelectCharacter-0287-event.wav"
+            "cn": "Vox_Aika_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Aika_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Aika_BPCHAT_137_red01_a.wav"
         },
         "transcription": {
-            "cn": "",
-            "en": "I am the flame that lights up the heart of Cretton!",
-            "ja": "重装型アイカ！ここに参上！"
+            "cn": ""
         },
         "translation": {
             "cn": {}
-        },
-        "non_local": true
+        }
     },
     "22119245": {
         "id": 22119245,
@@ -3429,6 +3499,45 @@
             }
         }
     },
+    "22119090": {
+        "id": 22119090,
+        "title": {
+            "cn": "",
+            "en": ""
+        },
+        "path": "Vox_Aika_COM_090",
+        "file": {
+            "cn": "Vox_Aika_COM_090.wav",
+            "ja": "Vox_Aika_COM_090.wav",
+            "en": "Vox_Aika_COM_090.wav"
+        },
+        "transcription": {
+            "cn": "天干物燥，小心手雷！",
+            "ja": "グレネードの用心、空気が乾燥してるからね～。えいっ。",
+            "en": "Ha ha ha!"
+        },
+        "translation": {
+            "cn": {
+                "en": ""
+            }
+        }
+    },
+    "22119265": {
+        "id": 22119265,
+        "title": {},
+        "path": "Vox_Aika_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Aika_COM_090_red01_a.wav",
+            "ja": "Vox_Aika_COM_090_red01_a.wav",
+            "en": "Vox_Aika_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22119091": {
         "id": 22119091,
         "title": {
@@ -4245,86 +4354,22 @@
             }
         }
     },
-    "22119066": {
-        "id": 22119066,
-        "title": {
-            "cn": "",
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": ""
-        },
-        "path": "Vox_Aika_BPCHAR_066",
+    "22119236": {
+        "id": 22119236,
+        "title": {},
+        "path": "Vox_Aika_BPCHAR_066_red01_a",
         "file": {
-            "cn": "Vox_SelectCharacter-0329-event.wav",
-            "ja": "Vox_SelectCharacter-0329-event.wav",
-            "en": "Vox_SelectCharacter-0329-event.wav"
+            "cn": "Vox_Aika_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Aika_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Aika_BPCHAR_066_red01_a.wav"
         },
         "transcription": {
-            "cn": "我就是照亮普雷顿之心的火焰。",
-            "en": "I am the flame that lights up the heart of Preton.",
-            "ja": "プレイトンの心を照らす炎！アイカとはアタシのことだ！ってね！"
-        },
-        "translation": {
-            "cn": {
-                "ko": "전 프레톤의 심장을 밝히는 불꽃이에요.",
-                "es": "Soy la llama que ilumina el corazón de Preton.",
-                "fr": "Je suis la flamme qui illumine le cœur de Preton.",
-                "de": "Ich bin die Flamme, die das Herz von Preton erhellt.",
-                "ru": "Я пламя, что горит в сердце Претона.",
-                "pt-br": "Sou a chama que ilumina o coração de Preton.",
-                "zh-hans": "我就是照亮普雷顿之心的火焰。",
-                "zh-Hans": "我就是照亮普雷顿之心的火焰。",
-                "en": "I am the flame that lights up the heart of Preton."
-            }
-        },
-        "non_local": true
-    },
-    "22119108": {
-        "id": 22119108,
-        "title": {
             "cn": "",
-            "en": ""
-        },
-        "path": "Vox_Aika_BPCHAT_108",
-        "file": {
-            "cn": "Vox_Aika_InGame_Kill_original-0086-event {r}.wav",
-            "ja": "Vox_Aika_InGame_Kill_original-0086-event {r}.wav",
-            "en": "Vox_Aika_InGame_Kill_original-0086-event {r}.wav"
-        },
-        "transcription": {
-            "cn": "疼！疼！疼！疼！",
-            "ja": "くっそぉ！",
-            "en": "Ah!"
+            "en": "I am the flame that lights up the heart of Cretton!",
+            "ja": "重装型アイカ！ここに参上！"
         },
         "translation": {
-            "cn": {
-                "en": ""
-            }
-        },
-        "non_local": true
-    },
-    "22119090": {
-        "id": 22119090,
-        "title": {
-            "cn": "",
-            "en": ""
-        },
-        "path": "Vox_Aika_COM_090",
-        "file": {
-            "cn": "Vox_Aika_InGame_Tactical_Item_original-0038-event {r}.wav",
-            "ja": "Vox_Aika_InGame_Tactical_Item_original-0038-event {r}.wav",
-            "en": "Vox_Aika_InGame_Tactical_Item_original-0038-event {r}.wav"
-        },
-        "transcription": {
-            "cn": "天干物燥，小心手雷！",
-            "ja": "グレネードの用心、空気が乾燥してるからね～。えいっ。",
-            "en": "Ha ha ha!"
-        },
-        "translation": {
-            "cn": {
-                "en": ""
-            }
+            "cn": {}
         },
         "non_local": true
     }

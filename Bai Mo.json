@@ -10,9 +10,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_066",
         "file": {
-            "cn": "Vox_SelectCharacter-0497-event.wav",
-            "ja": "Vox_SelectCharacter-0497-event.wav",
-            "en": "Vox_SelectCharacter-0497-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_066.wav",
+            "ja": "Vox_MoBai_BPCHAR_066.wav",
+            "en": "Vox_MoBai_BPCHAR_066.wav"
         },
         "transcription": {
             "cn": "新委托这么快就来了？",
@@ -33,24 +33,6 @@
             }
         }
     },
-    "22110236": {
-        "id": 22110236,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAR_066_red01_a",
-        "file": {
-            "cn": "Vox_SelectCharacter-0312-event.wav",
-            "ja": "Vox_SelectCharacter-0312-event.wav",
-            "en": "Vox_SelectCharacter-0312-event.wav"
-        },
-        "transcription": {
-            "cn": "站在你面前的是直播界顶流，白沫。",
-            "en": "Feast your eyes on the streaming sensation, the one and only Bai Mo!",
-            "ja": "今、お前の前にいるのがトップストリーマーの白墨だ!"
-        },
-        "translation": {
-            "cn": {}
-        }
-    },
     "22110067": {
         "id": 22110067,
         "title": {
@@ -62,9 +44,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_067",
         "file": {
-            "cn": "Vox_SelectCharacter-0495-event.wav",
-            "ja": "Vox_SelectCharacter-0495-event.wav",
-            "en": "Vox_SelectCharacter-0495-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_067.wav",
+            "ja": "Vox_MoBai_BPCHAR_067.wav",
+            "en": "Vox_MoBai_BPCHAR_067.wav"
         },
         "transcription": {
             "cn": "等着我的好消息吧！",
@@ -85,24 +67,6 @@
             }
         }
     },
-    "22110237": {
-        "id": 22110237,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAR_067_red01_a",
-        "file": {
-            "cn": "Vox_SelectCharacter-0549-event.wav",
-            "ja": "Vox_SelectCharacter-0549-event.wav",
-            "en": "Vox_SelectCharacter-0549-event.wav"
-        },
-        "transcription": {
-            "cn": "主播已上线，观众老爷们久等了。",
-            "en": "Buckle up, we're going live.",
-            "ja": "白墨様の登場だ!もう待ちきれねぇだろ?"
-        },
-        "translation": {
-            "cn": {}
-        }
-    },
     "22110068": {
         "id": 22110068,
         "title": {
@@ -114,9 +78,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_068",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_original-0018-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_original-0018-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_original-0018-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_068.wav",
+            "ja": "Vox_MoBai_BPCHAR_068.wav",
+            "en": "Vox_MoBai_BPCHAR_068.wav"
         },
         "transcription": {
             "cn": "只要我还活着，就没有人可以控制乌尔比诺！",
@@ -142,9 +106,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAR_068_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_red01-0018-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_red01-0018-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_red01-0018-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAR_068_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAR_068_red01_a.wav"
         },
         "transcription": {
             "cn": "准备好跟上我的步伐了吗？",
@@ -166,9 +130,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_069",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_original-0016-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_original-0016-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_original-0016-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_069.wav",
+            "ja": "Vox_MoBai_BPCHAR_069.wav",
+            "en": "Vox_MoBai_BPCHAR_069.wav"
         },
         "transcription": {
             "cn": "你想要的一切，乌尔比诺都有！包括自由！",
@@ -194,9 +158,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAR_069_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_red01-0014-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_red01-0014-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_red01-0014-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAR_069_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAR_069_red01_a.wav"
         },
         "transcription": {
             "cn": "创造，然后引领潮流。",
@@ -218,9 +182,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_070",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_original-0014-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_original-0014-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_original-0014-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_070.wav",
+            "ja": "Vox_MoBai_BPCHAR_070.wav",
+            "en": "Vox_MoBai_BPCHAR_070.wav"
         },
         "transcription": {
             "cn": "好戏开场！",
@@ -246,9 +210,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAR_070_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Hall_red01-0016-event.wav",
-            "ja": "Vox_MoBai_InGame_Hall_red01-0016-event.wav",
-            "en": "Vox_MoBai_InGame_Hall_red01-0016-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAR_070_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAR_070_red01_a.wav"
         },
         "transcription": {
             "cn": "开创更伟大的时代。",
@@ -267,9 +231,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_071",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0026-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0026-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0026-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_071.wav",
+            "ja": "Vox_MoBai_BPCHAT_071.wav",
+            "en": "Vox_MoBai_BPCHAT_071.wav"
         },
         "transcription": {
             "cn": "是时候教训他们了！",
@@ -287,9 +251,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_071_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0038-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0038-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0038-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_071_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_071_red01_a.wav"
         },
         "transcription": {
             "cn": "殿子跃遣准备完毕。",
@@ -311,9 +275,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_072",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0028-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0028-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0028-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_072.wav",
+            "ja": "Vox_MoBai_BPCHAT_072.wav",
+            "en": "Vox_MoBai_BPCHAT_072.wav"
         },
         "transcription": {
             "cn": "冲刺！",
@@ -339,9 +303,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_072_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0028-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0028-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0028-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_072_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_072_red01_a.wav"
         },
         "transcription": {
             "cn": "沖刺。",
@@ -363,9 +327,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_073",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0030-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0030-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0030-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_073.wav",
+            "ja": "Vox_MoBai_BPCHAT_073.wav",
+            "en": "Vox_MoBai_BPCHAT_073.wav"
         },
         "transcription": {
             "cn": "你伤不到我！",
@@ -391,9 +355,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_073_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0026-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0026-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0026-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_073_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_073_red01_a.wav"
         },
         "transcription": {
             "cn": "堅決我。",
@@ -415,9 +379,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_074",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0032-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0032-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0032-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_074.wav",
+            "ja": "Vox_MoBai_BPCHAT_074.wav",
+            "en": "Vox_MoBai_BPCHAT_074.wav"
         },
         "transcription": {
             "cn": "来吧！",
@@ -443,9 +407,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_074_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0034-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0034-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0034-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_074_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_074_red01_a.wav"
         },
         "transcription": {
             "cn": "小雪峰來嘍。",
@@ -464,9 +428,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_075",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0034-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0034-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0034-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_075.wav",
+            "ja": "Vox_MoBai_BPCHAT_075.wav",
+            "en": "Vox_MoBai_BPCHAT_075.wav"
         },
         "transcription": {
             "cn": "别想逃！",
@@ -484,9 +448,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_075_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0032-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0032-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0032-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_075_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_075_red01_a.wav"
         },
         "transcription": {
             "cn": "我只接受正面退学。",
@@ -505,9 +469,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_076",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0036-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0036-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0036-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_076.wav",
+            "ja": "Vox_MoBai_BPCHAT_076.wav",
+            "en": "Vox_MoBai_BPCHAT_076.wav"
         },
         "transcription": {
             "cn": "给他们来个刺激的！",
@@ -525,9 +489,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_076_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0030-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0030-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0030-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_076_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_076_red01_a.wav"
         },
         "transcription": {
             "cn": "他意思是我可以玩得更放肆了。",
@@ -549,9 +513,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_077",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0083-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0083-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0083-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_077.wav",
+            "ja": "Vox_MoBai_BPCHAT_077.wav",
+            "en": "Vox_MoBai_BPCHAT_077.wav"
         },
         "transcription": {
             "cn": "想干掉我？没门儿！",
@@ -577,9 +541,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_077_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0086-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0086-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0086-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_077_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_077_red01_a.wav"
         },
         "transcription": {
             "cn": "人嘛，总要给自己留条后路。",
@@ -601,9 +565,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_078",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0085-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0085-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0085-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_078.wav",
+            "ja": "Vox_MoBai_BPCHAT_078.wav",
+            "en": "Vox_MoBai_BPCHAT_078.wav"
         },
         "transcription": {
             "cn": "表演时间到！",
@@ -629,9 +593,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_078_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0120-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0120-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0120-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_078_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_078_red01_a.wav"
         },
         "transcription": {
             "cn": "重生之顶流主播归来。",
@@ -653,9 +617,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_079",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0087-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0087-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0087-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_079.wav",
+            "ja": "Vox_MoBai_BPCHAT_079.wav",
+            "en": "Vox_MoBai_BPCHAT_079.wav"
         },
         "transcription": {
             "cn": "我可从不打没准备的仗！",
@@ -681,9 +645,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_079_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0124-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0124-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0124-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_079_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_079_red01_a.wav"
         },
         "transcription": {
             "cn": "在这个领域，我无法被消灭。",
@@ -702,9 +666,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_080",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_original-0038-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_original-0038-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_original-0038-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_080.wav",
+            "ja": "Vox_MoBai_BPCHAT_080.wav",
+            "en": "Vox_MoBai_BPCHAT_080.wav"
         },
         "transcription": {
             "cn": "急什么？先等等。",
@@ -722,9 +686,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_080_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Skill_red01-0036-event.wav",
-            "ja": "Vox_MoBai_InGame_Skill_red01-0036-event.wav",
-            "en": "Vox_MoBai_InGame_Skill_red01-0036-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_080_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_080_red01_a.wav"
         },
         "transcription": {
             "cn": "不急，以后给大家整个大伙。",
@@ -743,9 +707,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_108",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0089-event {r}.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0089-event {r}.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0089-event {r}.wav"
+            "cn": "Vox_MoBai_BPCHAT_108.wav",
+            "ja": "Vox_MoBai_BPCHAT_108.wav",
+            "en": "Vox_MoBai_BPCHAT_108.wav"
         },
         "transcription": {
             "cn": "啊。",
@@ -763,9 +727,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_108_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0106-event {r}.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0106-event {r}.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0106-event {r}.wav"
+            "cn": "Vox_MoBai_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_108_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_108_red01_a.wav"
         },
         "transcription": {
             "cn": "嗚吼。",
@@ -787,9 +751,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_109",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0091-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0091-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0091-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_109.wav",
+            "ja": "Vox_MoBai_BPCHAT_109.wav",
+            "en": "Vox_MoBai_BPCHAT_109.wav"
         },
         "transcription": {
             "cn": "你不是我的对手！",
@@ -815,9 +779,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_109_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0126-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0126-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0126-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_109_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_109_red01_a.wav"
         },
         "transcription": {
             "cn": "实力操作。",
@@ -839,9 +803,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_110",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0111-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0111-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0111-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_110.wav",
+            "ja": "Vox_MoBai_BPCHAT_110.wav",
+            "en": "Vox_MoBai_BPCHAT_110.wav"
         },
         "transcription": {
             "cn": "搞定！",
@@ -867,9 +831,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_110_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0110-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0110-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0110-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_110_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_110_red01_a.wav"
         },
         "transcription": {
             "cn": "好好看，好好学。",
@@ -891,9 +855,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_111",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0109-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0109-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0109-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_111.wav",
+            "ja": "Vox_MoBai_BPCHAT_111.wav",
+            "en": "Vox_MoBai_BPCHAT_111.wav"
         },
         "transcription": {
             "cn": "解决了！",
@@ -919,9 +883,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_111_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0104-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0104-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0104-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_111_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_111_red01_a.wav"
         },
         "transcription": {
             "cn": "主播的操作太帅了。",
@@ -943,9 +907,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_112",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0107-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0107-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0107-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_112.wav",
+            "ja": "Vox_MoBai_BPCHAT_112.wav",
+            "en": "Vox_MoBai_BPCHAT_112.wav"
         },
         "transcription": {
             "cn": "再来啊！",
@@ -971,9 +935,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_112_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0092-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0092-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0092-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_112_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_112_red01_a.wav"
         },
         "transcription": {
             "cn": "这不值得一发火箭。",
@@ -995,9 +959,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_113",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0105-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0105-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0105-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_113.wav",
+            "ja": "Vox_MoBai_BPCHAT_113.wav",
+            "en": "Vox_MoBai_BPCHAT_113.wav"
         },
         "transcription": {
             "cn": "一击毙命！",
@@ -1023,9 +987,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_113_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0118-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0118-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0118-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_113_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_113_red01_a.wav"
         },
         "transcription": {
             "cn": "戰鬥，上！",
@@ -1047,9 +1011,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_114",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0103-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0103-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0103-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_114.wav",
+            "ja": "Vox_MoBai_BPCHAT_114.wav",
+            "en": "Vox_MoBai_BPCHAT_114.wav"
         },
         "transcription": {
             "cn": "太简单了！",
@@ -1075,9 +1039,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_114_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0102-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0102-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0102-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_114_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_114_red01_a.wav"
         },
         "transcription": {
             "cn": "踩的像个演员。",
@@ -1095,9 +1059,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_115",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0101-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0101-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0101-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_115.wav",
+            "ja": "Vox_MoBai_BPCHAT_115.wav",
+            "en": "Vox_MoBai_BPCHAT_115.wav"
         },
         "transcription": {
             "cn": "两个有点不够打啊！",
@@ -1115,9 +1079,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_115_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0088-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0088-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0088-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_115_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_115_red01_a.wav"
         },
         "transcription": {
             "cn": "手感火热。",
@@ -1135,9 +1099,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_116",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0099-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0099-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0099-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_116.wav",
+            "ja": "Vox_MoBai_BPCHAT_116.wav",
+            "en": "Vox_MoBai_BPCHAT_116.wav"
         },
         "transcription": {
             "cn": "三个也不是问题！",
@@ -1155,9 +1119,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_116_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0098-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0098-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0098-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_116_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_116_red01_a.wav"
         },
         "transcription": {
             "cn": "三塔一被反杀会不会玩啊。",
@@ -1175,9 +1139,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_117",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0097-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0097-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0097-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_117.wav",
+            "ja": "Vox_MoBai_BPCHAT_117.wav",
+            "en": "Vox_MoBai_BPCHAT_117.wav"
         },
         "transcription": {
             "cn": "自由就在前方！",
@@ -1195,9 +1159,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_117_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0090-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0090-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0090-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_117_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_117_red01_a.wav"
         },
         "transcription": {
             "cn": "成神之路只差一步。",
@@ -1215,9 +1179,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_118",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0095-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0095-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0095-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_118.wav",
+            "ja": "Vox_MoBai_BPCHAT_118.wav",
+            "en": "Vox_MoBai_BPCHAT_118.wav"
         },
         "transcription": {
             "cn": "将自由意志贯彻到底！",
@@ -1235,9 +1199,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_118_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0108-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0108-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0108-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_118_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_118_red01_a.wav"
         },
         "transcription": {
             "cn": "天神下凡一跳舞。",
@@ -1255,9 +1219,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_119",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0093-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0093-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0093-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_119.wav",
+            "ja": "Vox_MoBai_BPCHAT_119.wav",
+            "en": "Vox_MoBai_BPCHAT_119.wav"
         },
         "transcription": {
             "cn": "这个时代属于乌尔比诺！",
@@ -1275,9 +1239,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_119_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0116-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0116-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0116-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_119_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_119_red01_a.wav"
         },
         "transcription": {
             "cn": "嘻！，无敌是多么寂寞！",
@@ -1295,9 +1259,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_120",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0117-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0117-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0117-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_120.wav",
+            "ja": "Vox_MoBai_BPCHAT_120.wav",
+            "en": "Vox_MoBai_BPCHAT_120.wav"
         },
         "transcription": {
             "cn": "我向来有仇必报。",
@@ -1315,9 +1279,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_120_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0084-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0084-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0084-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_120_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_120_red01_a.wav"
         },
         "transcription": {
             "cn": "你成功引起了我的注意。",
@@ -1335,9 +1299,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_123",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0115-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0115-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0115-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_123.wav",
+            "ja": "Vox_MoBai_BPCHAT_123.wav",
+            "en": "Vox_MoBai_BPCHAT_123.wav"
         },
         "transcription": {
             "cn": "这一次，我记住了！",
@@ -1355,9 +1319,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_123_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0114-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0114-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0114-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_123_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_123_red01_a.wav"
         },
         "transcription": {
             "cn": "不，cooperate。",
@@ -1375,9 +1339,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_124",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0121-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0121-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0121-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_124.wav",
+            "ja": "Vox_MoBai_BPCHAT_124.wav",
+            "en": "Vox_MoBai_BPCHAT_124.wav"
         },
         "transcription": {
             "cn": "我该吸取教训的。",
@@ -1395,9 +1359,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_124_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0094-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0094-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0094-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_124_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_124_red01_a.wav"
         },
         "transcription": {
             "cn": "穿過頭了。",
@@ -1415,9 +1379,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_125",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0123-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0123-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0123-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_125.wav",
+            "ja": "Vox_MoBai_BPCHAT_125.wav",
+            "en": "Vox_MoBai_BPCHAT_125.wav"
         },
         "transcription": {
             "cn": "真应该当心一点的……",
@@ -1435,9 +1399,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_125_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0122-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0122-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0122-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_125_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_125_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_125_red01_a.wav"
         },
         "transcription": {
             "cn": "世上本没有路，真就没路了。",
@@ -1455,9 +1419,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_126",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_original-0024-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_original-0024-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_original-0024-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_126.wav",
+            "ja": "Vox_MoBai_BPCHAT_126.wav",
+            "en": "Vox_MoBai_BPCHAT_126.wav"
         },
         "transcription": {
             "cn": "你阻止不了我！",
@@ -1475,9 +1439,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_126_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_red01-0024-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_red01-0024-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_red01-0024-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_126_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_126_red01_a.wav"
         },
         "transcription": {
             "cn": "看来你只能遗憾离场了。",
@@ -1495,9 +1459,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_127",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_original-0026-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_original-0026-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_original-0026-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_127.wav",
+            "ja": "Vox_MoBai_BPCHAT_127.wav",
+            "en": "Vox_MoBai_BPCHAT_127.wav"
         },
         "transcription": {
             "cn": "真不该这么大意……",
@@ -1515,9 +1479,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_127_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_red01-0032-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_red01-0032-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_red01-0032-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_127_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_127_red01_a.wav"
         },
         "transcription": {
             "cn": "短路了，身体好吗？",
@@ -1535,9 +1499,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_122",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0113-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0113-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0113-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_122.wav",
+            "ja": "Vox_MoBai_BPCHAT_122.wav",
+            "en": "Vox_MoBai_BPCHAT_122.wav"
         },
         "transcription": {
             "cn": "结束了么……",
@@ -1555,9 +1519,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_122_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0096-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0096-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0096-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_122_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_122_red01_a.wav"
         },
         "transcription": {
             "cn": "记得帮我关直播。",
@@ -1575,9 +1539,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_121",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0119-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0119-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0119-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_121.wav",
+            "ja": "Vox_MoBai_BPCHAT_121.wav",
+            "en": "Vox_MoBai_BPCHAT_121.wav"
         },
         "transcription": {
             "cn": "失算了！",
@@ -1595,9 +1559,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_121_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0100-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0100-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0100-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_121_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_121_red01_a.wav"
         },
         "transcription": {
             "cn": "房款来了吗。",
@@ -1615,9 +1579,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_128",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_original-0028-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_original-0028-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_original-0028-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_128.wav",
+            "ja": "Vox_MoBai_BPCHAT_128.wav",
+            "en": "Vox_MoBai_BPCHAT_128.wav"
         },
         "transcription": {
             "cn": "谁来帮我一把？",
@@ -1635,9 +1599,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_128_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_red01-0028-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_red01-0028-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_red01-0028-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_128_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_128_red01_a.wav"
         },
         "transcription": {
             "cn": "那家人们救一下啊。",
@@ -1658,9 +1622,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_129",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_original-0030-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_original-0030-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_original-0030-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_129.wav",
+            "ja": "Vox_MoBai_BPCHAT_129.wav",
+            "en": "Vox_MoBai_BPCHAT_129.wav"
         },
         "transcription": {
             "cn": "你没事吧？",
@@ -1686,9 +1650,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_129_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_red01-0030-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_red01-0030-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_red01-0030-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_129_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_129_red01_a.wav"
         },
         "transcription": {
             "cn": "主播的队友也敢惹。",
@@ -1706,9 +1670,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_130",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_original-0032-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_original-0032-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_original-0032-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_130.wav",
+            "ja": "Vox_MoBai_BPCHAT_130.wav",
+            "en": "Vox_MoBai_BPCHAT_130.wav"
         },
         "transcription": {
             "cn": "好在是得救了，多谢！",
@@ -1726,9 +1690,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_130_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Rescue_red01-0026-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Rescue_red01-0026-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Rescue_red01-0026-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_130_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_130_red01_a.wav"
         },
         "transcription": {
             "cn": "感谢家人，马上要超管天下你为VIP。",
@@ -1746,9 +1710,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_131",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_original-0022-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_original-0022-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_original-0022-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_131.wav",
+            "ja": "Vox_MoBai_BPCHAT_131.wav",
+            "en": "Vox_MoBai_BPCHAT_131.wav"
         },
         "transcription": {
             "cn": "开始安装炸弹！",
@@ -1761,23 +1725,6 @@
             }
         }
     },
-    "22110260": {
-        "id": 22110260,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAT_131_red01_a",
-        "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0024-event.wav"
-        },
-        "transcription": {
-            "cn": "炸弹在这儿吧。",
-            "en": "Let's plant the bomb here."
-        },
-        "translation": {
-            "cn": {}
-        }
-    },
     "22110132": {
         "id": 22110132,
         "title": {
@@ -1786,9 +1733,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_132",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_original-0026-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_original-0026-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_original-0026-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_132.wav",
+            "ja": "Vox_MoBai_BPCHAT_132.wav",
+            "en": "Vox_MoBai_BPCHAT_132.wav"
         },
         "transcription": {
             "cn": "我拿到炸弹了。",
@@ -1806,9 +1753,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_132_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0020-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0020-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0020-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_132_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_132_red01_a.wav"
         },
         "transcription": {
             "cn": "炸弹放心交给我。",
@@ -1826,9 +1773,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_133",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_original-0024-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_original-0024-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_original-0024-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_133.wav",
+            "ja": "Vox_MoBai_BPCHAT_133.wav",
+            "en": "Vox_MoBai_BPCHAT_133.wav"
         },
         "transcription": {
             "cn": "开始拆除炸弹。",
@@ -1846,9 +1793,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_133_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0022-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0022-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0022-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_133_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_133_red01_a.wav"
         },
         "transcription": {
             "cn": "拆个蛋要这么久啊。",
@@ -1866,9 +1813,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_134",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_original-0020-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_original-0020-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_original-0020-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_134.wav",
+            "ja": "Vox_MoBai_BPCHAT_134.wav",
+            "en": "Vox_MoBai_BPCHAT_134.wav"
         },
         "transcription": {
             "cn": "我将炸弹扔在这儿了。",
@@ -1886,9 +1833,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_134_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0026-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0026-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0026-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_134_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_134_red01_a.wav"
         },
         "transcription": {
             "cn": "炸弹我扔这儿了。",
@@ -1906,9 +1853,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_135",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_original-0018-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_original-0018-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_original-0018-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_135.wav",
+            "ja": "Vox_MoBai_BPCHAT_135.wav",
+            "en": "Vox_MoBai_BPCHAT_135.wav"
         },
         "transcription": {
             "cn": "发现炸弹！",
@@ -1926,9 +1873,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_135_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0018-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0018-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0018-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_135_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_135_red01_a.wav"
         },
         "transcription": {
             "cn": "呼，炸弹！",
@@ -1946,9 +1893,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_136",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_original-0125-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_original-0125-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_original-0125-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_136.wav",
+            "ja": "Vox_MoBai_BPCHAT_136.wav",
+            "en": "Vox_MoBai_BPCHAT_136.wav"
         },
         "transcription": {
             "cn": "起飞！",
@@ -1966,9 +1913,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_136_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Kill_red01-0112-event.wav",
-            "ja": "Vox_MoBai_InGame_Kill_red01-0112-event.wav",
-            "en": "Vox_MoBai_InGame_Kill_red01-0112-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_136_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_136_red01_a.wav"
         },
         "transcription": {
             "cn": "呼！先走一步！",
@@ -1989,9 +1936,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_137",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_original-0017-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_original-0017-event.wav",
-            "en": "Vox_MoBai_InGame_Result_original-0017-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_137.wav",
+            "ja": "Vox_MoBai_BPCHAT_137.wav",
+            "en": "Vox_MoBai_BPCHAT_137.wav"
         },
         "transcription": {
             "cn": "可恶，还是差了那么一点！",
@@ -2017,9 +1964,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_137_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0039-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0039-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0039-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_137_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_137_red01_a.wav"
         },
         "transcription": {
             "cn": "节目效果不代表主播真实水平。",
@@ -2034,9 +1981,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_137_red01_b",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0035-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0035-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0035-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_137_red01_b.wav",
+            "en": "Vox_MoBai_BPCHAT_137_red01_b.wav"
         },
         "transcription": {
             "cn": "我真的在拉扯了不信看回放。",
@@ -2051,9 +1998,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_137_red01_c",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0037-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0037-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0037-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_MoBai_BPCHAT_137_red01_c.wav",
+            "en": "Vox_MoBai_BPCHAT_137_red01_c.wav"
         },
         "transcription": {
             "cn": "刚刚的表现不会被投稿到搞笑分区吧。",
@@ -2074,9 +2021,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_138",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_original-0021-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_original-0021-event.wav",
-            "en": "Vox_MoBai_InGame_Result_original-0021-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_138.wav",
+            "ja": "Vox_MoBai_BPCHAT_138.wav",
+            "en": "Vox_MoBai_BPCHAT_138.wav"
         },
         "transcription": {
             "cn": "哈哈！搞定收工！",
@@ -2102,9 +2049,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_138_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0029-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0029-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0029-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_138_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_138_red01_a.wav"
         },
         "transcription": {
             "cn": "主播今天的定位是游戏领域大神。",
@@ -2119,9 +2066,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_138_red01_b",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0033-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0033-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0033-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_138_red01_b.wav",
+            "en": "Vox_MoBai_BPCHAT_138_red01_b.wav"
         },
         "transcription": {
             "cn": "又一次光荣下坡。",
@@ -2136,9 +2083,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_138_red01_c",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0031-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0031-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0031-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_MoBai_BPCHAT_138_red01_c.wav",
+            "en": "Vox_MoBai_BPCHAT_138_red01_c.wav"
         },
         "transcription": {
             "cn": "爱上主播就像呼吸一样简单。",
@@ -2159,9 +2106,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_139",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_original-0019-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_original-0019-event.wav",
-            "en": "Vox_MoBai_InGame_Result_original-0019-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_139.wav",
+            "ja": "Vox_MoBai_BPCHAT_139.wav",
+            "en": "Vox_MoBai_BPCHAT_139.wav"
         },
         "transcription": {
             "cn": "一时的失败而已，再来一次就好了。",
@@ -2187,9 +2134,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_139_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0041-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0041-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0041-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_139_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_139_red01_a.wav"
         },
         "transcription": {
             "cn": "没关系这一切我来背负。",
@@ -2210,9 +2157,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_140",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_original-0015-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_original-0015-event.wav",
-            "en": "Vox_MoBai_InGame_Result_original-0015-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_140.wav",
+            "ja": "Vox_MoBai_BPCHAT_140.wav",
+            "en": "Vox_MoBai_BPCHAT_140.wav"
         },
         "transcription": {
             "cn": "这就是乌尔比诺的自由之道！",
@@ -2238,9 +2185,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_140_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0025-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0025-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0025-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_140_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_140_red01_a.wav"
         },
         "transcription": {
             "cn": "如此美妙的胜利来首小曲祝祝星。",
@@ -2255,9 +2202,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_140_red01_b",
         "file": {
-            "cn": "Vox_MoBai_InGame_Result_red01-0027-event.wav",
-            "ja": "Vox_MoBai_InGame_Result_red01-0027-event.wav",
-            "en": "Vox_MoBai_InGame_Result_red01-0027-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_140_red01_b.wav",
+            "en": "Vox_MoBai_BPCHAT_140_red01_b.wav"
         },
         "transcription": {
             "cn": "大蝶帥，操作酷，我叫白沫，你記住！",
@@ -2275,9 +2222,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_141",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0030-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0030-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0030-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_141.wav",
+            "ja": "Vox_MoBai_BPCHAT_141.wav",
+            "en": "Vox_MoBai_BPCHAT_141.wav"
         },
         "transcription": {
             "cn": "怎么回事？我不会是退步了吧？",
@@ -2295,9 +2242,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_141_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0048-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0048-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0048-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_141_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_141_red01_a.wav"
         },
         "transcription": {
             "cn": "看来这局有人太非了。",
@@ -2315,9 +2262,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_142",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0032-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0032-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0032-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_142.wav",
+            "ja": "Vox_MoBai_BPCHAT_142.wav",
+            "en": "Vox_MoBai_BPCHAT_142.wav"
         },
         "transcription": {
             "cn": "不错的开始，大家跟紧了！",
@@ -2335,9 +2282,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_142_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0034-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0034-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0034-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_142_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_142_red01_a.wav"
         },
         "transcription": {
             "cn": "嘿，最喜歡的一集。",
@@ -2355,9 +2302,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_143",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0034-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0034-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0034-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_143.wav",
+            "ja": "Vox_MoBai_BPCHAT_143.wav",
+            "en": "Vox_MoBai_BPCHAT_143.wav"
         },
         "transcription": {
             "cn": "好样的，信，我果然没看错你！",
@@ -2375,9 +2322,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_143_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0046-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0046-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0046-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_143_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_143_red01_a.wav"
         },
         "transcription": {
             "cn": "就你每次封我直播间啊。",
@@ -2395,9 +2342,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_144",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0036-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0036-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0036-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_144.wav",
+            "ja": "Vox_MoBai_BPCHAT_144.wav",
+            "en": "Vox_MoBai_BPCHAT_144.wav"
         },
         "transcription": {
             "cn": "梅瑞狄斯，这一次算你欠我的了。",
@@ -2415,9 +2362,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_144_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0044-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0044-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0044-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_144_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_144_red01_a.wav"
         },
         "transcription": {
             "cn": "噢，弹幕应该会飘满问号吧。",
@@ -2435,9 +2382,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_145",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0038-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0038-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0038-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_145.wav",
+            "ja": "Vox_MoBai_BPCHAT_145.wav",
+            "en": "Vox_MoBai_BPCHAT_145.wav"
         },
         "transcription": {
             "cn": "梅瑞狄斯，我们终究不是一种人……",
@@ -2455,9 +2402,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_145_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0032-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0032-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0032-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_145_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_145_red01_a.wav"
         },
         "transcription": {
             "cn": "别慌，主播是见过大场面的。",
@@ -2475,9 +2422,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_146",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0040-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0040-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0040-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_146.wav",
+            "ja": "Vox_MoBai_BPCHAT_146.wav",
+            "en": "Vox_MoBai_BPCHAT_146.wav"
         },
         "transcription": {
             "cn": "很好，奥黛丽，这一次看你发挥了！",
@@ -2495,9 +2442,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_146_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0042-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0042-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0042-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_146_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_146_red01_a.wav"
         },
         "transcription": {
             "cn": "兄弟，你网感有点差啊，多来我直播间看看呗。",
@@ -2515,9 +2462,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_147",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0042-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0042-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0042-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_147.wav",
+            "ja": "Vox_MoBai_BPCHAT_147.wav",
+            "en": "Vox_MoBai_BPCHAT_147.wav"
         },
         "transcription": {
             "cn": "奥黛丽，我会带着你的自由意志一起走下去。",
@@ -2535,9 +2482,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_147_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0036-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0036-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0036-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_147_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_147_red01_a.wav"
         },
         "transcription": {
             "cn": "呃，刚刚那个是不是合作方来着？",
@@ -2555,9 +2502,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_148",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0044-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0044-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0044-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_148.wav",
+            "ja": "Vox_MoBai_BPCHAT_148.wav",
+            "en": "Vox_MoBai_BPCHAT_148.wav"
         },
         "transcription": {
             "cn": "被你摆了一道啊，奥黛丽。",
@@ -2575,9 +2522,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_148_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0030-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0030-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0030-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_148_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_148_red01_a.wav"
         },
         "transcription": {
             "cn": "哎呀，可惜，其实他挺会整活的。",
@@ -2595,9 +2542,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_149",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0046-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0046-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0046-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_149.wav",
+            "ja": "Vox_MoBai_BPCHAT_149.wav",
+            "en": "Vox_MoBai_BPCHAT_149.wav"
         },
         "transcription": {
             "cn": "信，这一次，我不会再手下留情了。",
@@ -2615,9 +2562,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_149_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0040-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0040-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0040-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_149_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_149_red01_a.wav"
         },
         "transcription": {
             "cn": "资质不错，要成为我旗下的主播吗？",
@@ -2635,9 +2582,9 @@
         },
         "path": "Vox_MoBai_BPCHAT_150",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_original-0048-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_original-0048-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_original-0048-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_150.wav",
+            "ja": "Vox_MoBai_BPCHAT_150.wav",
+            "en": "Vox_MoBai_BPCHAT_150.wav"
         },
         "transcription": {
             "cn": "别怕，这种小场面，我见得多了！",
@@ -2655,9 +2602,9 @@
         "title": {},
         "path": "Vox_MoBai_BPCHAT_150_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Easter_egg_red01-0038-event.wav",
-            "ja": "Vox_MoBai_InGame_Easter_egg_red01-0038-event.wav",
-            "en": "Vox_MoBai_InGame_Easter_egg_red01-0038-event.wav"
+            "cn": "Vox_MoBai_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_150_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_150_red01_a.wav"
         },
         "transcription": {
             "cn": "家人们，把主播道歉打在公屏上。",
@@ -2675,9 +2622,9 @@
         },
         "path": "Vox_MoBai_500",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0083-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0083-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0083-event.wav"
+            "cn": "Vox_MoBai_500.wav",
+            "ja": "Vox_MoBai_500.wav",
+            "en": "Vox_MoBai_500.wav"
         },
         "transcription": {
             "cn": "倒下了。",
@@ -2698,9 +2645,9 @@
         },
         "path": "Vox_MoBai_501",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0081-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0081-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0081-event.wav"
+            "cn": "Vox_MoBai_501.wav",
+            "ja": "Vox_MoBai_501.wav",
+            "en": "Vox_MoBai_501.wav"
         },
         "transcription": {
             "cn": "干掉一个。",
@@ -2721,9 +2668,9 @@
         },
         "path": "Vox_MoBai_502",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0087-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0087-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0087-event.wav"
+            "cn": "Vox_MoBai_502.wav",
+            "ja": "Vox_MoBai_502.wav",
+            "en": "Vox_MoBai_502.wav"
         },
         "transcription": {
             "cn": "远处有敌人，准备冲刺。",
@@ -2744,9 +2691,9 @@
         },
         "path": "Vox_MoBai_503",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0085-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0085-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0085-event.wav"
+            "cn": "Vox_MoBai_503.wav",
+            "ja": "Vox_MoBai_503.wav",
+            "en": "Vox_MoBai_503.wav"
         },
         "transcription": {
             "cn": "远处有敌人，要去吓他一跳吗？",
@@ -2767,9 +2714,9 @@
         },
         "path": "Vox_MoBai_504",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0091-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0091-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0091-event.wav"
+            "cn": "Vox_MoBai_504.wav",
+            "ja": "Vox_MoBai_504.wav",
+            "en": "Vox_MoBai_504.wav"
         },
         "transcription": {
             "cn": "敌人很近，准备战斗吧。",
@@ -2790,9 +2737,9 @@
         },
         "path": "Vox_MoBai_505",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0089-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0089-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0089-event.wav"
+            "cn": "Vox_MoBai_505.wav",
+            "ja": "Vox_MoBai_505.wav",
+            "en": "Vox_MoBai_505.wav"
         },
         "transcription": {
             "cn": "敌人近在咫尺了。",
@@ -2813,9 +2760,9 @@
         },
         "path": "Vox_MoBai_506",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0095-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0095-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0095-event.wav"
+            "cn": "Vox_MoBai_506.wav",
+            "ja": "Vox_MoBai_506.wav",
+            "en": "Vox_MoBai_506.wav"
         },
         "transcription": {
             "cn": "呼，我要打十个。",
@@ -2836,9 +2783,9 @@
         },
         "path": "Vox_MoBai_507",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0093-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0093-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0093-event.wav"
+            "cn": "Vox_MoBai_507.wav",
+            "ja": "Vox_MoBai_507.wav",
+            "en": "Vox_MoBai_507.wav"
         },
         "transcription": {
             "cn": "这么多人，想群俄我？",
@@ -2859,9 +2806,9 @@
         },
         "path": "Vox_MoBai_508",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0099-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0099-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0099-event.wav"
+            "cn": "Vox_MoBai_508.wav",
+            "ja": "Vox_MoBai_508.wav",
+            "en": "Vox_MoBai_508.wav"
         },
         "transcription": {
             "cn": "集中目标。",
@@ -2882,9 +2829,9 @@
         },
         "path": "Vox_MoBai_509",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0097-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0097-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0097-event.wav"
+            "cn": "Vox_MoBai_509.wav",
+            "ja": "Vox_MoBai_509.wav",
+            "en": "Vox_MoBai_509.wav"
         },
         "transcription": {
             "cn": "战斗开始了。",
@@ -2905,9 +2852,9 @@
         },
         "path": "Vox_MoBai_510",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0077-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0077-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0077-event.wav"
+            "cn": "Vox_MoBai_510.wav",
+            "ja": "Vox_MoBai_510.wav",
+            "en": "Vox_MoBai_510.wav"
         },
         "transcription": {
             "cn": "我瞄得很准嘛。",
@@ -2928,9 +2875,9 @@
         },
         "path": "Vox_MoBai_511",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0079-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0079-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0079-event.wav"
+            "cn": "Vox_MoBai_511.wav",
+            "ja": "Vox_MoBai_511.wav",
+            "en": "Vox_MoBai_511.wav"
         },
         "transcription": {
             "cn": "敵人重傷倒地。",
@@ -2951,9 +2898,9 @@
         },
         "path": "Vox_MoBai_512",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0073-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0073-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0073-event.wav"
+            "cn": "Vox_MoBai_512.wav",
+            "ja": "Vox_MoBai_512.wav",
+            "en": "Vox_MoBai_512.wav"
         },
         "transcription": {
             "cn": "敌人就剩一口气喽。",
@@ -2974,9 +2921,9 @@
         },
         "path": "Vox_MoBai_513",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0075-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0075-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0075-event.wav"
+            "cn": "Vox_MoBai_513.wav",
+            "ja": "Vox_MoBai_513.wav",
+            "en": "Vox_MoBai_513.wav"
         },
         "transcription": {
             "cn": "我已重创目标。",
@@ -2997,9 +2944,9 @@
         },
         "path": "Vox_MoBai_514",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0069-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0069-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0069-event.wav"
+            "cn": "Vox_MoBai_514.wav",
+            "ja": "Vox_MoBai_514.wav",
+            "en": "Vox_MoBai_514.wav"
         },
         "transcription": {
             "cn": "被打冲了。",
@@ -3020,9 +2967,9 @@
         },
         "path": "Vox_MoBai_515",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0071-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0071-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0071-event.wav"
+            "cn": "Vox_MoBai_515.wav",
+            "ja": "Vox_MoBai_515.wav",
+            "en": "Vox_MoBai_515.wav"
         },
         "transcription": {
             "cn": "敌人正在空袭。",
@@ -3043,9 +2990,9 @@
         },
         "path": "Vox_MoBai_516",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0065-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0065-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0065-event.wav"
+            "cn": "Vox_MoBai_516.wav",
+            "ja": "Vox_MoBai_516.wav",
+            "en": "Vox_MoBai_516.wav"
         },
         "transcription": {
             "cn": "敌人在左。",
@@ -3066,9 +3013,9 @@
         },
         "path": "Vox_MoBai_517",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0067-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0067-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0067-event.wav"
+            "cn": "Vox_MoBai_517.wav",
+            "ja": "Vox_MoBai_517.wav",
+            "en": "Vox_MoBai_517.wav"
         },
         "transcription": {
             "cn": "恭喜来自左方。",
@@ -3089,9 +3036,9 @@
         },
         "path": "Vox_MoBai_518",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0061-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0061-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0061-event.wav"
+            "cn": "Vox_MoBai_518.wav",
+            "ja": "Vox_MoBai_518.wav",
+            "en": "Vox_MoBai_518.wav"
         },
         "transcription": {
             "cn": "敵人在右。",
@@ -3112,9 +3059,9 @@
         },
         "path": "Vox_MoBai_519",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0063-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0063-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0063-event.wav"
+            "cn": "Vox_MoBai_519.wav",
+            "ja": "Vox_MoBai_519.wav",
+            "en": "Vox_MoBai_519.wav"
         },
         "transcription": {
             "cn": "恭喜来自右方。",
@@ -3135,9 +3082,9 @@
         },
         "path": "Vox_MoBai_520",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0059-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0059-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0059-event.wav"
+            "cn": "Vox_MoBai_520.wav",
+            "ja": "Vox_MoBai_520.wav",
+            "en": "Vox_MoBai_520.wav"
         },
         "transcription": {
             "cn": "背后，背后，敌人在背后。",
@@ -3158,9 +3105,9 @@
         },
         "path": "Vox_MoBai_521",
         "file": {
-            "cn": "Vox_MoBai_InGame_Barrier_free_original-0057-event.wav",
-            "ja": "Vox_MoBai_InGame_Barrier_free_original-0057-event.wav",
-            "en": "Vox_MoBai_InGame_Barrier_free_original-0057-event.wav"
+            "cn": "Vox_MoBai_521.wav",
+            "ja": "Vox_MoBai_521.wav",
+            "en": "Vox_MoBai_521.wav"
         },
         "transcription": {
             "cn": "有人搞偷袭。",
@@ -3184,9 +3131,9 @@
         },
         "path": "Vox_MoBai_COM_081",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0040-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0040-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0040-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_081.wav",
+            "ja": "Vox_MoBai_COM_081.wav",
+            "en": "Vox_MoBai_COM_081.wav"
         },
         "transcription": {
             "cn": "突袭！",
@@ -3218,9 +3165,9 @@
         },
         "path": "Vox_MoBai_COM_082",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0036-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0036-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0036-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_082.wav",
+            "ja": "Vox_MoBai_COM_082.wav",
+            "en": "Vox_MoBai_COM_082.wav"
         },
         "transcription": {
             "cn": "等等！",
@@ -3252,9 +3199,9 @@
         },
         "path": "Vox_MoBai_COM_083",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0038-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0038-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0038-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_083.wav",
+            "ja": "Vox_MoBai_COM_083.wav",
+            "en": "Vox_MoBai_COM_083.wav"
         },
         "transcription": {
             "cn": "撤吧！",
@@ -3286,9 +3233,9 @@
         },
         "path": "Vox_MoBai_COM_084",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0046-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0046-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0046-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_084.wav",
+            "ja": "Vox_MoBai_COM_084.wav",
+            "en": "Vox_MoBai_COM_084.wav"
         },
         "transcription": {
             "cn": "谢谢！",
@@ -3320,9 +3267,9 @@
         },
         "path": "Vox_MoBai_COM_085",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0048-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0048-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0048-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_085.wav",
+            "ja": "Vox_MoBai_COM_085.wav",
+            "en": "Vox_MoBai_COM_085.wav"
         },
         "transcription": {
             "cn": "很好！",
@@ -3354,9 +3301,9 @@
         },
         "path": "Vox_MoBai_COM_086",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0042-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0042-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0042-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_086.wav",
+            "ja": "Vox_MoBai_COM_086.wav",
+            "en": "Vox_MoBai_COM_086.wav"
         },
         "transcription": {
             "cn": "是的。",
@@ -3388,9 +3335,9 @@
         },
         "path": "Vox_MoBai_COM_087",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0044-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0044-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0044-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_087.wav",
+            "ja": "Vox_MoBai_COM_087.wav",
+            "en": "Vox_MoBai_COM_087.wav"
         },
         "transcription": {
             "cn": "不。",
@@ -3422,9 +3369,9 @@
         },
         "path": "Vox_MoBai_COM_088",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0050-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0050-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0050-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_088.wav",
+            "ja": "Vox_MoBai_COM_088.wav",
+            "en": "Vox_MoBai_COM_088.wav"
         },
         "transcription": {
             "cn": "抱歉！",
@@ -3456,9 +3403,9 @@
         },
         "path": "Vox_MoBai_COM_089",
         "file": {
-            "cn": "Vox_MoBai_InGame_Shortcut_original-0052-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Shortcut_original-0052-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Shortcut_original-0052-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_089.wav",
+            "ja": "Vox_MoBai_COM_089.wav",
+            "en": "Vox_MoBai_COM_089.wav"
         },
         "transcription": {
             "cn": "哟，你好！",
@@ -3487,9 +3434,9 @@
         },
         "path": "Vox_MoBai_COM_090",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0039-event {r}.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0039-event {r}.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0039-event {r}.wav"
+            "cn": "Vox_MoBai_COM_090.wav",
+            "ja": "Vox_MoBai_COM_090.wav",
+            "en": "Vox_MoBai_COM_090.wav"
         },
         "transcription": {
             "cn": "手雷！",
@@ -3507,9 +3454,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_090_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0027-event {r}.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0027-event {r}.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0027-event {r}.wav"
+            "cn": "Vox_MoBai_COM_090_red01_a.wav",
+            "ja": "Vox_MoBai_COM_090_red01_a.wav",
+            "en": "Vox_MoBai_COM_090_red01_a.wav"
         },
         "transcription": {
             "cn": "手雷，突袭！",
@@ -3527,9 +3474,9 @@
         },
         "path": "Vox_MoBai_COM_091",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0037-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0037-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0037-event.wav"
+            "cn": "Vox_MoBai_COM_091.wav",
+            "ja": "Vox_MoBai_COM_091.wav",
+            "en": "Vox_MoBai_COM_091.wav"
         },
         "transcription": {
             "cn": "拦截者已安装！",
@@ -3547,9 +3494,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_091_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0029-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0029-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0029-event.wav"
+            "cn": "Vox_MoBai_COM_091_red01_a.wav",
+            "ja": "Vox_MoBai_COM_091_red01_a.wav",
+            "en": "Vox_MoBai_COM_091_red01_a.wav"
         },
         "transcription": {
             "cn": "拦截者也安装。",
@@ -3567,9 +3514,9 @@
         },
         "path": "Vox_MoBai_COM_092",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0043-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0043-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0043-event.wav"
+            "cn": "Vox_MoBai_COM_092.wav",
+            "ja": "Vox_MoBai_COM_092.wav",
+            "en": "Vox_MoBai_COM_092.wav"
         },
         "transcription": {
             "cn": "烟雾弹！",
@@ -3587,9 +3534,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_092_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0039-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0039-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0039-event.wav"
+            "cn": "Vox_MoBai_COM_092_red01_a.wav",
+            "ja": "Vox_MoBai_COM_092_red01_a.wav",
+            "en": "Vox_MoBai_COM_092_red01_a.wav"
         },
         "transcription": {
             "cn": "煙霧彈！",
@@ -3607,9 +3554,9 @@
         },
         "path": "Vox_MoBai_COM_093",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0041-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0041-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0041-event.wav"
+            "cn": "Vox_MoBai_COM_093.wav",
+            "ja": "Vox_MoBai_COM_093.wav",
+            "en": "Vox_MoBai_COM_093.wav"
         },
         "transcription": {
             "cn": "闪光弹！",
@@ -3627,9 +3574,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_093_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0043-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0043-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0043-event.wav"
+            "cn": "Vox_MoBai_COM_093_red01_a.wav",
+            "ja": "Vox_MoBai_COM_093_red01_a.wav",
+            "en": "Vox_MoBai_COM_093_red01_a.wav"
         },
         "transcription": {
             "cn": "演话聊论吧。",
@@ -3647,9 +3594,9 @@
         },
         "path": "Vox_MoBai_COM_094",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0031-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0031-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0031-event.wav"
+            "cn": "Vox_MoBai_COM_094.wav",
+            "ja": "Vox_MoBai_COM_094.wav",
+            "en": "Vox_MoBai_COM_094.wav"
         },
         "transcription": {
             "cn": "我可不会这么轻易倒下！",
@@ -3667,9 +3614,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_094_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0031-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0031-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0031-event.wav"
+            "cn": "Vox_MoBai_COM_094_red01_a.wav",
+            "ja": "Vox_MoBai_COM_094_red01_a.wav",
+            "en": "Vox_MoBai_COM_094_red01_a.wav"
         },
         "transcription": {
             "cn": "口一下，会会血。",
@@ -3687,9 +3634,9 @@
         },
         "path": "Vox_MoBai_COM_095",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0029-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0029-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0029-event.wav"
+            "cn": "Vox_MoBai_COM_095.wav",
+            "ja": "Vox_MoBai_COM_095.wav",
+            "en": "Vox_MoBai_COM_095.wav"
         },
         "transcription": {
             "cn": "风场雷！",
@@ -3707,9 +3654,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_095_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0041-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0041-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0041-event.wav"
+            "cn": "Vox_MoBai_COM_095_red01_a.wav",
+            "ja": "Vox_MoBai_COM_095_red01_a.wav",
+            "en": "Vox_MoBai_COM_095_red01_a.wav"
         },
         "transcription": {
             "cn": "想上天吗？满足你！",
@@ -3727,9 +3674,9 @@
         },
         "path": "Vox_MoBai_COM_096",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0035-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0035-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0035-event.wav"
+            "cn": "Vox_MoBai_COM_096.wav",
+            "ja": "Vox_MoBai_COM_096.wav",
+            "en": "Vox_MoBai_COM_096.wav"
         },
         "transcription": {
             "cn": "减速雷！",
@@ -3747,9 +3694,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_096_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0035-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0035-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0035-event.wav"
+            "cn": "Vox_MoBai_COM_096_red01_a.wav",
+            "ja": "Vox_MoBai_COM_096_red01_a.wav",
+            "en": "Vox_MoBai_COM_096_red01_a.wav"
         },
         "transcription": {
             "cn": "减速雷。",
@@ -3767,9 +3714,9 @@
         },
         "path": "Vox_MoBai_COM_097",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0033-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0033-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0033-event.wav"
+            "cn": "Vox_MoBai_COM_097.wav",
+            "ja": "Vox_MoBai_COM_097.wav",
+            "en": "Vox_MoBai_COM_097.wav"
         },
         "transcription": {
             "cn": "警报器安装完成！",
@@ -3787,9 +3734,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_097_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_red01-0037-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_red01-0037-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_red01-0037-event.wav"
+            "cn": "Vox_MoBai_COM_097_red01_a.wav",
+            "ja": "Vox_MoBai_COM_097_red01_a.wav",
+            "en": "Vox_MoBai_COM_097_red01_a.wav"
         },
         "transcription": {
             "cn": "在此收安装警报器。",
@@ -3807,9 +3754,9 @@
         },
         "path": "Vox_MoBai_COM_098",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0052-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0052-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0052-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_098.wav",
+            "ja": "Vox_MoBai_COM_098.wav",
+            "en": "Vox_MoBai_COM_098.wav"
         },
         "transcription": {
             "cn": "危险！",
@@ -3827,9 +3774,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_098_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0042-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0042-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0042-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_098_red01_a.wav",
+            "ja": "Vox_MoBai_COM_098_red01_a.wav",
+            "en": "Vox_MoBai_COM_098_red01_a.wav"
         },
         "transcription": {
             "cn": "有危险，别过去。",
@@ -3847,9 +3794,9 @@
         },
         "path": "Vox_MoBai_COM_099",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0050-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0050-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0050-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_099.wav",
+            "ja": "Vox_MoBai_COM_099.wav",
+            "en": "Vox_MoBai_COM_099.wav"
         },
         "transcription": {
             "cn": "我会守住这里！",
@@ -3867,9 +3814,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_099_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0052-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0052-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0052-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_099_red01_a.wav",
+            "ja": "Vox_MoBai_COM_099_red01_a.wav",
+            "en": "Vox_MoBai_COM_099_red01_a.wav"
         },
         "transcription": {
             "cn": "守住这里。",
@@ -3887,9 +3834,9 @@
         },
         "path": "Vox_MoBai_COM_100",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0040-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0040-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0040-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_100.wav",
+            "ja": "Vox_MoBai_COM_100.wav",
+            "en": "Vox_MoBai_COM_100.wav"
         },
         "transcription": {
             "cn": "谁来支援一下？",
@@ -3907,9 +3854,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_100_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0048-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0048-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0048-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_100_red01_a.wav",
+            "ja": "Vox_MoBai_COM_100_red01_a.wav",
+            "en": "Vox_MoBai_COM_100_red01_a.wav"
         },
         "transcription": {
             "cn": "齐齐齐，速来支援！",
@@ -3927,9 +3874,9 @@
         },
         "path": "Vox_MoBai_COM_101",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0038-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0038-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0038-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_101.wav",
+            "ja": "Vox_MoBai_COM_101.wav",
+            "en": "Vox_MoBai_COM_101.wav"
         },
         "transcription": {
             "cn": "拿下这里！",
@@ -3947,9 +3894,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_101_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0038-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0038-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0038-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_101_red01_a.wav",
+            "ja": "Vox_MoBai_COM_101_red01_a.wav",
+            "en": "Vox_MoBai_COM_101_red01_a.wav"
         },
         "transcription": {
             "cn": "听我的，进宫彻礼。",
@@ -3967,9 +3914,9 @@
         },
         "path": "Vox_MoBai_COM_102",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0036-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0036-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0036-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_102.wav",
+            "ja": "Vox_MoBai_COM_102.wav",
+            "en": "Vox_MoBai_COM_102.wav"
         },
         "transcription": {
             "cn": "注意这里！",
@@ -3987,9 +3934,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_102_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0050-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0050-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0050-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_102_red01_a.wav",
+            "ja": "Vox_MoBai_COM_102_red01_a.wav",
+            "en": "Vox_MoBai_COM_102_red01_a.wav"
         },
         "transcription": {
             "cn": "小心点。",
@@ -4007,9 +3954,9 @@
         },
         "path": "Vox_MoBai_COM_103",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0034-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0034-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0034-event.wav"
+            "cn": "Vox_MoBai_COM_103.wav",
+            "ja": "Vox_MoBai_COM_103.wav",
+            "en": "Vox_MoBai_COM_103.wav"
         },
         "transcription": {
             "cn": "把炸弹安在这里吧。",
@@ -4027,9 +3974,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_103_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0036-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0036-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0036-event.wav"
+            "cn": "Vox_MoBai_COM_103_red01_a.wav",
+            "ja": "Vox_MoBai_COM_103_red01_a.wav",
+            "en": "Vox_MoBai_COM_103_red01_a.wav"
         },
         "transcription": {
             "cn": "炸弹装在这里，如何？",
@@ -4047,9 +3994,9 @@
         },
         "path": "Vox_MoBai_COM_104",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0048-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0048-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0048-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_104.wav",
+            "ja": "Vox_MoBai_COM_104.wav",
+            "en": "Vox_MoBai_COM_104.wav"
         },
         "transcription": {
             "cn": "这里发现炸弹！",
@@ -4067,9 +4014,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_104_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0040-event [427219945=136945955].wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0040-event [427219945=136945955].wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0040-event [427219945=136945955].wav"
+            "cn": "Vox_MoBai_COM_104_red01_a.wav",
+            "ja": "Vox_MoBai_COM_104_red01_a.wav",
+            "en": "Vox_MoBai_COM_104_red01_a.wav"
         },
         "transcription": {
             "cn": "炸弹在这儿。",
@@ -4087,9 +4034,9 @@
         },
         "path": "Vox_MoBai_COM_105",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0046-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0046-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0046-event.wav"
+            "cn": "Vox_MoBai_COM_105.wav",
+            "ja": "Vox_MoBai_COM_105.wav",
+            "en": "Vox_MoBai_COM_105.wav"
         },
         "transcription": {
             "cn": "这里有子弹！",
@@ -4107,9 +4054,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_105_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0044-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0044-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0044-event.wav"
+            "cn": "Vox_MoBai_COM_105_red01_a.wav",
+            "ja": "Vox_MoBai_COM_105_red01_a.wav",
+            "en": "Vox_MoBai_COM_105_red01_a.wav"
         },
         "transcription": {
             "cn": "这榴子弹。",
@@ -4127,9 +4074,9 @@
         },
         "path": "Vox_MoBai_COM_106",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0044-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0044-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0044-event.wav"
+            "cn": "Vox_MoBai_COM_106.wav",
+            "ja": "Vox_MoBai_COM_106.wav",
+            "en": "Vox_MoBai_COM_106.wav"
         },
         "transcription": {
             "cn": "这里有护甲！",
@@ -4147,9 +4094,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_106_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0034-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0034-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0034-event.wav"
+            "cn": "Vox_MoBai_COM_106_red01_a.wav",
+            "ja": "Vox_MoBai_COM_106_red01_a.wav",
+            "en": "Vox_MoBai_COM_106_red01_a.wav"
         },
         "transcription": {
             "cn": "那里有虎侠。",
@@ -4167,9 +4114,9 @@
         },
         "path": "Vox_MoBai_COM_107",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_original-0042-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_original-0042-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_original-0042-event.wav"
+            "cn": "Vox_MoBai_COM_107.wav",
+            "ja": "Vox_MoBai_COM_107.wav",
+            "en": "Vox_MoBai_COM_107.wav"
         },
         "transcription": {
             "cn": "这里有战术道具！",
@@ -4187,9 +4134,9 @@
         "title": {},
         "path": "Vox_MoBai_COM_107_red01_a",
         "file": {
-            "cn": "Vox_MoBai_InGame_Mark_red01-0046-event.wav",
-            "ja": "Vox_MoBai_InGame_Mark_red01-0046-event.wav",
-            "en": "Vox_MoBai_InGame_Mark_red01-0046-event.wav"
+            "cn": "Vox_MoBai_COM_107_red01_a.wav",
+            "ja": "Vox_MoBai_COM_107_red01_a.wav",
+            "en": "Vox_MoBai_COM_107_red01_a.wav"
         },
         "transcription": {
             "cn": "发现战术道具。",
@@ -4207,9 +4154,9 @@
         },
         "path": "Vox_MoBai_COM_151",
         "file": {
-            "cn": "Vox_MoBai_InGame_Tactical_Item_original-0027-event.wav",
-            "ja": "Vox_MoBai_InGame_Tactical_Item_original-0027-event.wav",
-            "en": "Vox_MoBai_InGame_Tactical_Item_original-0027-event.wav"
+            "cn": "Vox_MoBai_COM_151.wav",
+            "ja": "Vox_MoBai_COM_151.wav",
+            "en": "Vox_MoBai_COM_151.wav"
         },
         "transcription": {
             "cn": "警报器发现敌人！",
@@ -4233,9 +4180,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_022",
         "file": {
-            "cn": "Vox_Logo-0114-event.wav",
-            "ja": "Vox_Logo-0110-event.wav",
-            "en": "Vox_Logo-0114-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_022.wav",
+            "ja": "Vox_MoBai_BPCHAR_022.wav",
+            "en": "Vox_MoBai_BPCHAR_022.wav"
         },
         "transcription": {
             "cn": "卡拉彼丘。",
@@ -4264,9 +4211,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_018",
         "file": {
-            "cn": "Vox_MoBai_OutGame_Equipment_original-0014-event.wav",
-            "ja": "Vox_MoBai_OutGame_Equipment_original-0014-event.wav",
-            "en": "Vox_MoBai_OutGame_Equipment_original-0014-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_018.wav",
+            "ja": "Vox_MoBai_BPCHAR_018.wav",
+            "en": "Vox_MoBai_BPCHAR_018.wav"
         },
         "transcription": {
             "cn": "你不会还不知道我的名字吧？白墨，从今天开始，要成为你伙伴的男人。",
@@ -4287,9 +4234,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_019",
         "file": {
-            "cn": "Vox_MoBai_OutGame_Equipment_original-0016-event.wav",
-            "ja": "Vox_MoBai_OutGame_Equipment_original-0016-event.wav",
-            "en": "Vox_MoBai_OutGame_Equipment_original-0016-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_019.wav",
+            "ja": "Vox_MoBai_BPCHAR_019.wav",
+            "en": "Vox_MoBai_BPCHAR_019.wav"
         },
         "transcription": {
             "cn": "哟，你来了啊？等你很久了！",
@@ -4313,9 +4260,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_020",
         "file": {
-            "cn": "Vox_MoBai_OutGame_Equipment_original-0020-event.wav",
-            "ja": "Vox_MoBai_OutGame_Equipment_original-0020-event.wav",
-            "en": "Vox_MoBai_OutGame_Equipment_original-0020-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_020.wav",
+            "ja": "Vox_MoBai_BPCHAR_020.wav",
+            "en": "Vox_MoBai_BPCHAR_020.wav"
         },
         "transcription": {
             "cn": "好吧，就它了！",
@@ -4344,9 +4291,9 @@
         },
         "path": "Vox_MoBai_BPCHAR_021",
         "file": {
-            "cn": "Vox_MoBai_OutGame_Equipment_original-0018-event.wav",
-            "ja": "Vox_MoBai_OutGame_Equipment_original-0018-event.wav",
-            "en": "Vox_MoBai_OutGame_Equipment_original-0018-event.wav"
+            "cn": "Vox_MoBai_BPCHAR_021.wav",
+            "ja": "Vox_MoBai_BPCHAR_021.wav",
+            "en": "Vox_MoBai_BPCHAR_021.wav"
         },
         "transcription": {
             "cn": "好的，没问题！",
@@ -4358,5 +4305,61 @@
                 "en": ""
             }
         }
+    },
+    "22110236": {
+        "id": 22110236,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_SelectCharacter-0312-event.wav",
+            "ja": "Vox_SelectCharacter-0312-event.wav",
+            "en": "Vox_SelectCharacter-0312-event.wav"
+        },
+        "transcription": {
+            "cn": "站在你面前的是直播界顶流，白沫。",
+            "en": "Feast your eyes on the streaming sensation, the one and only Bai Mo!",
+            "ja": "今、お前の前にいるのがトップストリーマーの白墨だ!"
+        },
+        "translation": {
+            "cn": {}
+        },
+        "non_local": true
+    },
+    "22110237": {
+        "id": 22110237,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_SelectCharacter-0549-event.wav",
+            "ja": "Vox_SelectCharacter-0549-event.wav",
+            "en": "Vox_SelectCharacter-0549-event.wav"
+        },
+        "transcription": {
+            "cn": "主播已上线，观众老爷们久等了。",
+            "en": "Buckle up, we're going live.",
+            "ja": "白墨様の登場だ!もう待ちきれねぇだろ?"
+        },
+        "translation": {
+            "cn": {}
+        },
+        "non_local": true
+    },
+    "22110260": {
+        "id": 22110260,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
+            "ja": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
+            "en": "Vox_MoBai_InGame_Explode_red01-0024-event.wav"
+        },
+        "transcription": {
+            "cn": "炸弹在这儿吧。",
+            "en": "Let's plant the bomb here."
+        },
+        "translation": {
+            "cn": {}
+        },
+        "non_local": true
     }
 }
