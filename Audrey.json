@@ -2321,6 +2321,28 @@
             }
         }
     },
+    "22105236": {
+        "id": 22105236,
+        "title": {
+            "cn": "",
+            "en": ""
+        },
+        "path": "Vox_Audrey_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Audrey_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Audrey_BPCHAR_066_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "硝烟，猜疑，纷争。即使面对末日，我也会继续坚守重拾的荣光。",
+            "ja": "スモーク、サスピション、コンフリクト。たとえ終末が訪れようと、取り戻した栄光は命にかけて守る。"
+        },
+        "translation": {
+            "cn": {
+                "en": ""
+            }
+        }
+    },
     "22105232": {
         "id": 22105232,
         "title": {
@@ -2330,7 +2352,7 @@
         "path": "Vox_Audrey_BPCHAR_066_org01_a",
         "file": {
             "cn": "Vox_Audrey_BPCHAR_066_org01_a.wav",
-            "ja": "",
+            "ja": "Vox_Audrey_BPCHAR_066_org01_a.wav",
             "en": ""
         },
         "transcription": {
@@ -7683,28 +7705,5 @@
                 "en": ""
             }
         }
-    },
-    "22105236": {
-        "id": 22105236,
-        "title": {
-            "cn": "",
-            "en": ""
-        },
-        "path": "Vox_Audrey_BPCHAR_066_red01_a",
-        "file": {
-            "cn": "Vox_Audrey_BPCHAR_066_red01_a.wav",
-            "ja": "Vox_Audrey_BPCHAR_066_red01_a.wav",
-            "en": "Vox_Audrey_BPCHAR_066_red01_a.wav"
-        },
-        "transcription": {
-            "cn": "硝烟，猜疑，纷争。即使面对末日，我也会继续坚守重拾的荣光。",
-            "ja": "スモーク、サスピション、コンフリクト。たとえ終末が訪れようと、取り戻した栄光は命にかけて守る。"
-        },
-        "translation": {
-            "cn": {
-                "en": ""
-            }
-        },
-        "non_local": true
     }
 }

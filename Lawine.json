@@ -2382,13 +2382,35 @@
         "path": "Vox_Lawine_BPCHAR_066_red01_a",
         "file": {
             "cn": "Vox_Lawine_BPCHAR_066_red01_a.wav",
-            "ja": "",
-            "en": ""
+            "ja": "Vox_Lawine_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Lawine_BPCHAR_066_red01_a.wav"
         },
         "transcription": {
             "cn": "你是否愿意追随我的刀光呢？",
             "ja": "",
             "en": "Will you follow my blade?"
+        },
+        "translation": {
+            "cn": {
+                "en": ""
+            }
+        }
+    },
+    "22128232": {
+        "id": 22128232,
+        "title": {
+            "cn": "",
+            "en": ""
+        },
+        "path": "Vox_Lawine_BPCHAR_066_org01_a",
+        "file": {
+            "cn": "Vox_Lawine_BPCHAR_066_org01_a.wav",
+            "ja": "",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "茶且放下，我去去就回。",
+            "ja": ""
         },
         "translation": {
             "cn": {
@@ -7824,29 +7846,6 @@
                 "en": ""
             }
         }
-    },
-    "22128232": {
-        "id": 22128232,
-        "title": {
-            "cn": "",
-            "en": ""
-        },
-        "path": "Vox_Lawine_BPCHAR_066_org01_a",
-        "file": {
-            "cn": "Vox_Lawine_BPCHAR_066_org01_a.wav",
-            "ja": "Vox_Lawine_BPCHAR_066_org01_a.wav",
-            "en": "Vox_Lawine_BPCHAR_066_org01_a.wav"
-        },
-        "transcription": {
-            "cn": "茶且放下，我去去就回。",
-            "ja": ""
-        },
-        "translation": {
-            "cn": {
-                "en": ""
-            }
-        },
-        "non_local": true
     },
     "22128211": {
         "id": 22128211,

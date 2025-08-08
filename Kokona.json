@@ -1479,14 +1479,36 @@
         },
         "path": "Vox_Kokona_BPCHAR_066_red01_a",
         "file": {
-            "cn": "",
-            "ja": "",
+            "cn": "Vox_Kokona_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Kokona_BPCHAR_066_red01_a.wav",
             "en": "Vox_Kokona_BPCHAR_066_red01_a.wav"
         },
         "transcription": {
             "cn": "激动天使夏日皇闪亮登场。",
             "ja": "",
             "en": "Here comes the Mecha Angel!"
+        },
+        "translation": {
+            "cn": {
+                "en": ""
+            }
+        }
+    },
+    "22124338": {
+        "id": 22124338,
+        "title": {
+            "cn": "",
+            "en": ""
+        },
+        "path": "Vox_Kokona_BPCHAR_066_org01_a",
+        "file": {
+            "cn": "Vox_Kokona_BPCHAR_066_org01_a.wav",
+            "ja": "",
+            "en": ""
+        },
+        "transcription": {
+            "cn": "啊，触及命令，我知道了。",
+            "ja": ""
         },
         "translation": {
             "cn": {
@@ -6648,29 +6670,6 @@
                 "en": ""
             }
         }
-    },
-    "22124338": {
-        "id": 22124338,
-        "title": {
-            "cn": "",
-            "en": ""
-        },
-        "path": "Vox_Kokona_BPCHAR_066_org01_a",
-        "file": {
-            "cn": "Vox_Kokona_BPCHAR_066_org01_a.wav",
-            "ja": "Vox_Kokona_BPCHAR_066_org01_a.wav",
-            "en": "Vox_Kokona_BPCHAR_066_org01_a.wav"
-        },
-        "transcription": {
-            "cn": "啊，触及命令，我知道了。",
-            "ja": ""
-        },
-        "translation": {
-            "cn": {
-                "en": ""
-            }
-        },
-        "non_local": true
     },
     "22124340": {
         "id": 22124340,

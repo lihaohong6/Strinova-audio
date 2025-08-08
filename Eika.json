@@ -33,6 +33,24 @@
             }
         }
     },
+    "22119236": {
+        "id": 22119236,
+        "title": {},
+        "path": "Vox_Aika_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Aika_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Aika_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Aika_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": "",
+            "en": "I am the flame that lights up the heart of Cretton!",
+            "ja": "重装型アイカ！ここに参上！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22119067": {
         "id": 22119067,
         "title": {
@@ -4353,24 +4371,5 @@
                 "en": ""
             }
         }
-    },
-    "22119236": {
-        "id": 22119236,
-        "title": {},
-        "path": "Vox_Aika_BPCHAR_066_red01_a",
-        "file": {
-            "cn": "Vox_Aika_BPCHAR_066_red01_a.wav",
-            "ja": "Vox_Aika_BPCHAR_066_red01_a.wav",
-            "en": "Vox_Aika_BPCHAR_066_red01_a.wav"
-        },
-        "transcription": {
-            "cn": "",
-            "en": "I am the flame that lights up the heart of Cretton!",
-            "ja": "重装型アイカ！ここに参上！"
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
     }
 }
