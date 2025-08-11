@@ -4,9 +4,9 @@
         "title": {},
         "path": "Vox_Fragrans_BPCHAR_066",
         "file": {
-            "cn": "Vox_SelectCharacter-0269-event.wav",
-            "ja": "Vox_SelectCharacter-0269-event.wav",
-            "en": "Vox_SelectCharacter-0269-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_066.wav",
+            "ja": "Vox_Fragrans_BPCHAR_066.wav",
+            "en": "Vox_Fragrans_BPCHAR_066.wav"
         },
         "transcription": {
             "cn": "最新的香氛配方，就实战来检验一下吧。",
@@ -25,14 +25,30 @@
             }
         }
     },
+    "22120236": {
+        "id": 22120236,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120067": {
         "id": 22120067,
         "title": {},
         "path": "Vox_Fragrans_BPCHAR_067",
         "file": {
-            "cn": "Vox_SelectCharacter-0267-event.wav",
-            "ja": "Vox_SelectCharacter-0267-event.wav",
-            "en": "Vox_SelectCharacter-0267-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_067.wav",
+            "ja": "Vox_Fragrans_BPCHAR_067.wav",
+            "en": "Vox_Fragrans_BPCHAR_067.wav"
         },
         "transcription": {
             "cn": "引航者，检验效果的事就拜托你了。",
@@ -51,6 +67,22 @@
             }
         }
     },
+    "22120237": {
+        "id": 22120237,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAR_067_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120068": {
         "id": 22120068,
         "title": {
@@ -62,9 +94,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_068",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Hall_original-0017-event.wav",
-            "ja": "Vox_Fragrans_InGame_Hall_original-0017-event.wav",
-            "en": "Vox_Fragrans_InGame_Hall_original-0017-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_068.wav",
+            "ja": "Vox_Fragrans_BPCHAR_068.wav",
+            "en": "Vox_Fragrans_BPCHAR_068.wav"
         },
         "transcription": {
             "cn": "我不喜欢争斗，但我也不会放弃争斗。",
@@ -85,6 +117,22 @@
             }
         }
     },
+    "22120238": {
+        "id": 22120238,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAR_068_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAR_068_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAR_068_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120069": {
         "id": 22120069,
         "title": {
@@ -96,9 +144,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_069",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Hall_original-0015-event.wav",
-            "ja": "Vox_Fragrans_InGame_Hall_original-0015-event.wav",
-            "en": "Vox_Fragrans_InGame_Hall_original-0015-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_069.wav",
+            "ja": "Vox_Fragrans_BPCHAR_069.wav",
+            "en": "Vox_Fragrans_BPCHAR_069.wav"
         },
         "transcription": {
             "cn": "我会驱散大家的不安，放心战斗吧。",
@@ -119,6 +167,22 @@
             }
         }
     },
+    "22120239": {
+        "id": 22120239,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAR_069_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAR_069_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAR_069_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120070": {
         "id": 22120070,
         "title": {
@@ -130,9 +194,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_070",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Hall_original-0013-event.wav",
-            "ja": "Vox_Fragrans_InGame_Hall_original-0013-event.wav",
-            "en": "Vox_Fragrans_InGame_Hall_original-0013-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_070.wav",
+            "ja": "Vox_Fragrans_BPCHAR_070.wav",
+            "en": "Vox_Fragrans_BPCHAR_070.wav"
         },
         "transcription": {
             "cn": "好像太久没有离开花房了，稍微活动活动吧。",
@@ -153,6 +217,22 @@
             }
         }
     },
+    "22120240": {
+        "id": 22120240,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAR_070_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAR_070_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAR_070_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120071": {
         "id": 22120071,
         "title": {
@@ -161,9 +241,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_071",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0025-event.wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0025-event.wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0025-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_071.wav",
+            "ja": "Vox_Fragrans_BPCHAT_071.wav",
+            "en": "Vox_Fragrans_BPCHAT_071.wav"
         },
         "transcription": {
             "cn": "香物花心，调配完成。",
@@ -174,6 +254,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120250": {
+        "id": 22120250,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_071_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_071_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_071_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120072": {
@@ -187,9 +283,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_072",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0027-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0027-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0027-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_072.wav",
+            "ja": "Vox_Fragrans_BPCHAT_072.wav",
+            "en": "Vox_Fragrans_BPCHAT_072.wav"
         },
         "transcription": {
             "cn": "打起精神来吧。",
@@ -210,6 +306,22 @@
             }
         }
     },
+    "22120251": {
+        "id": 22120251,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_072_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_072_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_072_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120073": {
         "id": 22120073,
         "title": {
@@ -221,9 +333,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_073",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0029-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0029-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0029-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_073.wav",
+            "ja": "Vox_Fragrans_BPCHAT_073.wav",
+            "en": "Vox_Fragrans_BPCHAT_073.wav"
         },
         "transcription": {
             "cn": "花香会为大家带走疲劳。",
@@ -244,6 +356,22 @@
             }
         }
     },
+    "22120252": {
+        "id": 22120252,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_073_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_073_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_073_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120074": {
         "id": 22120074,
         "title": {
@@ -255,9 +383,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_074",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0031-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0031-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0031-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_074.wav",
+            "ja": "Vox_Fragrans_BPCHAT_074.wav",
+            "en": "Vox_Fragrans_BPCHAT_074.wav"
         },
         "transcription": {
             "cn": "试试这款香氛的效果吧。",
@@ -278,6 +406,22 @@
             }
         }
     },
+    "22120253": {
+        "id": 22120253,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_074_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_074_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_074_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120075": {
         "id": 22120075,
         "title": {
@@ -286,9 +430,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_075",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0033-event.wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0033-event.wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0033-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_075.wav",
+            "ja": "Vox_Fragrans_BPCHAT_075.wav",
+            "en": "Vox_Fragrans_BPCHAT_075.wav"
         },
         "transcription": {
             "cn": "在花香的擁抱中，暫且休憩吧。",
@@ -301,6 +445,22 @@
             }
         }
     },
+    "22120254": {
+        "id": 22120254,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120076": {
         "id": 22120076,
         "title": {
@@ -309,9 +469,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_076",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0035-event.wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0035-event.wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0035-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_076.wav",
+            "ja": "Vox_Fragrans_BPCHAT_076.wav",
+            "en": "Vox_Fragrans_BPCHAT_076.wav"
         },
         "transcription": {
             "cn": "繁花的芬芳即將呈現。",
@@ -322,6 +482,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120255": {
+        "id": 22120255,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_076_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_076_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_076_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120077": {
@@ -335,9 +511,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_077",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0082-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0082-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0082-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_077.wav",
+            "ja": "Vox_Fragrans_BPCHAT_077.wav",
+            "en": "Vox_Fragrans_BPCHAT_077.wav"
         },
         "transcription": {
             "cn": "芬芳四溢。",
@@ -358,6 +534,22 @@
             }
         }
     },
+    "22120256": {
+        "id": 22120256,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_077_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_077_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_077_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120078": {
         "id": 22120078,
         "title": {
@@ -369,9 +561,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_078",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0084-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0084-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0084-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_078.wav",
+            "ja": "Vox_Fragrans_BPCHAT_078.wav",
+            "en": "Vox_Fragrans_BPCHAT_078.wav"
         },
         "transcription": {
             "cn": "一切都是花朵的精华。",
@@ -392,6 +584,22 @@
             }
         }
     },
+    "22120257": {
+        "id": 22120257,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_078_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_078_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_078_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120079": {
         "id": 22120079,
         "title": {
@@ -403,9 +611,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_079",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0086-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0086-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0086-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_079.wav",
+            "ja": "Vox_Fragrans_BPCHAT_079.wav",
+            "en": "Vox_Fragrans_BPCHAT_079.wav"
         },
         "transcription": {
             "cn": "这是来自群芳的祝福。",
@@ -426,6 +634,22 @@
             }
         }
     },
+    "22120258": {
+        "id": 22120258,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_079_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_079_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_079_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120080": {
         "id": 22120080,
         "title": {
@@ -434,9 +658,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_080",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Skill_original-0037-event.wav",
-            "ja": "Vox_Fragrans_InGame_Skill_original-0037-event.wav",
-            "en": "Vox_Fragrans_InGame_Skill_original-0037-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_080.wav",
+            "ja": "Vox_Fragrans_BPCHAT_080.wav",
+            "en": "Vox_Fragrans_BPCHAT_080.wav"
         },
         "transcription": {
             "cn": "芬芳是需要时间的，请耐心等待。",
@@ -449,6 +673,22 @@
             }
         }
     },
+    "22120259": {
+        "id": 22120259,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_080_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_080_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120108": {
         "id": 22120108,
         "title": {
@@ -457,9 +697,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_108",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0088-event {r}.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0088-event {r}.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0088-event {r}.wav"
+            "cn": "Vox_Fragrans_BPCHAT_108.wav",
+            "ja": "Vox_Fragrans_BPCHAT_108.wav",
+            "en": "Vox_Fragrans_BPCHAT_108.wav"
         },
         "transcription": {
             "cn": "呵呵。",
@@ -470,6 +710,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120294": {
+        "id": 22120294,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_108_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120109": {
@@ -483,9 +739,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_109",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0090-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0090-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0090-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_109.wav",
+            "ja": "Vox_Fragrans_BPCHAT_109.wav",
+            "en": "Vox_Fragrans_BPCHAT_109.wav"
         },
         "transcription": {
             "cn": "睡一会儿吧。",
@@ -506,6 +762,22 @@
             }
         }
     },
+    "22120295": {
+        "id": 22120295,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_109_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_109_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_109_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120110": {
         "id": 22120110,
         "title": {
@@ -517,9 +789,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_110",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0110-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0110-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0110-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_110.wav",
+            "ja": "Vox_Fragrans_BPCHAT_110.wav",
+            "en": "Vox_Fragrans_BPCHAT_110.wav"
         },
         "transcription": {
             "cn": "杂草需要定时清理。",
@@ -540,6 +812,22 @@
             }
         }
     },
+    "22120296": {
+        "id": 22120296,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_110_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_110_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_110_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120111": {
         "id": 22120111,
         "title": {
@@ -551,9 +839,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_111",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0108-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0108-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0108-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_111.wav",
+            "ja": "Vox_Fragrans_BPCHAT_111.wav",
+            "en": "Vox_Fragrans_BPCHAT_111.wav"
         },
         "transcription": {
             "cn": "你的气味将被芬芳覆盖。",
@@ -574,6 +862,22 @@
             }
         }
     },
+    "22120297": {
+        "id": 22120297,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_111_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_111_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_111_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120112": {
         "id": 22120112,
         "title": {
@@ -585,9 +889,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_112",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0106-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0106-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0106-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_112.wav",
+            "ja": "Vox_Fragrans_BPCHAT_112.wav",
+            "en": "Vox_Fragrans_BPCHAT_112.wav"
         },
         "transcription": {
             "cn": "请不要打扰我的研究。",
@@ -608,6 +912,22 @@
             }
         }
     },
+    "22120298": {
+        "id": 22120298,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_112_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_112_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_112_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120113": {
         "id": 22120113,
         "title": {
@@ -619,9 +939,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_113",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0104-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0104-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0104-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_113.wav",
+            "ja": "Vox_Fragrans_BPCHAT_113.wav",
+            "en": "Vox_Fragrans_BPCHAT_113.wav"
         },
         "transcription": {
             "cn": "这是给坏孩子的一点警告。",
@@ -642,6 +962,22 @@
             }
         }
     },
+    "22120299": {
+        "id": 22120299,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_113_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_113_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_113_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120114": {
         "id": 22120114,
         "title": {
@@ -653,9 +989,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_114",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0102-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0102-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0102-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_114.wav",
+            "ja": "Vox_Fragrans_BPCHAT_114.wav",
+            "en": "Vox_Fragrans_BPCHAT_114.wav"
         },
         "transcription": {
             "cn": "迎接你的不是芬芳，而是子弹。",
@@ -676,6 +1012,22 @@
             }
         }
     },
+    "22120300": {
+        "id": 22120300,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_114_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_114_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_114_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120115": {
         "id": 22120115,
         "title": {
@@ -684,9 +1036,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_115",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0100-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0100-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0100-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_115.wav",
+            "ja": "Vox_Fragrans_BPCHAT_115.wav",
+            "en": "Vox_Fragrans_BPCHAT_115.wav"
         },
         "transcription": {
             "cn": "希望的种子已经破土。",
@@ -699,6 +1051,22 @@
             }
         }
     },
+    "22120301": {
+        "id": 22120301,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_115_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_115_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_115_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120116": {
         "id": 22120116,
         "title": {
@@ -707,9 +1075,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_116",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0098-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0098-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0098-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_116.wav",
+            "ja": "Vox_Fragrans_BPCHAT_116.wav",
+            "en": "Vox_Fragrans_BPCHAT_116.wav"
         },
         "transcription": {
             "cn": "待放的花蕾何须畏惧风雨。",
@@ -722,6 +1090,22 @@
             }
         }
     },
+    "22120302": {
+        "id": 22120302,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_116_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_116_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_116_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120117": {
         "id": 22120117,
         "title": {
@@ -730,9 +1114,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_117",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0096-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0096-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0096-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_117.wav",
+            "ja": "Vox_Fragrans_BPCHAT_117.wav",
+            "en": "Vox_Fragrans_BPCHAT_117.wav"
         },
         "transcription": {
             "cn": "我将迈向幸福的花海。",
@@ -745,6 +1129,22 @@
             }
         }
     },
+    "22120303": {
+        "id": 22120303,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_117_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_117_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_117_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120118": {
         "id": 22120118,
         "title": {
@@ -753,9 +1153,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_118",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0094-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0094-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0094-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_118.wav",
+            "ja": "Vox_Fragrans_BPCHAT_118.wav",
+            "en": "Vox_Fragrans_BPCHAT_118.wav"
         },
         "transcription": {
             "cn": "让战场遍然芬芳。",
@@ -768,6 +1168,22 @@
             }
         }
     },
+    "22120304": {
+        "id": 22120304,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_118_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_118_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_118_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120119": {
         "id": 22120119,
         "title": {
@@ -776,9 +1192,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_119",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0092-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0092-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0092-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_119.wav",
+            "ja": "Vox_Fragrans_BPCHAT_119.wav",
+            "en": "Vox_Fragrans_BPCHAT_119.wav"
         },
         "transcription": {
             "cn": "为众人予以幸福。",
@@ -791,6 +1207,22 @@
             }
         }
     },
+    "22120305": {
+        "id": 22120305,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_119_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_119_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_119_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120120": {
         "id": 22120120,
         "title": {
@@ -799,9 +1231,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_120",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0116-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0116-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0116-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_120.wav",
+            "ja": "Vox_Fragrans_BPCHAT_120.wav",
+            "en": "Vox_Fragrans_BPCHAT_120.wav"
         },
         "transcription": {
             "cn": "氣味早已暴露了你的蹤跡。",
@@ -814,6 +1246,22 @@
             }
         }
     },
+    "22120306": {
+        "id": 22120306,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_120_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_120_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_120_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120123": {
         "id": 22120123,
         "title": {
@@ -822,9 +1270,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_123",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0114-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0114-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0114-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_123.wav",
+            "ja": "Vox_Fragrans_BPCHAT_123.wav",
+            "en": "Vox_Fragrans_BPCHAT_123.wav"
         },
         "transcription": {
             "cn": "离神，不是修净花草的工具吗？",
@@ -837,6 +1285,22 @@
             }
         }
     },
+    "22120309": {
+        "id": 22120309,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_123_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_123_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_123_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120124": {
         "id": 22120124,
         "title": {
@@ -845,9 +1309,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_124",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0120-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0120-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0120-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_124.wav",
+            "ja": "Vox_Fragrans_BPCHAT_124.wav",
+            "en": "Vox_Fragrans_BPCHAT_124.wav"
         },
         "transcription": {
             "cn": "又沒能逃離…危險的圈套嗎？",
@@ -860,6 +1324,22 @@
             }
         }
     },
+    "22120310": {
+        "id": 22120310,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_124_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_124_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_124_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120125": {
         "id": 22120125,
         "title": {
@@ -868,9 +1348,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_125",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0122-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0122-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0122-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_125.wav",
+            "ja": "Vox_Fragrans_BPCHAT_125.wav",
+            "en": "Vox_Fragrans_BPCHAT_125.wav"
         },
         "transcription": {
             "cn": "花朵，最若一折。",
@@ -883,6 +1363,22 @@
             }
         }
     },
+    "22120311": {
+        "id": 22120311,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_125_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_125_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_125_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_125_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120126": {
         "id": 22120126,
         "title": {
@@ -891,9 +1387,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_126",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Rescue_original-0023-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Rescue_original-0023-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Rescue_original-0023-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_126.wav",
+            "ja": "Vox_Fragrans_BPCHAT_126.wav",
+            "en": "Vox_Fragrans_BPCHAT_126.wav"
         },
         "transcription": {
             "cn": "我可不再是温室里的花朵了。",
@@ -906,6 +1402,22 @@
             }
         }
     },
+    "22120312": {
+        "id": 22120312,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_126_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_126_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_126_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120127": {
         "id": 22120127,
         "title": {
@@ -914,9 +1426,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_127",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Rescue_original-0025-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Rescue_original-0025-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Rescue_original-0025-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_127.wav",
+            "ja": "Vox_Fragrans_BPCHAT_127.wav",
+            "en": "Vox_Fragrans_BPCHAT_127.wav"
         },
         "transcription": {
             "cn": "好痛。",
@@ -929,6 +1441,22 @@
             }
         }
     },
+    "22120313": {
+        "id": 22120313,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_127_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_127_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_127_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120122": {
         "id": 22120122,
         "title": {
@@ -937,9 +1465,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_122",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0112-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0112-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0112-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_122.wav",
+            "ja": "Vox_Fragrans_BPCHAT_122.wav",
+            "en": "Vox_Fragrans_BPCHAT_122.wav"
         },
         "transcription": {
             "cn": "花谢了，香气也消散了。",
@@ -952,6 +1480,22 @@
             }
         }
     },
+    "22120308": {
+        "id": 22120308,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_122_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_122_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_122_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120121": {
         "id": 22120121,
         "title": {
@@ -960,9 +1504,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_121",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0118-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0118-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0118-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_121.wav",
+            "ja": "Vox_Fragrans_BPCHAT_121.wav",
+            "en": "Vox_Fragrans_BPCHAT_121.wav"
         },
         "transcription": {
             "cn": "我的香氛研究，还会完成。",
@@ -975,6 +1519,22 @@
             }
         }
     },
+    "22120307": {
+        "id": 22120307,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_121_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_121_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_121_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120128": {
         "id": 22120128,
         "title": {
@@ -983,9 +1543,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_128",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Rescue_original-0027-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Rescue_original-0027-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Rescue_original-0027-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_128.wav",
+            "ja": "Vox_Fragrans_BPCHAT_128.wav",
+            "en": "Vox_Fragrans_BPCHAT_128.wav"
         },
         "transcription": {
             "cn": "来个热心的孩子，帮帮我吧。",
@@ -996,6 +1556,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120314": {
+        "id": 22120314,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_128_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_128_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_128_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120129": {
@@ -1009,9 +1585,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_129",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Rescue_original-0029-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Rescue_original-0029-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Rescue_original-0029-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_129.wav",
+            "ja": "Vox_Fragrans_BPCHAT_129.wav",
+            "en": "Vox_Fragrans_BPCHAT_129.wav"
         },
         "transcription": {
             "cn": "没事的，有我在。",
@@ -1032,6 +1608,22 @@
             }
         }
     },
+    "22120315": {
+        "id": 22120315,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_129_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_129_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_129_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120130": {
         "id": 22120130,
         "title": {
@@ -1040,9 +1632,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_130",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Rescue_original-0031-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Rescue_original-0031-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Rescue_original-0031-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_130.wav",
+            "ja": "Vox_Fragrans_BPCHAT_130.wav",
+            "en": "Vox_Fragrans_BPCHAT_130.wav"
         },
         "transcription": {
             "cn": "謝謝你。",
@@ -1055,6 +1647,22 @@
             }
         }
     },
+    "22120316": {
+        "id": 22120316,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_130_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_130_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_130_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120131": {
         "id": 22120131,
         "title": {
@@ -1063,9 +1671,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_131",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Explode_original-0026-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Explode_original-0026-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Explode_original-0026-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_131.wav",
+            "ja": "Vox_Fragrans_BPCHAT_131.wav",
+            "en": "Vox_Fragrans_BPCHAT_131.wav"
         },
         "transcription": {
             "cn": "炸弹……让我来装吧。",
@@ -1078,6 +1686,22 @@
             }
         }
     },
+    "22120260": {
+        "id": 22120260,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_131_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120132": {
         "id": 22120132,
         "title": {
@@ -1086,9 +1710,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_132",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Explode_original-0030-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Explode_original-0030-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Explode_original-0030-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_132.wav",
+            "ja": "Vox_Fragrans_BPCHAT_132.wav",
+            "en": "Vox_Fragrans_BPCHAT_132.wav"
         },
         "transcription": {
             "cn": "这个东西比我预想的要轻。",
@@ -1101,6 +1725,22 @@
             }
         }
     },
+    "22120262": {
+        "id": 22120262,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_132_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_132_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_132_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120133": {
         "id": 22120133,
         "title": {
@@ -1109,9 +1749,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_133",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Explode_original-0028-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Explode_original-0028-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Explode_original-0028-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_133.wav",
+            "ja": "Vox_Fragrans_BPCHAT_133.wav",
+            "en": "Vox_Fragrans_BPCHAT_133.wav"
         },
         "transcription": {
             "cn": "噢，危险的东西总算被拆除了。",
@@ -1124,6 +1764,22 @@
             }
         }
     },
+    "22120263": {
+        "id": 22120263,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_133_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_133_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_133_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120134": {
         "id": 22120134,
         "title": {
@@ -1132,9 +1788,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_134",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Explode_original-0024-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Explode_original-0024-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Explode_original-0024-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_134.wav",
+            "ja": "Vox_Fragrans_BPCHAT_134.wav",
+            "en": "Vox_Fragrans_BPCHAT_134.wav"
         },
         "transcription": {
             "cn": "危险物品，我暂时离它远一点。",
@@ -1147,6 +1803,22 @@
             }
         }
     },
+    "22120264": {
+        "id": 22120264,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_134_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_134_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_134_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120135": {
         "id": 22120135,
         "title": {
@@ -1155,9 +1827,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_135",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Explode_original-0022-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Explode_original-0022-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Explode_original-0022-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_BPCHAT_135.wav",
+            "ja": "Vox_Fragrans_BPCHAT_135.wav",
+            "en": "Vox_Fragrans_BPCHAT_135.wav"
         },
         "transcription": {
             "cn": "我嗅到了，危險。",
@@ -1170,6 +1842,22 @@
             }
         }
     },
+    "22120261": {
+        "id": 22120261,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_135_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_135_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_135_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120136": {
         "id": 22120136,
         "title": {
@@ -1178,9 +1866,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_136",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Kill_original-0124-event.wav",
-            "ja": "Vox_Fragrans_InGame_Kill_original-0124-event.wav",
-            "en": "Vox_Fragrans_InGame_Kill_original-0124-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_136.wav",
+            "ja": "Vox_Fragrans_BPCHAT_136.wav",
+            "en": "Vox_Fragrans_BPCHAT_136.wav"
         },
         "transcription": {
             "cn": "我带来了花香与祝福。",
@@ -1191,6 +1879,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120293": {
+        "id": 22120293,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_136_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_136_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_136_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120137": {
@@ -1204,9 +1908,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_137",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0030-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0030-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0030-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_137.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137.wav",
+            "en": "Vox_Fragrans_BPCHAT_137.wav"
         },
         "transcription": {
             "cn": "芬芳，随风而逝了吗？",
@@ -1235,9 +1939,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_137_b",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0026-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0026-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0026-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_137_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_137_b.wav"
         },
         "transcription": {
             "cn": "研究被迫中断了，但在达成目标前，我不会放弃。",
@@ -1258,9 +1962,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_137_c",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0024-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0024-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0024-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_137_c.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137_c.wav",
+            "en": "Vox_Fragrans_BPCHAT_137_c.wav"
         },
         "transcription": {
             "cn": "战场，并非是花朵与芬芳的归宿。",
@@ -1271,6 +1975,54 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120244": {
+        "id": 22120244,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_137_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_137_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120245": {
+        "id": 22120245,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_137_red01_b",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137_red01_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_137_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120246": {
+        "id": 22120246,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_137_red01_c",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_Fragrans_BPCHAT_137_red01_c.wav",
+            "en": "Vox_Fragrans_BPCHAT_137_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120138": {
@@ -1284,9 +2036,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_138",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0034-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0034-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0034-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_138.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138.wav",
+            "en": "Vox_Fragrans_BPCHAT_138.wav"
         },
         "transcription": {
             "cn": "不论风雨，花朵依旧会如期绽放。",
@@ -1315,9 +2067,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_138_b",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0036-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0036-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0036-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_138_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_138_b.wav"
         },
         "transcription": {
             "cn": "成功就像栽培花朵，耐心地浇灌与呵护，必不可少。",
@@ -1338,9 +2090,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_138_c",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0038-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0038-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0038-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_138_c.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138_c.wav",
+            "en": "Vox_Fragrans_BPCHAT_138_c.wav"
         },
         "transcription": {
             "cn": "带给大家芬芳和幸福，是我一直以来的追求。",
@@ -1351,6 +2103,54 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22120241": {
+        "id": 22120241,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_138_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_138_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120242": {
+        "id": 22120242,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_138_red01_b",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138_red01_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_138_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120243": {
+        "id": 22120243,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_138_red01_c",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_Fragrans_BPCHAT_138_red01_c.wav",
+            "en": "Vox_Fragrans_BPCHAT_138_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22120139": {
@@ -1364,9 +2164,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_139",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0032-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0032-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0032-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_139.wav",
+            "ja": "Vox_Fragrans_BPCHAT_139.wav",
+            "en": "Vox_Fragrans_BPCHAT_139.wav"
         },
         "transcription": {
             "cn": "芬芳虽然消散了，但是花的种子还在，不要气馁。",
@@ -1387,6 +2187,22 @@
             }
         }
     },
+    "22120247": {
+        "id": 22120247,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_139_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_139_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_139_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120140": {
         "id": 22120140,
         "title": {
@@ -1398,9 +2214,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_140",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0028-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0028-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0028-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_140.wav",
+            "ja": "Vox_Fragrans_BPCHAT_140.wav",
+            "en": "Vox_Fragrans_BPCHAT_140.wav"
         },
         "transcription": {
             "cn": "呼……好像闹过头了，是香氛的作用太强了吗？",
@@ -1429,9 +2245,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_140_b",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Result_original-0040-event.wav",
-            "ja": "Vox_Fragrans_InGame_Result_original-0040-event.wav",
-            "en": "Vox_Fragrans_InGame_Result_original-0040-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_140_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_140_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_140_b.wav"
         },
         "transcription": {
             "cn": "哇，大获成功了，隐狂者，待会儿可以一起喝杯花茶吗？",
@@ -1444,6 +2260,38 @@
             }
         }
     },
+    "22120248": {
+        "id": 22120248,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_140_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_140_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_140_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120249": {
+        "id": 22120249,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_140_red01_b",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_Fragrans_BPCHAT_140_red01_b.wav",
+            "en": "Vox_Fragrans_BPCHAT_140_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120141": {
         "id": 22120141,
         "title": {
@@ -1452,9 +2300,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_141_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0030-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0030-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0030-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_141_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_141_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_141_a.wav"
         },
         "transcription": {
             "cn": "最后的花香，也依旧轻人心疲。",
@@ -1467,6 +2315,22 @@
             }
         }
     },
+    "22120317": {
+        "id": 22120317,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_141_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_141_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120142": {
         "id": 22120142,
         "title": {
@@ -1475,9 +2339,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_142_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0032-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0032-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0032-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_142_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_142_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_142_a.wav"
         },
         "transcription": {
             "cn": "一个芬芳而美好的开始。",
@@ -1490,6 +2354,22 @@
             }
         }
     },
+    "22120318": {
+        "id": 22120318,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_142_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_142_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120143": {
         "id": 22120143,
         "title": {
@@ -1498,9 +2378,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_143_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0040-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0040-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0040-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_143_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_143_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_143_a.wav"
         },
         "transcription": {
             "cn": "花谢之后又会花开，让我们期待一下奇迹的发生吧。",
@@ -1513,6 +2393,22 @@
             }
         }
     },
+    "22120319": {
+        "id": 22120319,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_143_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_143_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120144": {
         "id": 22120144,
         "title": {
@@ -1521,9 +2417,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_144_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0042-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0042-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0042-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_144_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_144_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_144_a.wav"
         },
         "transcription": {
             "cn": "这么快就凋零了吗？",
@@ -1536,6 +2432,22 @@
             }
         }
     },
+    "22120320": {
+        "id": 22120320,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_144_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_144_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120145": {
         "id": 22120145,
         "title": {
@@ -1544,9 +2456,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_145_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0034-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0034-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0034-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_145_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_145_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_145_a.wav"
         },
         "transcription": {
             "cn": "不管在什么时候，小艾卡都非常可靠呢。",
@@ -1559,6 +2471,22 @@
             }
         }
     },
+    "22120321": {
+        "id": 22120321,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_145_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_145_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120146": {
         "id": 22120146,
         "title": {
@@ -1567,9 +2495,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_146_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0044-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0044-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0044-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_146_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_146_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_146_a.wav"
         },
         "transcription": {
             "cn": "好样的小艾卡，你成功地帮大家排除了威胁。",
@@ -1582,6 +2510,22 @@
             }
         }
     },
+    "22120322": {
+        "id": 22120322,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_146_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_146_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120147": {
         "id": 22120147,
         "title": {
@@ -1590,9 +2534,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_147_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0046-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0046-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0046-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_147_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_147_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_147_a.wav"
         },
         "transcription": {
             "cn": "梅瑞蒂斯，你的枪法与研究一样令人惊叹。",
@@ -1605,6 +2549,22 @@
             }
         }
     },
+    "22120323": {
+        "id": 22120323,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_147_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_147_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120148": {
         "id": 22120148,
         "title": {
@@ -1613,9 +2573,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_148_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0036-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0036-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0036-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_148_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_148_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_148_a.wav"
         },
         "transcription": {
             "cn": "或许我们曾是同僚，但是小妹妹，抱歉了。",
@@ -1628,6 +2588,22 @@
             }
         }
     },
+    "22120324": {
+        "id": 22120324,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_148_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_148_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120149": {
         "id": 22120149,
         "title": {
@@ -1636,9 +2612,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_149_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0038-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0038-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0038-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_149_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_149_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_149_a.wav"
         },
         "transcription": {
             "cn": "你这样的蝴蝶，我可不太喜欢。",
@@ -1651,6 +2627,22 @@
             }
         }
     },
+    "22120325": {
+        "id": 22120325,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_149_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_149_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120150": {
         "id": 22120150,
         "title": {
@@ -1659,9 +2651,9 @@
         },
         "path": "Vox_Fragrans_BPCHAT_150_a",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Easter_egg_original-0028-event.wav",
-            "ja": "Vox_Fragrans_InGame_Easter_egg_original-0028-event.wav",
-            "en": "Vox_Fragrans_InGame_Easter_egg_original-0028-event.wav"
+            "cn": "Vox_Fragrans_BPCHAT_150_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_150_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_150_a.wav"
         },
         "transcription": {
             "cn": "虽然你是小艾卡的朋友，但我也要给你一点教训才行呢。",
@@ -1674,6 +2666,22 @@
             }
         }
     },
+    "22120326": {
+        "id": 22120326,
+        "title": {},
+        "path": "Vox_Fragrans_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Fragrans_BPCHAT_150_red01_a.wav",
+            "en": "Vox_Fragrans_BPCHAT_150_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120500": {
         "id": 22120500,
         "title": {
@@ -1682,9 +2690,9 @@
         },
         "path": "Vox_Fragrans_500",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0082-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0082-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0082-event.wav"
+            "cn": "Vox_Fragrans_500.wav",
+            "ja": "Vox_Fragrans_500.wav",
+            "en": "Vox_Fragrans_500.wav"
         },
         "transcription": {
             "cn": "抱歉，你必须放下武器。",
@@ -1705,9 +2713,9 @@
         },
         "path": "Vox_Fragrans_501",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0080-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0080-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0080-event.wav"
+            "cn": "Vox_Fragrans_501.wav",
+            "ja": "Vox_Fragrans_501.wav",
+            "en": "Vox_Fragrans_501.wav"
         },
         "transcription": {
             "cn": "放棄吧，你沒有反抗的能力了。",
@@ -1728,9 +2736,9 @@
         },
         "path": "Vox_Fragrans_502",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0086-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0086-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0086-event.wav"
+            "cn": "Vox_Fragrans_502.wav",
+            "ja": "Vox_Fragrans_502.wav",
+            "en": "Vox_Fragrans_502.wav"
         },
         "transcription": {
             "cn": "远处有敌人的气息。",
@@ -1751,9 +2759,9 @@
         },
         "path": "Vox_Fragrans_503",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0084-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0084-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0084-event.wav"
+            "cn": "Vox_Fragrans_503.wav",
+            "ja": "Vox_Fragrans_503.wav",
+            "en": "Vox_Fragrans_503.wav"
         },
         "transcription": {
             "cn": "远处有敌人，大家要保护好自己哦。",
@@ -1774,9 +2782,9 @@
         },
         "path": "Vox_Fragrans_504",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0090-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0090-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0090-event.wav"
+            "cn": "Vox_Fragrans_504.wav",
+            "ja": "Vox_Fragrans_504.wav",
+            "en": "Vox_Fragrans_504.wav"
         },
         "transcription": {
             "cn": "敵人的氣息，逼近了。",
@@ -1797,9 +2805,9 @@
         },
         "path": "Vox_Fragrans_505",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0088-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0088-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0088-event.wav"
+            "cn": "Vox_Fragrans_505.wav",
+            "ja": "Vox_Fragrans_505.wav",
+            "en": "Vox_Fragrans_505.wav"
         },
         "transcription": {
             "cn": "敌人出现了，离我们很近。",
@@ -1820,9 +2828,9 @@
         },
         "path": "Vox_Fragrans_506",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0094-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0094-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0094-event.wav"
+            "cn": "Vox_Fragrans_506.wav",
+            "ja": "Vox_Fragrans_506.wav",
+            "en": "Vox_Fragrans_506.wav"
         },
         "transcription": {
             "cn": "前方出現多名敵人。",
@@ -1843,9 +2851,9 @@
         },
         "path": "Vox_Fragrans_507",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0092-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0092-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0092-event.wav"
+            "cn": "Vox_Fragrans_507.wav",
+            "ja": "Vox_Fragrans_507.wav",
+            "en": "Vox_Fragrans_507.wav"
         },
         "transcription": {
             "cn": "有很多种气息，对面来了很多人。-……--……--……--……--……--……--……--……--……--……--……-。",
@@ -1866,9 +2874,9 @@
         },
         "path": "Vox_Fragrans_508",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0098-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0098-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0098-event.wav"
+            "cn": "Vox_Fragrans_508.wav",
+            "ja": "Vox_Fragrans_508.wav",
+            "en": "Vox_Fragrans_508.wav"
         },
         "transcription": {
             "cn": "呼，打中了。",
@@ -1889,9 +2897,9 @@
         },
         "path": "Vox_Fragrans_509",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0096-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0096-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0096-event.wav"
+            "cn": "Vox_Fragrans_509.wav",
+            "ja": "Vox_Fragrans_509.wav",
+            "en": "Vox_Fragrans_509.wav"
         },
         "transcription": {
             "cn": "我命中目标了。",
@@ -1912,9 +2920,9 @@
         },
         "path": "Vox_Fragrans_510",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0076-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0076-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0076-event.wav"
+            "cn": "Vox_Fragrans_510.wav",
+            "ja": "Vox_Fragrans_510.wav",
+            "en": "Vox_Fragrans_510.wav"
         },
         "transcription": {
             "cn": "正在与目标交火。",
@@ -1935,9 +2943,9 @@
         },
         "path": "Vox_Fragrans_511",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0078-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0078-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0078-event.wav"
+            "cn": "Vox_Fragrans_511.wav",
+            "ja": "Vox_Fragrans_511.wav",
+            "en": "Vox_Fragrans_511.wav"
         },
         "transcription": {
             "cn": "敌人伤势严重。",
@@ -1958,9 +2966,9 @@
         },
         "path": "Vox_Fragrans_512",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0072-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0072-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0072-event.wav"
+            "cn": "Vox_Fragrans_512.wav",
+            "ja": "Vox_Fragrans_512.wav",
+            "en": "Vox_Fragrans_512.wav"
         },
         "transcription": {
             "cn": "最后的时刻，我会尽量温柔一点。",
@@ -1981,9 +2989,9 @@
         },
         "path": "Vox_Fragrans_513",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0074-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0074-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0074-event.wav"
+            "cn": "Vox_Fragrans_513.wav",
+            "ja": "Vox_Fragrans_513.wav",
+            "en": "Vox_Fragrans_513.wav"
         },
         "transcription": {
             "cn": "痛苦马上就要结束了。",
@@ -2004,9 +3012,9 @@
         },
         "path": "Vox_Fragrans_514",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0068-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0068-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0068-event.wav"
+            "cn": "Vox_Fragrans_514.wav",
+            "ja": "Vox_Fragrans_514.wav",
+            "en": "Vox_Fragrans_514.wav"
         },
         "transcription": {
             "cn": "有人在攻击我。",
@@ -2027,9 +3035,9 @@
         },
         "path": "Vox_Fragrans_515",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0070-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0070-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0070-event.wav"
+            "cn": "Vox_Fragrans_515.wav",
+            "ja": "Vox_Fragrans_515.wav",
+            "en": "Vox_Fragrans_515.wav"
         },
         "transcription": {
             "cn": "敵人就在正前方。",
@@ -2050,9 +3058,9 @@
         },
         "path": "Vox_Fragrans_516",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0064-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0064-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0064-event.wav"
+            "cn": "Vox_Fragrans_516.wav",
+            "ja": "Vox_Fragrans_516.wav",
+            "en": "Vox_Fragrans_516.wav"
         },
         "transcription": {
             "cn": "敵人在左側。",
@@ -2073,9 +3081,9 @@
         },
         "path": "Vox_Fragrans_517",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0066-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0066-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0066-event.wav"
+            "cn": "Vox_Fragrans_517.wav",
+            "ja": "Vox_Fragrans_517.wav",
+            "en": "Vox_Fragrans_517.wav"
         },
         "transcription": {
             "cn": "留意左侧。",
@@ -2096,9 +3104,9 @@
         },
         "path": "Vox_Fragrans_518",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0060-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0060-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0060-event.wav"
+            "cn": "Vox_Fragrans_518.wav",
+            "ja": "Vox_Fragrans_518.wav",
+            "en": "Vox_Fragrans_518.wav"
         },
         "transcription": {
             "cn": "异样的气息来自右侧。",
@@ -2119,9 +3127,9 @@
         },
         "path": "Vox_Fragrans_519",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0062-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0062-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0062-event.wav"
+            "cn": "Vox_Fragrans_519.wav",
+            "ja": "Vox_Fragrans_519.wav",
+            "en": "Vox_Fragrans_519.wav"
         },
         "transcription": {
             "cn": "请小心右侧。",
@@ -2142,9 +3150,9 @@
         },
         "path": "Vox_Fragrans_520",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0058-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0058-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0058-event.wav"
+            "cn": "Vox_Fragrans_520.wav",
+            "ja": "Vox_Fragrans_520.wav",
+            "en": "Vox_Fragrans_520.wav"
         },
         "transcription": {
             "cn": "盯上了我的身后吗？",
@@ -2165,9 +3173,9 @@
         },
         "path": "Vox_Fragrans_521",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Barrier_free_original-0056-event.wav",
-            "ja": "Vox_Fragrans_InGame_Barrier_free_original-0056-event.wav",
-            "en": "Vox_Fragrans_InGame_Barrier_free_original-0056-event.wav"
+            "cn": "Vox_Fragrans_521.wav",
+            "ja": "Vox_Fragrans_521.wav",
+            "en": "Vox_Fragrans_521.wav"
         },
         "transcription": {
             "cn": "大家当心，身后有敌人。",
@@ -2191,9 +3199,9 @@
         },
         "path": "Vox_Fragrans_COM_081",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0039-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0039-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0039-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_081.wav",
+            "ja": "Vox_Fragrans_COM_081.wav",
+            "en": "Vox_Fragrans_COM_081.wav"
         },
         "transcription": {
             "cn": "大家一起行动吧。",
@@ -2225,9 +3233,9 @@
         },
         "path": "Vox_Fragrans_COM_082",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0035-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0035-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0035-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_082.wav",
+            "ja": "Vox_Fragrans_COM_082.wav",
+            "en": "Vox_Fragrans_COM_082.wav"
         },
         "transcription": {
             "cn": "请稍等片刻。",
@@ -2259,9 +3267,9 @@
         },
         "path": "Vox_Fragrans_COM_083",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0037-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0037-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0037-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_083.wav",
+            "ja": "Vox_Fragrans_COM_083.wav",
+            "en": "Vox_Fragrans_COM_083.wav"
         },
         "transcription": {
             "cn": "也许应该撤退了。",
@@ -2293,9 +3301,9 @@
         },
         "path": "Vox_Fragrans_COM_084",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0045-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0045-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0045-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_084.wav",
+            "ja": "Vox_Fragrans_COM_084.wav",
+            "en": "Vox_Fragrans_COM_084.wav"
         },
         "transcription": {
             "cn": "谢谢。",
@@ -2327,9 +3335,9 @@
         },
         "path": "Vox_Fragrans_COM_085",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0047-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0047-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0047-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_085.wav",
+            "ja": "Vox_Fragrans_COM_085.wav",
+            "en": "Vox_Fragrans_COM_085.wav"
         },
         "transcription": {
             "cn": "嗯，做得非常好哦~",
@@ -2361,9 +3369,9 @@
         },
         "path": "Vox_Fragrans_COM_086",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0041-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0041-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0041-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_086.wav",
+            "ja": "Vox_Fragrans_COM_086.wav",
+            "en": "Vox_Fragrans_COM_086.wav"
         },
         "transcription": {
             "cn": "好啊。",
@@ -2395,9 +3403,9 @@
         },
         "path": "Vox_Fragrans_COM_087",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0043-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0043-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0043-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_087.wav",
+            "ja": "Vox_Fragrans_COM_087.wav",
+            "en": "Vox_Fragrans_COM_087.wav"
         },
         "transcription": {
             "cn": "请不要这样。",
@@ -2429,9 +3437,9 @@
         },
         "path": "Vox_Fragrans_COM_088",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0049-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0049-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0049-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_088.wav",
+            "ja": "Vox_Fragrans_COM_088.wav",
+            "en": "Vox_Fragrans_COM_088.wav"
         },
         "transcription": {
             "cn": "抱歉呢。",
@@ -2463,9 +3471,9 @@
         },
         "path": "Vox_Fragrans_COM_089",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Shortcut_original-0051-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Shortcut_original-0051-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Shortcut_original-0051-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_089.wav",
+            "ja": "Vox_Fragrans_COM_089.wav",
+            "en": "Vox_Fragrans_COM_089.wav"
         },
         "transcription": {
             "cn": "你好……",
@@ -2494,9 +3502,9 @@
         },
         "path": "Vox_Fragrans_COM_090",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0039-event {r}.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0039-event {r}.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0039-event {r}.wav"
+            "cn": "Vox_Fragrans_COM_090.wav",
+            "ja": "Vox_Fragrans_COM_090.wav",
+            "en": "Vox_Fragrans_COM_090.wav"
         },
         "transcription": {
             "cn": "守雷，希望只是短暂的痛苦。",
@@ -2509,6 +3517,22 @@
             }
         }
     },
+    "22120265": {
+        "id": 22120265,
+        "title": {},
+        "path": "Vox_Fragrans_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_090_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_090_red01_a.wav",
+            "en": "Vox_Fragrans_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120091": {
         "id": 22120091,
         "title": {
@@ -2517,9 +3541,9 @@
         },
         "path": "Vox_Fragrans_COM_091",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0037-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0037-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0037-event.wav"
+            "cn": "Vox_Fragrans_COM_091.wav",
+            "ja": "Vox_Fragrans_COM_091.wav",
+            "en": "Vox_Fragrans_COM_091.wav"
         },
         "transcription": {
             "cn": "拦截者已部署。",
@@ -2532,6 +3556,22 @@
             }
         }
     },
+    "22120266": {
+        "id": 22120266,
+        "title": {},
+        "path": "Vox_Fragrans_COM_091_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_091_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_091_red01_a.wav",
+            "en": "Vox_Fragrans_COM_091_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120092": {
         "id": 22120092,
         "title": {
@@ -2540,9 +3580,9 @@
         },
         "path": "Vox_Fragrans_COM_092",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0043-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0043-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0043-event.wav"
+            "cn": "Vox_Fragrans_COM_092.wav",
+            "ja": "Vox_Fragrans_COM_092.wav",
+            "en": "Vox_Fragrans_COM_092.wav"
         },
         "transcription": {
             "cn": "煙霧彈！",
@@ -2555,6 +3595,22 @@
             }
         }
     },
+    "22120267": {
+        "id": 22120267,
+        "title": {},
+        "path": "Vox_Fragrans_COM_092_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_092_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_092_red01_a.wav",
+            "en": "Vox_Fragrans_COM_092_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120093": {
         "id": 22120093,
         "title": {
@@ -2563,9 +3619,9 @@
         },
         "path": "Vox_Fragrans_COM_093",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0041-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0041-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0041-event.wav"
+            "cn": "Vox_Fragrans_COM_093.wav",
+            "ja": "Vox_Fragrans_COM_093.wav",
+            "en": "Vox_Fragrans_COM_093.wav"
         },
         "transcription": {
             "cn": "闪光弹，大家注意蒙上眼睛。",
@@ -2578,6 +3634,22 @@
             }
         }
     },
+    "22120268": {
+        "id": 22120268,
+        "title": {},
+        "path": "Vox_Fragrans_COM_093_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_093_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_093_red01_a.wav",
+            "en": "Vox_Fragrans_COM_093_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120094": {
         "id": 22120094,
         "title": {
@@ -2586,9 +3658,9 @@
         },
         "path": "Vox_Fragrans_COM_094",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0031-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0031-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0031-event.wav"
+            "cn": "Vox_Fragrans_COM_094.wav",
+            "ja": "Vox_Fragrans_COM_094.wav",
+            "en": "Vox_Fragrans_COM_094.wav"
         },
         "transcription": {
             "cn": "哼，好好休息一下吧。",
@@ -2601,6 +3673,22 @@
             }
         }
     },
+    "22120269": {
+        "id": 22120269,
+        "title": {},
+        "path": "Vox_Fragrans_COM_094_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_094_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_094_red01_a.wav",
+            "en": "Vox_Fragrans_COM_094_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120095": {
         "id": 22120095,
         "title": {
@@ -2609,9 +3697,9 @@
         },
         "path": "Vox_Fragrans_COM_095",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0029-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0029-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0029-event.wav"
+            "cn": "Vox_Fragrans_COM_095.wav",
+            "ja": "Vox_Fragrans_COM_095.wav",
+            "en": "Vox_Fragrans_COM_095.wav"
         },
         "transcription": {
             "cn": "蜂敞雷，把香气带去更远的地方。",
@@ -2624,6 +3712,22 @@
             }
         }
     },
+    "22120270": {
+        "id": 22120270,
+        "title": {},
+        "path": "Vox_Fragrans_COM_095_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_095_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_095_red01_a.wav",
+            "en": "Vox_Fragrans_COM_095_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120096": {
         "id": 22120096,
         "title": {
@@ -2632,9 +3736,9 @@
         },
         "path": "Vox_Fragrans_COM_096",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0035-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0035-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0035-event.wav"
+            "cn": "Vox_Fragrans_COM_096.wav",
+            "ja": "Vox_Fragrans_COM_096.wav",
+            "en": "Vox_Fragrans_COM_096.wav"
         },
         "transcription": {
             "cn": "请，请不要过来。",
@@ -2647,6 +3751,22 @@
             }
         }
     },
+    "22120271": {
+        "id": 22120271,
+        "title": {},
+        "path": "Vox_Fragrans_COM_096_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_096_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_096_red01_a.wav",
+            "en": "Vox_Fragrans_COM_096_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120097": {
         "id": 22120097,
         "title": {
@@ -2655,9 +3775,9 @@
         },
         "path": "Vox_Fragrans_COM_097",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Tactical_Item_original-0033-event.wav",
-            "ja": "Vox_Fragrans_InGame_Tactical_Item_original-0033-event.wav",
-            "en": "Vox_Fragrans_InGame_Tactical_Item_original-0033-event.wav"
+            "cn": "Vox_Fragrans_COM_097.wav",
+            "ja": "Vox_Fragrans_COM_097.wav",
+            "en": "Vox_Fragrans_COM_097.wav"
         },
         "transcription": {
             "cn": "警报器已部署。",
@@ -2670,6 +3790,22 @@
             }
         }
     },
+    "22120272": {
+        "id": 22120272,
+        "title": {},
+        "path": "Vox_Fragrans_COM_097_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_097_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_097_red01_a.wav",
+            "en": "Vox_Fragrans_COM_097_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120098": {
         "id": 22120098,
         "title": {
@@ -2678,9 +3814,9 @@
         },
         "path": "Vox_Fragrans_COM_098",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0035-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0035-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0035-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_098.wav",
+            "ja": "Vox_Fragrans_COM_098.wav",
+            "en": "Vox_Fragrans_COM_098.wav"
         },
         "transcription": {
             "cn": "这里有危险的气息。",
@@ -2693,6 +3829,22 @@
             }
         }
     },
+    "22120273": {
+        "id": 22120273,
+        "title": {},
+        "path": "Vox_Fragrans_COM_098_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_098_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_098_red01_a.wav",
+            "en": "Vox_Fragrans_COM_098_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120099": {
         "id": 22120099,
         "title": {
@@ -2701,9 +3853,9 @@
         },
         "path": "Vox_Fragrans_COM_099",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0033-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0033-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0033-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_099.wav",
+            "ja": "Vox_Fragrans_COM_099.wav",
+            "en": "Vox_Fragrans_COM_099.wav"
         },
         "transcription": {
             "cn": "让我们一起守住这里。",
@@ -2716,6 +3868,22 @@
             }
         }
     },
+    "22120274": {
+        "id": 22120274,
+        "title": {},
+        "path": "Vox_Fragrans_COM_099_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_099_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_099_red01_a.wav",
+            "en": "Vox_Fragrans_COM_099_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120100": {
         "id": 22120100,
         "title": {
@@ -2724,9 +3892,9 @@
         },
         "path": "Vox_Fragrans_COM_100",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0043-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0043-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0043-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_100.wav",
+            "ja": "Vox_Fragrans_COM_100.wav",
+            "en": "Vox_Fragrans_COM_100.wav"
         },
         "transcription": {
             "cn": "我需要援助。",
@@ -2739,6 +3907,22 @@
             }
         }
     },
+    "22120275": {
+        "id": 22120275,
+        "title": {},
+        "path": "Vox_Fragrans_COM_100_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_100_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_100_red01_a.wav",
+            "en": "Vox_Fragrans_COM_100_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120101": {
         "id": 22120101,
         "title": {
@@ -2747,9 +3931,9 @@
         },
         "path": "Vox_Fragrans_COM_101",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0041-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0041-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0041-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_101.wav",
+            "ja": "Vox_Fragrans_COM_101.wav",
+            "en": "Vox_Fragrans_COM_101.wav"
         },
         "transcription": {
             "cn": "请从这里发起进攻。",
@@ -2762,6 +3946,22 @@
             }
         }
     },
+    "22120276": {
+        "id": 22120276,
+        "title": {},
+        "path": "Vox_Fragrans_COM_101_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_101_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_101_red01_a.wav",
+            "en": "Vox_Fragrans_COM_101_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120102": {
         "id": 22120102,
         "title": {
@@ -2770,9 +3970,9 @@
         },
         "path": "Vox_Fragrans_COM_102",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0039-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0039-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0039-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_102.wav",
+            "ja": "Vox_Fragrans_COM_102.wav",
+            "en": "Vox_Fragrans_COM_102.wav"
         },
         "transcription": {
             "cn": "注意一下这里哦。",
@@ -2785,6 +3985,22 @@
             }
         }
     },
+    "22120277": {
+        "id": 22120277,
+        "title": {},
+        "path": "Vox_Fragrans_COM_102_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_102_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_102_red01_a.wav",
+            "en": "Vox_Fragrans_COM_102_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120103": {
         "id": 22120103,
         "title": {
@@ -2793,9 +4009,9 @@
         },
         "path": "Vox_Fragrans_COM_103",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0037-event.wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0037-event.wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0037-event.wav"
+            "cn": "Vox_Fragrans_COM_103.wav",
+            "ja": "Vox_Fragrans_COM_103.wav",
+            "en": "Vox_Fragrans_COM_103.wav"
         },
         "transcription": {
             "cn": "这里适合安装炸弹。",
@@ -2808,6 +4024,22 @@
             }
         }
     },
+    "22120278": {
+        "id": 22120278,
+        "title": {},
+        "path": "Vox_Fragrans_COM_103_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_103_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_103_red01_a.wav",
+            "en": "Vox_Fragrans_COM_103_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120104": {
         "id": 22120104,
         "title": {
@@ -2816,9 +4048,9 @@
         },
         "path": "Vox_Fragrans_COM_104",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0051-event [427219945=136945955].wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0051-event [427219945=136945955].wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0051-event [427219945=136945955].wav"
+            "cn": "Vox_Fragrans_COM_104.wav",
+            "ja": "Vox_Fragrans_COM_104.wav",
+            "en": "Vox_Fragrans_COM_104.wav"
         },
         "transcription": {
             "cn": "炸弹在这里。",
@@ -2831,6 +4063,22 @@
             }
         }
     },
+    "22120279": {
+        "id": 22120279,
+        "title": {},
+        "path": "Vox_Fragrans_COM_104_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_104_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_104_red01_a.wav",
+            "en": "Vox_Fragrans_COM_104_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120105": {
         "id": 22120105,
         "title": {
@@ -2839,9 +4087,9 @@
         },
         "path": "Vox_Fragrans_COM_105",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0049-event.wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0049-event.wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0049-event.wav"
+            "cn": "Vox_Fragrans_COM_105.wav",
+            "ja": "Vox_Fragrans_COM_105.wav",
+            "en": "Vox_Fragrans_COM_105.wav"
         },
         "transcription": {
             "cn": "这里有子弹。",
@@ -2854,6 +4102,22 @@
             }
         }
     },
+    "22120280": {
+        "id": 22120280,
+        "title": {},
+        "path": "Vox_Fragrans_COM_105_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_105_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_105_red01_a.wav",
+            "en": "Vox_Fragrans_COM_105_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120106": {
         "id": 22120106,
         "title": {
@@ -2862,9 +4126,9 @@
         },
         "path": "Vox_Fragrans_COM_106",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0047-event.wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0047-event.wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0047-event.wav"
+            "cn": "Vox_Fragrans_COM_106.wav",
+            "ja": "Vox_Fragrans_COM_106.wav",
+            "en": "Vox_Fragrans_COM_106.wav"
         },
         "transcription": {
             "cn": "这里有护甲。",
@@ -2877,6 +4141,22 @@
             }
         }
     },
+    "22120281": {
+        "id": 22120281,
+        "title": {},
+        "path": "Vox_Fragrans_COM_106_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_106_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_106_red01_a.wav",
+            "en": "Vox_Fragrans_COM_106_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120107": {
         "id": 22120107,
         "title": {
@@ -2885,9 +4165,9 @@
         },
         "path": "Vox_Fragrans_COM_107",
         "file": {
-            "cn": "Vox_Fragrans_InGame_Mark_original-0045-event.wav",
-            "ja": "Vox_Fragrans_InGame_Mark_original-0045-event.wav",
-            "en": "Vox_Fragrans_InGame_Mark_original-0045-event.wav"
+            "cn": "Vox_Fragrans_COM_107.wav",
+            "ja": "Vox_Fragrans_COM_107.wav",
+            "en": "Vox_Fragrans_COM_107.wav"
         },
         "transcription": {
             "cn": "这里有战术道具。",
@@ -2900,14 +4180,46 @@
             }
         }
     },
+    "22120282": {
+        "id": 22120282,
+        "title": {},
+        "path": "Vox_Fragrans_COM_107_red01_a",
+        "file": {
+            "cn": "Vox_Fragrans_COM_107_red01_a.wav",
+            "ja": "Vox_Fragrans_COM_107_red01_a.wav",
+            "en": "Vox_Fragrans_COM_107_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22120161": {
+        "id": 22120161,
+        "title": {},
+        "path": "Vox_Fragrans_COM_151",
+        "file": {
+            "cn": "Vox_Fragrans_COM_151.wav",
+            "ja": "Vox_Fragrans_COM_151.wav",
+            "en": "Vox_Fragrans_COM_151.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22120022": {
         "id": 22120022,
         "title": {},
         "path": "Vox_Fragrans_BPCHAR_022",
         "file": {
-            "cn": "Vox_Logo-0076-event.wav",
-            "ja": "Vox_Logo-0072-event.wav",
-            "en": ""
+            "cn": "Vox_Fragrans_BPCHAR_022.wav",
+            "ja": "Vox_Fragrans_BPCHAR_022.wav",
+            "en": "Vox_Fragrans_BPCHAR_022.wav"
         },
         "transcription": {
             "cn": "卡拉彼丘。",
@@ -2934,9 +4246,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_018",
         "file": {
-            "cn": "Vox_Fragrans_OutGame_Equipment_original-0014-event.wav",
-            "ja": "Vox_Fragrans_OutGame_Equipment_original-0014-event.wav",
-            "en": "Vox_Fragrans_OutGame_Equipment_original-0014-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_018.wav",
+            "ja": "Vox_Fragrans_BPCHAR_018.wav",
+            "en": "Vox_Fragrans_BPCHAR_018.wav"
         },
         "transcription": {
             "cn": "你就是影行者吗？我是剪刀手的调香师，发个蓝丝。很高兴认识你。",
@@ -2957,9 +4269,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_019",
         "file": {
-            "cn": "Vox_Fragrans_OutGame_Equipment_original-0016-event.wav",
-            "ja": "Vox_Fragrans_OutGame_Equipment_original-0016-event.wav",
-            "en": "Vox_Fragrans_OutGame_Equipment_original-0016-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_019.wav",
+            "ja": "Vox_Fragrans_BPCHAR_019.wav",
+            "en": "Vox_Fragrans_BPCHAR_019.wav"
         },
         "transcription": {
             "cn": "如果感到疲惫了，就品味一下我的香氛吧。",
@@ -2983,9 +4295,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_020",
         "file": {
-            "cn": "Vox_Fragrans_OutGame_Equipment_original-0020-event.wav",
-            "ja": "Vox_Fragrans_OutGame_Equipment_original-0020-event.wav",
-            "en": "Vox_Fragrans_OutGame_Equipment_original-0020-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_020.wav",
+            "ja": "Vox_Fragrans_BPCHAR_020.wav",
+            "en": "Vox_Fragrans_BPCHAR_020.wav"
         },
         "transcription": {
             "cn": "副武器的选择，可以咨询你的建议吗？",
@@ -3014,9 +4326,9 @@
         },
         "path": "Vox_Fragrans_BPCHAR_021",
         "file": {
-            "cn": "Vox_Fragrans_OutGame_Equipment_original-0018-event.wav",
-            "ja": "Vox_Fragrans_OutGame_Equipment_original-0018-event.wav",
-            "en": "Vox_Fragrans_OutGame_Equipment_original-0018-event.wav"
+            "cn": "Vox_Fragrans_BPCHAR_021.wav",
+            "ja": "Vox_Fragrans_BPCHAR_021.wav",
+            "en": "Vox_Fragrans_BPCHAR_021.wav"
         },
         "transcription": {
             "cn": "你觉得哪个比较好呢？",

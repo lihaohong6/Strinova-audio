@@ -10,9 +10,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_066",
         "file": {
-            "cn": "Vox_SelectCharacter-0281-event.wav",
-            "ja": "Vox_SelectCharacter-0281-event.wav",
-            "en": "Vox_SelectCharacter-0281-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_066.wav",
+            "ja": "Vox_Meredith_BPCHAR_066.wav",
+            "en": "Vox_Meredith_BPCHAR_066.wav"
         },
         "transcription": {
             "cn": "轮到我出击了。",
@@ -33,6 +33,22 @@
             }
         }
     },
+    "22133236": {
+        "id": 22133236,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133067": {
         "id": 22133067,
         "title": {
@@ -44,9 +60,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_067",
         "file": {
-            "cn": "Vox_SelectCharacter-0279-event.wav",
-            "ja": "Vox_SelectCharacter-0279-event.wav",
-            "en": "Vox_SelectCharacter-0279-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_067.wav",
+            "ja": "Vox_Meredith_BPCHAR_067.wav",
+            "en": "Vox_Meredith_BPCHAR_067.wav"
         },
         "transcription": {
             "cn": "为了所有人。",
@@ -70,6 +86,22 @@
             }
         }
     },
+    "22133237": {
+        "id": 22133237,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAR_067_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133068": {
         "id": 22133068,
         "title": {
@@ -81,9 +113,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_068",
         "file": {
-            "cn": "Vox_Meredith_InGame_Hall_original-0021-event.wav",
-            "ja": "Vox_Meredith_InGame_Hall_original-0021-event.wav",
-            "en": "Vox_Meredith_InGame_Hall_original-0021-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_068.wav",
+            "ja": "Vox_Meredith_BPCHAR_068.wav",
+            "en": "Vox_Meredith_BPCHAR_068.wav"
         },
         "transcription": {
             "cn": "阿努比斯正凝视着你。",
@@ -104,6 +136,22 @@
             }
         }
     },
+    "22133238": {
+        "id": 22133238,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAR_068_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAR_068_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAR_068_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133069": {
         "id": 22133069,
         "title": {
@@ -115,9 +163,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_069",
         "file": {
-            "cn": "Vox_Meredith_InGame_Hall_original-0019-event.wav",
-            "ja": "Vox_Meredith_InGame_Hall_original-0019-event.wav",
-            "en": "Vox_Meredith_InGame_Hall_original-0019-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_069.wav",
+            "ja": "Vox_Meredith_BPCHAR_069.wav",
+            "en": "Vox_Meredith_BPCHAR_069.wav"
         },
         "transcription": {
             "cn": "我们会胜利的。",
@@ -138,6 +186,22 @@
             }
         }
     },
+    "22133239": {
+        "id": 22133239,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAR_069_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAR_069_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAR_069_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133070": {
         "id": 22133070,
         "title": {
@@ -149,9 +213,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_070",
         "file": {
-            "cn": "Vox_Meredith_InGame_Hall_original-0017-event.wav",
-            "ja": "Vox_Meredith_InGame_Hall_original-0017-event.wav",
-            "en": "Vox_Meredith_InGame_Hall_original-0017-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_070.wav",
+            "ja": "Vox_Meredith_BPCHAR_070.wav",
+            "en": "Vox_Meredith_BPCHAR_070.wav"
         },
         "transcription": {
             "cn": "我将引领所有人。",
@@ -172,6 +236,22 @@
             }
         }
     },
+    "22133240": {
+        "id": 22133240,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAR_070_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAR_070_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAR_070_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133071": {
         "id": 22133071,
         "title": {
@@ -180,9 +260,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_071",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0035-event.wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0035-event.wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0035-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_071.wav",
+            "ja": "Vox_Meredith_BPCHAT_071.wav",
+            "en": "Vox_Meredith_BPCHAT_071.wav"
         },
         "transcription": {
             "cn": "金沙将至。",
@@ -193,6 +273,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22133250": {
+        "id": 22133250,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_071_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_071_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_071_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22133072": {
@@ -206,9 +302,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_072",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0031-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0031-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0031-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_072.wav",
+            "ja": "Vox_Meredith_BPCHAT_072.wav",
+            "en": "Vox_Meredith_BPCHAT_072.wav"
         },
         "transcription": {
             "cn": "炽热沙砾，席卷八荒！",
@@ -229,6 +325,22 @@
             }
         }
     },
+    "22133251": {
+        "id": 22133251,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_072_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_072_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_072_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133073": {
         "id": 22133073,
         "title": {
@@ -240,9 +352,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_073",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0033-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0033-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0033-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_073.wav",
+            "ja": "Vox_Meredith_BPCHAT_073.wav",
+            "en": "Vox_Meredith_BPCHAT_073.wav"
         },
         "transcription": {
             "cn": "沙砾风暴，以制敌身！",
@@ -263,6 +375,22 @@
             }
         }
     },
+    "22133252": {
+        "id": 22133252,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_073_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_073_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_073_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133074": {
         "id": 22133074,
         "title": {
@@ -274,9 +402,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_074",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0027-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0027-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0027-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_074.wav",
+            "ja": "Vox_Meredith_BPCHAT_074.wav",
+            "en": "Vox_Meredith_BPCHAT_074.wav"
         },
         "transcription": {
             "cn": "金沙迸发，全线遏制。",
@@ -297,6 +425,22 @@
             }
         }
     },
+    "22133253": {
+        "id": 22133253,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_074_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_074_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_074_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133075": {
         "id": 22133075,
         "title": {
@@ -305,9 +449,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_075",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0029-event.wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0029-event.wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0029-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_075.wav",
+            "ja": "Vox_Meredith_BPCHAT_075.wav",
+            "en": "Vox_Meredith_BPCHAT_075.wav"
         },
         "transcription": {
             "cn": "静止时间。",
@@ -320,6 +464,22 @@
             }
         }
     },
+    "22133254": {
+        "id": 22133254,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133076": {
         "id": 22133076,
         "title": {
@@ -328,9 +488,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_076",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0025-event.wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0025-event.wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0025-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_076.wav",
+            "ja": "Vox_Meredith_BPCHAT_076.wav",
+            "en": "Vox_Meredith_BPCHAT_076.wav"
         },
         "transcription": {
             "cn": "即将见证，究极奥秘。",
@@ -341,6 +501,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22133255": {
+        "id": 22133255,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_076_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_076_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_076_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22133077": {
@@ -354,9 +530,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_077",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0133-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0133-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0133-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_077.wav",
+            "ja": "Vox_Meredith_BPCHAT_077.wav",
+            "en": "Vox_Meredith_BPCHAT_077.wav"
         },
         "transcription": {
             "cn": "忤逆之人，当临神罚！",
@@ -377,6 +553,22 @@
             }
         }
     },
+    "22133256": {
+        "id": 22133256,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_077_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_077_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_077_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133078": {
         "id": 22133078,
         "title": {
@@ -388,9 +580,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_078",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0135-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0135-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0135-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_078.wav",
+            "ja": "Vox_Meredith_BPCHAT_078.wav",
+            "en": "Vox_Meredith_BPCHAT_078.wav"
         },
         "transcription": {
             "cn": "顿开！杜阿特之门。",
@@ -411,6 +603,22 @@
             }
         }
     },
+    "22133257": {
+        "id": 22133257,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_078_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_078_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_078_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133079": {
         "id": 22133079,
         "title": {
@@ -422,9 +630,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_079",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0137-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0137-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0137-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_079.wav",
+            "ja": "Vox_Meredith_BPCHAT_079.wav",
+            "en": "Vox_Meredith_BPCHAT_079.wav"
         },
         "transcription": {
             "cn": "时日无多，大限将至。",
@@ -445,6 +653,22 @@
             }
         }
     },
+    "22133258": {
+        "id": 22133258,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_079_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_079_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_079_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133080": {
         "id": 22133080,
         "title": {
@@ -453,9 +677,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_080",
         "file": {
-            "cn": "Vox_Meredith_InGame_Skill_original-0037-event.wav",
-            "ja": "Vox_Meredith_InGame_Skill_original-0037-event.wav",
-            "en": "Vox_Meredith_InGame_Skill_original-0037-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_080.wav",
+            "ja": "Vox_Meredith_BPCHAT_080.wav",
+            "en": "Vox_Meredith_BPCHAT_080.wav"
         },
         "transcription": {
             "cn": "稍等片刻。",
@@ -468,6 +692,22 @@
             }
         }
     },
+    "22133259": {
+        "id": 22133259,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_080_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_080_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133108": {
         "id": 22133108,
         "title": {
@@ -476,9 +716,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_108",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0109-event {r}.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0109-event {r}.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0109-event {r}.wav"
+            "cn": "Vox_Meredith_BPCHAT_108.wav",
+            "ja": "Vox_Meredith_BPCHAT_108.wav",
+            "en": "Vox_Meredith_BPCHAT_108.wav"
         },
         "transcription": {
             "cn": "……",
@@ -489,6 +729,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22133294": {
+        "id": 22133294,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_108_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22133109": {
@@ -502,9 +758,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_109",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0111-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0111-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0111-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_109.wav",
+            "ja": "Vox_Meredith_BPCHAT_109.wav",
+            "en": "Vox_Meredith_BPCHAT_109.wav"
         },
         "transcription": {
             "cn": "停止恐惧。",
@@ -525,6 +781,22 @@
             }
         }
     },
+    "22133295": {
+        "id": 22133295,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_109_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_109_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_109_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133110": {
         "id": 22133110,
         "title": {
@@ -536,9 +808,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_110",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0119-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0119-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0119-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_110.wav",
+            "ja": "Vox_Meredith_BPCHAT_110.wav",
+            "en": "Vox_Meredith_BPCHAT_110.wav"
         },
         "transcription": {
             "cn": "送至冥界。",
@@ -559,6 +831,22 @@
             }
         }
     },
+    "22133296": {
+        "id": 22133296,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_110_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_110_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_110_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133111": {
         "id": 22133111,
         "title": {
@@ -570,9 +858,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_111",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0117-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0117-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0117-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_111.wav",
+            "ja": "Vox_Meredith_BPCHAT_111.wav",
+            "en": "Vox_Meredith_BPCHAT_111.wav"
         },
         "transcription": {
             "cn": "执守真理。",
@@ -593,6 +881,22 @@
             }
         }
     },
+    "22133297": {
+        "id": 22133297,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_111_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_111_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_111_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133112": {
         "id": 22133112,
         "title": {
@@ -604,9 +908,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_112",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0123-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0123-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0123-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_112.wav",
+            "ja": "Vox_Meredith_BPCHAT_112.wav",
+            "en": "Vox_Meredith_BPCHAT_112.wav"
         },
         "transcription": {
             "cn": "命定的消亡。",
@@ -627,6 +931,22 @@
             }
         }
     },
+    "22133298": {
+        "id": 22133298,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_112_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_112_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_112_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133113": {
         "id": 22133113,
         "title": {
@@ -638,9 +958,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_113",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0121-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0121-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0121-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_113.wav",
+            "ja": "Vox_Meredith_BPCHAT_113.wav",
+            "en": "Vox_Meredith_BPCHAT_113.wav"
         },
         "transcription": {
             "cn": "我听见，神在告慰亡灵。",
@@ -661,6 +981,22 @@
             }
         }
     },
+    "22133299": {
+        "id": 22133299,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_113_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_113_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_113_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133114": {
         "id": 22133114,
         "title": {
@@ -672,9 +1008,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_114",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0127-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0127-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0127-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_114.wav",
+            "ja": "Vox_Meredith_BPCHAT_114.wav",
+            "en": "Vox_Meredith_BPCHAT_114.wav"
         },
         "transcription": {
             "cn": "终结于此吧。",
@@ -695,6 +1031,22 @@
             }
         }
     },
+    "22133300": {
+        "id": 22133300,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_114_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_114_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_114_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133115": {
         "id": 22133115,
         "title": {
@@ -703,9 +1055,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_115",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0125-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0125-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0125-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_115.wav",
+            "ja": "Vox_Meredith_BPCHAT_115.wav",
+            "en": "Vox_Meredith_BPCHAT_115.wav"
         },
         "transcription": {
             "cn": "葬于此处。",
@@ -718,6 +1070,22 @@
             }
         }
     },
+    "22133301": {
+        "id": 22133301,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_115_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_115_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_115_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133116": {
         "id": 22133116,
         "title": {
@@ -726,9 +1094,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_116",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0131-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0131-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0131-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_116.wav",
+            "ja": "Vox_Meredith_BPCHAT_116.wav",
+            "en": "Vox_Meredith_BPCHAT_116.wav"
         },
         "transcription": {
             "cn": "亡魂悲泣吧。",
@@ -741,6 +1109,22 @@
             }
         }
     },
+    "22133302": {
+        "id": 22133302,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_116_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_116_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_116_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133117": {
         "id": 22133117,
         "title": {
@@ -749,9 +1133,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_117",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0129-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0129-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0129-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_117.wav",
+            "ja": "Vox_Meredith_BPCHAT_117.wav",
+            "en": "Vox_Meredith_BPCHAT_117.wav"
         },
         "transcription": {
             "cn": "通往灭亡之路。",
@@ -764,6 +1148,22 @@
             }
         }
     },
+    "22133303": {
+        "id": 22133303,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_117_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_117_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_117_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133118": {
         "id": 22133118,
         "title": {
@@ -772,9 +1172,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_118",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0115-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0115-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0115-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_118.wav",
+            "ja": "Vox_Meredith_BPCHAT_118.wav",
+            "en": "Vox_Meredith_BPCHAT_118.wav"
         },
         "transcription": {
             "cn": "冥界召唤着你。",
@@ -787,6 +1187,22 @@
             }
         }
     },
+    "22133304": {
+        "id": 22133304,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_118_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_118_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_118_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133119": {
         "id": 22133119,
         "title": {
@@ -795,9 +1211,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_119",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0113-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0113-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0113-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_119.wav",
+            "ja": "Vox_Meredith_BPCHAT_119.wav",
+            "en": "Vox_Meredith_BPCHAT_119.wav"
         },
         "transcription": {
             "cn": "在我面前一切皆徒劳。",
@@ -810,6 +1226,22 @@
             }
         }
     },
+    "22133305": {
+        "id": 22133305,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_119_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_119_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_119_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133120": {
         "id": 22133120,
         "title": {
@@ -818,9 +1250,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_120",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0095-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0095-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0095-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_120.wav",
+            "ja": "Vox_Meredith_BPCHAT_120.wav",
+            "en": "Vox_Meredith_BPCHAT_120.wav"
         },
         "transcription": {
             "cn": "冥府在等待你。",
@@ -833,6 +1265,22 @@
             }
         }
     },
+    "22133306": {
+        "id": 22133306,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_120_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_120_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_120_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133123": {
         "id": 22133123,
         "title": {
@@ -841,9 +1289,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_123",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0101-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0101-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0101-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_123.wav",
+            "ja": "Vox_Meredith_BPCHAT_123.wav",
+            "en": "Vox_Meredith_BPCHAT_123.wav"
         },
         "transcription": {
             "cn": "我會回來的。",
@@ -856,6 +1304,22 @@
             }
         }
     },
+    "22133309": {
+        "id": 22133309,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_123_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_123_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_123_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133124": {
         "id": 22133124,
         "title": {
@@ -864,9 +1328,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_124",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0103-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0103-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0103-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_124.wav",
+            "ja": "Vox_Meredith_BPCHAT_124.wav",
+            "en": "Vox_Meredith_BPCHAT_124.wav"
         },
         "transcription": {
             "cn": "那个使命还未达成。",
@@ -879,6 +1343,22 @@
             }
         }
     },
+    "22133310": {
+        "id": 22133310,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_124_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_124_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_124_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133125": {
         "id": 22133125,
         "title": {
@@ -887,9 +1367,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_125",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0105-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0105-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0105-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_125.wav",
+            "ja": "Vox_Meredith_BPCHAT_125.wav",
+            "en": "Vox_Meredith_BPCHAT_125.wav"
         },
         "transcription": {
             "cn": "無盡下墜。",
@@ -902,6 +1382,22 @@
             }
         }
     },
+    "22133311": {
+        "id": 22133311,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_125_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_125_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_125_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_125_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133126": {
         "id": 22133126,
         "title": {
@@ -910,9 +1406,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_126",
         "file": {
-            "cn": "Vox_Meredith_InGame_Rescue_original-0023-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Rescue_original-0023-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Rescue_original-0023-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_126.wav",
+            "ja": "Vox_Meredith_BPCHAT_126.wav",
+            "en": "Vox_Meredith_BPCHAT_126.wav"
         },
         "transcription": {
             "cn": "战争总伴随着牺牲品。",
@@ -925,6 +1421,22 @@
             }
         }
     },
+    "22133312": {
+        "id": 22133312,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_126_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_126_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_126_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133127": {
         "id": 22133127,
         "title": {
@@ -933,9 +1445,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_127",
         "file": {
-            "cn": "Vox_Meredith_InGame_Rescue_original-0025-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Rescue_original-0025-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Rescue_original-0025-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_127.wav",
+            "ja": "Vox_Meredith_BPCHAT_127.wav",
+            "en": "Vox_Meredith_BPCHAT_127.wav"
         },
         "transcription": {
             "cn": "这是意料之外的变数。",
@@ -948,6 +1460,22 @@
             }
         }
     },
+    "22133313": {
+        "id": 22133313,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_127_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_127_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_127_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133122": {
         "id": 22133122,
         "title": {
@@ -956,9 +1484,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_122",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0099-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0099-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0099-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_122.wav",
+            "ja": "Vox_Meredith_BPCHAT_122.wav",
+            "en": "Vox_Meredith_BPCHAT_122.wav"
         },
         "transcription": {
             "cn": "這就是我的歸途嗎？",
@@ -971,6 +1499,22 @@
             }
         }
     },
+    "22133308": {
+        "id": 22133308,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_122_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_122_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_122_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133121": {
         "id": 22133121,
         "title": {
@@ -979,9 +1523,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_121",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0097-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0097-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0097-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_121.wav",
+            "ja": "Vox_Meredith_BPCHAT_121.wav",
+            "en": "Vox_Meredith_BPCHAT_121.wav"
         },
         "transcription": {
             "cn": "魂魄猶在。",
@@ -994,6 +1538,22 @@
             }
         }
     },
+    "22133307": {
+        "id": 22133307,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_121_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_121_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_121_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133128": {
         "id": 22133128,
         "title": {
@@ -1002,9 +1562,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_128",
         "file": {
-            "cn": "Vox_Meredith_InGame_Rescue_original-0027-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Rescue_original-0027-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Rescue_original-0027-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_128.wav",
+            "ja": "Vox_Meredith_BPCHAT_128.wav",
+            "en": "Vox_Meredith_BPCHAT_128.wav"
         },
         "transcription": {
             "cn": "我受伤了，请助我恢复。",
@@ -1015,6 +1575,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22133314": {
+        "id": 22133314,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_128_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_128_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_128_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22133129": {
@@ -1028,9 +1604,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_129",
         "file": {
-            "cn": "Vox_Meredith_InGame_Rescue_original-0029-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Rescue_original-0029-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Rescue_original-0029-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_129.wav",
+            "ja": "Vox_Meredith_BPCHAT_129.wav",
+            "en": "Vox_Meredith_BPCHAT_129.wav"
         },
         "transcription": {
             "cn": "来吧，战场在等待你。",
@@ -1051,6 +1627,22 @@
             }
         }
     },
+    "22133315": {
+        "id": 22133315,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_129_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_129_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_129_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133130": {
         "id": 22133130,
         "title": {
@@ -1059,9 +1651,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_130",
         "file": {
-            "cn": "Vox_Meredith_InGame_Rescue_original-0032-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Rescue_original-0032-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Rescue_original-0032-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_130.wav",
+            "ja": "Vox_Meredith_BPCHAT_130.wav",
+            "en": "Vox_Meredith_BPCHAT_130.wav"
         },
         "transcription": {
             "cn": "你做得很好。",
@@ -1074,6 +1666,22 @@
             }
         }
     },
+    "22133316": {
+        "id": 22133316,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_130_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_130_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_130_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133131": {
         "id": 22133131,
         "title": {
@@ -1082,9 +1690,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_131",
         "file": {
-            "cn": "Vox_Meredith_InGame_Explode_original-0021-event.wav",
-            "ja": "Vox_Meredith_InGame_Explode_original-0021-event.wav",
-            "en": "Vox_Meredith_InGame_Explode_original-0021-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_131.wav",
+            "ja": "Vox_Meredith_BPCHAT_131.wav",
+            "en": "Vox_Meredith_BPCHAT_131.wav"
         },
         "transcription": {
             "cn": "开始安装炸弹。",
@@ -1097,6 +1705,22 @@
             }
         }
     },
+    "22133260": {
+        "id": 22133260,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_131_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133132": {
         "id": 22133132,
         "title": {
@@ -1105,9 +1729,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_132",
         "file": {
-            "cn": "Vox_Meredith_InGame_Explode_original-0019-event.wav",
-            "ja": "Vox_Meredith_InGame_Explode_original-0019-event.wav",
-            "en": "Vox_Meredith_InGame_Explode_original-0019-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_132.wav",
+            "ja": "Vox_Meredith_BPCHAT_132.wav",
+            "en": "Vox_Meredith_BPCHAT_132.wav"
         },
         "transcription": {
             "cn": "我已获取炸弹。",
@@ -1120,6 +1744,22 @@
             }
         }
     },
+    "22133262": {
+        "id": 22133262,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_132_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_132_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_132_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133133": {
         "id": 22133133,
         "title": {
@@ -1128,9 +1768,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_133",
         "file": {
-            "cn": "Vox_Meredith_InGame_Explode_original-0017-event.wav",
-            "ja": "Vox_Meredith_InGame_Explode_original-0017-event.wav",
-            "en": "Vox_Meredith_InGame_Explode_original-0017-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_133.wav",
+            "ja": "Vox_Meredith_BPCHAT_133.wav",
+            "en": "Vox_Meredith_BPCHAT_133.wav"
         },
         "transcription": {
             "cn": "开始拆除炸弹。",
@@ -1143,6 +1783,22 @@
             }
         }
     },
+    "22133263": {
+        "id": 22133263,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_133_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_133_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_133_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133134": {
         "id": 22133134,
         "title": {
@@ -1151,9 +1807,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_134",
         "file": {
-            "cn": "Vox_Meredith_InGame_Explode_original-0025-event.wav",
-            "ja": "Vox_Meredith_InGame_Explode_original-0025-event.wav",
-            "en": "Vox_Meredith_InGame_Explode_original-0025-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_134.wav",
+            "ja": "Vox_Meredith_BPCHAT_134.wav",
+            "en": "Vox_Meredith_BPCHAT_134.wav"
         },
         "transcription": {
             "cn": "我将炸弹置于此处。",
@@ -1166,6 +1822,22 @@
             }
         }
     },
+    "22133264": {
+        "id": 22133264,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_134_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_134_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_134_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133135": {
         "id": 22133135,
         "title": {
@@ -1174,9 +1846,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_135",
         "file": {
-            "cn": "Vox_Meredith_InGame_Explode_original-0023-event.wav",
-            "ja": "Vox_Meredith_InGame_Explode_original-0023-event.wav",
-            "en": "Vox_Meredith_InGame_Explode_original-0023-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_135.wav",
+            "ja": "Vox_Meredith_BPCHAT_135.wav",
+            "en": "Vox_Meredith_BPCHAT_135.wav"
         },
         "transcription": {
             "cn": "炸弹被安装在此处。",
@@ -1189,6 +1861,22 @@
             }
         }
     },
+    "22133261": {
+        "id": 22133261,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_135_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_135_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_135_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133136": {
         "id": 22133136,
         "title": {
@@ -1197,9 +1885,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_136",
         "file": {
-            "cn": "Vox_Meredith_InGame_Kill_original-0107-event.wav",
-            "ja": "Vox_Meredith_InGame_Kill_original-0107-event.wav",
-            "en": "Vox_Meredith_InGame_Kill_original-0107-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_136.wav",
+            "ja": "Vox_Meredith_BPCHAT_136.wav",
+            "en": "Vox_Meredith_BPCHAT_136.wav"
         },
         "transcription": {
             "cn": "保持飘飞状态。",
@@ -1210,6 +1898,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22133293": {
+        "id": 22133293,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_136_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_136_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_136_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22133137": {
@@ -1223,9 +1927,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_137",
         "file": {
-            "cn": "Vox_Meredith_InGame_Result_original-0048-event.wav",
-            "ja": "Vox_Meredith_InGame_Result_original-0048-event.wav",
-            "en": "Vox_Meredith_InGame_Result_original-0048-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_137.wav",
+            "ja": "Vox_Meredith_BPCHAT_137.wav",
+            "en": "Vox_Meredith_BPCHAT_137.wav"
         },
         "transcription": {
             "cn": "下一次，我不会再原谅这种失败了。\n请倾力而为。",
@@ -1251,9 +1955,9 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_137_b",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Result_original-0046-event.wav",
-            "en": ""
+            "cn": "Vox_Meredith_BPCHAT_137_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_137_b.wav",
+            "en": "Vox_Meredith_BPCHAT_137_b.wav"
         },
         "transcription": {
             "cn": ""
@@ -1267,9 +1971,57 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_137_c",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Result_original-0044-event.wav",
-            "en": ""
+            "cn": "Vox_Meredith_BPCHAT_137_c.wav",
+            "ja": "Vox_Meredith_BPCHAT_137_c.wav",
+            "en": "Vox_Meredith_BPCHAT_137_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133244": {
+        "id": 22133244,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_137_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_137_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133245": {
+        "id": 22133245,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_137_red01_b",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_137_red01_b.wav",
+            "en": "Vox_Meredith_BPCHAT_137_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133246": {
+        "id": 22133246,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_137_red01_c",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_Meredith_BPCHAT_137_red01_c.wav",
+            "en": "Vox_Meredith_BPCHAT_137_red01_c.wav"
         },
         "transcription": {
             "cn": ""
@@ -1289,9 +2041,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_138",
         "file": {
-            "cn": "Vox_Meredith_InGame_Result_original-0052-event.wav",
-            "ja": "Vox_Meredith_InGame_Result_original-0052-event.wav",
-            "en": "Vox_Meredith_InGame_Result_original-0052-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_138.wav",
+            "ja": "Vox_Meredith_BPCHAT_138.wav",
+            "en": "Vox_Meredith_BPCHAT_138.wav"
         },
         "transcription": {
             "cn": "归途，又近一步。",
@@ -1317,9 +2069,9 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_138_b",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Result_original-0038-event.wav",
-            "en": ""
+            "cn": "Vox_Meredith_BPCHAT_138_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_138_b.wav",
+            "en": "Vox_Meredith_BPCHAT_138_b.wav"
         },
         "transcription": {
             "cn": ""
@@ -1333,9 +2085,57 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_138_c",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Result_original-0040-event.wav",
-            "en": ""
+            "cn": "Vox_Meredith_BPCHAT_138_c.wav",
+            "ja": "Vox_Meredith_BPCHAT_138_c.wav",
+            "en": "Vox_Meredith_BPCHAT_138_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133241": {
+        "id": 22133241,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_138_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_138_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_138_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133242": {
+        "id": 22133242,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_138_red01_b",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_138_red01_b.wav",
+            "en": "Vox_Meredith_BPCHAT_138_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133243": {
+        "id": 22133243,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_138_red01_c",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_Meredith_BPCHAT_138_red01_c.wav",
+            "en": "Vox_Meredith_BPCHAT_138_red01_c.wav"
         },
         "transcription": {
             "cn": ""
@@ -1355,9 +2155,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_139",
         "file": {
-            "cn": "Vox_Meredith_InGame_Result_original-0050-event.wav",
-            "ja": "Vox_Meredith_InGame_Result_original-0050-event.wav",
-            "en": "Vox_Meredith_InGame_Result_original-0050-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_139.wav",
+            "ja": "Vox_Meredith_BPCHAT_139.wav",
+            "en": "Vox_Meredith_BPCHAT_139.wav"
         },
         "transcription": {
             "cn": "结果出现了偏差，\n我们需要反观战局。",
@@ -1378,6 +2178,22 @@
             }
         }
     },
+    "22133247": {
+        "id": 22133247,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_139_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_139_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_139_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133140": {
         "id": 22133140,
         "title": {
@@ -1389,9 +2205,9 @@
         },
         "path": "Vox_Meredith_BPCHAT_140",
         "file": {
-            "cn": "Vox_Meredith_InGame_Result_original-0054-event.wav",
-            "ja": "Vox_Meredith_InGame_Result_original-0054-event.wav",
-            "en": "Vox_Meredith_InGame_Result_original-0054-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_140.wav",
+            "ja": "Vox_Meredith_BPCHAT_140.wav",
+            "en": "Vox_Meredith_BPCHAT_140.wav"
         },
         "transcription": {
             "cn": "我将指引前路。",
@@ -1417,9 +2233,41 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_140_b",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Result_original-0056-event.wav",
-            "en": ""
+            "cn": "Vox_Meredith_BPCHAT_140_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_140_b.wav",
+            "en": "Vox_Meredith_BPCHAT_140_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133248": {
+        "id": 22133248,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_140_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_140_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_140_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133249": {
+        "id": 22133249,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_140_red01_b",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_Meredith_BPCHAT_140_red01_b.wav",
+            "en": "Vox_Meredith_BPCHAT_140_red01_b.wav"
         },
         "transcription": {
             "cn": ""
@@ -1433,13 +2281,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_141",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0043-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0043-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_141.wav",
+            "ja": "Vox_Meredith_BPCHAT_141.wav",
+            "en": "Vox_Meredith_BPCHAT_141.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Strinova's destiny is destruction, our only way out is victory."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133317": {
+        "id": 22133317,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_141_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_141_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1450,13 +2314,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_142",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0039-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0039-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_142.wav",
+            "ja": "Vox_Meredith_BPCHAT_142.wav",
+            "en": "Vox_Meredith_BPCHAT_142.wav"
         },
         "transcription": {
             "cn": "",
             "en": "The weight of death, immeasurable, the value of your sacrifice, I shall remember."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133318": {
+        "id": 22133318,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_142_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_142_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1467,13 +2347,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_143",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0041-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0041-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_143.wav",
+            "ja": "Vox_Meredith_BPCHAT_143.wav",
+            "en": "Vox_Meredith_BPCHAT_143.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Excellent. Don't let this opportunity slip, Reiichi."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133319": {
+        "id": 22133319,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_143_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_143_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1484,13 +2380,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_144",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0049-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0049-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_144.wav",
+            "ja": "Vox_Meredith_BPCHAT_144.wav",
+            "en": "Vox_Meredith_BPCHAT_144.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Such agility, Reiichi. You haven't regressed at all."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133320": {
+        "id": 22133320,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_144_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_144_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1501,13 +2413,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_145",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0051-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0051-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_145.wav",
+            "ja": "Vox_Meredith_BPCHAT_145.wav",
+            "en": "Vox_Meredith_BPCHAT_145.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Stand up, Reiichi, and follow my footsteps. The scissors shall usher in a new age."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133321": {
+        "id": 22133321,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_145_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_145_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1518,13 +2446,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_146",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0045-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0045-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_BPCHAT_146.wav",
+            "ja": "Vox_Meredith_BPCHAT_146.wav",
+            "en": "Vox_Meredith_BPCHAT_146.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Those who are lost remain lost. Those who hate remain hateful. The history of humanity is an endless cycle of suffering."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133322": {
+        "id": 22133322,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_146_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_146_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1535,13 +2479,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_147",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0047-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0047-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_147.wav",
+            "ja": "Vox_Meredith_BPCHAT_147.wav",
+            "en": "Vox_Meredith_BPCHAT_147.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Don't give up now. This is the moment to give it your all."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133323": {
+        "id": 22133323,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_147_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_147_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1552,13 +2512,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_148",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0053-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0053-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_148.wav",
+            "ja": "Vox_Meredith_BPCHAT_148.wav",
+            "en": "Vox_Meredith_BPCHAT_148.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Nobunaga, your ignorance holds you back."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133324": {
+        "id": 22133324,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_148_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_148_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1569,13 +2545,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_149",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0055-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0055-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_149.wav",
+            "ja": "Vox_Meredith_BPCHAT_149.wav",
+            "en": "Vox_Meredith_BPCHAT_149.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Nobunaga, we are not your enemy."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133325": {
+        "id": 22133325,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_149_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_149_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1586,13 +2578,29 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAT_150",
         "file": {
-            "cn": "",
-            "ja": "Vox_Meredith_InGame_Easter_egg_original-0057-event.wav",
-            "en": "Vox_Meredith_InGame_Easter_egg_original-0057-event.wav"
+            "cn": "Vox_Meredith_BPCHAT_150.wav",
+            "ja": "Vox_Meredith_BPCHAT_150.wav",
+            "en": "Vox_Meredith_BPCHAT_150.wav"
         },
         "transcription": {
             "cn": "",
             "en": "Nobunaga, until the day we join hands, this struggle will continue."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22133326": {
+        "id": 22133326,
+        "title": {},
+        "path": "Vox_Meredith_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Meredith_BPCHAT_150_red01_a.wav",
+            "en": "Vox_Meredith_BPCHAT_150_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1606,9 +2614,9 @@
         },
         "path": "Vox_Meredith_500",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0084-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0084-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0084-event.wav"
+            "cn": "Vox_Meredith_500.wav",
+            "ja": "Vox_Meredith_500.wav",
+            "en": "Vox_Meredith_500.wav"
         },
         "transcription": {
             "cn": "威胁清除。",
@@ -1629,9 +2637,9 @@
         },
         "path": "Vox_Meredith_501",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0082-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0082-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0082-event.wav"
+            "cn": "Vox_Meredith_501.wav",
+            "ja": "Vox_Meredith_501.wav",
+            "en": "Vox_Meredith_501.wav"
         },
         "transcription": {
             "cn": "妨礙者又少了一个。",
@@ -1652,9 +2660,9 @@
         },
         "path": "Vox_Meredith_502",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0080-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0080-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0080-event.wav"
+            "cn": "Vox_Meredith_502.wav",
+            "ja": "Vox_Meredith_502.wav",
+            "en": "Vox_Meredith_502.wav"
         },
         "transcription": {
             "cn": "远处有敌人。",
@@ -1675,9 +2683,9 @@
         },
         "path": "Vox_Meredith_503",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0078-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0078-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0078-event.wav"
+            "cn": "Vox_Meredith_503.wav",
+            "ja": "Vox_Meredith_503.wav",
+            "en": "Vox_Meredith_503.wav"
         },
         "transcription": {
             "cn": "远距离发现敌人。",
@@ -1698,9 +2706,9 @@
         },
         "path": "Vox_Meredith_504",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0092-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0092-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0092-event.wav"
+            "cn": "Vox_Meredith_504.wav",
+            "ja": "Vox_Meredith_504.wav",
+            "en": "Vox_Meredith_504.wav"
         },
         "transcription": {
             "cn": "敵人逼近了。",
@@ -1721,9 +2729,9 @@
         },
         "path": "Vox_Meredith_505",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0090-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0090-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0090-event.wav"
+            "cn": "Vox_Meredith_505.wav",
+            "ja": "Vox_Meredith_505.wav",
+            "en": "Vox_Meredith_505.wav"
         },
         "transcription": {
             "cn": "前方有敌人。",
@@ -1744,9 +2752,9 @@
         },
         "path": "Vox_Meredith_506",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0088-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0088-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0088-event.wav"
+            "cn": "Vox_Meredith_506.wav",
+            "ja": "Vox_Meredith_506.wav",
+            "en": "Vox_Meredith_506.wav"
         },
         "transcription": {
             "cn": "有多名敌人出现。",
@@ -1767,9 +2775,9 @@
         },
         "path": "Vox_Meredith_507",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0086-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0086-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0086-event.wav"
+            "cn": "Vox_Meredith_507.wav",
+            "ja": "Vox_Meredith_507.wav",
+            "en": "Vox_Meredith_507.wav"
         },
         "transcription": {
             "cn": "敵人不止一個，準備作戰。",
@@ -1790,9 +2798,9 @@
         },
         "path": "Vox_Meredith_508",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0076-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0076-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0076-event.wav"
+            "cn": "Vox_Meredith_508.wav",
+            "ja": "Vox_Meredith_508.wav",
+            "en": "Vox_Meredith_508.wav"
         },
         "transcription": {
             "cn": "命中目标。",
@@ -1813,9 +2821,9 @@
         },
         "path": "Vox_Meredith_509",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0074-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0074-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0074-event.wav"
+            "cn": "Vox_Meredith_509.wav",
+            "ja": "Vox_Meredith_509.wav",
+            "en": "Vox_Meredith_509.wav"
         },
         "transcription": {
             "cn": "焦火中。",
@@ -1836,9 +2844,9 @@
         },
         "path": "Vox_Meredith_510",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0058-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0058-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0058-event.wav"
+            "cn": "Vox_Meredith_510.wav",
+            "ja": "Vox_Meredith_510.wav",
+            "en": "Vox_Meredith_510.wav"
         },
         "transcription": {
             "cn": "打中了，预料之中。",
@@ -1859,9 +2867,9 @@
         },
         "path": "Vox_Meredith_511",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0060-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0060-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0060-event.wav"
+            "cn": "Vox_Meredith_511.wav",
+            "ja": "Vox_Meredith_511.wav",
+            "en": "Vox_Meredith_511.wav"
         },
         "transcription": {
             "cn": "縱窗了敵人。",
@@ -1882,9 +2890,9 @@
         },
         "path": "Vox_Meredith_512",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0062-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0062-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0062-event.wav"
+            "cn": "Vox_Meredith_512.wav",
+            "ja": "Vox_Meredith_512.wav",
+            "en": "Vox_Meredith_512.wav"
         },
         "transcription": {
             "cn": "敌人已无法构成威胁。",
@@ -1905,9 +2913,9 @@
         },
         "path": "Vox_Meredith_513",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0064-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0064-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0064-event.wav"
+            "cn": "Vox_Meredith_513.wav",
+            "ja": "Vox_Meredith_513.wav",
+            "en": "Vox_Meredith_513.wav"
         },
         "transcription": {
             "cn": "敌人大势已去。",
@@ -1928,9 +2936,9 @@
         },
         "path": "Vox_Meredith_514",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0066-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0066-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0066-event.wav"
+            "cn": "Vox_Meredith_514.wav",
+            "ja": "Vox_Meredith_514.wav",
+            "en": "Vox_Meredith_514.wav"
         },
         "transcription": {
             "cn": "注意前方敵人。",
@@ -1951,9 +2959,9 @@
         },
         "path": "Vox_Meredith_515",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0068-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0068-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0068-event.wav"
+            "cn": "Vox_Meredith_515.wav",
+            "ja": "Vox_Meredith_515.wav",
+            "en": "Vox_Meredith_515.wav"
         },
         "transcription": {
             "cn": "正在遭到火力压制。",
@@ -1974,9 +2982,9 @@
         },
         "path": "Vox_Meredith_516",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0070-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0070-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0070-event.wav"
+            "cn": "Vox_Meredith_516.wav",
+            "ja": "Vox_Meredith_516.wav",
+            "en": "Vox_Meredith_516.wav"
         },
         "transcription": {
             "cn": "注意左侧敌人。",
@@ -1997,9 +3005,9 @@
         },
         "path": "Vox_Meredith_517",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0072-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0072-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0072-event.wav"
+            "cn": "Vox_Meredith_517.wav",
+            "ja": "Vox_Meredith_517.wav",
+            "en": "Vox_Meredith_517.wav"
         },
         "transcription": {
             "cn": "左侧有敌人。",
@@ -2020,9 +3028,9 @@
         },
         "path": "Vox_Meredith_518",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0054-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0054-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0054-event.wav"
+            "cn": "Vox_Meredith_518.wav",
+            "ja": "Vox_Meredith_518.wav",
+            "en": "Vox_Meredith_518.wav"
         },
         "transcription": {
             "cn": "有人在右侧开火。",
@@ -2043,9 +3051,9 @@
         },
         "path": "Vox_Meredith_519",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0056-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0056-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0056-event.wav"
+            "cn": "Vox_Meredith_519.wav",
+            "ja": "Vox_Meredith_519.wav",
+            "en": "Vox_Meredith_519.wav"
         },
         "transcription": {
             "cn": "右侧出现敌情。",
@@ -2066,9 +3074,9 @@
         },
         "path": "Vox_Meredith_520",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0096-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0096-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0096-event.wav"
+            "cn": "Vox_Meredith_520.wav",
+            "ja": "Vox_Meredith_520.wav",
+            "en": "Vox_Meredith_520.wav"
         },
         "transcription": {
             "cn": "当心身后。",
@@ -2089,9 +3097,9 @@
         },
         "path": "Vox_Meredith_521",
         "file": {
-            "cn": "Vox_Meredith_InGame_Barrier_free_original-0094-event.wav",
-            "ja": "Vox_Meredith_InGame_Barrier_free_original-0094-event.wav",
-            "en": "Vox_Meredith_InGame_Barrier_free_original-0094-event.wav"
+            "cn": "Vox_Meredith_521.wav",
+            "ja": "Vox_Meredith_521.wav",
+            "en": "Vox_Meredith_521.wav"
         },
         "transcription": {
             "cn": "后方出现敌情。",
@@ -2115,9 +3123,9 @@
         },
         "path": "Vox_Meredith_COM_081",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0035-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0035-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0035-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_081.wav",
+            "ja": "Vox_Meredith_COM_081.wav",
+            "en": "Vox_Meredith_COM_081.wav"
         },
         "transcription": {
             "cn": "进攻。",
@@ -2149,9 +3157,9 @@
         },
         "path": "Vox_Meredith_COM_082",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0037-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0037-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0037-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_082.wav",
+            "ja": "Vox_Meredith_COM_082.wav",
+            "en": "Vox_Meredith_COM_082.wav"
         },
         "transcription": {
             "cn": "伺机而动。",
@@ -2183,9 +3191,9 @@
         },
         "path": "Vox_Meredith_COM_083",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0039-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0039-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0039-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_083.wav",
+            "ja": "Vox_Meredith_COM_083.wav",
+            "en": "Vox_Meredith_COM_083.wav"
         },
         "transcription": {
             "cn": "撤退。",
@@ -2217,9 +3225,9 @@
         },
         "path": "Vox_Meredith_COM_084",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0041-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0041-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0041-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_084.wav",
+            "ja": "Vox_Meredith_COM_084.wav",
+            "en": "Vox_Meredith_COM_084.wav"
         },
         "transcription": {
             "cn": "非常感谢。",
@@ -2251,9 +3259,9 @@
         },
         "path": "Vox_Meredith_COM_085",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0043-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0043-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0043-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_085.wav",
+            "ja": "Vox_Meredith_COM_085.wav",
+            "en": "Vox_Meredith_COM_085.wav"
         },
         "transcription": {
             "cn": "做得很好。",
@@ -2285,9 +3293,9 @@
         },
         "path": "Vox_Meredith_COM_086",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0045-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0045-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0045-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_086.wav",
+            "ja": "Vox_Meredith_COM_086.wav",
+            "en": "Vox_Meredith_COM_086.wav"
         },
         "transcription": {
             "cn": "嗯。",
@@ -2319,9 +3327,9 @@
         },
         "path": "Vox_Meredith_COM_087",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0047-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0047-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0047-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_087.wav",
+            "ja": "Vox_Meredith_COM_087.wav",
+            "en": "Vox_Meredith_COM_087.wav"
         },
         "transcription": {
             "cn": "不。",
@@ -2353,9 +3361,9 @@
         },
         "path": "Vox_Meredith_COM_088",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0049-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0049-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0049-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_088.wav",
+            "ja": "Vox_Meredith_COM_088.wav",
+            "en": "Vox_Meredith_COM_088.wav"
         },
         "transcription": {
             "cn": "抱歉。",
@@ -2387,9 +3395,9 @@
         },
         "path": "Vox_Meredith_COM_089",
         "file": {
-            "cn": "Vox_Meredith_InGame_Shortcut_original-0051-event [427219945=136945955].wav",
-            "ja": "Vox_Meredith_InGame_Shortcut_original-0051-event [427219945=136945955].wav",
-            "en": "Vox_Meredith_InGame_Shortcut_original-0051-event [427219945=136945955].wav"
+            "cn": "Vox_Meredith_COM_089.wav",
+            "ja": "Vox_Meredith_COM_089.wav",
+            "en": "Vox_Meredith_COM_089.wav"
         },
         "transcription": {
             "cn": "你好。",
@@ -2418,9 +3426,9 @@
         },
         "path": "Vox_Meredith_COM_090",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0035-event {r}.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0035-event {r}.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0035-event {r}.wav"
+            "cn": "Vox_Meredith_COM_090.wav",
+            "ja": "Vox_Meredith_COM_090.wav",
+            "en": "Vox_Meredith_COM_090.wav"
         },
         "transcription": {
             "cn": "此乃守雷。",
@@ -2433,6 +3441,22 @@
             }
         }
     },
+    "22133265": {
+        "id": 22133265,
+        "title": {},
+        "path": "Vox_Meredith_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_090_red01_a.wav",
+            "ja": "Vox_Meredith_COM_090_red01_a.wav",
+            "en": "Vox_Meredith_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133091": {
         "id": 22133091,
         "title": {
@@ -2441,9 +3465,9 @@
         },
         "path": "Vox_Meredith_COM_091",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0033-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0033-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0033-event.wav"
+            "cn": "Vox_Meredith_COM_091.wav",
+            "ja": "Vox_Meredith_COM_091.wav",
+            "en": "Vox_Meredith_COM_091.wav"
         },
         "transcription": {
             "cn": "拦截器已安装。",
@@ -2456,6 +3480,22 @@
             }
         }
     },
+    "22133266": {
+        "id": 22133266,
+        "title": {},
+        "path": "Vox_Meredith_COM_091_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_091_red01_a.wav",
+            "ja": "Vox_Meredith_COM_091_red01_a.wav",
+            "en": "Vox_Meredith_COM_091_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133092": {
         "id": 22133092,
         "title": {
@@ -2464,9 +3504,9 @@
         },
         "path": "Vox_Meredith_COM_092",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0031-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0031-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0031-event.wav"
+            "cn": "Vox_Meredith_COM_092.wav",
+            "ja": "Vox_Meredith_COM_092.wav",
+            "en": "Vox_Meredith_COM_092.wav"
         },
         "transcription": {
             "cn": "烟雾弹。",
@@ -2479,6 +3519,22 @@
             }
         }
     },
+    "22133267": {
+        "id": 22133267,
+        "title": {},
+        "path": "Vox_Meredith_COM_092_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_092_red01_a.wav",
+            "ja": "Vox_Meredith_COM_092_red01_a.wav",
+            "en": "Vox_Meredith_COM_092_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133093": {
         "id": 22133093,
         "title": {
@@ -2487,9 +3543,9 @@
         },
         "path": "Vox_Meredith_COM_093",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0029-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0029-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0029-event.wav"
+            "cn": "Vox_Meredith_COM_093.wav",
+            "ja": "Vox_Meredith_COM_093.wav",
+            "en": "Vox_Meredith_COM_093.wav"
         },
         "transcription": {
             "cn": "闪光弹。",
@@ -2502,6 +3558,22 @@
             }
         }
     },
+    "22133268": {
+        "id": 22133268,
+        "title": {},
+        "path": "Vox_Meredith_COM_093_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_093_red01_a.wav",
+            "ja": "Vox_Meredith_COM_093_red01_a.wav",
+            "en": "Vox_Meredith_COM_093_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133094": {
         "id": 22133094,
         "title": {
@@ -2510,9 +3582,9 @@
         },
         "path": "Vox_Meredith_COM_094",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0043-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0043-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0043-event.wav"
+            "cn": "Vox_Meredith_COM_094.wav",
+            "ja": "Vox_Meredith_COM_094.wav",
+            "en": "Vox_Meredith_COM_094.wav"
         },
         "transcription": {
             "cn": "療愈儀式。",
@@ -2525,6 +3597,22 @@
             }
         }
     },
+    "22133269": {
+        "id": 22133269,
+        "title": {},
+        "path": "Vox_Meredith_COM_094_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_094_red01_a.wav",
+            "ja": "Vox_Meredith_COM_094_red01_a.wav",
+            "en": "Vox_Meredith_COM_094_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133095": {
         "id": 22133095,
         "title": {
@@ -2533,9 +3621,9 @@
         },
         "path": "Vox_Meredith_COM_095",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0041-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0041-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0041-event.wav"
+            "cn": "Vox_Meredith_COM_095.wav",
+            "ja": "Vox_Meredith_COM_095.wav",
+            "en": "Vox_Meredith_COM_095.wav"
         },
         "transcription": {
             "cn": "封城雷。",
@@ -2548,6 +3636,22 @@
             }
         }
     },
+    "22133270": {
+        "id": 22133270,
+        "title": {},
+        "path": "Vox_Meredith_COM_095_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_095_red01_a.wav",
+            "ja": "Vox_Meredith_COM_095_red01_a.wav",
+            "en": "Vox_Meredith_COM_095_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133096": {
         "id": 22133096,
         "title": {
@@ -2556,9 +3660,9 @@
         },
         "path": "Vox_Meredith_COM_096",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0039-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0039-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0039-event.wav"
+            "cn": "Vox_Meredith_COM_096.wav",
+            "ja": "Vox_Meredith_COM_096.wav",
+            "en": "Vox_Meredith_COM_096.wav"
         },
         "transcription": {
             "cn": "减速雷。",
@@ -2571,6 +3675,22 @@
             }
         }
     },
+    "22133271": {
+        "id": 22133271,
+        "title": {},
+        "path": "Vox_Meredith_COM_096_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_096_red01_a.wav",
+            "ja": "Vox_Meredith_COM_096_red01_a.wav",
+            "en": "Vox_Meredith_COM_096_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133097": {
         "id": 22133097,
         "title": {
@@ -2579,9 +3699,9 @@
         },
         "path": "Vox_Meredith_COM_097",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0037-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0037-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0037-event.wav"
+            "cn": "Vox_Meredith_COM_097.wav",
+            "ja": "Vox_Meredith_COM_097.wav",
+            "en": "Vox_Meredith_COM_097.wav"
         },
         "transcription": {
             "cn": "警报器已安装。",
@@ -2594,6 +3714,22 @@
             }
         }
     },
+    "22133272": {
+        "id": 22133272,
+        "title": {},
+        "path": "Vox_Meredith_COM_097_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_097_red01_a.wav",
+            "ja": "Vox_Meredith_COM_097_red01_a.wav",
+            "en": "Vox_Meredith_COM_097_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133098": {
         "id": 22133098,
         "title": {
@@ -2602,9 +3738,9 @@
         },
         "path": "Vox_Meredith_COM_098",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0045-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0045-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0045-event.wav"
+            "cn": "Vox_Meredith_COM_098.wav",
+            "ja": "Vox_Meredith_COM_098.wav",
+            "en": "Vox_Meredith_COM_098.wav"
         },
         "transcription": {
             "cn": "此处，危险。",
@@ -2617,6 +3753,22 @@
             }
         }
     },
+    "22133273": {
+        "id": 22133273,
+        "title": {},
+        "path": "Vox_Meredith_COM_098_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_098_red01_a.wav",
+            "ja": "Vox_Meredith_COM_098_red01_a.wav",
+            "en": "Vox_Meredith_COM_098_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133099": {
         "id": 22133099,
         "title": {
@@ -2625,9 +3777,9 @@
         },
         "path": "Vox_Meredith_COM_099",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0043-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0043-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0043-event.wav"
+            "cn": "Vox_Meredith_COM_099.wav",
+            "ja": "Vox_Meredith_COM_099.wav",
+            "en": "Vox_Meredith_COM_099.wav"
         },
         "transcription": {
             "cn": "我来防守。",
@@ -2640,6 +3792,22 @@
             }
         }
     },
+    "22133274": {
+        "id": 22133274,
+        "title": {},
+        "path": "Vox_Meredith_COM_099_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_099_red01_a.wav",
+            "ja": "Vox_Meredith_COM_099_red01_a.wav",
+            "en": "Vox_Meredith_COM_099_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133100": {
         "id": 22133100,
         "title": {
@@ -2648,9 +3816,9 @@
         },
         "path": "Vox_Meredith_COM_100",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0029-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0029-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0029-event.wav"
+            "cn": "Vox_Meredith_COM_100.wav",
+            "ja": "Vox_Meredith_COM_100.wav",
+            "en": "Vox_Meredith_COM_100.wav"
         },
         "transcription": {
             "cn": "支援我。",
@@ -2663,6 +3831,22 @@
             }
         }
     },
+    "22133275": {
+        "id": 22133275,
+        "title": {},
+        "path": "Vox_Meredith_COM_100_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_100_red01_a.wav",
+            "ja": "Vox_Meredith_COM_100_red01_a.wav",
+            "en": "Vox_Meredith_COM_100_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133101": {
         "id": 22133101,
         "title": {
@@ -2671,9 +3855,9 @@
         },
         "path": "Vox_Meredith_COM_101",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0027-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0027-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0027-event.wav"
+            "cn": "Vox_Meredith_COM_101.wav",
+            "ja": "Vox_Meredith_COM_101.wav",
+            "en": "Vox_Meredith_COM_101.wav"
         },
         "transcription": {
             "cn": "攻下此处。",
@@ -2686,6 +3870,22 @@
             }
         }
     },
+    "22133276": {
+        "id": 22133276,
+        "title": {},
+        "path": "Vox_Meredith_COM_101_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_101_red01_a.wav",
+            "ja": "Vox_Meredith_COM_101_red01_a.wav",
+            "en": "Vox_Meredith_COM_101_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133102": {
         "id": 22133102,
         "title": {
@@ -2694,9 +3894,9 @@
         },
         "path": "Vox_Meredith_COM_102",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0033-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0033-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0033-event.wav"
+            "cn": "Vox_Meredith_COM_102.wav",
+            "ja": "Vox_Meredith_COM_102.wav",
+            "en": "Vox_Meredith_COM_102.wav"
         },
         "transcription": {
             "cn": "注意此处。",
@@ -2709,6 +3909,22 @@
             }
         }
     },
+    "22133277": {
+        "id": 22133277,
+        "title": {},
+        "path": "Vox_Meredith_COM_102_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_102_red01_a.wav",
+            "ja": "Vox_Meredith_COM_102_red01_a.wav",
+            "en": "Vox_Meredith_COM_102_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133103": {
         "id": 22133103,
         "title": {
@@ -2717,9 +3933,9 @@
         },
         "path": "Vox_Meredith_COM_103",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0031-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0031-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0031-event.wav"
+            "cn": "Vox_Meredith_COM_103.wav",
+            "ja": "Vox_Meredith_COM_103.wav",
+            "en": "Vox_Meredith_COM_103.wav"
         },
         "transcription": {
             "cn": "可以在此安装炸弹。",
@@ -2732,6 +3948,22 @@
             }
         }
     },
+    "22133278": {
+        "id": 22133278,
+        "title": {},
+        "path": "Vox_Meredith_COM_103_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_103_red01_a.wav",
+            "ja": "Vox_Meredith_COM_103_red01_a.wav",
+            "en": "Vox_Meredith_COM_103_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133104": {
         "id": 22133104,
         "title": {
@@ -2740,9 +3972,9 @@
         },
         "path": "Vox_Meredith_COM_104",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0037-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0037-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0037-event.wav"
+            "cn": "Vox_Meredith_COM_104.wav",
+            "ja": "Vox_Meredith_COM_104.wav",
+            "en": "Vox_Meredith_COM_104.wav"
         },
         "transcription": {
             "cn": "此处有炸弹。",
@@ -2755,6 +3987,22 @@
             }
         }
     },
+    "22133279": {
+        "id": 22133279,
+        "title": {},
+        "path": "Vox_Meredith_COM_104_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_104_red01_a.wav",
+            "ja": "Vox_Meredith_COM_104_red01_a.wav",
+            "en": "Vox_Meredith_COM_104_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133105": {
         "id": 22133105,
         "title": {
@@ -2763,9 +4011,9 @@
         },
         "path": "Vox_Meredith_COM_105",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0035-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0035-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0035-event.wav"
+            "cn": "Vox_Meredith_COM_105.wav",
+            "ja": "Vox_Meredith_COM_105.wav",
+            "en": "Vox_Meredith_COM_105.wav"
         },
         "transcription": {
             "cn": "此处有子弹。",
@@ -2778,6 +4026,22 @@
             }
         }
     },
+    "22133280": {
+        "id": 22133280,
+        "title": {},
+        "path": "Vox_Meredith_COM_105_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_105_red01_a.wav",
+            "ja": "Vox_Meredith_COM_105_red01_a.wav",
+            "en": "Vox_Meredith_COM_105_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133106": {
         "id": 22133106,
         "title": {
@@ -2786,9 +4050,9 @@
         },
         "path": "Vox_Meredith_COM_106",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0041-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0041-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0041-event.wav"
+            "cn": "Vox_Meredith_COM_106.wav",
+            "ja": "Vox_Meredith_COM_106.wav",
+            "en": "Vox_Meredith_COM_106.wav"
         },
         "transcription": {
             "cn": "此处有护甲。",
@@ -2801,6 +4065,22 @@
             }
         }
     },
+    "22133281": {
+        "id": 22133281,
+        "title": {},
+        "path": "Vox_Meredith_COM_106_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_106_red01_a.wav",
+            "ja": "Vox_Meredith_COM_106_red01_a.wav",
+            "en": "Vox_Meredith_COM_106_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133107": {
         "id": 22133107,
         "title": {
@@ -2809,9 +4089,9 @@
         },
         "path": "Vox_Meredith_COM_107",
         "file": {
-            "cn": "Vox_Meredith_InGame_Mark_original-0039-event.wav",
-            "ja": "Vox_Meredith_InGame_Mark_original-0039-event.wav",
-            "en": "Vox_Meredith_InGame_Mark_original-0039-event.wav"
+            "cn": "Vox_Meredith_COM_107.wav",
+            "ja": "Vox_Meredith_COM_107.wav",
+            "en": "Vox_Meredith_COM_107.wav"
         },
         "transcription": {
             "cn": "此处有战术道具。",
@@ -2824,6 +4104,22 @@
             }
         }
     },
+    "22133282": {
+        "id": 22133282,
+        "title": {},
+        "path": "Vox_Meredith_COM_107_red01_a",
+        "file": {
+            "cn": "Vox_Meredith_COM_107_red01_a.wav",
+            "ja": "Vox_Meredith_COM_107_red01_a.wav",
+            "en": "Vox_Meredith_COM_107_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22133151": {
         "id": 22133151,
         "title": {
@@ -2832,9 +4128,9 @@
         },
         "path": "Vox_Meredith_COM_151",
         "file": {
-            "cn": "Vox_Meredith_InGame_Tactical_Item_original-0027-event.wav",
-            "ja": "Vox_Meredith_InGame_Tactical_Item_original-0027-event.wav",
-            "en": "Vox_Meredith_InGame_Tactical_Item_original-0027-event.wav"
+            "cn": "Vox_Meredith_COM_151.wav",
+            "ja": "Vox_Meredith_COM_151.wav",
+            "en": "Vox_Meredith_COM_151.wav"
         },
         "transcription": {
             "cn": "净爆气发现敌人，所有人做好交战准备。",
@@ -2852,16 +4148,25 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAR_022",
         "file": {
-            "cn": "Vox_Logo-0082-event.wav",
+            "cn": "Vox_Meredith_BPCHAR_022.wav",
             "ja": "",
-            "en": "Vox_Logo-0082-event.wav"
+            "en": "Vox_Meredith_BPCHAR_022.wav"
         },
         "transcription": {
             "cn": "卡拉比丘。",
-            "en": "Strinova."
+            "en": "Strinova.",
+            "ja": "ストリノヴァ。"
         },
         "translation": {
-            "cn": {}
+            "cn": {
+                "ko": "스트리노바.",
+                "es": "Strinova.",
+                "fr": "Strinova.",
+                "de": "Strinova.",
+                "ru": "Стринова.",
+                "pt-br": "Strinova.",
+                "zh-hans": "卡拉彼丘。"
+            }
         }
     },
     "22133018": {
@@ -2872,9 +4177,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_018",
         "file": {
-            "cn": "Vox_Meredith_OutGame_Equipment_original-0018-event.wav",
-            "ja": "Vox_Meredith_OutGame_Equipment_original-0018-event.wav",
-            "en": "Vox_Meredith_OutGame_Equipment_original-0018-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_018.wav",
+            "ja": "Vox_Meredith_BPCHAR_018.wav",
+            "en": "Vox_Meredith_BPCHAR_018.wav"
         },
         "transcription": {
             "cn": "我的名字叫梅瑞迪斯，引领人类寻回归途，是我的使命所在。",
@@ -2895,9 +4200,9 @@
         },
         "path": "Vox_Meredith_BPCHAR_019",
         "file": {
-            "cn": "Vox_Meredith_OutGame_Equipment_original-0020-event.wav",
-            "ja": "Vox_Meredith_OutGame_Equipment_original-0020-event.wav",
-            "en": "Vox_Meredith_OutGame_Equipment_original-0020-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_019.wav",
+            "ja": "Vox_Meredith_BPCHAR_019.wav",
+            "en": "Vox_Meredith_BPCHAR_019.wav"
         },
         "transcription": {
             "cn": "我将引领所有人。",
@@ -2915,16 +4220,25 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAR_020",
         "file": {
-            "cn": "Vox_Meredith_OutGame_Equipment_original-0016-event.wav",
-            "ja": "Vox_Meredith_OutGame_Equipment_original-0016-event.wav",
-            "en": "Vox_Meredith_OutGame_Equipment_original-0016-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_020.wav",
+            "ja": "Vox_Meredith_BPCHAR_020.wav",
+            "en": "Vox_Meredith_BPCHAR_020.wav"
         },
         "transcription": {
             "cn": "决定了吗？",
-            "en": "Made your decision?"
+            "en": "Made your decision?",
+            "ja": "心は決めた？"
         },
         "translation": {
-            "cn": {}
+            "cn": {
+                "ko": "결정하셨나요?",
+                "es": "¿Ya tomaste una decisión?",
+                "fr": "Avez-vous pris une décision ?",
+                "de": "Hast du dich entschieden?",
+                "ru": "Выбор сделан?",
+                "pt-br": "Já tomou sua decisão?",
+                "zh-hans": "决定了吗？"
+            }
         }
     },
     "22133021": {
@@ -2932,9 +4246,9 @@
         "title": {},
         "path": "Vox_Meredith_BPCHAR_021",
         "file": {
-            "cn": "Vox_Meredith_OutGame_Equipment_original-0014-event.wav",
-            "ja": "Vox_Meredith_OutGame_Equipment_original-0014-event.wav",
-            "en": "Vox_Meredith_OutGame_Equipment_original-0014-event.wav"
+            "cn": "Vox_Meredith_BPCHAR_021.wav",
+            "ja": "Vox_Meredith_BPCHAR_021.wav",
+            "en": "Vox_Meredith_BPCHAR_021.wav"
         },
         "transcription": {
             "cn": "你准备好了，对吧？",
