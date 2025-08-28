@@ -3027,7 +3027,7 @@
         "file": {
             "cn": "Vox_Audrey_BPCHAT_077_red01_a.wav",
             "ja": "Vox_Audrey_BPCHAT_077_red01_a.wav",
-            "en": "Vox_Audrey_BPCHAT_077_red01_a.wav"
+            "en": ""
         },
         "transcription": {
             "cn": "焚尽一切，寸草不生！",
@@ -3083,7 +3083,7 @@
         "file": {
             "cn": "Vox_Audrey_BPCHAT_078_red01_a.wav",
             "ja": "Vox_Audrey_BPCHAT_078_red01_a.wav",
-            "en": "Vox_Audrey_BPCHAT_078_red01_a.wav"
+            "en": ""
         },
         "transcription": {
             "cn": "以尔灰烬铸荣光。",
@@ -3745,7 +3745,7 @@
         "file": {
             "cn": "Vox_Audrey_BPCHAT_118_red01_a.wav",
             "ja": "Vox_Audrey_BPCHAT_118_red01_a.wav",
-            "en": "Vox_Audrey_BPCHAT_118_red01_a.wav"
+            "en": ""
         },
         "transcription": {
             "cn": "荣耀的烈焰，涤荡四方。",
@@ -3790,7 +3790,7 @@
         "file": {
             "cn": "Vox_Audrey_BPCHAT_119_red01_a.wav",
             "ja": "Vox_Audrey_BPCHAT_119_red01_a.wav",
-            "en": "Vox_Audrey_BPCHAT_119_red01_a.wav"
+            "en": ""
         },
         "transcription": {
             "cn": "格洛夫的征途不会停止。",
@@ -5188,8 +5188,8 @@
             }
         }
     },
-    "22105235": {
-        "id": 22105235,
+    "22105350": {
+        "id": 22105350,
         "title": {
             "cn": "",
             "en": ""
