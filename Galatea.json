@@ -1483,6 +1483,22 @@
             }
         }
     },
+    "22205317": {
+        "id": 22205317,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_141_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22205142": {
         "id": 22205142,
         "title": {
@@ -1504,6 +1520,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22205318": {
+        "id": 22205318,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_142_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22205143": {
@@ -1529,6 +1561,22 @@
             }
         }
     },
+    "22205319": {
+        "id": 22205319,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_143_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22205144": {
         "id": 22205144,
         "title": {
@@ -1550,6 +1598,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22205320": {
+        "id": 22205320,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_144_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22205145": {
@@ -1575,6 +1639,22 @@
             }
         }
     },
+    "22205321": {
+        "id": 22205321,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_145_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22205146": {
         "id": 22205146,
         "title": {
@@ -1596,6 +1676,86 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22205322": {
+        "id": 22205322,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_146_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22205323": {
+        "id": 22205323,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_147_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22205324": {
+        "id": 22205324,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_148_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22205325": {
+        "id": 22205325,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_149_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22205326": {
+        "id": 22205326,
+        "title": {},
+        "path": "Vox_Galatea_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Galatea_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Galatea_BPCHAT_150_red01_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22205500": {
