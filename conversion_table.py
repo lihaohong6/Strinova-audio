@@ -237,7 +237,7 @@ voice_conversion_table: dict[VoiceType, dict[str, tuple[str, str]]] = {
         "021": ("", "(Team Arena) 1 kill remaining (enemy team)"),
         "022": ("", "(Team Arena) First blood"),
         "023": ("", "Tie"),
-        "024": ("", "Victory (no death)"),
+        "024": ("", "Ace (5 kills)"),
         "025": ("", "Defenders win"),
         "026": ("", "Attackers win"),
         "027": ("", "(Demolition) Won round, all alive"),
