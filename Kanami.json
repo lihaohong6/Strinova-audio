@@ -6608,7 +6608,9 @@
     },
     "22998024": {
         "id": 22998024,
-        "title": {},
+        "title": {
+            "en": "Victory (no death)"
+        },
         "path": "Vox_Communicate_Kanami_024",
         "file": {
             "cn": "Vox_Communicate_Kanami_024.wav",

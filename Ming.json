@@ -2651,7 +2651,9 @@
     },
     "22132141": {
         "id": 22132141,
-        "title": {},
+        "title": {
+            "en": "Ally Lawine kills an Enemy"
+        },
         "path": "Vox_Ming_BPCHAT_141",
         "file": {
             "cn": "Vox_Ming_BPCHAT_141.wav",
@@ -2659,7 +2661,8 @@
             "en": "Vox_Ming_BPCHAT_141.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Nicely done Lawine! I was gonna do it myself."
         },
         "translation": {
             "cn": {}
@@ -2690,7 +2693,9 @@
     },
     "22132142": {
         "id": 22132142,
-        "title": {},
+        "title": {
+            "en": "Rescuing Ally Lawine"
+        },
         "path": "Vox_Ming_BPCHAT_142",
         "file": {
             "cn": "Vox_Ming_BPCHAT_142.wav",
@@ -3052,7 +3057,9 @@
     },
     "22132151": {
         "id": 22132151,
-        "title": {},
+        "title": {
+            "en": "Ally Eika kills an enemy"
+        },
         "path": "Vox_Ming_BPCHAT_150_a",
         "file": {
             "cn": "Vox_Ming_BPCHAT_150_a.wav",
@@ -3060,7 +3067,8 @@
             "en": "Vox_Ming_BPCHAT_150_a.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Not bad Eika. I'll show you some advanced moves later."
         },
         "translation": {
             "cn": {}
@@ -3068,7 +3076,9 @@
     },
     "22132152": {
         "id": 22132152,
-        "title": {},
+        "title": {
+            "en": "Rescuing Ally Eika"
+        },
         "path": "Vox_Ming_BPCHAT_150_b",
         "file": {
             "cn": "Vox_Ming_BPCHAT_150_b.wav",
@@ -3076,7 +3086,8 @@
             "en": "Vox_Ming_BPCHAT_150_b.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Don't worry Eika! I've got you."
         },
         "translation": {
             "cn": {}
