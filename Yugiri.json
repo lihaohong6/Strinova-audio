@@ -25,6 +25,22 @@
             }
         }
     },
+    "22121236": {
+        "id": 22121236,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121067": {
         "id": 22121067,
         "title": {},
@@ -49,6 +65,22 @@
                 "pt-br": "",
                 "zh-hans": "但我会变强，直到打碎它的束缚！"
             }
+        }
+    },
+    "22121237": {
+        "id": 22121237,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAR_067_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121068": {
@@ -77,6 +109,22 @@
             }
         }
     },
+    "22121238": {
+        "id": 22121238,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAR_068_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAR_068_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAR_068_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121069": {
         "id": 22121069,
         "title": {},
@@ -101,6 +149,22 @@
                 "pt-br": "",
                 "zh-hans": "弦能涌动，迎接命运。"
             }
+        }
+    },
+    "22121239": {
+        "id": 22121239,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAR_069_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAR_069_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAR_069_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121070": {
@@ -129,6 +193,22 @@
             }
         }
     },
+    "22121240": {
+        "id": 22121240,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAR_070_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAR_070_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAR_070_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121071": {
         "id": 22121071,
         "title": {},
@@ -142,6 +222,22 @@
             "cn": "蜗蜗已经休息好了。",
             "en": "My snail is rested and ready.",
             "ja": "マイマイ、休憩は終わったよね？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121250": {
+        "id": 22121250,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_071_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_071_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_071_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -173,6 +269,22 @@
             }
         }
     },
+    "22121251": {
+        "id": 22121251,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_072_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_072_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_072_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121073": {
         "id": 22121073,
         "title": {},
@@ -197,6 +309,22 @@
                 "pt-br": "",
                 "zh-hans": "让你们尝尝被腐蚀的滋味！"
             }
+        }
+    },
+    "22121252": {
+        "id": 22121252,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_073_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_073_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_073_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121074": {
@@ -225,6 +353,22 @@
             }
         }
     },
+    "22121253": {
+        "id": 22121253,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_074_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_074_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_074_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121075": {
         "id": 22121075,
         "title": {},
@@ -243,6 +387,22 @@
             "cn": {}
         }
     },
+    "22121254": {
+        "id": 22121254,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121076": {
         "id": 22121076,
         "title": {},
@@ -256,6 +416,22 @@
             "cn": "形态实物，凝化完成。",
             "en": "Stringified corrosion mist condensed.",
             "ja": "ポイズンフォグ、生成完了。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121255": {
+        "id": 22121255,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_076_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_076_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_076_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -287,6 +463,22 @@
             }
         }
     },
+    "22121256": {
+        "id": 22121256,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_077_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_077_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_077_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121078": {
         "id": 22121078,
         "title": {},
@@ -311,6 +503,22 @@
                 "pt-br": "",
                 "zh-hans": "渗透所有的缝隙！"
             }
+        }
+    },
+    "22121257": {
+        "id": 22121257,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_078_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_078_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_078_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121079": {
@@ -339,6 +547,22 @@
             }
         }
     },
+    "22121258": {
+        "id": 22121258,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_079_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_079_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_079_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121080": {
         "id": 22121080,
         "title": {},
@@ -357,6 +581,22 @@
             "cn": {}
         }
     },
+    "22121259": {
+        "id": 22121259,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_080_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_080_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121108": {
         "id": 22121108,
         "title": {},
@@ -370,6 +610,22 @@
             "cn": "竟然打我。",
             "en": "How did you hit me?",
             "ja": "私を撃つなんて……！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121294": {
+        "id": 22121294,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_108_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -401,6 +657,22 @@
             }
         }
     },
+    "22121295": {
+        "id": 22121295,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_109_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_109_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_109_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121110": {
         "id": 22121110,
         "title": {},
@@ -425,6 +697,22 @@
                 "pt-br": "",
                 "zh-hans": "感受这份力量。"
             }
+        }
+    },
+    "22121296": {
+        "id": 22121296,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_110_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_110_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_110_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121111": {
@@ -453,6 +741,22 @@
             }
         }
     },
+    "22121297": {
+        "id": 22121297,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_111_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_111_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_111_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121112": {
         "id": 22121112,
         "title": {},
@@ -477,6 +781,22 @@
                 "pt-br": "Isso é tudo o que você sabe fazer?",
                 "zh-hans": "这就是你的全力？"
             }
+        }
+    },
+    "22121298": {
+        "id": 22121298,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_112_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_112_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_112_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121113": {
@@ -505,6 +825,22 @@
             }
         }
     },
+    "22121299": {
+        "id": 22121299,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_113_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_113_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_113_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121114": {
         "id": 22121114,
         "title": {},
@@ -531,6 +867,38 @@
             }
         }
     },
+    "22121300": {
+        "id": 22121300,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_114_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_114_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_114_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121301": {
+        "id": 22121301,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_115_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_115_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_115_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121116": {
         "id": 22121116,
         "title": {},
@@ -544,6 +912,22 @@
             "cn": "毫无挑战性。",
             "en": "I didn't even break a sweat.",
             "ja": "腕試しにもならない。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121302": {
+        "id": 22121302,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_116_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_116_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_116_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -567,6 +951,22 @@
             "cn": {}
         }
     },
+    "22121303": {
+        "id": 22121303,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_117_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_117_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_117_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121118": {
         "id": 22121118,
         "title": {},
@@ -580,6 +980,22 @@
             "cn": "嫉妒弱小，不堪一击。",
             "en": "You pathetic weaklings!",
             "ja": "一発も耐えられないなんて、弱すぎ！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121304": {
+        "id": 22121304,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_118_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_118_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_118_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -603,6 +1019,22 @@
             "cn": {}
         }
     },
+    "22121305": {
+        "id": 22121305,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_119_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_119_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_119_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121120": {
         "id": 22121120,
         "title": {},
@@ -616,6 +1048,22 @@
             "cn": "逃不掉的，接受惩罚吧。",
             "en": "YOU SHALL NOT ESCAPE PUNISHMENT!",
             "ja": "逃げられないよ。さぁ、罪を償って！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121306": {
+        "id": 22121306,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_120_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_120_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_120_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -639,6 +1087,22 @@
             "cn": {}
         }
     },
+    "22121309": {
+        "id": 22121309,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_123_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_123_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_123_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121124": {
         "id": 22121124,
         "title": {},
@@ -652,6 +1116,22 @@
             "cn": "又一次，迷失了。",
             "en": "I'm... lost... again...",
             "ja": "どうして勝てないの……！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121310": {
+        "id": 22121310,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_124_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_124_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_124_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -675,6 +1155,22 @@
             "cn": {}
         }
     },
+    "22121311": {
+        "id": 22121311,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_125_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_125_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_125_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_125_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121126": {
         "id": 22121126,
         "title": {},
@@ -688,6 +1184,22 @@
             "cn": "耶，又一个倒下了。",
             "en": "Yes, got another one.",
             "ja": "やった、また一人倒した。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121312": {
+        "id": 22121312,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_126_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_126_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_126_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -711,6 +1223,22 @@
             "cn": {}
         }
     },
+    "22121313": {
+        "id": 22121313,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_127_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_127_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_127_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121122": {
         "id": 22121122,
         "title": {},
@@ -724,6 +1252,22 @@
             "cn": "这次……没有逃开……",
             "en": "Couldn't get away in time.",
             "ja": "あぁ……逃げられなかった……"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121308": {
+        "id": 22121308,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_122_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_122_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_122_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -747,6 +1291,22 @@
             "cn": {}
         }
     },
+    "22121307": {
+        "id": 22121307,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_121_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_121_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_121_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121128": {
         "id": 22121128,
         "title": {},
@@ -760,6 +1320,22 @@
             "cn": "救我，站不起来了。",
             "en": "Help me get up.",
             "ja": "助けて、もう、立てない……"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121314": {
+        "id": 22121314,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_128_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_128_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_128_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -791,6 +1367,22 @@
             }
         }
     },
+    "22121315": {
+        "id": 22121315,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_129_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_129_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_129_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121130": {
         "id": 22121130,
         "title": {},
@@ -804,6 +1396,22 @@
             "cn": "谢谢你，我，我回来了。",
             "en": "Thank you. I'm back.",
             "ja": "あ、ありがとう。戦闘に戻る！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121316": {
+        "id": 22121316,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_130_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_130_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_130_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -827,6 +1435,22 @@
             "cn": {}
         }
     },
+    "22121260": {
+        "id": 22121260,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_131_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121132": {
         "id": 22121132,
         "title": {},
@@ -840,6 +1464,22 @@
             "cn": "我也要拿这个。",
             "en": "Do I have to pick it up as well?",
             "ja": "私もこれ、持つの……？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121262": {
+        "id": 22121262,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_132_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_132_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_132_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -863,6 +1503,22 @@
             "cn": {}
         }
     },
+    "22121263": {
+        "id": 22121263,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_133_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_133_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_133_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121134": {
         "id": 22121134,
         "title": {},
@@ -876,6 +1532,22 @@
             "cn": "好重，扔了吧。",
             "en": "It's so heavy. I'm dropping it.",
             "ja": "重、捨てよ。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121264": {
+        "id": 22121264,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_134_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_134_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_134_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -899,6 +1571,22 @@
             "cn": {}
         }
     },
+    "22121261": {
+        "id": 22121261,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_135_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_135_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_135_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121136": {
         "id": 22121136,
         "title": {},
@@ -912,6 +1600,22 @@
             "cn": "我也能飞起来了。",
             "en": "Look! I'm flying!",
             "ja": "私も、飛べる！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121293": {
+        "id": 22121293,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_136_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_136_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_136_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -979,6 +1683,54 @@
             "cn": {}
         }
     },
+    "22121244": {
+        "id": 22121244,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_137_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_137_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121245": {
+        "id": 22121245,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_137_red01_b",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_Yugiri_BPCHAT_137_red01_b.wav",
+            "en": "Vox_Yugiri_BPCHAT_137_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121246": {
+        "id": 22121246,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_137_red01_c",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_Yugiri_BPCHAT_137_red01_c.wav",
+            "en": "Vox_Yugiri_BPCHAT_137_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121138": {
         "id": 22121138,
         "title": {},
@@ -1041,6 +1793,54 @@
             "cn": {}
         }
     },
+    "22121241": {
+        "id": 22121241,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_138_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_138_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_138_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121242": {
+        "id": 22121242,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_138_red01_b",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_Yugiri_BPCHAT_138_red01_b.wav",
+            "en": "Vox_Yugiri_BPCHAT_138_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121243": {
+        "id": 22121243,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_138_red01_c",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_Yugiri_BPCHAT_138_red01_c.wav",
+            "en": "Vox_Yugiri_BPCHAT_138_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121139": {
         "id": 22121139,
         "title": {},
@@ -1065,6 +1865,22 @@
                 "pt-br": "",
                 "zh-hans": "我真的很努力了……要不要，再来一次？"
             }
+        }
+    },
+    "22121247": {
+        "id": 22121247,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_139_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_139_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_139_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22121140": {
@@ -1111,6 +1927,38 @@
             "cn": {}
         }
     },
+    "22121248": {
+        "id": 22121248,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_140_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_140_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_140_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121249": {
+        "id": 22121249,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_140_red01_b",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_Yugiri_BPCHAT_140_red01_b.wav",
+            "en": "Vox_Yugiri_BPCHAT_140_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121141": {
         "id": 22121141,
         "title": {},
@@ -1124,6 +1972,22 @@
             "cn": "很厉害，但我也能做到。",
             "en": "Well done. I could have done it too.",
             "ja": "すごい！私にもできるかな？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121317": {
+        "id": 22121317,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_141_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_141_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1147,6 +2011,38 @@
             "cn": {}
         }
     },
+    "22121318": {
+        "id": 22121318,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_142_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_142_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121319": {
+        "id": 22121319,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_143_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_143_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121143": {
         "id": 22121143,
         "title": {},
@@ -1165,6 +2061,102 @@
             "cn": {}
         }
     },
+    "22121320": {
+        "id": 22121320,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_144_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_144_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121321": {
+        "id": 22121321,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_145_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_145_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121322": {
+        "id": 22121322,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_146_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_146_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121323": {
+        "id": 22121323,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_147_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_147_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121324": {
+        "id": 22121324,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_148_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_148_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121325": {
+        "id": 22121325,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_149_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_149_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121144": {
         "id": 22121144,
         "title": {},
@@ -1178,6 +2170,22 @@
             "cn": "没事的，拉住我的手。",
             "en": "It's okay. Hold my hand.",
             "ja": "大丈夫、さぁ、手を掴んで。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121326": {
+        "id": 22121326,
+        "title": {},
+        "path": "Vox_Yugiri_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Yugiri_BPCHAT_150_red01_a.wav",
+            "en": "Vox_Yugiri_BPCHAT_150_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1831,6 +2839,22 @@
             "cn": {}
         }
     },
+    "22121265": {
+        "id": 22121265,
+        "title": {},
+        "path": "Vox_Yugiri_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_090_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_090_red01_a.wav",
+            "en": "Vox_Yugiri_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121091": {
         "id": 22121091,
         "title": {},
@@ -1844,6 +2868,22 @@
             "cn": "拦截器启动。",
             "en": "Interceptor deployed.",
             "ja": "インターセプター、起動。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121266": {
+        "id": 22121266,
+        "title": {},
+        "path": "Vox_Yugiri_COM_091_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_091_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_091_red01_a.wav",
+            "en": "Vox_Yugiri_COM_091_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1867,6 +2907,22 @@
             "cn": {}
         }
     },
+    "22121267": {
+        "id": 22121267,
+        "title": {},
+        "path": "Vox_Yugiri_COM_092_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_092_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_092_red01_a.wav",
+            "en": "Vox_Yugiri_COM_092_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121093": {
         "id": 22121093,
         "title": {},
@@ -1880,6 +2936,22 @@
             "cn": "闪光弹，闪晕他们。",
             "en": "Flashbang out. Take this!",
             "ja": "閃光弾！敵の目は潰したよ！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121268": {
+        "id": 22121268,
+        "title": {},
+        "path": "Vox_Yugiri_COM_093_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_093_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_093_red01_a.wav",
+            "en": "Vox_Yugiri_COM_093_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1903,6 +2975,22 @@
             "cn": {}
         }
     },
+    "22121269": {
+        "id": 22121269,
+        "title": {},
+        "path": "Vox_Yugiri_COM_094_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_094_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_094_red01_a.wav",
+            "en": "Vox_Yugiri_COM_094_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121095": {
         "id": 22121095,
         "title": {},
@@ -1916,6 +3004,22 @@
             "cn": "风场雷，把他们吹走！",
             "en": "Windstorm grenade, out with you!",
             "ja": "風雷ボム！敵を吹っ飛ばせ！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121270": {
+        "id": 22121270,
+        "title": {},
+        "path": "Vox_Yugiri_COM_095_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_095_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_095_red01_a.wav",
+            "en": "Vox_Yugiri_COM_095_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1939,6 +3043,22 @@
             "cn": {}
         }
     },
+    "22121271": {
+        "id": 22121271,
+        "title": {},
+        "path": "Vox_Yugiri_COM_096_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_096_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_096_red01_a.wav",
+            "en": "Vox_Yugiri_COM_096_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121097": {
         "id": 22121097,
         "title": {},
@@ -1952,6 +3072,22 @@
             "cn": "警报器，侦测危险。",
             "en": "Tattletail will detect danger.",
             "ja": "警報器、危険を教えて！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121272": {
+        "id": 22121272,
+        "title": {},
+        "path": "Vox_Yugiri_COM_097_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_097_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_097_red01_a.wav",
+            "en": "Vox_Yugiri_COM_097_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1975,6 +3111,22 @@
             "cn": {}
         }
     },
+    "22121273": {
+        "id": 22121273,
+        "title": {},
+        "path": "Vox_Yugiri_COM_098_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_098_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_098_red01_a.wav",
+            "en": "Vox_Yugiri_COM_098_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121099": {
         "id": 22121099,
         "title": {},
@@ -1988,6 +3140,22 @@
             "cn": "注意防御，别放松。",
             "en": "Keep it up, defend this location.",
             "ja": "防御しっかり、油断しないで。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121274": {
+        "id": 22121274,
+        "title": {},
+        "path": "Vox_Yugiri_COM_099_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_099_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_099_red01_a.wav",
+            "en": "Vox_Yugiri_COM_099_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2011,6 +3179,22 @@
             "cn": {}
         }
     },
+    "22121275": {
+        "id": 22121275,
+        "title": {},
+        "path": "Vox_Yugiri_COM_100_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_100_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_100_red01_a.wav",
+            "en": "Vox_Yugiri_COM_100_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121101": {
         "id": 22121101,
         "title": {},
@@ -2024,6 +3208,22 @@
             "cn": "全力攻击这里。",
             "en": "Attack this location!",
             "ja": "ここ、集中攻撃。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121276": {
+        "id": 22121276,
+        "title": {},
+        "path": "Vox_Yugiri_COM_101_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_101_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_101_red01_a.wav",
+            "en": "Vox_Yugiri_COM_101_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2047,6 +3247,22 @@
             "cn": {}
         }
     },
+    "22121277": {
+        "id": 22121277,
+        "title": {},
+        "path": "Vox_Yugiri_COM_102_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_102_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_102_red01_a.wav",
+            "en": "Vox_Yugiri_COM_102_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121103": {
         "id": 22121103,
         "title": {},
@@ -2060,6 +3276,22 @@
             "cn": "在这里安装炸弹。",
             "en": "Plant the bomb here.",
             "ja": "ここに爆弾を仕掛ける。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121278": {
+        "id": 22121278,
+        "title": {},
+        "path": "Vox_Yugiri_COM_103_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_103_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_103_red01_a.wav",
+            "en": "Vox_Yugiri_COM_103_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2083,6 +3315,22 @@
             "cn": {}
         }
     },
+    "22121279": {
+        "id": 22121279,
+        "title": {},
+        "path": "Vox_Yugiri_COM_104_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_104_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_104_red01_a.wav",
+            "en": "Vox_Yugiri_COM_104_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121105": {
         "id": 22121105,
         "title": {},
@@ -2096,6 +3344,22 @@
             "cn": "这流子弹！",
             "en": "Bullet's here.",
             "ja": "弾薬、あったよ。"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121280": {
+        "id": 22121280,
+        "title": {},
+        "path": "Vox_Yugiri_COM_105_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_105_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_105_red01_a.wav",
+            "en": "Vox_Yugiri_COM_105_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2119,6 +3383,22 @@
             "cn": {}
         }
     },
+    "22121281": {
+        "id": 22121281,
+        "title": {},
+        "path": "Vox_Yugiri_COM_106_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_106_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_106_red01_a.wav",
+            "en": "Vox_Yugiri_COM_106_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22121107": {
         "id": 22121107,
         "title": {},
@@ -2132,6 +3412,22 @@
             "cn": "这里的道具随时可用。",
             "en": "Tactical items here.",
             "ja": "戦術アイテム、見つけた！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22121282": {
+        "id": 22121282,
+        "title": {},
+        "path": "Vox_Yugiri_COM_107_red01_a",
+        "file": {
+            "cn": "Vox_Yugiri_COM_107_red01_a.wav",
+            "ja": "Vox_Yugiri_COM_107_red01_a.wav",
+            "en": "Vox_Yugiri_COM_107_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
