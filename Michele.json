@@ -2546,6 +2546,22 @@
             }
         }
     },
+    "22101353": {
+        "id": 22101353,
+        "title": {},
+        "path": "Vox_Michele_BPCHAR_066_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAR_066_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAR_066_red02_a.wav",
+            "en": "Vox_Michele_BPCHAR_066_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101232": {
         "id": 22101232,
         "title": {
@@ -2624,6 +2640,22 @@
             "cn": {
                 "en": "Received orders, all squads depart."
             }
+        }
+    },
+    "22101354": {
+        "id": 22101354,
+        "title": {},
+        "path": "Vox_Michele_BPCHAR_067_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAR_067_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAR_067_red02_a.wav",
+            "en": "Vox_Michele_BPCHAR_067_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101339": {
@@ -2706,6 +2738,22 @@
             }
         }
     },
+    "22101355": {
+        "id": 22101355,
+        "title": {},
+        "path": "Vox_Michele_BPCHAR_068_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAR_068_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAR_068_red02_a.wav",
+            "en": "Vox_Michele_BPCHAR_068_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101233": {
         "id": 22101233,
         "title": {
@@ -2784,6 +2832,22 @@
             "cn": {
                 "en": "Fear the roar of the tiger...!"
             }
+        }
+    },
+    "22101356": {
+        "id": 22101356,
+        "title": {},
+        "path": "Vox_Michele_BPCHAR_069_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAR_069_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAR_069_red02_a.wav",
+            "en": "Vox_Michele_BPCHAR_069_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101341": {
@@ -2866,6 +2930,22 @@
             }
         }
     },
+    "22101357": {
+        "id": 22101357,
+        "title": {},
+        "path": "Vox_Michele_BPCHAR_070_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAR_070_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAR_070_red02_a.wav",
+            "en": "Vox_Michele_BPCHAR_070_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101342": {
         "id": 22101342,
         "title": {
@@ -2935,6 +3015,22 @@
             }
         }
     },
+    "22101367": {
+        "id": 22101367,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_071_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_071_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_071_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_071_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101072": {
         "id": 22101072,
         "title": {
@@ -2990,6 +3086,22 @@
             "cn": {
                 "en": "Prepare an ambush and give them a surprise."
             }
+        }
+    },
+    "22101368": {
+        "id": 22101368,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_072_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_072_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_072_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_072_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101073": {
@@ -3049,6 +3161,22 @@
             }
         }
     },
+    "22101369": {
+        "id": 22101369,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_073_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_073_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_073_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_073_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101074": {
         "id": 22101074,
         "title": {
@@ -3106,6 +3234,22 @@
             }
         }
     },
+    "22101370": {
+        "id": 22101370,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_074_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_074_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_074_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_074_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101075": {
         "id": 22101075,
         "title": {
@@ -3152,6 +3296,22 @@
             }
         }
     },
+    "22101371": {
+        "id": 22101371,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_075_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_075_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_075_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_075_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101076": {
         "id": 22101076,
         "title": {
@@ -3196,6 +3356,22 @@
             "cn": {
                 "en": "The White Tiger is longing to wreak some havoc!"
             }
+        }
+    },
+    "22101372": {
+        "id": 22101372,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_076_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_076_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_076_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_076_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101077": {
@@ -3255,6 +3431,22 @@
             }
         }
     },
+    "22101373": {
+        "id": 22101373,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_077_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_077_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_077_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_077_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101078": {
         "id": 22101078,
         "title": {
@@ -3310,6 +3502,22 @@
             "cn": {
                 "en": "Crush all! Suppress all!"
             }
+        }
+    },
+    "22101374": {
+        "id": 22101374,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_078_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_078_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_078_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_078_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101079": {
@@ -3369,6 +3577,22 @@
             }
         }
     },
+    "22101375": {
+        "id": 22101375,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_079_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_079_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_079_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_079_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101080": {
         "id": 22101080,
         "title": {
@@ -3415,6 +3639,22 @@
             }
         }
     },
+    "22101376": {
+        "id": 22101376,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_080_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_080_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_080_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_080_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101108": {
         "id": 22101108,
         "title": {
@@ -3459,6 +3699,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22101411": {
+        "id": 22101411,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_108_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_108_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_108_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_108_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101109": {
@@ -3518,6 +3774,22 @@
             }
         }
     },
+    "22101412": {
+        "id": 22101412,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_109_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_109_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_109_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_109_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101110": {
         "id": 22101110,
         "title": {
@@ -3573,6 +3845,22 @@
             "cn": {
                 "en": "Ha, that was easy!"
             }
+        }
+    },
+    "22101413": {
+        "id": 22101413,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_110_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_110_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_110_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_110_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101111": {
@@ -3632,6 +3920,22 @@
             }
         }
     },
+    "22101414": {
+        "id": 22101414,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_111_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_111_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_111_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_111_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101112": {
         "id": 22101112,
         "title": {
@@ -3687,6 +3991,22 @@
             "cn": {
                 "en": "Hmph, the prey is caught."
             }
+        }
+    },
+    "22101415": {
+        "id": 22101415,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_112_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_112_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_112_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_112_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101113": {
@@ -3746,6 +4066,22 @@
             }
         }
     },
+    "22101416": {
+        "id": 22101416,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_113_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_113_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_113_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_113_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101114": {
         "id": 22101114,
         "title": {
@@ -3803,6 +4139,22 @@
             }
         }
     },
+    "22101417": {
+        "id": 22101417,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_114_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_114_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_114_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_114_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101115": {
         "id": 22101115,
         "title": {
@@ -3847,6 +4199,22 @@
             "cn": {
                 "en": "The hunt has begun. Run for it!"
             }
+        }
+    },
+    "22101418": {
+        "id": 22101418,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_115_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_115_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_115_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_115_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101116": {
@@ -3895,6 +4263,22 @@
             }
         }
     },
+    "22101419": {
+        "id": 22101419,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_116_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_116_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_116_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_116_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101117": {
         "id": 22101117,
         "title": {
@@ -3939,6 +4323,22 @@
             "cn": {
                 "en": "Once you close your eyes, you won't be able to open them again."
             }
+        }
+    },
+    "22101420": {
+        "id": 22101420,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_117_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_117_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_117_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_117_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101118": {
@@ -3987,6 +4387,22 @@
             }
         }
     },
+    "22101421": {
+        "id": 22101421,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_118_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_118_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_118_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_118_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101119": {
         "id": 22101119,
         "title": {
@@ -4031,6 +4447,22 @@
             "cn": {
                 "en": "I will tear everything to shreds with my righteous tiger claws!"
             }
+        }
+    },
+    "22101422": {
+        "id": 22101422,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_119_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_119_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_119_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_119_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101120": {
@@ -4079,6 +4511,22 @@
             }
         }
     },
+    "22101423": {
+        "id": 22101423,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_120_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_120_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_120_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_120_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101123": {
         "id": 22101123,
         "title": {
@@ -4123,6 +4571,22 @@
             "cn": {
                 "en": "I was the prey all along."
             }
+        }
+    },
+    "22101426": {
+        "id": 22101426,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_123_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_123_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_123_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_123_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101124": {
@@ -4171,6 +4635,22 @@
             }
         }
     },
+    "22101427": {
+        "id": 22101427,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_124_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_124_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_124_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_124_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101125": {
         "id": 22101125,
         "title": {
@@ -4215,6 +4695,22 @@
             "cn": {
                 "en": "I have not yet found out the truth."
             }
+        }
+    },
+    "22101428": {
+        "id": 22101428,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_125_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_125_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_125_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_125_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101126": {
@@ -4263,6 +4759,22 @@
             }
         }
     },
+    "22101429": {
+        "id": 22101429,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_126_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_126_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_126_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_126_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101127": {
         "id": 22101127,
         "title": {
@@ -4307,6 +4819,22 @@
             "cn": {
                 "en": "Ah, I lost..."
             }
+        }
+    },
+    "22101430": {
+        "id": 22101430,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_127_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_127_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_127_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_127_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101122": {
@@ -4355,6 +4883,22 @@
             }
         }
     },
+    "22101425": {
+        "id": 22101425,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_122_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_122_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_122_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_122_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101121": {
         "id": 22101121,
         "title": {
@@ -4401,6 +4945,22 @@
             }
         }
     },
+    "22101424": {
+        "id": 22101424,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_121_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_121_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_121_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_121_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101128": {
         "id": 22101128,
         "title": {
@@ -4445,6 +5005,22 @@
             "cn": {
                 "en": "Tiger... Need assistance..."
             }
+        }
+    },
+    "22101431": {
+        "id": 22101431,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_128_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_128_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_128_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_128_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101129": {
@@ -4504,6 +5080,22 @@
             }
         }
     },
+    "22101432": {
+        "id": 22101432,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_129_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_129_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_129_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_129_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101130": {
         "id": 22101130,
         "title": {
@@ -4548,6 +5140,22 @@
             "cn": {
                 "en": "Thank you, let's continue the hunt."
             }
+        }
+    },
+    "22101433": {
+        "id": 22101433,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_130_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_130_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_130_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_130_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101131": {
@@ -4596,6 +5204,22 @@
             }
         }
     },
+    "22101377": {
+        "id": 22101377,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_131_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_131_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_131_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_131_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101132": {
         "id": 22101132,
         "title": {
@@ -4640,6 +5264,22 @@
             "cn": {
                 "en": "Leave the bomb to me."
             }
+        }
+    },
+    "22101379": {
+        "id": 22101379,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_132_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_132_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_132_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_132_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101133": {
@@ -4688,6 +5328,22 @@
             }
         }
     },
+    "22101380": {
+        "id": 22101380,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_133_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_133_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_133_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_133_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101134": {
         "id": 22101134,
         "title": {
@@ -4732,6 +5388,22 @@
             "cn": {
                 "en": "Discard the bomb."
             }
+        }
+    },
+    "22101381": {
+        "id": 22101381,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_134_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_134_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_134_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_134_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101135": {
@@ -4780,6 +5452,22 @@
             }
         }
     },
+    "22101378": {
+        "id": 22101378,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_135_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_135_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_135_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_135_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101136": {
         "id": 22101136,
         "title": {
@@ -4824,6 +5512,22 @@
             "cn": {
                 "en": "Flying is a more efficient tactic"
             }
+        }
+    },
+    "22101410": {
+        "id": 22101410,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_136_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_136_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_136_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_136_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101137": {
@@ -4973,6 +5677,54 @@
             "cn": {
                 "en": "An unexpected situation has occurred. Team Tiger requests evacuation."
             }
+        }
+    },
+    "22101361": {
+        "id": 22101361,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_137_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_137_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_137_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_137_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22101362": {
+        "id": 22101362,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_137_red02_b",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_137_red02_b.wav",
+            "ja": "Vox_Michele_BPCHAT_137_red02_b.wav",
+            "en": "Vox_Michele_BPCHAT_137_red02_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22101363": {
+        "id": 22101363,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_137_red02_c",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_137_red02_c.wav",
+            "ja": "Vox_Michele_BPCHAT_137_red02_c.wav",
+            "en": "Vox_Michele_BPCHAT_137_red02_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101346": {
@@ -5193,6 +5945,54 @@
             }
         }
     },
+    "22101358": {
+        "id": 22101358,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_138_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_138_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_138_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_138_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22101359": {
+        "id": 22101359,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_138_red02_b",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_138_red02_b.wav",
+            "ja": "Vox_Michele_BPCHAT_138_red02_b.wav",
+            "en": "Vox_Michele_BPCHAT_138_red02_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22101360": {
+        "id": 22101360,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_138_red02_c",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_138_red02_c.wav",
+            "ja": "Vox_Michele_BPCHAT_138_red02_c.wav",
+            "en": "Vox_Michele_BPCHAT_138_red02_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101234": {
         "id": 22101234,
         "title": {
@@ -5317,6 +6117,22 @@
             "cn": {
                 "en": "No time for regrets, partner. We need to regroup."
             }
+        }
+    },
+    "22101364": {
+        "id": 22101364,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_139_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_139_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_139_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_139_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101349": {
@@ -5445,6 +6261,38 @@
             }
         }
     },
+    "22101365": {
+        "id": 22101365,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_140_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_140_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_140_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_140_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22101366": {
+        "id": 22101366,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_140_red02_b",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_140_red02_b.wav",
+            "ja": "Vox_Michele_BPCHAT_140_red02_b.wav",
+            "en": "Vox_Michele_BPCHAT_140_red02_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101350": {
         "id": 22101350,
         "title": {
@@ -5537,6 +6385,22 @@
             }
         }
     },
+    "22101434": {
+        "id": 22101434,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_141_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_141_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_141_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_141_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101142": {
         "id": 22101142,
         "title": {
@@ -5583,6 +6447,22 @@
             }
         }
     },
+    "22101435": {
+        "id": 22101435,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_142_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_142_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_142_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_142_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101323": {
         "id": 22101323,
         "title": {
@@ -5606,6 +6486,22 @@
             }
         }
     },
+    "22101436": {
+        "id": 22101436,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_143_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_143_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_143_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_143_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101324": {
         "id": 22101324,
         "title": {
@@ -5627,6 +6523,22 @@
             "cn": {
                 "en": "Come on, little sheep, the Tiger will hunt till the last moment."
             }
+        }
+    },
+    "22101437": {
+        "id": 22101437,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_144_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_144_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_144_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_144_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101145": {
@@ -5673,6 +6585,22 @@
             "cn": {
                 "en": "Let's adjust our strategy and victory will surely be ours."
             }
+        }
+    },
+    "22101438": {
+        "id": 22101438,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_145_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_145_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_145_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_145_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101146": {
@@ -5744,6 +6672,22 @@
             }
         }
     },
+    "22101439": {
+        "id": 22101439,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_146_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_146_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_146_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_146_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101147": {
         "id": 22101147,
         "title": {
@@ -5788,6 +6732,22 @@
             "cn": {
                 "en": "Eika... we could have been friends, couldn't we?"
             }
+        }
+    },
+    "22101440": {
+        "id": 22101440,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_147_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_147_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_147_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_147_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101148": {
@@ -5859,6 +6819,22 @@
             }
         }
     },
+    "22101441": {
+        "id": 22101441,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_148_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_148_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_148_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_148_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101149": {
         "id": 22101149,
         "title": {
@@ -5903,6 +6879,22 @@
             "cn": {
                 "en": "Captain, continue to fight by my side."
             }
+        }
+    },
+    "22101442": {
+        "id": 22101442,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_149_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_149_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_149_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_149_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101318": {
@@ -5972,6 +6964,22 @@
             "cn": {
                 "en": "Don't move, I won't hurt you."
             }
+        }
+    },
+    "22101443": {
+        "id": 22101443,
+        "title": {},
+        "path": "Vox_Michele_BPCHAT_150_red02_a",
+        "file": {
+            "cn": "Vox_Michele_BPCHAT_150_red02_a.wav",
+            "ja": "Vox_Michele_BPCHAT_150_red02_a.wav",
+            "en": "Vox_Michele_BPCHAT_150_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101500": {
@@ -7042,6 +8050,22 @@
             }
         }
     },
+    "22101382": {
+        "id": 22101382,
+        "title": {},
+        "path": "Vox_Michele_COM_090_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_090_red02_a.wav",
+            "ja": "Vox_Michele_COM_090_red02_a.wav",
+            "en": "Vox_Michele_COM_090_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101091": {
         "id": 22101091,
         "title": {
@@ -7086,6 +8110,22 @@
             "cn": {
                 "en": "The interceptor is in position."
             }
+        }
+    },
+    "22101383": {
+        "id": 22101383,
+        "title": {},
+        "path": "Vox_Michele_COM_091_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_091_red02_a.wav",
+            "ja": "Vox_Michele_COM_091_red02_a.wav",
+            "en": "Vox_Michele_COM_091_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101092": {
@@ -7134,6 +8174,22 @@
             }
         }
     },
+    "22101384": {
+        "id": 22101384,
+        "title": {},
+        "path": "Vox_Michele_COM_092_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_092_red02_a.wav",
+            "ja": "Vox_Michele_COM_092_red02_a.wav",
+            "en": "Vox_Michele_COM_092_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101093": {
         "id": 22101093,
         "title": {
@@ -7178,6 +8234,22 @@
             "cn": {
                 "en": "Flashbang."
             }
+        }
+    },
+    "22101385": {
+        "id": 22101385,
+        "title": {},
+        "path": "Vox_Michele_COM_093_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_093_red02_a.wav",
+            "ja": "Vox_Michele_COM_093_red02_a.wav",
+            "en": "Vox_Michele_COM_093_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101094": {
@@ -7226,6 +8298,22 @@
             }
         }
     },
+    "22101386": {
+        "id": 22101386,
+        "title": {},
+        "path": "Vox_Michele_COM_094_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_094_red02_a.wav",
+            "ja": "Vox_Michele_COM_094_red02_a.wav",
+            "en": "Vox_Michele_COM_094_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101095": {
         "id": 22101095,
         "title": {
@@ -7270,6 +8358,22 @@
             "cn": {
                 "en": "Are you ready? Let's take off!"
             }
+        }
+    },
+    "22101387": {
+        "id": 22101387,
+        "title": {},
+        "path": "Vox_Michele_COM_095_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_095_red02_a.wav",
+            "ja": "Vox_Michele_COM_095_red02_a.wav",
+            "en": "Vox_Michele_COM_095_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101096": {
@@ -7318,6 +8422,22 @@
             }
         }
     },
+    "22101388": {
+        "id": 22101388,
+        "title": {},
+        "path": "Vox_Michele_COM_096_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_096_red02_a.wav",
+            "ja": "Vox_Michele_COM_096_red02_a.wav",
+            "en": "Vox_Michele_COM_096_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101097": {
         "id": 22101097,
         "title": {
@@ -7362,6 +8482,22 @@
             "cn": {
                 "en": "The tattletale is deployed."
             }
+        }
+    },
+    "22101389": {
+        "id": 22101389,
+        "title": {},
+        "path": "Vox_Michele_COM_097_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_097_red02_a.wav",
+            "ja": "Vox_Michele_COM_097_red02_a.wav",
+            "en": "Vox_Michele_COM_097_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101098": {
@@ -7410,6 +8546,22 @@
             }
         }
     },
+    "22101390": {
+        "id": 22101390,
+        "title": {},
+        "path": "Vox_Michele_COM_098_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_098_red02_a.wav",
+            "ja": "Vox_Michele_COM_098_red02_a.wav",
+            "en": "Vox_Michele_COM_098_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101099": {
         "id": 22101099,
         "title": {
@@ -7454,6 +8606,22 @@
             "cn": {
                 "en": "Please defend here."
             }
+        }
+    },
+    "22101391": {
+        "id": 22101391,
+        "title": {},
+        "path": "Vox_Michele_COM_099_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_099_red02_a.wav",
+            "ja": "Vox_Michele_COM_099_red02_a.wav",
+            "en": "Vox_Michele_COM_099_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101100": {
@@ -7502,6 +8670,22 @@
             }
         }
     },
+    "22101392": {
+        "id": 22101392,
+        "title": {},
+        "path": "Vox_Michele_COM_100_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_100_red02_a.wav",
+            "ja": "Vox_Michele_COM_100_red02_a.wav",
+            "en": "Vox_Michele_COM_100_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101101": {
         "id": 22101101,
         "title": {
@@ -7546,6 +8730,22 @@
             "cn": {
                 "en": "Request to initiate the offensive."
             }
+        }
+    },
+    "22101393": {
+        "id": 22101393,
+        "title": {},
+        "path": "Vox_Michele_COM_101_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_101_red02_a.wav",
+            "ja": "Vox_Michele_COM_101_red02_a.wav",
+            "en": "Vox_Michele_COM_101_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101102": {
@@ -7594,6 +8794,22 @@
             }
         }
     },
+    "22101394": {
+        "id": 22101394,
+        "title": {},
+        "path": "Vox_Michele_COM_102_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_102_red02_a.wav",
+            "ja": "Vox_Michele_COM_102_red02_a.wav",
+            "en": "Vox_Michele_COM_102_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101103": {
         "id": 22101103,
         "title": {
@@ -7638,6 +8854,22 @@
             "cn": {
                 "en": "Request to install bombs here."
             }
+        }
+    },
+    "22101395": {
+        "id": 22101395,
+        "title": {},
+        "path": "Vox_Michele_COM_103_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_103_red02_a.wav",
+            "ja": "Vox_Michele_COM_103_red02_a.wav",
+            "en": "Vox_Michele_COM_103_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101104": {
@@ -7686,6 +8918,22 @@
             }
         }
     },
+    "22101396": {
+        "id": 22101396,
+        "title": {},
+        "path": "Vox_Michele_COM_104_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_104_red02_a.wav",
+            "ja": "Vox_Michele_COM_104_red02_a.wav",
+            "en": "Vox_Michele_COM_104_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101105": {
         "id": 22101105,
         "title": {
@@ -7730,6 +8978,22 @@
             "cn": {
                 "en": "Found ammo supplies."
             }
+        }
+    },
+    "22101397": {
+        "id": 22101397,
+        "title": {},
+        "path": "Vox_Michele_COM_105_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_105_red02_a.wav",
+            "ja": "Vox_Michele_COM_105_red02_a.wav",
+            "en": "Vox_Michele_COM_105_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101106": {
@@ -7778,6 +9042,22 @@
             }
         }
     },
+    "22101398": {
+        "id": 22101398,
+        "title": {},
+        "path": "Vox_Michele_COM_106_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_106_red02_a.wav",
+            "ja": "Vox_Michele_COM_106_red02_a.wav",
+            "en": "Vox_Michele_COM_106_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22101107": {
         "id": 22101107,
         "title": {
@@ -7822,6 +9102,22 @@
             "cn": {
                 "en": "Tactical items found."
             }
+        }
+    },
+    "22101399": {
+        "id": 22101399,
+        "title": {},
+        "path": "Vox_Michele_COM_107_red02_a",
+        "file": {
+            "cn": "Vox_Michele_COM_107_red02_a.wav",
+            "ja": "Vox_Michele_COM_107_red02_a.wav",
+            "en": "Vox_Michele_COM_107_red02_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22101161": {
