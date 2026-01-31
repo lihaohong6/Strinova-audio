@@ -36,7 +36,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "何を任せたいの？生者を導くのか、それとも死者を葬るのか。"
+            "ja": "何を任せたいの？生者を導くのか、それとも死者を葬るのか。",
+            "en": "What do you require of me? To guide the living, or to bury the dead?"
         },
         "translation": {
             "cn": {}
@@ -79,7 +80,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "生きるか死ぬかは……私が決める。"
+            "ja": "生きるか死ぬかは……私が決める。",
+            "en": "Calamity or fate, my judgment prevails."
         },
         "translation": {
             "cn": {}
@@ -122,7 +124,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "この地に巣食う穢れ、祓わせてもらうよ。"
+            "ja": "この地に巣食う穢れ、祓わせてもらうよ。",
+            "en": "The burden of sins here is mine to purge."
         },
         "translation": {
             "cn": {}
@@ -165,7 +168,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "フン、悪しき魂が蠢きだしたみたい。なら、祓うしか無いね。"
+            "ja": "フン、悪しき魂が蠢きだしたみたい。なら、祓うしか無いね。",
+            "en": "Dark spirits are at play. It's time for my intervention."
         },
         "translation": {
             "cn": {}
@@ -208,7 +212,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "風が鳴いてる……さ、行こっか、あの世へ。"
+            "ja": "風が鳴いてる……さ、行こっか、あの世へ。",
+            "en": "The song of the spirits echoes. I'll guide them to the beyond."
         },
         "translation": {
             "cn": {}
@@ -243,7 +248,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "火が、再び灯った。"
+            "ja": "火が、再び灯った。",
+            "en": "The spectral flame reignites."
         },
         "translation": {
             "cn": {}
@@ -286,7 +292,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "行け、彼岸花。"
+            "ja": "行け、彼岸花。",
+            "en": "Essence of the Beyond, release."
         },
         "translation": {
             "cn": {}
@@ -329,7 +336,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "厄災封印。"
+            "ja": "厄災封印。",
+            "en": "Despair be banished"
         },
         "translation": {
             "cn": {}
@@ -372,7 +380,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "花の棺で送るよ！"
+            "ja": "花の棺で送るよ！",
+            "en": "Flowered tomb, ready to embrace."
         },
         "translation": {
             "cn": {}
@@ -407,7 +416,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "だらしない防御、隙だらけね。"
+            "ja": "だらしない防御、隙だらけね。",
+            "en": "Your defense is riddled with holes and decay."
         },
         "translation": {
             "cn": {}
@@ -442,7 +452,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "彼岸花が咲く時、命はあの世へ導かれる。"
+            "ja": "彼岸花が咲く時、命はあの世へ導かれる。",
+            "en": "Every fate awaits the guidance of the bloom."
         },
         "translation": {
             "cn": {}
@@ -485,7 +496,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "咲き誇れ、災いを喰らう彼岸の華！"
+            "ja": "咲き誇れ、災いを喰らう彼岸の華！",
+            "en": "Flower of Calamity, blossom your wrath!"
         },
         "translation": {
             "cn": {}
@@ -528,7 +540,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "花が導く先は三途の川……滅！"
+            "ja": "花が導く先は三途の川……滅！",
+            "en": "Cross the forgotten rivers. Let the flowers seal upon blood."
         },
         "translation": {
             "cn": {}
@@ -571,7 +584,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "過ちを犯せし魂……共に地獄へ還ろう！"
+            "ja": "過ちを犯せし魂……共に地獄へ還ろう！",
+            "en": "Night blooms eternal. Misguided souls, follow me home!"
         },
         "translation": {
             "cn": {}
@@ -606,7 +620,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "花は、まだ咲いていない。"
+            "ja": "花は、まだ咲いていない。",
+            "en": "The flower remains shut, and the distant tides are silent."
         },
         "translation": {
             "cn": {}
@@ -641,7 +656,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "そんなの、効かないよ！"
+            "ja": "そんなの、効かないよ！",
+            "en": "Gah!"
         },
         "translation": {
             "cn": {}
@@ -684,7 +700,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "大人しく往生しなさい。"
+            "ja": "大人しく往生しなさい。",
+            "en": "Embrace your end."
         },
         "translation": {
             "cn": {}
@@ -727,7 +744,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "これが地獄への手形。"
+            "ja": "これが地獄への手形。",
+            "en": "Except your burial in the beyond."
         },
         "translation": {
             "cn": {}
@@ -770,7 +788,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "閻魔帳に、アンタの名前も書いておいたよ。"
+            "ja": "閻魔帳に、アンタの名前も書いておいたよ。",
+            "en": "The power of rebirth is irresistible."
         },
         "translation": {
             "cn": {}
@@ -813,7 +832,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "次の生では、真っすぐ生きなさい。"
+            "ja": "次の生では、真っすぐ生きなさい。",
+            "en": "Your obsession has been erased."
         },
         "translation": {
             "cn": {}
@@ -856,7 +876,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "地獄に堕ちなさい。"
+            "ja": "地獄に堕ちなさい。",
+            "en": "Fall with the leaves."
         },
         "translation": {
             "cn": {}
@@ -899,7 +920,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "さよなら。"
+            "ja": "さよなら。",
+            "en": "Wither with the blossoms."
         },
         "translation": {
             "cn": {}
@@ -916,7 +938,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "二人まとめて往生ね。地獄で仲良くしなさい。"
+            "ja": "二人まとめて往生ね。地獄で仲良くしなさい。",
+            "en": "To rise, to perish."
         },
         "translation": {
             "cn": {}
@@ -951,7 +974,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "さぁ、三途の川を渡る時だよ。"
+            "ja": "さぁ、三途の川を渡る時だよ。",
+            "en": "Three for the beyond."
         },
         "translation": {
             "cn": {}
@@ -986,7 +1010,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "これで四十九日の旅が始まるわね。"
+            "ja": "これで四十九日の旅が始まるわね。",
+            "en": "Four seasons turn as the bloodflowers bloom."
         },
         "translation": {
             "cn": {}
@@ -1021,7 +1046,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "五道転輪王の御前で、その罪を悔いなさい！"
+            "ja": "五道転輪王の御前で、その罪を悔いなさい！",
+            "en": "Has five merge. They journey beyond."
         },
         "translation": {
             "cn": {}
@@ -1056,7 +1082,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "地獄の門は開かれた、もう逃げ道はない！"
+            "ja": "地獄の門は開かれた、もう逃げ道はない！",
+            "en": "All down to the abyss!"
         },
         "translation": {
             "cn": {}
@@ -1091,7 +1118,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "あの世でせいぜい悔やんでいなさい。"
+            "ja": "あの世でせいぜい悔やんでいなさい。",
+            "en": "This is the price of provoking me."
         },
         "translation": {
             "cn": {}
@@ -1126,7 +1154,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "その刀、ただ者じゃない……！"
+            "ja": "その刀、ただ者じゃない……！",
+            "en": "So this is the power of the Demon Blade."
         },
         "translation": {
             "cn": {}
@@ -1161,7 +1190,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "三途の川に溺れた……"
+            "ja": "三途の川に溺れた……",
+            "en": "The swirling currents are devouring me."
         },
         "translation": {
             "cn": {}
@@ -1196,7 +1226,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ホントに……地獄行きになるなんて……"
+            "ja": "ホントに……地獄行きになるなんて……",
+            "en": "Those who tempt fate will spiral into oblivion."
         },
         "translation": {
             "cn": {}
@@ -1231,7 +1262,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "さぁ、己の罪を数えなさい。"
+            "ja": "さぁ、己の罪を数えなさい。",
+            "en": "The scale awaits your sins."
         },
         "translation": {
             "cn": {}
@@ -1266,7 +1298,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "この身体は……もう、限界なのか……"
+            "ja": "この身体は……もう、限界なのか……",
+            "en": "Is this all my body can endure?"
         },
         "translation": {
             "cn": {}
@@ -1301,7 +1334,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "命……燃え尽きた……"
+            "ja": "命……燃え尽きた……",
+            "en": "With every drop, only to meet the end."
         },
         "translation": {
             "cn": {}
@@ -1336,7 +1370,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "赤い花びらが揺れている……"
+            "ja": "赤い花びらが揺れている……",
+            "en": "The petals, stained with blood."
         },
         "translation": {
             "cn": {}
@@ -1371,7 +1406,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "お願い、邪気を祓って！"
+            "ja": "お願い、邪気を祓って！",
+            "en": "Please help me purge the calamity within."
         },
         "translation": {
             "cn": {}
@@ -1413,7 +1449,8 @@
             "en": "Vox_Yugiri_BPCHAT_129_red01_a.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Don't worry. My spectral flame will heal you."
         },
         "translation": {
             "cn": {}
@@ -1448,7 +1485,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "この恩は忘れない、いつかちゃんと返すから。"
+            "ja": "この恩は忘れない、いつかちゃんと返すから。",
+            "en": "Thank you. I'll pray for you from the other side."
         },
         "translation": {
             "cn": {}
@@ -1483,7 +1521,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆弾、ここに仕掛けるよ。"
+            "ja": "爆弾、ここに仕掛けるよ。",
+            "en": "Setting up the bomb now."
         },
         "translation": {
             "cn": {}
@@ -1518,7 +1557,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆弾を回収した。"
+            "ja": "爆弾を回収した。",
+            "en": "I've picked up the bomb."
         },
         "translation": {
             "cn": {}
@@ -1553,7 +1593,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "今から解除を始めるよ。"
+            "ja": "今から解除を始めるよ。",
+            "en": "Starting bomb defusal."
         },
         "translation": {
             "cn": {}
@@ -1588,7 +1629,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "もういらない、置いていくよ。"
+            "ja": "もういらない、置いていくよ。",
+            "en": "I've dropped the bomb."
         },
         "translation": {
             "cn": {}
@@ -1623,7 +1665,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆弾を見つけた。"
+            "ja": "爆弾を見つけた。",
+            "en": "I've spotted a bomb here."
         },
         "translation": {
             "cn": {}
@@ -1658,7 +1701,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "この身、紙と化す。変化の術！"
+            "ja": "この身、紙と化す。変化の術！",
+            "en": "Feel the air beneath your feather-light wings."
         },
         "translation": {
             "cn": {}
@@ -1737,7 +1781,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "勝ったつもりなのね。でも、それはただ罪を重ねただけ。"
+            "ja": "勝ったつもりなのね。でも、それはただ罪を重ねただけ。",
+            "en": "This only adds to their sins. There's no victory here."
         },
         "translation": {
             "cn": {}
@@ -1754,7 +1799,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "人の心に邪念がある限り、私の戦いは終わらない。"
+            "ja": "人の心に邪念がある限り、私の戦いは終わらない。",
+            "en": "As long as evil endures, my battle will never cease."
         },
         "translation": {
             "cn": {}
@@ -1771,7 +1817,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "昨日は過ぎた。明日は、きっと違う景色が見えるはず。"
+            "ja": "昨日は過ぎた。明日は、きっと違う景色が見えるはず。",
+            "en": "Don't dwell on the shadows of yesterday. The flowers of tomorrow will shine brighter."
         },
         "translation": {
             "cn": {}
@@ -1850,7 +1897,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "しぶとかったけど……ちゃんと片付いたよ。"
+            "ja": "しぶとかったけど……ちゃんと片付いたよ。",
+            "en": "Their obsessions are now nothing but ashes."
         },
         "translation": {
             "cn": {}
@@ -1867,7 +1915,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "運命だろうが何だろうが、全部燃やし尽くすのが私の役目。"
+            "ja": "運命だろうが何だろうが、全部燃やし尽くすのが私の役目。",
+            "en": "Fate guides the cycle, but I am the purging flames."
         },
         "translation": {
             "cn": {}
@@ -1884,7 +1933,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "穢れに手を染めた者には、私が報いを与える。"
+            "ja": "穢れに手を染めた者には、私が報いを与える。",
+            "en": "Destiny's woven, but I am the scourge for the corrupted."
         },
         "translation": {
             "cn": {}
@@ -1927,7 +1977,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "散り行く命は……何か残せたのかな……"
+            "ja": "散り行く命は……何か残せたのかな……",
+            "en": "Even in withering bloom, can the petals beyond still find their crimson essence?"
         },
         "translation": {
             "cn": {}
@@ -1988,7 +2039,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "私は地獄の使者。罪と恨みの因縁を断ち切る者。"
+            "ja": "私は地獄の使者。罪と恨みの因縁を断ち切る者。",
+            "en": "I am the embodiment of the beyond, the one who severs the chains of sin and strife."
         },
         "translation": {
             "cn": {}
@@ -2005,7 +2057,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "くだらない執念なんて……全部消しておいたよ。"
+            "ja": "くだらない執念なんて……全部消しておいたよ。",
+            "en": "Every reckless obsession has been silenced by my resolve."
         },
         "translation": {
             "cn": {}
@@ -2040,7 +2093,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "嘘……こんなにあっさり負けるなんて……！"
+            "ja": "嘘……こんなにあっさり負けるなんて……！",
+            "en": "How could I lose so easily?"
         },
         "translation": {
             "cn": {}
@@ -2075,7 +2129,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "よーく見てて。これが地獄の使者の力！"
+            "ja": "よーく見てて。これが地獄の使者の力！",
+            "en": "Witness the true power from the beyond."
         },
         "translation": {
             "cn": {}
@@ -2092,7 +2147,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "友の仇は私が討つ。血で血を洗うよ！"
+            "ja": "友の仇は私が討つ。血で血を洗うよ！",
+            "en": "Don't worry. I'll lead him back to the beyond, through the blood of our foes."
         },
         "translation": {
             "cn": {}
@@ -2127,7 +2183,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "なんだろう、この懐かしい感じ……ねぇ、私たち、昔どこかで会ってたのかな。"
+            "ja": "なんだろう、この懐かしい感じ……ねぇ、私たち、昔どこかで会ってたのかな。",
+            "en": "Your presence is familiar. Have we met in the mortal realm?"
         },
         "translation": {
             "cn": {}
@@ -2144,7 +2201,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "死中に活を見出す……それが、私の道！"
+            "ja": "死中に活を見出す……それが、私の道！",
+            "en": "My martial path is to advance by retreating, to find life through facing death."
         },
         "translation": {
             "cn": {}
@@ -2161,7 +2219,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "やっぱり、この手で終わらせる運命だったのね。"
+            "ja": "やっぱり、この手で終わらせる運命だったのね。",
+            "en": "In the end, it's up to me to lay down this carpet woven with warrior's blood."
         },
         "translation": {
             "cn": {}
@@ -2178,7 +2237,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "私たちの因縁はまだ終わっていない、どうか、地獄に行かないで……！"
+            "ja": "私たちの因縁はまだ終わっていない、どうか、地獄に行かないで……！",
+            "en": "The cycle between us isn't complete, so you must not descend into the abyss."
         },
         "translation": {
             "cn": {}
@@ -2195,7 +2255,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "どうして……その花びらに傷が……そして、涙まで……"
+            "ja": "どうして……その花びらに傷が……そして、涙まで……",
+            "en": "Why, is there a mark and a drop of a tear on your petal?"
         },
         "translation": {
             "cn": {}
@@ -2212,7 +2273,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "これほどの腕前……あなた、一体何者？"
+            "ja": "これほどの腕前……あなた、一体何者？",
+            "en": "With such martial prowess, just who are you truly?"
         },
         "translation": {
             "cn": {}
@@ -2247,7 +2309,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "私が相手じゃ、その程度の炎じゃ足りないよ？"
+            "ja": "私が相手じゃ、その程度の炎じゃ足りないよ？",
+            "en": "Looks like you need to turn up the heat to take me on."
         },
         "translation": {
             "cn": {}
@@ -2912,7 +2975,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆ぜろ、グレネード。"
+            "ja": "爆ぜろ、グレネード。",
+            "en": "Hmph!"
         },
         "translation": {
             "cn": {}
@@ -2947,7 +3011,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "インターセプター！"
+            "ja": "インターセプター！",
+            "en": "Deploying the Interceptor."
         },
         "translation": {
             "cn": {}
@@ -2982,7 +3047,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "姿を隠すわよ、煙幕弾！"
+            "ja": "姿を隠すわよ、煙幕弾！",
+            "en": "Smoke bomb. Conceal our movements."
         },
         "translation": {
             "cn": {}
@@ -3017,7 +3083,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "見えなくなっちゃえ、閃光弾！"
+            "ja": "見えなくなっちゃえ、閃光弾！",
+            "en": "Flashbang! Blind them!"
         },
         "translation": {
             "cn": {}
@@ -3052,7 +3119,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "癒しの力、ちゃんと届いて。"
+            "ja": "癒しの力、ちゃんと届いて。",
+            "en": "Healing grenade, patch us up."
         },
         "translation": {
             "cn": {}
@@ -3087,7 +3155,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "風よ唸れ、風雷ボム。"
+            "ja": "風よ唸れ、風雷ボム。",
+            "en": "Windstorm grenade, unleash the twister."
         },
         "translation": {
             "cn": {}
@@ -3122,7 +3191,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "これで足止め、減速ボム！"
+            "ja": "これで足止め、減速ボム！",
+            "en": "Slow grenade. Bog them down."
         },
         "translation": {
             "cn": {}
@@ -3139,7 +3209,7 @@
         },
         "transcription": {
             "cn": "警报器，侦测危险。",
-            "en": "Tattletail will detect danger.",
+            "en": "Tattletale will detect danger.",
             "ja": "警報器、危険を教えて！"
         },
         "translation": {
@@ -3157,7 +3227,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "警報機、災いの気配を知らせて。"
+            "ja": "警報機、災いの気配を知らせて。",
+            "en": "Tattletale, keep watch here."
         },
         "translation": {
             "cn": {}
@@ -3192,7 +3263,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "この場所、災いの気配がする。"
+            "ja": "この場所、災いの気配がする。",
+            "en": "Danger lurks here, the whispers of sin."
         },
         "translation": {
             "cn": {}
@@ -3227,7 +3299,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ここは私に任せて。"
+            "ja": "ここは私に任せて。",
+            "en": "I'll hold this position."
         },
         "translation": {
             "cn": {}
@@ -3262,7 +3335,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ちょっと手を貸して。"
+            "ja": "ちょっと手を貸して。",
+            "en": "A little help, please."
         },
         "translation": {
             "cn": {}
@@ -3297,7 +3371,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ここに攻め込むよ、隙あり。"
+            "ja": "ここに攻め込むよ、隙あり。",
+            "en": "Attack here. There's an opening."
         },
         "translation": {
             "cn": {}
@@ -3332,7 +3407,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "気を付けて、妙な気配を感じる。"
+            "ja": "気を付けて、妙な気配を感じる。",
+            "en": "Watch out! Something feels off here."
         },
         "translation": {
             "cn": {}
@@ -3367,7 +3443,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆弾、今なら仕掛けられる。"
+            "ja": "爆弾、今なら仕掛けられる。",
+            "en": "It's time to plant the bomb."
         },
         "translation": {
             "cn": {}
@@ -3402,7 +3479,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "爆弾はここにある。"
+            "ja": "爆弾はここにある。",
+            "en": "Palms here."
         },
         "translation": {
             "cn": {}
@@ -3437,7 +3515,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ここに弾が落ちてる。"
+            "ja": "ここに弾が落ちてる。",
+            "en": "Ammo's here."
         },
         "translation": {
             "cn": {}
@@ -3472,7 +3551,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "防具ならここにあるよ。"
+            "ja": "防具ならここにあるよ。",
+            "en": "Armor's here."
         },
         "translation": {
             "cn": {}
@@ -3507,7 +3587,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "ここに置いてあるよ。戦術アイテム。"
+            "ja": "ここに置いてあるよ。戦術アイテム。",
+            "en": "Tactical items here."
         },
         "translation": {
             "cn": {}
@@ -3524,7 +3605,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": "警報！敵が来たよ！"
+            "ja": "警報！敵が来たよ！",
+            "en": "Tattletale has spotted an enemy."
         },
         "translation": {
             "cn": {}

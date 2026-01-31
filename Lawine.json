@@ -5032,7 +5032,8 @@
         },
         "transcription": {
             "cn": "胜不可交。",
-            "ja": ""
+            "ja": "",
+            "en": "Humble in victory."
         },
         "translation": {
             "cn": {
@@ -7704,7 +7705,8 @@
             "en": "Vox_Lawine_COM_151.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Tidal Tail spotted an enemy. Get ready."
         },
         "translation": {
             "cn": {}

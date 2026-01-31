@@ -6050,7 +6050,7 @@
         "transcription": {
             "cn": "安装警报器。",
             "ja": "",
-            "en": "Tattletail installed."
+            "en": "Tattletale installed."
         },
         "translation": {
             "cn": {
@@ -6528,7 +6528,8 @@
             "en": "Vox_Kokona_COM_151.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Tattletale spotted enemies! I'll provide backup."
         },
         "translation": {
             "cn": {}

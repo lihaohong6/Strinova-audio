@@ -1424,7 +1424,8 @@
         },
         "transcription": {
             "cn": "不管是什么样的案件，都交给本侦探吧。",
-            "ja": ""
+            "ja": "",
+            "en": "I can handle whatever case you throw at me."
         },
         "translation": {
             "cn": {
@@ -5630,7 +5631,8 @@
             "en": "Vox_Maddelena_COM_090.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Grenade!"
         },
         "translation": {
             "cn": {}
@@ -5812,7 +5814,7 @@
         "transcription": {
             "cn": "布下警报器了，等罪犯上钩吧。",
             "ja": "",
-            "en": "Tattletail deployed. Now we just wait."
+            "en": "Tattletale deployed. Now we just wait."
         },
         "translation": {
             "cn": {
@@ -5922,7 +5924,8 @@
             "en": "Vox_Maddelena_COM_102.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Here, everyone!"
         },
         "translation": {
             "cn": {}
@@ -6076,7 +6079,8 @@
             "en": "Vox_Maddelena_COM_151.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Tattletale has spotted an enemy!"
         },
         "translation": {
             "cn": {}

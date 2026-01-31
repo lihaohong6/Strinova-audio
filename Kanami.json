@@ -1635,7 +1635,8 @@
             "en": "Vox_Kanami_BPCHAR_067_red01.wav"
         },
         "transcription": {
-            "cn": "入场曲已确认。"
+            "cn": "入场曲已确认。",
+            "en": "Theme song confirmed!"
         },
         "translation": {
             "cn": {}
@@ -2378,7 +2379,7 @@
         "transcription": {
             "cn": "",
             "ja": "",
-            "en": ""
+            "en": "I don't know."
         },
         "translation": {
             "cn": {
@@ -5759,7 +5760,7 @@
         },
         "transcription": {
             "cn": "放置警报器。",
-            "en": "Deploying Tattletail."
+            "en": "Deploying Tattletale."
         },
         "translation": {
             "cn": {}
