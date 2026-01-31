@@ -35,7 +35,8 @@
         },
         "transcription": {
             "cn": "桂安，你来得很准时呢，一起来喝杯茶看看报纸吧，也许我们能发现新的商机也说不定。",
-            "ja": ""
+            "ja": "",
+            "en": "Good day. You're right on time. Come, have some tea and read the paper with me. Who knows, we might stumble upon a new business opportunity."
         },
         "translation": {
             "cn": {
@@ -79,7 +80,8 @@
         },
         "transcription": {
             "cn": "你来得正好，如果少了你的话，下午茶都会变得难喝的，快快入座吧。",
-            "ja": ""
+            "ja": "",
+            "en": "Perfect timing. I was just about to start tea. Though I doubt it would taste the same without you here. Please, take a seat."
         },
         "translation": {
             "cn": {
@@ -123,7 +125,8 @@
         },
         "transcription": {
             "cn": "这么晚了，最好你是有重要的事情找我商量，不然……原来是你……说吧，什么事情？",
-            "ja": ""
+            "ja": "",
+            "en": "It's so late. You'd better have something important to discuss with me. Otherwise... Oh, it's you. Well then, what brings you here?"
         },
         "translation": {
             "cn": {
@@ -145,7 +148,8 @@
         },
         "transcription": {
             "cn": "快去查收一下新邮件吧。如果不是你，我才不会特意提醒呢！",
-            "ja": "新着メールの確認をしなさい。あんただからアドバイスしてるんだからね。"
+            "ja": "新着メールの確認をしなさい。あんただからアドバイスしてるんだからね。",
+            "en": "Go check your new mail. If it weren't for you, I wouldn't have bothered to remind you."
         },
         "translation": {
             "cn": {
@@ -167,7 +171,8 @@
         },
         "transcription": {
             "cn": "新一年的征程又要开始了吗？经过了之前的相处，我们似乎变得更有默契了呢。诶，等等，你可别误会了，默契什么的，我只是随口一提而已。",
-            "ja": ""
+            "ja": "",
+            "en": "Another year begins. After all that's happened, it feels like we've grown more in tune with each other. Wait, don't misunderstand, I only meant that in a general sense."
         },
         "translation": {
             "cn": {
@@ -189,7 +194,8 @@
         },
         "transcription": {
             "cn": "春节快乐，如果你有什么愿望倒也可以说来听听，凭借我的能力，说不定能帮你实现呢。",
-            "ja": ""
+            "ja": "",
+            "en": "Happy spring blessings! If you've got a wish in mind, go on and tell me. With my abilities, who knows? I might even make it come true."
         },
         "translation": {
             "cn": {
@@ -211,7 +217,8 @@
         },
         "transcription": {
             "cn": "嗯，虽然我对圣诞节的庆祝活动没什么兴趣，但是，如果你坚持要我陪你的话，我倒也不是不可以答应你了。",
-            "ja": ""
+            "ja": "",
+            "en": "Hmm, I'm not exactly the type to get excited about Christmas celebrations, but if you really insist on having me there, I suppose I could make an exception for you."
         },
         "translation": {
             "cn": {
@@ -255,7 +262,8 @@
         },
         "transcription": {
             "cn": "收下这份巧克力吧，我相信你应该懂得它的价值。诶，为什么你是这副表情啊？",
-            "ja": ""
+            "ja": "",
+            "en": "Here, take this chocolate. I'm sure you understand what it means. Huh? Why that expression?"
         },
         "translation": {
             "cn": {
@@ -277,7 +285,8 @@
         },
         "transcription": {
             "cn": "卡拉比丘纪念日？对我而言，这大概是一个意义非凡的日子吧。毕竟，它给了我一个重新开始的机会，不是吗？",
-            "ja": ""
+            "ja": "",
+            "en": "The anniversary of Strinova. To me, it's quite a meaningful day. After all, it gave me the chance to start over again, didn't it?"
         },
         "translation": {
             "cn": {
@@ -321,7 +330,8 @@
         },
         "transcription": {
             "cn": "听说今天是东方文化中的恋人雀桥相会的日子，我想趁机在家族的商场做一些活动。我从伊维特小姐那儿借来了一笼喜鹊，我想邀请你一起放飞它们。你不会拒绝这样浪漫的事情吧？",
-            "ja": ""
+            "ja": "",
+            "en": "I heard today's a festival in Eastern culture. A day when lovers finally get to meet again. I'm planning to host a themed event at the family's mall. I even borrowed a cage of magpies from Yvette. I was hoping you'd help me release them. Surely you wouldn't turn down something this romantic, would you?"
         },
         "translation": {
             "cn": {
@@ -343,7 +353,8 @@
         },
         "transcription": {
             "cn": "我想这种程度的胜利恐怕还满足不了你吧？要不我们再赢一次？",
-            "ja": "この程度の勝利では物足りないでしょ？もう一度勝ちましょう！"
+            "ja": "この程度の勝利では物足りないでしょ？もう一度勝ちましょう！",
+            "en": "This type of victory doesn't satisfy you, am I right? Why don't we go for another?"
         },
         "translation": {
             "cn": {
@@ -365,7 +376,8 @@
         },
         "transcription": {
             "cn": "你居然……这么厉害的嘛？咳咳，我的意思是……我算是认可你的实力了。这难道不值得你开心吗？",
-            "ja": "ま、まさか、こんなに強いなんて…ああ、つまり、あんたの実力を認めたってことよ。嬉しいでしょ?"
+            "ja": "ま、まさか、こんなに強いなんて…ああ、つまり、あんたの実力を認めたってことよ。嬉しいでしょ?",
+            "en": "You actually did that well. What I mean is, I suppose I can acknowledge your ability. Isn't that something to be happy about?"
         },
         "translation": {
             "cn": {
@@ -387,7 +399,8 @@
         },
         "transcription": {
             "cn": "商业上的投资也会有亏损的时候。稍作休息，我来和你一起思考战术对策。",
-            "ja": ""
+            "ja": "",
+            "en": "Even in business, there are times when investments don't go as planned. Take a short break. Let's think through our next strategy together."
         },
         "translation": {
             "cn": {
@@ -409,7 +422,8 @@
         },
         "transcription": {
             "cn": "怎么办？我完全不擅长安慰别人……你——过来选一种安慰方式吧！你是想我拍拍你的肩膀，还是摸摸你的头？",
-            "ja": "どうしよう、人を慰めるのは本当苦手なのよね。ここに来て、慰め方を一つ自分で選びなさい！肩を叩くか、頭なでなでか、どっちがいいのよ?"
+            "ja": "どうしよう、人を慰めるのは本当苦手なのよね。ここに来て、慰め方を一つ自分で選びなさい！肩を叩くか、頭なでなでか、どっちがいいのよ?",
+            "en": "What should I do? I'm completely hopeless at comforting others. Just come here. How do you want to be comforted? Do you want me to pat your shoulder or ruffle your hair?"
         },
         "translation": {
             "cn": {
@@ -431,7 +445,8 @@
         },
         "transcription": {
             "cn": "你刚刚的表现非常亮眼啊，作为盟友的你真是太可靠了，只要有你，我们就能赢了又赢。",
-            "ja": ""
+            "ja": "",
+            "en": "Your performance just now was truly impressive. As my ally, you've proven how reliable you are. With you by my side, I'm certain we can keep winning, time and time again."
         },
         "translation": {
             "cn": {
@@ -453,7 +468,8 @@
         },
         "transcription": {
             "cn": "我知道你也很不甘心啦……所以，之后的战斗，你要和我一起赢回来！",
-            "ja": "悔しいのはわかるわ。だけど、だからこそ、次は一緒に取り返しましょう。"
+            "ja": "悔しいのはわかるわ。だけど、だからこそ、次は一緒に取り返しましょう。",
+            "en": "I know you're not satisfied either. So, in the next battle, you're going to win it back with me."
         },
         "translation": {
             "cn": {
@@ -475,7 +491,8 @@
         },
         "transcription": {
             "cn": "要是以为这样就能接近我，那就大错特错了！不过，你足够有诚意的话，还是可以考虑的……",
-            "ja": "この程度で私に近づけたと思わないことね。まっ、まあ？もっと誠意を見せてくれれば、考えてあげなくもないわ。"
+            "ja": "この程度で私に近づけたと思わないことね。まっ、まあ？もっと誠意を見せてくれれば、考えてあげなくもないわ。",
+            "en": "If you think this would bring us closer, you're sorely mistaken. However, if you're sincere enough, I might just consider it."
         },
         "translation": {
             "cn": {
@@ -497,7 +514,8 @@
         },
         "transcription": {
             "cn": "现在是私人时间，不需要那么拘谨。我对你工作之外的样子也很有兴趣。",
-            "ja": ""
+            "ja": "",
+            "en": "This is our private time now. No need to be so formal. I'm quite curious about what you're like outside of work."
         },
         "translation": {
             "cn": {
@@ -519,7 +537,8 @@
         },
         "transcription": {
             "cn": "你想要跟我合作？我挑选商业伙伴可是很严格的哦。",
-            "ja": "私と手を組みたいの?ふーん、大丈夫かしら?ビジネスパートナーはかなり厳選してるわよ。"
+            "ja": "私と手を組みたいの?ふーん、大丈夫かしら?ビジネスパートナーはかなり厳選してるわよ。",
+            "en": "Do you wish to partner up? I have exacting standards for those who work with me."
         },
         "translation": {
             "cn": {
@@ -541,7 +560,8 @@
         },
         "transcription": {
             "cn": "嗯？让那些鸡毛蒜皮的事情见鬼去吧。我现在只想和你在这里休息一下。",
-            "ja": ""
+            "ja": "",
+            "en": "Hmm? Forget all those trivial things. Right now, I just want to stay here and relax. With you."
         },
         "translation": {
             "cn": {
@@ -563,7 +583,8 @@
         },
         "transcription": {
             "cn": "哼，我就知道是你，这样有失礼节哦！",
-            "ja": "ふっ、やっぱあんただったわね。ほんっと、礼儀を知らないんだから。"
+            "ja": "ふっ、やっぱあんただったわね。ほんっと、礼儀を知らないんだから。",
+            "en": "I knew it was you. That's inappropriate."
         },
         "translation": {
             "cn": {
@@ -585,7 +606,8 @@
         },
         "transcription": {
             "cn": "你明天要出门吗？那可得好好确认一下天气才行，这可是成功人士的建议啊。",
-            "ja": ""
+            "ja": "",
+            "en": "You're heading out tomorrow. Then make sure to check the weather first. That's advice from a true professional."
         },
         "translation": {
             "cn": {
@@ -607,7 +629,8 @@
         },
         "transcription": {
             "cn": "明白吗！我可不会轻易改变立场哦。",
-            "ja": "私は簡単に立場を変えたりしないの。おわかり?"
+            "ja": "私は簡単に立場を変えたりしないの。おわかり?",
+            "en": "Make no mistake, I don't change my mind easily."
         },
         "translation": {
             "cn": {
@@ -629,7 +652,8 @@
         },
         "transcription": {
             "cn": "要是每一个人都像你一样收拾就好了，你看看这都几点了，新的报表还没发来呢。",
-            "ja": ""
+            "ja": "",
+            "en": "If everyone were as punctual as you, the world would be a better place. Just look at the time, and the new report still isn't here."
         },
         "translation": {
             "cn": {
@@ -651,7 +675,8 @@
         },
         "transcription": {
             "cn": "今天的歌曲品鉴到此为止了，下次可要让我听听你的歌单哦。",
-            "ja": "今日の楽曲観賞会はここまで。今度はあんたのおすすめリストも聞かせてね。"
+            "ja": "今日の楽曲観賞会はここまで。今度はあんたのおすすめリストも聞かせてね。",
+            "en": "That's enough music critique for today. Next time, you'll have to let me hear your playlist."
         },
         "translation": {
             "cn": {
@@ -673,7 +698,8 @@
         },
         "transcription": {
             "cn": "据说喜欢喝同一种茶的人，连偏好也会比较相似呢。",
-            "ja": "お茶の趣味が合う人は、好みも似ているとか聞いたことがあるわ。"
+            "ja": "お茶の趣味が合う人は、好みも似ているとか聞いたことがあるわ。",
+            "en": "They say people who enjoy the same kind of tea often share similar tastes too."
         },
         "translation": {
             "cn": {
@@ -717,7 +743,8 @@
         },
         "transcription": {
             "cn": "我待在这里，只是为了更专注地做自己的事情，才不是为了你呢！",
-            "ja": "私は自分のことにもっと集中するためにここにいるだけ。あんたのためなんかじゃないからね。"
+            "ja": "私は自分のことにもっと集中するためにここにいるだけ。あんたのためなんかじゃないからね。",
+            "en": "I'm just here to concentrate on my own tasks, not because of you."
         },
         "translation": {
             "cn": {
@@ -739,7 +766,8 @@
         },
         "transcription": {
             "cn": "今天我有几场会议临时取消了，要不我们今天再多聊点什么。",
-            "ja": ""
+            "ja": "",
+            "en": "A few of my meetings got cancelled today, so how about we chat a bit longer?"
         },
         "translation": {
             "cn": {
@@ -783,7 +811,8 @@
         },
         "transcription": {
             "cn": "对了，有件事情忘了和你说。没有经过我的允许，你可不准打探我的过去哦！否则，我可不知道会发生什么……",
-            "ja": "言い忘れてたけど、許可なく私の過去を詮索することはやめておきなさい。もし勝手なことをしたら、どうなるかわからないわよ。"
+            "ja": "言い忘れてたけど、許可なく私の過去を詮索することはやめておきなさい。もし勝手なことをしたら、どうなるかわからないわよ。",
+            "en": "Oh, there's something I forgot to mention. You're not allowed to dig into my past without my permission. Otherwise, who knows what might happen."
         },
         "translation": {
             "cn": {
@@ -805,7 +834,8 @@
         },
         "transcription": {
             "cn": "最近商坛的成功率上升了不少，你有什么头绪吗？我觉得可能是托你的福。",
-            "ja": ""
+            "ja": "",
+            "en": "Our recent negotiations have been going remarkably well. Any idea why? Actually, I think you might have something to do with it."
         },
         "translation": {
             "cn": {
@@ -827,7 +857,8 @@
         },
         "transcription": {
             "cn": "家族一直以来的经验告诉我，只有保持思维的前瞻性，才能在时代的浪潮中屹立不倒。",
-            "ja": "時代の潮流に立ち向かうためには、常に先を見据えることが大切。ウチの家訓よ!"
+            "ja": "時代の潮流に立ち向かうためには、常に先を見据えることが大切。ウチの家訓よ!",
+            "en": "My family's legacy has taught me that only by looking toward the future can we endure the tides of change."
         },
         "translation": {
             "cn": {
@@ -849,7 +880,8 @@
         },
         "transcription": {
             "cn": "我想，如果你是一个商人的话，应该很少有人能当你的对手吧？至少，我可不想当你的对手。",
-            "ja": ""
+            "ja": "",
+            "en": "If you were a merchant, I doubt many could outmatch you. At the very least, I'd rather not be your rival."
         },
         "translation": {
             "cn": {
@@ -871,7 +903,8 @@
         },
         "transcription": {
             "cn": "如今我们也算是同伴了，但只是这样还不够哦！毕竟，只有经得起考验的情感，才不会随着时间流逝而改变。",
-            "ja": "あんたと仲間になれたこと、正直感謝しているわ。でも、まだまだよ。これからも一緒に試練を乗り越えましょう。私たちの絆を、揺るぎないものにするためにね。"
+            "ja": "あんたと仲間になれたこと、正直感謝しているわ。でも、まだまだよ。これからも一緒に試練を乗り越えましょう。私たちの絆を、揺るぎないものにするためにね。",
+            "en": "I'd describe us as companions, but I wish we were more. After all, only bonds that withstand the test of time truly remain unchanged."
         },
         "translation": {
             "cn": {
@@ -893,7 +926,8 @@
         },
         "transcription": {
             "cn": "啊，好涼，这是给我的吗？谢谢，啊，但这件事，你要替我保密啊。",
-            "ja": ""
+            "ja": "",
+            "en": "Ah, so cold. Is this for me? Thank you, but you'd better keep this between us, alright?"
         },
         "translation": {
             "cn": {
@@ -915,7 +949,8 @@
         },
         "transcription": {
             "cn": "你很难想象格罗夫家族也经历过内部纷争吧？但是，我作为亲历者，很清楚它的每一次命运变迁。",
-            "ja": "グローブ家が内輪揉めをしていたとは想像もつかないでしょう？私は運命の変化をすべて経験しているわ。"
+            "ja": "グローブ家が内輪揉めをしていたとは想像もつかないでしょう？私は運命の変化をすべて経験しているわ。",
+            "en": "It's hard to imagine that my family experienced such internal strife, isn't it? But having lived through it, I know all too well of the twists and turns of our history."
         },
         "translation": {
             "cn": {
@@ -937,7 +972,8 @@
         },
         "transcription": {
             "cn": "我发现，再盛大的宴席，再美味的菜品，要是没有你在身边的话，好像都会缺少些许滋味呢。",
-            "ja": ""
+            "ja": "",
+            "en": "No matter how grand the banquet, or how exquisite the dishes, may somehow lose a bit of flavor when you're not there."
         },
         "translation": {
             "cn": {
@@ -959,7 +995,8 @@
         },
         "transcription": {
             "cn": "一切的时机都刚刚好，从而让我们一起见证了珍贵之物的出现。在你获得了它之后，必将会创造更多关于它的故事吧？",
-            "ja": "一緒に貴重な瞬間に立ち会うことができたわね。あんたがそれを手に入れたら、また物語が生まれるんじゃないかしら。"
+            "ja": "一緒に貴重な瞬間に立ち会うことができたわね。あんたがそれを手に入れたら、また物語が生まれるんじゃないかしら。",
+            "en": "Everything happened at just the right moment, and together, we witnessed something truly precious. Now that it's in your hands, I'm sure you'll create even more stories with it."
         },
         "translation": {
             "cn": {
@@ -981,7 +1018,8 @@
         },
         "transcription": {
             "cn": "格罗夫家族需要的不是一个傲气凌厉的大小姐，而是一个真正睿智的领袖。也不知道如今的我，有没有回应大家的期望呢？",
-            "ja": "グローブ家に必要なのは、傲慢で威圧的なお嬢様ではなく、真に懸命なリーダーなの。今の私は、みんなの期待に応えられているのかしら?"
+            "ja": "グローブ家に必要なのは、傲慢で威圧的なお嬢様ではなく、真に懸命なリーダーなの。今の私は、みんなの期待に応えられているのかしら?",
+            "en": "The Grove family doesn't need an arrogant heiress. What we truly need is a wise leader. I just wonder, am I really living up to everyone's expectations?"
         },
         "translation": {
             "cn": {
@@ -1003,7 +1041,8 @@
         },
         "transcription": {
             "cn": "我现在愈发相信与你的合作是正确的，因为与你相处的这些时光，对我来说，就是一份价值不菲的回报。",
-            "ja": ""
+            "ja": "",
+            "en": "I'm growing more and more certain that partnering with you was the right choice. The time I've spent with you has been a reward far more valuable than any profit."
         },
         "translation": {
             "cn": {
@@ -1025,7 +1064,8 @@
         },
         "transcription": {
             "cn": "我曾不慎丢失过记忆，对周围的一切都感到陌生……但正是因为这一次遭遇，我才明白最为珍贵的东西既非荣耀，也不是名利，而是纯粹的情感。",
-            "ja": "私は記憶を失って、周りのものすべてが人事のように感じたことがあったわ。でもそれがあったから、一番大事なのは、栄光でも名声でもなく、純粋な感情であることに気づいたのよ。"
+            "ja": "私は記憶を失って、周りのものすべてが人事のように感じたことがあったわ。でもそれがあったから、一番大事なのは、栄光でも名声でもなく、純粋な感情であることに気づいたのよ。",
+            "en": "I once lost my memories, and everything around me felt alien. Yet through that experience, I realized that the most precious things aren't glory or fame, but genuine emotions."
         },
         "translation": {
             "cn": {
@@ -1047,7 +1087,8 @@
         },
         "transcription": {
             "cn": "能和你分享去世的时候，被你鼓励的时候，我感觉到了从未有过的温暖。哼，就算是我，也不禁会有点嫉妒星慧小姐了。",
-            "ja": ""
+            "ja": "",
+            "en": "When we share stories, or when you encourage me, I feel a warmth I've never known before. Even I can't help but feel a little jealous of Celestia."
         },
         "translation": {
             "cn": {
@@ -1069,7 +1110,8 @@
         },
         "transcription": {
             "cn": "我并不否认背叛依旧有可能存在，但如果是你的话，我应该可以敞开心扉去相信吧……哼~我看你也不敢辜负我的信任嘛！",
-            "ja": "裏切りがないとは言い切れない。でも、アンタだったら素直に信じられるはずよ。まあ、アンタも私の信頼を裏切るようなことはできないだろうしね。"
+            "ja": "裏切りがないとは言い切れない。でも、アンタだったら素直に信じられるはずよ。まあ、アンタも私の信頼を裏切るようなことはできないだろうしね。",
+            "en": "I won't deny that betrayal is still a possibility, but if it's you, I think I can open up and trust you. I bet you wouldn't dare break my trust."
         },
         "translation": {
             "cn": {
@@ -1091,7 +1133,8 @@
         },
         "transcription": {
             "cn": "在以前，我时常会在夜间惊醒，担心我找回的一切再次失去。但有了你，我便能安然入睡。因为你不会放弃任何一名患者，我相信你是最好的医师。",
-            "ja": ""
+            "ja": "",
+            "en": "I used to wake up in the middle of the night, terrified that everything I'd reclaimed would slip away again. But with you, I can finally rest easy. You never give up on your patients, and I believe you're the finest physician there is."
         },
         "translation": {
             "cn": {
@@ -1113,7 +1156,8 @@
         },
         "transcription": {
             "cn": "为什么我感到疲惫的时候，会希望你能理解我的处境呢？或许，只是因为我对你多了那么一点依赖吧。",
-            "ja": "疲れている時ほど、アンタに私の立場を理解して欲しいと思うのは、なぜだろう？もしかしたら、私がそれだけあんたを頼りにしているってことなのかもね。"
+            "ja": "疲れている時ほど、アンタに私の立場を理解して欲しいと思うのは、なぜだろう？もしかしたら、私がそれだけあんたを頼りにしているってことなのかもね。",
+            "en": "Why do I always wish you'd understand what I'm going through whenever I feel exhausted? Maybe it's because I've grown just a bit too reliant on you."
         },
         "translation": {
             "cn": {
@@ -1135,7 +1179,8 @@
         },
         "transcription": {
             "cn": "如果能给我们之间的契约约定一个期限的话，我希望这个期限叫做海空石烂。",
-            "ja": ""
+            "ja": "",
+            "en": "If I could set an expiry date for our pact, I'd call it forever."
         },
         "translation": {
             "cn": {
@@ -1157,7 +1202,8 @@
         },
         "transcription": {
             "cn": "我……才没有偷偷在听摇滚乐呢！真是的，你来之前怎么不提前说一声……",
-            "ja": "こっ、こっそりロックなんか聴いていないわよ！もう、どうして来る前に行ってくれないのよ。"
+            "ja": "こっ、こっそりロックなんか聴いていないわよ！もう、どうして来る前に行ってくれないのよ。",
+            "en": "I wasn't secretly listening to rock music or anything. Seriously, why didn't you give me a heads up before you came?"
         },
         "translation": {
             "cn": {
@@ -1179,7 +1225,8 @@
         },
         "transcription": {
             "cn": "啊，我还以为又要通知我去开会了，来都来了，要不要一起来放松一下？",
-            "ja": ""
+            "ja": "",
+            "en": "Huh? Oh, I thought it was another meeting notice for a second. Well, since you're already here, why don't we take a little break together?"
         },
         "translation": {
             "cn": {
@@ -1201,7 +1248,8 @@
         },
         "transcription": {
             "cn": "你要喝红茶吗？这可是我亲手调制的哦。当然，如果你并没有想喝的意思，我也是无所谓的啦……哼！",
-            "ja": "ん？あんたも飲む？これ、私の手作りの紅茶なのよ。なーに？嫌とは言わないわよね？"
+            "ja": "ん？あんたも飲む？これ、私の手作りの紅茶なのよ。なーに？嫌とは言わないわよね？",
+            "en": "Would you like some tea? I brewed it myself. Of course, if you're not interested, it's not like I care."
         },
         "translation": {
             "cn": {
@@ -1223,7 +1271,8 @@
         },
         "transcription": {
             "cn": "又到下午茶的时间了，红茶里当然是要放牛奶了。放咖啡？我，我可不太认同。",
-            "ja": ""
+            "ja": "",
+            "en": "It's afternoon tea time again. Naturally, milk goes in the tea. Coffee, though. I, uh, can't quite agree with that."
         },
         "translation": {
             "cn": {
@@ -1267,7 +1316,8 @@
         },
         "transcription": {
             "cn": "下一期的商城活動，，策劃什麼主題好呢？你有沒有什麼好點子？嗯……你放心……我再聽……",
-            "ja": ""
+            "ja": "",
+            "en": "Hmm, what theme should I use for the next mall event? Got any ideas? Don't worry, I'm listening."
         },
         "translation": {
             "cn": {
@@ -1311,7 +1361,8 @@
         },
         "transcription": {
             "cn": "刚好你来了，快来看看我们之间的合影吧。这些照片可都是我们合作期间的重要成果。",
-            "ja": ""
+            "ja": "",
+            "en": "You're just in time. Come, take a look at our photos together. They're all important milestones from our time working side by side."
         },
         "translation": {
             "cn": {
@@ -1333,7 +1384,8 @@
         },
         "transcription": {
             "cn": "拿好哦，这是我送给你的礼物。如果我什么都不做的话，那肯定就算不上是感谢了……况且，我还是有那么一点想要夸奖你的。",
-            "ja": "受け取りなさい。これは私からの贈り物よ。何もしなかったら、お礼にならないし、ちょっとだけアンタを褒めたい気持ちもあるしね。"
+            "ja": "受け取りなさい。これは私からの贈り物よ。何もしなかったら、お礼にならないし、ちょっとだけアンタを褒めたい気持ちもあるしね。",
+            "en": "Here, take it. It's a gift from me. If I didn't do something, it wouldn't really count as saying thanks. Besides, I might feel just a tiny bit like praising you."
         },
         "translation": {
             "cn": {
@@ -1355,7 +1407,8 @@
         },
         "transcription": {
             "cn": "我等你很久了。诶？你这是什么表情嘛？你……你可千万不要误会！我只是一时兴起，绝对没有别的意思哦！",
-            "ja": "待ってたわ。え？ な、なんなのよその顔！勘違いしないで！ ただ待ってたって言っただけよ！"
+            "ja": "待ってたわ。え？ な、なんなのよその顔！勘違いしないで！ ただ待ってたって言っただけよ！",
+            "en": "I've been waiting for you for quite a while. Huh? What's with that look on your face? Don't get the wrong idea. It was just... a sudden impulse, that's all."
         },
         "translation": {
             "cn": {
@@ -1377,7 +1430,8 @@
         },
         "transcription": {
             "cn": "果然，有时候听歌也要换一换风格的嘛。",
-            "ja": "たまには違った曲を聴くのも悪くないわね。"
+            "ja": "たまには違った曲を聴くのも悪くないわね。",
+            "en": "Sometimes, you've just got to change up your playlist."
         },
         "translation": {
             "cn": {
@@ -1399,7 +1453,8 @@
         },
         "transcription": {
             "cn": "花瓣、果脯，配合红茶本身的醇厚，真是一次完美的拼配啊。",
-            "ja": "花びら、ドライフルーツ、そして、紅茶本来の芳醇な味わいと香りのハーモニー。うふふ、完璧な組み合わせね!"
+            "ja": "花びら、ドライフルーツ、そして、紅茶本来の芳醇な味わいと香りのハーモニー。うふふ、完璧な組み合わせね!",
+            "en": "Petals and dried fruit both blend perfectly with a rich tea. It really is a flawless combination."
         },
         "translation": {
             "cn": {
@@ -1443,7 +1498,8 @@
         },
         "transcription": {
             "cn": "乌财社今日特报，本季度的巴布洛期货交割已顺利完成……看来，差不多该进行下一轮交易了。",
-            "ja": "今日の特報は…… ふんふん、今期の先物取引が順調に完了したと……。なるほど、次の取引の準備を始めないと……。"
+            "ja": "今日の特報は…… ふんふん、今期の先物取引が順調に完了したと……。なるほど、次の取引の準備を始めないと……。",
+            "en": "The Urbino Financial Daily reports that this quarter's Bablo futures have been successfully settled. Looks like it's about time for the next round of trading."
         },
         "translation": {
             "cn": {
@@ -1465,7 +1521,8 @@
         },
         "transcription": {
             "cn": "这一张是在咖啡屋，还有一张是在小吃街。下次去什么样的地方好呢？",
-            "ja": ""
+            "ja": "",
+            "en": "This one's from the cafe, and here's another from the food street. Where should we go next time, I wonder?"
         },
         "translation": {
             "cn": {
@@ -1487,7 +1544,8 @@
         },
         "transcription": {
             "cn": "现在我可算是有时间来陪你了，诶？你——不会是已经睡着了吧？",
-            "ja": "やっと時間が空いて、あんたに付き合えるわ。え?あんた、もしかしてもう寝てる?"
+            "ja": "やっと時間が空いて、あんたに付き合えるわ。え?あんた、もしかしてもう寝てる?",
+            "en": "Finally, I've cleared my schedule to spend some time with you. Huh? Don't tell me, you've already fallen asleep?"
         },
         "translation": {
             "cn": {
@@ -1509,7 +1567,8 @@
         },
         "transcription": {
             "cn": "我手里藏了几张照片，不如你来猜一猜是在哪里拍的。",
-            "ja": ""
+            "ja": "",
+            "en": "I've got a few photos hidden away. Why don't you try guessing where they were taken?"
         },
         "translation": {
             "cn": {
@@ -1619,7 +1678,8 @@
         },
         "transcription": {
             "cn": "我可不是每次都会放下手中的事情来回应你的哦。",
-            "ja": "まったく、いつもあんたにかまってばっかりいられないのよ。勘違いしないで、今回は特別よ、特別！"
+            "ja": "まったく、いつもあんたにかまってばっかりいられないのよ。勘違いしないで、今回は特別よ、特別！",
+            "en": "I don't drop everything just to reply every time, you know."
         },
         "translation": {
             "cn": {
@@ -1641,7 +1701,8 @@
         },
         "transcription": {
             "cn": "这本相册还有好多夜视空的呢，往后我们用更多照片来把它填满吧。",
-            "ja": ""
+            "ja": "",
+            "en": "There are still plenty of empty pages in this album. Let's fill them with even more memories, one photo at a time."
         },
         "translation": {
             "cn": {
@@ -1663,7 +1724,8 @@
         },
         "transcription": {
             "cn": "怎么？你还不明白我的意思吗？快过来和我听歌啦！",
-            "ja": "何？まだわからないの？こっちに来て、一緒に歌を聴きましょうよ！"
+            "ja": "何？まだわからないの？こっちに来て、一緒に歌を聴きましょうよ！",
+            "en": "What? You still don't get it? Come here and listen to music with me."
         },
         "translation": {
             "cn": {
@@ -1685,7 +1747,8 @@
         },
         "transcription": {
             "cn": "我的品味也不是一成不变的，好奇的话，你要听一下我现在的歌单吗？",
-            "ja": ""
+            "ja": "",
+            "en": "My tastes aren't set in stone, you know. If you're curious, want to hear what's on my current playlist?"
         },
         "translation": {
             "cn": {
@@ -1707,7 +1770,8 @@
         },
         "transcription": {
             "cn": "我可不是刻意过来找你的，只是想知道你究竟在忙些什么啦……",
-            "ja": "わざわざあんたに会いに来たんじゃないからね。ただ、何をしているのか、ちょっと気になっただけよ……"
+            "ja": "わざわざあんたに会いに来たんじゃないからね。ただ、何をしているのか、ちょっと気になっただけよ……",
+            "en": "It's not like I'm deliberately seeking you out. I just wanted to see what you're up to."
         },
         "translation": {
             "cn": {
@@ -1729,7 +1793,8 @@
         },
         "transcription": {
             "cn": "你，你别老在那儿吃四糠饼了，我们能不能再聊点什么？",
-            "ja": ""
+            "ja": "",
+            "en": "Hey, could you stop snacking on those scones for a second? Can we maybe talk about something else?"
         },
         "translation": {
             "cn": {
@@ -1773,7 +1838,8 @@
         },
         "transcription": {
             "cn": "呼——最近我是不是压力太大了？感觉有些疲惫了呢……",
-            "ja": "ふう……疲れが残ってる。最近、根を詰めすぎかな……。"
+            "ja": "ふう……疲れが残ってる。最近、根を詰めすぎかな……。",
+            "en": "Have I been under too much stress lately? I feel a little worn out."
         },
         "translation": {
             "cn": {
@@ -1817,7 +1883,8 @@
         },
         "transcription": {
             "cn": "多谢你了。别这样看着我嘛，这种应该感谢你的时候，我也是能坦率说出来的啦！",
-            "ja": "ありがとう。そんな顔して見ないでよ、お礼ぐらいちゃんと言えるわ！"
+            "ja": "ありがとう。そんな顔して見ないでよ、お礼ぐらいちゃんと言えるわ！",
+            "en": "Thanks. Don't look at me like that. I can be honest about it when it's time to say thank you, you know."
         },
         "translation": {
             "cn": {
@@ -1839,7 +1906,8 @@
         },
         "transcription": {
             "cn": "既然你都这么诚心地表达出对我的仰慕了，那让我来接受你的礼物，倒也不是不可以啦……哼，你可不要想太多哦！",
-            "ja": "そこまで真摯に私への憧れを語ってくれたのだから、プレゼント、特別に受け取ってあげてもいいわ。深い意味なんかないんだからね！"
+            "ja": "そこまで真摯に私への憧れを語ってくれたのだから、プレゼント、特別に受け取ってあげてもいいわ。深い意味なんかないんだからね！",
+            "en": "Since you've gone and shown such sincere admiration for me, I suppose accepting your gift isn't completely out of the question. Hmph, don't get the wrong idea."
         },
         "translation": {
             "cn": {
@@ -1861,7 +1929,8 @@
         },
         "transcription": {
             "cn": "怎么会，有我打瞌睡的照片，你是在什么时候拍的，可不许给别人看啊。",
-            "ja": ""
+            "ja": "",
+            "en": "Wait, how did you even get that photo of me napping? When did you take it? You'd better not show it to anyone."
         },
         "translation": {
             "cn": {
@@ -1883,7 +1952,8 @@
         },
         "transcription": {
             "cn": "我刚想到几个有趣的pose，你能当我的模特摆一下造型吗？",
-            "ja": ""
+            "ja": "",
+            "en": "I just thought of a few fun poses. Mind being my model for a bit?"
         },
         "translation": {
             "cn": {
@@ -1905,7 +1975,8 @@
         },
         "transcription": {
             "cn": "良好公正的环境正是需要各方的努力才能维系。盟友，你的行为很值得嘉奖呢。",
-            "ja": ""
+            "ja": "",
+            "en": "A fair and just environment can only be maintained through everyone's efforts. Navigator, your actions truly deserve praise."
         },
         "translation": {
             "cn": {
@@ -1927,7 +1998,8 @@
         },
         "transcription": {
             "cn": "你这是对我家族的背叛，辜负了我对你的信任。",
-            "ja": ""
+            "ja": "",
+            "en": "You've betrayed my family and the trust I placed in you."
         },
         "translation": {
             "cn": {
@@ -1949,7 +2021,8 @@
         },
         "transcription": {
             "cn": "遇到这种事情，最好不要一个人撑着，格罗夫家族会成为你的后盾。",
-            "ja": ""
+            "ja": "",
+            "en": "When things like this happen, don't try to bear it all alone. The Grove family will stand behind you."
         },
         "translation": {
             "cn": {
@@ -1971,7 +2044,8 @@
         },
         "transcription": {
             "cn": "平时总有各种推不开的会议，像现在这样只有我们两个人的时间，要是能再多点就好了。",
-            "ja": ""
+            "ja": "",
+            "en": "There are always endless meetings I can't get out of, so moments like this, just the two of us, I wish they could last a little longer."
         },
         "translation": {
             "cn": {
@@ -1993,7 +2067,8 @@
         },
         "transcription": {
             "cn": "如果你愿意，我也不是不能做一个听众倾听你的烦恼。而且，我也希望你能靠近一些和我说话。",
-            "ja": ""
+            "ja": "",
+            "en": "If you'd like, I can lend an ear. Tell me what's troubling you, and maybe just come a little closer when you do."
         },
         "translation": {
             "cn": {
@@ -2015,7 +2090,8 @@
         },
         "transcription": {
             "cn": "我在以前的照片上，也看到过好似惊天的雪景。我想不起那时候自己是什么心情了。不过，我能确定的是，和你去看的话一定会很愉快。",
-            "ja": ""
+            "ja": "",
+            "en": "I've seen photos of snowy days like this before, though I can't recall what I felt then. But I'm certain, seeing it with you would be far more memorable."
         },
         "translation": {
             "cn": {
@@ -2037,7 +2113,8 @@
         },
         "transcription": {
             "cn": "上次和你逛街的时候，我发现街边小吃也别有一番风味，我最近正在考虑拓展新的业务。你说，我们要不要在纽特朗掀起一场全新的美食浪潮？",
-            "ja": ""
+            "ja": "",
+            "en": "When we went shopping last time, I realized that even the street food had its own kind of charm. I've been thinking about expanding into new ventures lately. Tell me, should we start a brand new food trend in Nutriville together?"
         },
         "translation": {
             "cn": {
@@ -2059,7 +2136,8 @@
         },
         "transcription": {
             "cn": "我曾经想在纽特朗建造一栋前所未有的商业大楼，那样就能站在顶楼眺望全城的风景了吧。啊，顺带一提，我会单独为你留一个特别细微的。",
-            "ja": ""
+            "ja": "",
+            "en": "I once dreamed of building an unprecedented commercial tower here in Neutroville. From the top floor, you could see the entire city. Oh, and, of course, I'd reserve a special seat just for you."
         },
         "translation": {
             "cn": {
@@ -2081,7 +2159,8 @@
         },
         "transcription": {
             "cn": "格罗夫家族在乌尔比诺屈居自习的日子，总有一天会结束的。我会让你亲眼见证，我成为盟主的那一刻。",
-            "ja": ""
+            "ja": "",
+            "en": "The days of the growth family settling for second place in Urbino will one day come to an end. You'll be there to witness the moment I become the Alliance leader."
         },
         "translation": {
             "cn": {
@@ -2103,7 +2182,8 @@
         },
         "transcription": {
             "cn": "我在纽特朗待得越久，有时愈发觉得疲惫。听说你去过很多不同的城市，如果有时间，你能带我去其他地方走走吗？",
-            "ja": ""
+            "ja": "",
+            "en": "The longer I stay in Neutroville, the more drained I sometimes feel. I've heard you've traveled to many different cities. If you have the time, would you take me to see some of them?"
         },
         "translation": {
             "cn": {
@@ -2147,7 +2227,8 @@
         },
         "transcription": {
             "cn": "生日快乐，我今天想为你亲自下厨，我已经和私人厨师学习很久了，放心，这次一定不会把牛排烤焦的，大概……",
-            "ja": ""
+            "ja": "",
+            "en": "Happy birthday. I want to cook for you today. I've been taking lessons from my personal chef for ages. Don't worry, I promise I won't burn the steak this time. Probably."
         },
         "translation": {
             "cn": {
@@ -2213,7 +2294,8 @@
         },
         "transcription": {
             "cn": "今天是我的生日，我安排我的私人厨师准备了一席晚宴，和你一起的话，这出多少时间我认为都很值得。",
-            "ja": ""
+            "ja": "",
+            "en": "It's my birthday today. I've asked my personal chef to prepare a private dinner, and honestly, spending that time with you would be worth every second."
         },
         "translation": {
             "cn": {
@@ -2235,7 +2317,8 @@
         },
         "transcription": {
             "cn": "这是你为我准备的生日礼物吗？谢谢，很有品味呢。作为回礼，告诉我你的生日是哪一天吧。我必须提前准备最配得上你的礼物才行。",
-            "ja": ""
+            "ja": "",
+            "en": "Is this... the gift you prepared for me? Thank you. It's quite tasteful. As a return gift, tell me when your birthday is. I'll need time to find something worthy of you."
         },
         "translation": {
             "cn": {
@@ -3233,7 +3316,8 @@
         },
         "transcription": {
             "cn": "",
-            "ja": ""
+            "ja": "",
+            "en": "Ugh!"
         },
         "translation": {
             "cn": {
@@ -6780,7 +6864,8 @@
         },
         "transcription": {
             "cn": "手雷。",
-            "ja": "行くわよ！"
+            "ja": "行くわよ！",
+            "en": "Fire in the hole!"
         },
         "translation": {
             "cn": {
@@ -7563,7 +7648,8 @@
             "en": "Vox_Audrey_COM_151.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Watch out! Tattletale spotted an enemy!"
         },
         "translation": {
             "cn": {}
