@@ -537,9 +537,9 @@
             "en": "Vox_Ming_BPCHAT_075_red01_a.wav"
         },
         "transcription": {
-            "cn": "稀能副甲，刀枪不入。",
+            "cn": "吸能护甲，刀枪不入。",
             "ja": "",
-            "en": "ENERGIZED AND UNSTOPPABLE!"
+            "en": "Energized and unstoppable!"
         },
         "translation": {
             "cn": {
@@ -1372,9 +1372,9 @@
             "en": "Vox_Ming_BPCHAT_118_red01_a.wav"
         },
         "transcription": {
-            "cn": "龙岳九州总横四海。",
+            "cn": "龙跃九州，纵横四海！",
             "ja": "",
-            "en": "UNTAMED AND UNSTOPPABLE!"
+            "en": "Untamed and unstoppable!"
         },
         "translation": {
             "cn": {
@@ -4256,7 +4256,7 @@
         "transcription": {
             "cn": "闪光弹！",
             "ja": "閃光弾!",
-            "en": "FLASHBANG!"
+            "en": "Flashbang!"
         },
         "translation": {
             "cn": {
