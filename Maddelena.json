@@ -4394,7 +4394,7 @@
         "id": 22107143,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Bai Mo downs an enemy"
         },
         "path": "Vox_Maddelena_BPCHAT_143",
         "file": {
@@ -4440,7 +4440,7 @@
         "id": 22107144,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally planted the bomb"
         },
         "path": "Vox_Maddelena_BPCHAT_144",
         "file": {
@@ -5425,32 +5425,6 @@
             }
         }
     },
-    "22107086": {
-        "id": 22107086,
-        "title": {},
-        "path": "Vox_Maddelena_COM_086",
-        "file": {
-            "cn": "Vox_Maddelena_COM_086.wav",
-            "ja": "Vox_Maddelena_COM_086.wav",
-            "en": "Vox_Maddelena_COM_086.wav"
-        },
-        "transcription": {
-            "cn": "好，我明白了！",
-            "en": "Got it!",
-            "ja": "わかったよっ！"
-        },
-        "translation": {
-            "cn": {
-                "ko": "응, 알겠어!",
-                "es": "¡Entendido!",
-                "fr": "D'accord !",
-                "de": "Verstanden!",
-                "ru": "Будет сделано!",
-                "pt-br": "Entendido!",
-                "zh-hans": "好，我明白了！"
-            }
-        }
-    },
     "22107288": {
         "id": 22107288,
         "title": {
@@ -5474,32 +5448,6 @@
             }
         }
     },
-    "22107087": {
-        "id": 22107087,
-        "title": {},
-        "path": "Vox_Maddelena_COM_087",
-        "file": {
-            "cn": "Vox_Maddelena_COM_087.wav",
-            "ja": "Vox_Maddelena_COM_087.wav",
-            "en": "Vox_Maddelena_COM_087.wav"
-        },
-        "transcription": {
-            "cn": "不行的啦。",
-            "en": "Oh no, that won't do.",
-            "ja": "だめだよっ！"
-        },
-        "translation": {
-            "cn": {
-                "ko": "안 돼.",
-                "es": "No.",
-                "fr": "Non.",
-                "de": "Nein.",
-                "ru": "Нет.",
-                "pt-br": "Não.",
-                "zh-hans": "不行的啦。"
-            }
-        }
-    },
     "22107289": {
         "id": 22107289,
         "title": {
@@ -5520,32 +5468,6 @@
         "translation": {
             "cn": {
                 "en": ""
-            }
-        }
-    },
-    "22107088": {
-        "id": 22107088,
-        "title": {},
-        "path": "Vox_Maddelena_COM_088",
-        "file": {
-            "cn": "Vox_Maddelena_COM_088.wav",
-            "ja": "Vox_Maddelena_COM_088.wav",
-            "en": "Vox_Maddelena_COM_088.wav"
-        },
-        "transcription": {
-            "cn": "对不起！",
-            "en": "Sorry!",
-            "ja": "ごめんね！"
-        },
-        "translation": {
-            "cn": {
-                "ko": "미안해.",
-                "es": "Lo siento.",
-                "fr": "Pardon !",
-                "de": "Tut mir leid!",
-                "ru": "Прошу прощения!",
-                "pt-br": "Sinto muito!",
-                "zh-hans": "对不起！"
             }
         }
     },
@@ -5627,7 +5549,7 @@
         "path": "Vox_Maddelena_COM_090",
         "file": {
             "cn": "Vox_Maddelena_COM_090.wav",
-            "ja": "",
+            "ja": "Vox_Maddelena_COM_090.wav",
             "en": "Vox_Maddelena_COM_090.wav"
         },
         "transcription": {
@@ -5661,6 +5583,22 @@
             }
         }
     },
+    "22107091": {
+        "id": 22107091,
+        "title": {},
+        "path": "Vox_Maddelena_COM_091",
+        "file": {
+            "cn": "Vox_Maddelena_COM_091.wav",
+            "ja": "Vox_Maddelena_COM_091.wav",
+            "en": "Vox_Maddelena_COM_091.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107266": {
         "id": 22107266,
         "title": {
@@ -5682,6 +5620,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107092": {
+        "id": 22107092,
+        "title": {},
+        "path": "Vox_Maddelena_COM_092",
+        "file": {
+            "cn": "Vox_Maddelena_COM_092.wav",
+            "ja": "Vox_Maddelena_COM_092.wav",
+            "en": "Vox_Maddelena_COM_092.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107267": {
@@ -5707,6 +5661,22 @@
             }
         }
     },
+    "22107093": {
+        "id": 22107093,
+        "title": {},
+        "path": "Vox_Maddelena_COM_093",
+        "file": {
+            "cn": "Vox_Maddelena_COM_093.wav",
+            "ja": "Vox_Maddelena_COM_093.wav",
+            "en": "Vox_Maddelena_COM_093.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107268": {
         "id": 22107268,
         "title": {
@@ -5728,6 +5698,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107094": {
+        "id": 22107094,
+        "title": {},
+        "path": "Vox_Maddelena_COM_094",
+        "file": {
+            "cn": "Vox_Maddelena_COM_094.wav",
+            "ja": "Vox_Maddelena_COM_094.wav",
+            "en": "Vox_Maddelena_COM_094.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107269": {
@@ -5753,6 +5739,22 @@
             }
         }
     },
+    "22107095": {
+        "id": 22107095,
+        "title": {},
+        "path": "Vox_Maddelena_COM_095",
+        "file": {
+            "cn": "Vox_Maddelena_COM_095.wav",
+            "ja": "Vox_Maddelena_COM_095.wav",
+            "en": "Vox_Maddelena_COM_095.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107270": {
         "id": 22107270,
         "title": {
@@ -5774,6 +5776,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107096": {
+        "id": 22107096,
+        "title": {},
+        "path": "Vox_Maddelena_COM_096",
+        "file": {
+            "cn": "Vox_Maddelena_COM_096.wav",
+            "ja": "Vox_Maddelena_COM_096.wav",
+            "en": "Vox_Maddelena_COM_096.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107271": {
@@ -5799,6 +5817,22 @@
             }
         }
     },
+    "22107097": {
+        "id": 22107097,
+        "title": {},
+        "path": "Vox_Maddelena_COM_097",
+        "file": {
+            "cn": "Vox_Maddelena_COM_097.wav",
+            "ja": "Vox_Maddelena_COM_097.wav",
+            "en": "Vox_Maddelena_COM_097.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107272": {
         "id": 22107272,
         "title": {
@@ -5820,6 +5854,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107098": {
+        "id": 22107098,
+        "title": {},
+        "path": "Vox_Maddelena_COM_098",
+        "file": {
+            "cn": "Vox_Maddelena_COM_098.wav",
+            "ja": "Vox_Maddelena_COM_098.wav",
+            "en": "Vox_Maddelena_COM_098.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107273": {
@@ -5845,6 +5895,22 @@
             }
         }
     },
+    "22107099": {
+        "id": 22107099,
+        "title": {},
+        "path": "Vox_Maddelena_COM_099",
+        "file": {
+            "cn": "Vox_Maddelena_COM_099.wav",
+            "ja": "Vox_Maddelena_COM_099.wav",
+            "en": "Vox_Maddelena_COM_099.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107274": {
         "id": 22107274,
         "title": {
@@ -5868,6 +5934,22 @@
             }
         }
     },
+    "22107100": {
+        "id": 22107100,
+        "title": {},
+        "path": "Vox_Maddelena_COM_100",
+        "file": {
+            "cn": "Vox_Maddelena_COM_100.wav",
+            "ja": "Vox_Maddelena_COM_100.wav",
+            "en": "Vox_Maddelena_COM_100.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107275": {
         "id": 22107275,
         "title": {
@@ -5889,6 +5971,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107101": {
+        "id": 22107101,
+        "title": {},
+        "path": "Vox_Maddelena_COM_101",
+        "file": {
+            "cn": "Vox_Maddelena_COM_101.wav",
+            "ja": "Vox_Maddelena_COM_101.wav",
+            "en": "Vox_Maddelena_COM_101.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107276": {
@@ -5954,6 +6052,22 @@
             }
         }
     },
+    "22107103": {
+        "id": 22107103,
+        "title": {},
+        "path": "Vox_Maddelena_COM_103",
+        "file": {
+            "cn": "Vox_Maddelena_COM_103.wav",
+            "ja": "Vox_Maddelena_COM_103.wav",
+            "en": "Vox_Maddelena_COM_103.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107278": {
         "id": 22107278,
         "title": {
@@ -5975,6 +6089,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107104": {
+        "id": 22107104,
+        "title": {},
+        "path": "Vox_Maddelena_COM_104",
+        "file": {
+            "cn": "Vox_Maddelena_COM_104.wav",
+            "ja": "Vox_Maddelena_COM_104.wav",
+            "en": "Vox_Maddelena_COM_104.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107279": {
@@ -6000,6 +6130,22 @@
             }
         }
     },
+    "22107105": {
+        "id": 22107105,
+        "title": {},
+        "path": "Vox_Maddelena_COM_105",
+        "file": {
+            "cn": "Vox_Maddelena_COM_105.wav",
+            "ja": "Vox_Maddelena_COM_105.wav",
+            "en": "Vox_Maddelena_COM_105.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107280": {
         "id": 22107280,
         "title": {
@@ -6023,6 +6169,22 @@
             }
         }
     },
+    "22107106": {
+        "id": 22107106,
+        "title": {},
+        "path": "Vox_Maddelena_COM_106",
+        "file": {
+            "cn": "Vox_Maddelena_COM_106.wav",
+            "ja": "Vox_Maddelena_COM_106.wav",
+            "en": "Vox_Maddelena_COM_106.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22107281": {
         "id": 22107281,
         "title": {
@@ -6044,6 +6206,22 @@
             "cn": {
                 "en": ""
             }
+        }
+    },
+    "22107107": {
+        "id": 22107107,
+        "title": {},
+        "path": "Vox_Maddelena_COM_107",
+        "file": {
+            "cn": "Vox_Maddelena_COM_107.wav",
+            "ja": "Vox_Maddelena_COM_107.wav",
+            "en": "Vox_Maddelena_COM_107.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22107282": {
@@ -6223,6 +6401,87 @@
             }
         }
     },
+    "22107086": {
+        "id": 22107086,
+        "title": {},
+        "path": "Vox_Maddelena_COM_086",
+        "file": {
+            "cn": "Vox_Maddelena_COM_086.wav",
+            "ja": "Vox_Maddelena_COM_086.wav",
+            "en": "Vox_Maddelena_COM_086.wav"
+        },
+        "transcription": {
+            "cn": "好，我明白了！",
+            "en": "Got it!",
+            "ja": "わかったよっ！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "응, 알겠어!",
+                "es": "¡Entendido!",
+                "fr": "D'accord !",
+                "de": "Verstanden!",
+                "ru": "Будет сделано!",
+                "pt-br": "Entendido!",
+                "zh-hans": "好，我明白了！"
+            }
+        },
+        "non_local": true
+    },
+    "22107087": {
+        "id": 22107087,
+        "title": {},
+        "path": "Vox_Maddelena_COM_087",
+        "file": {
+            "cn": "Vox_Maddelena_COM_087.wav",
+            "ja": "Vox_Maddelena_COM_087.wav",
+            "en": "Vox_Maddelena_COM_087.wav"
+        },
+        "transcription": {
+            "cn": "不行的啦。",
+            "en": "Oh no, that won't do.",
+            "ja": "だめだよっ！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "안 돼.",
+                "es": "No.",
+                "fr": "Non.",
+                "de": "Nein.",
+                "ru": "Нет.",
+                "pt-br": "Não.",
+                "zh-hans": "不行的啦。"
+            }
+        },
+        "non_local": true
+    },
+    "22107088": {
+        "id": 22107088,
+        "title": {},
+        "path": "Vox_Maddelena_COM_088",
+        "file": {
+            "cn": "Vox_Maddelena_COM_088.wav",
+            "ja": "Vox_Maddelena_COM_088.wav",
+            "en": "Vox_Maddelena_COM_088.wav"
+        },
+        "transcription": {
+            "cn": "对不起！",
+            "en": "Sorry!",
+            "ja": "ごめんね！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "미안해.",
+                "es": "Lo siento.",
+                "fr": "Pardon !",
+                "de": "Tut mir leid!",
+                "ru": "Прошу прощения!",
+                "pt-br": "Sinto muito!",
+                "zh-hans": "对不起！"
+            }
+        },
+        "non_local": true
+    },
     "22107081": {
         "id": 22107081,
         "title": {},
@@ -6358,283 +6617,11 @@
         },
         "non_local": true
     },
-    "22107091": {
-        "id": 22107091,
-        "title": {},
-        "path": "Vox_Maddelena_COM_091",
-        "file": {
-            "cn": "Vox_Maddelena_COM_091.wav",
-            "ja": "Vox_Maddelena_COM_091.wav",
-            "en": "Vox_Maddelena_COM_091.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107104": {
-        "id": 22107104,
-        "title": {},
-        "path": "Vox_Maddelena_COM_104",
-        "file": {
-            "cn": "Vox_Maddelena_COM_104.wav",
-            "ja": "Vox_Maddelena_COM_104.wav",
-            "en": "Vox_Maddelena_COM_104.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107105": {
-        "id": 22107105,
-        "title": {},
-        "path": "Vox_Maddelena_COM_105",
-        "file": {
-            "cn": "Vox_Maddelena_COM_105.wav",
-            "ja": "Vox_Maddelena_COM_105.wav",
-            "en": "Vox_Maddelena_COM_105.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107106": {
-        "id": 22107106,
-        "title": {},
-        "path": "Vox_Maddelena_COM_106",
-        "file": {
-            "cn": "Vox_Maddelena_COM_106.wav",
-            "ja": "Vox_Maddelena_COM_106.wav",
-            "en": "Vox_Maddelena_COM_106.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107107": {
-        "id": 22107107,
-        "title": {},
-        "path": "Vox_Maddelena_COM_107",
-        "file": {
-            "cn": "Vox_Maddelena_COM_107.wav",
-            "ja": "Vox_Maddelena_COM_107.wav",
-            "en": "Vox_Maddelena_COM_107.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107092": {
-        "id": 22107092,
-        "title": {},
-        "path": "Vox_Maddelena_COM_092",
-        "file": {
-            "cn": "Vox_Maddelena_COM_092.wav",
-            "ja": "Vox_Maddelena_COM_092.wav",
-            "en": "Vox_Maddelena_COM_092.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107093": {
-        "id": 22107093,
-        "title": {},
-        "path": "Vox_Maddelena_COM_093",
-        "file": {
-            "cn": "Vox_Maddelena_COM_093.wav",
-            "ja": "Vox_Maddelena_COM_093.wav",
-            "en": "Vox_Maddelena_COM_093.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107094": {
-        "id": 22107094,
-        "title": {},
-        "path": "Vox_Maddelena_COM_094",
-        "file": {
-            "cn": "Vox_Maddelena_COM_094.wav",
-            "ja": "Vox_Maddelena_COM_094.wav",
-            "en": "Vox_Maddelena_COM_094.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107095": {
-        "id": 22107095,
-        "title": {},
-        "path": "Vox_Maddelena_COM_095",
-        "file": {
-            "cn": "Vox_Maddelena_COM_095.wav",
-            "ja": "Vox_Maddelena_COM_095.wav",
-            "en": "Vox_Maddelena_COM_095.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107096": {
-        "id": 22107096,
-        "title": {},
-        "path": "Vox_Maddelena_COM_096",
-        "file": {
-            "cn": "Vox_Maddelena_COM_096.wav",
-            "ja": "Vox_Maddelena_COM_096.wav",
-            "en": "Vox_Maddelena_COM_096.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107097": {
-        "id": 22107097,
-        "title": {},
-        "path": "Vox_Maddelena_COM_097",
-        "file": {
-            "cn": "Vox_Maddelena_COM_097.wav",
-            "ja": "Vox_Maddelena_COM_097.wav",
-            "en": "Vox_Maddelena_COM_097.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107098": {
-        "id": 22107098,
-        "title": {},
-        "path": "Vox_Maddelena_COM_098",
-        "file": {
-            "cn": "Vox_Maddelena_COM_098.wav",
-            "ja": "Vox_Maddelena_COM_098.wav",
-            "en": "Vox_Maddelena_COM_098.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107099": {
-        "id": 22107099,
-        "title": {},
-        "path": "Vox_Maddelena_COM_099",
-        "file": {
-            "cn": "Vox_Maddelena_COM_099.wav",
-            "ja": "Vox_Maddelena_COM_099.wav",
-            "en": "Vox_Maddelena_COM_099.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107100": {
-        "id": 22107100,
-        "title": {},
-        "path": "Vox_Maddelena_COM_100",
-        "file": {
-            "cn": "Vox_Maddelena_COM_100.wav",
-            "ja": "Vox_Maddelena_COM_100.wav",
-            "en": "Vox_Maddelena_COM_100.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107101": {
-        "id": 22107101,
-        "title": {},
-        "path": "Vox_Maddelena_COM_101",
-        "file": {
-            "cn": "Vox_Maddelena_COM_101.wav",
-            "ja": "Vox_Maddelena_COM_101.wav",
-            "en": "Vox_Maddelena_COM_101.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22107103": {
-        "id": 22107103,
-        "title": {},
-        "path": "Vox_Maddelena_COM_103",
-        "file": {
-            "cn": "Vox_Maddelena_COM_103.wav",
-            "ja": "Vox_Maddelena_COM_103.wav",
-            "en": "Vox_Maddelena_COM_103.wav"
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
     "22107151": {
         "id": 22107151,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Killing Galatea"
         },
         "path": "Vox_Maddelena_BPCHAT_148_a",
         "file": {
@@ -6658,7 +6645,7 @@
         "id": 22107152,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reviving Bai Mo"
         },
         "path": "Vox_Maddelena_BPCHAT_150_a",
         "file": {
@@ -6682,7 +6669,7 @@
         "id": 22107153,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reviving Celestia"
         },
         "path": "Vox_Maddelena_BPCHAT_150_b",
         "file": {
@@ -6706,7 +6693,7 @@
         "id": 22107154,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Reviving Galatea"
         },
         "path": "Vox_Maddelena_BPCHAT_150_c",
         "file": {

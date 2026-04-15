@@ -33,6 +33,24 @@
             }
         }
     },
+    "22110236": {
+        "id": 22110236,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAR_066_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": "站在你面前的是直播界顶流，白沫。",
+            "en": "Feast your eyes on the streaming sensation, the one and only Bai Mo!",
+            "ja": "今、お前の前にいるのがトップストリーマーの白墨だ!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22110067": {
         "id": 22110067,
         "title": {
@@ -65,6 +83,24 @@
                 "zh-Hans": "等着我的好消息吧！",
                 "en": "Wait for my good news!"
             }
+        }
+    },
+    "22110237": {
+        "id": 22110237,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAR_067_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": "主播已上线，观众老爷们久等了。",
+            "en": "Buckle up, we're going live.",
+            "ja": "白墨様の登場だ!もう待ちきれねぇだろ?"
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22110068": {
@@ -1725,6 +1761,23 @@
             }
         }
     },
+    "22110260": {
+        "id": 22110260,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_MoBai_BPCHAT_131_red01_a.wav",
+            "en": "Vox_MoBai_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": "炸弹在这儿吧。",
+            "en": "Let's plant the bomb here."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22110132": {
         "id": 22110132,
         "title": {
@@ -1959,6 +2012,38 @@
             }
         }
     },
+    "22110164": {
+        "id": 22110164,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_137_b",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_137_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_137_b.wav",
+            "en": "Vox_MoBai_BPCHAT_137_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22110165": {
+        "id": 22110165,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_137_c",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_137_c.wav",
+            "ja": "Vox_MoBai_BPCHAT_137_c.wav",
+            "en": "Vox_MoBai_BPCHAT_137_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22110244": {
         "id": 22110244,
         "title": {},
@@ -2042,6 +2127,38 @@
                 "zh-Hans": "哈哈！搞定收工！",
                 "en": "Hah-hah! Let's go home!"
             }
+        }
+    },
+    "22110162": {
+        "id": 22110162,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_138_b",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_138_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_138_b.wav",
+            "en": "Vox_MoBai_BPCHAT_138_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22110163": {
+        "id": 22110163,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_138_c",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_138_c.wav",
+            "ja": "Vox_MoBai_BPCHAT_138_c.wav",
+            "en": "Vox_MoBai_BPCHAT_138_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22110241": {
@@ -2180,6 +2297,22 @@
             }
         }
     },
+    "22110166": {
+        "id": 22110166,
+        "title": {},
+        "path": "Vox_MoBai_BPCHAT_140_b",
+        "file": {
+            "cn": "Vox_MoBai_BPCHAT_140_b.wav",
+            "ja": "Vox_MoBai_BPCHAT_140_b.wav",
+            "en": "Vox_MoBai_BPCHAT_140_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22110248": {
         "id": 22110248,
         "title": {},
@@ -2218,7 +2351,7 @@
         "id": 22110141,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Killed by Meredith"
         },
         "path": "Vox_MoBai_BPCHAT_141",
         "file": {
@@ -2378,7 +2511,7 @@
         "id": 22110145,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Killed by Audrey"
         },
         "path": "Vox_MoBai_BPCHAT_145",
         "file": {
@@ -2458,7 +2591,7 @@
         "id": 22110147,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Audrey downs an enemy"
         },
         "path": "Vox_MoBai_BPCHAT_147",
         "file": {
@@ -2498,7 +2631,7 @@
         "id": 22110148,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Ally Audrey gets killed"
         },
         "path": "Vox_MoBai_BPCHAT_148",
         "file": {
@@ -2578,7 +2711,7 @@
         "id": 22110150,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Score is behind the enemy team by a wide margin"
         },
         "path": "Vox_MoBai_BPCHAT_150",
         "file": {
@@ -4305,61 +4438,5 @@
                 "en": ""
             }
         }
-    },
-    "22110236": {
-        "id": 22110236,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAR_066_red01_a",
-        "file": {
-            "cn": "Vox_SelectCharacter-0312-event.wav",
-            "ja": "Vox_SelectCharacter-0312-event.wav",
-            "en": "Vox_SelectCharacter-0312-event.wav"
-        },
-        "transcription": {
-            "cn": "站在你面前的是直播界顶流，白沫。",
-            "en": "Feast your eyes on the streaming sensation, the one and only Bai Mo!",
-            "ja": "今、お前の前にいるのがトップストリーマーの白墨だ!"
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22110237": {
-        "id": 22110237,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAR_067_red01_a",
-        "file": {
-            "cn": "Vox_SelectCharacter-0549-event.wav",
-            "ja": "Vox_SelectCharacter-0549-event.wav",
-            "en": "Vox_SelectCharacter-0549-event.wav"
-        },
-        "transcription": {
-            "cn": "主播已上线，观众老爷们久等了。",
-            "en": "Buckle up, we're going live.",
-            "ja": "白墨様の登場だ!もう待ちきれねぇだろ?"
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
-    },
-    "22110260": {
-        "id": 22110260,
-        "title": {},
-        "path": "Vox_MoBai_BPCHAT_131_red01_a",
-        "file": {
-            "cn": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
-            "ja": "Vox_MoBai_InGame_Explode_red01-0024-event.wav",
-            "en": "Vox_MoBai_InGame_Explode_red01-0024-event.wav"
-        },
-        "transcription": {
-            "cn": "炸弹在这儿吧。",
-            "en": "Let's plant the bomb here."
-        },
-        "translation": {
-            "cn": {}
-        },
-        "non_local": true
     }
 }

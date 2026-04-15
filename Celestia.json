@@ -7833,7 +7833,7 @@
         "path": "Vox_HuiXing_COM_081_red01_a",
         "file": {
             "cn": "Vox_HuiXing_COM_081_red01_a.wav",
-            "ja": "",
+            "ja": "Vox_HuiXing_COM_081_red01_a.wav",
             "en": ""
         },
         "transcription": {
@@ -7844,22 +7844,6 @@
             "cn": {
                 "en": ""
             }
-        }
-    },
-    "22146399": {
-        "id": 22146399,
-        "title": {},
-        "path": "Vox_HuiXing_COM_081_red02_a",
-        "file": {
-            "cn": "",
-            "ja": "Vox_HuiXing_COM_081_red02_a.wav",
-            "en": ""
-        },
-        "transcription": {
-            "cn": ""
-        },
-        "translation": {
-            "cn": {}
         }
     },
     "22146082": {
@@ -9586,6 +9570,23 @@
                 "en": ""
             }
         }
+    },
+    "22146399": {
+        "id": 22146399,
+        "title": {},
+        "path": "Vox_HuiXing_COM_081_red02_a",
+        "file": {
+            "cn": "",
+            "ja": "Vox_HuiXing_COM_081_red02_a.wav",
+            "en": ""
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        },
+        "non_local": true
     },
     "22146292": {
         "id": 22146292,

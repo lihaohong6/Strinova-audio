@@ -140,7 +140,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Haha! My lucky charm's back in action!"
+            "en": "Haha! My lucky charm's back in action!",
+            "ja": "復活キター！待ってたよ～！"
         },
         "translation": {
             "cn": {}
@@ -235,7 +236,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hmm, hmm, hmm. Who's my lucky target?"
+            "en": "Hmm, hmm, hmm. Who's my lucky target?",
+            "ja": "さぁて、誰に当たるかな～？"
         },
         "translation": {
             "cn": {}
@@ -252,7 +254,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ah-hoo! My big baby's ready to roll!"
+            "en": "Ah-hoo! My big baby's ready to roll!",
+            "ja": "やっと使える、マイゴッデス！"
         },
         "translation": {
             "cn": {}
@@ -347,7 +350,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Easy, easy. Gotta save the big one for later."
+            "en": "Easy, easy. Gotta save the big one for later.",
+            "ja": "焦んない焦んない、切り札ってのは最後に切らなきゃ"
         },
         "translation": {
             "cn": {}
@@ -364,7 +368,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": ""
+            "en": "",
+            "ja": "うっそやばっ"
         },
         "translation": {
             "cn": {}
@@ -393,6 +398,32 @@
                 "ru": "Прости, но ты мешаешь мне разбогатеть!",
                 "pt-br": "Desculpe... você estava bloqueando meu pagamento!",
                 "zh-hans": "抱歉~你挡了我的财路哟~"
+            }
+        }
+    },
+    "22130110": {
+        "id": 22130110,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_110",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_110.wav",
+            "ja": "Vox_Cielle_BPCHAT_110.wav",
+            "en": "Vox_Cielle_BPCHAT_110.wav"
+        },
+        "transcription": {
+            "cn": "你今天不太走运。",
+            "en": "Tough day for you, huh?",
+            "ja": "今日はツイてなかったね〜"
+        },
+        "translation": {
+            "cn": {
+                "ko": "너 오늘 운이 없네",
+                "es": "Día difícil para ti, ¿eh?",
+                "fr": "Journée difficile, hm ?",
+                "de": "Ein harter Tag für dich, was?",
+                "ru": "Сегодня явно не твой день, да?",
+                "pt-br": "Dia difícil pra você, hein?",
+                "zh-hans": "你今天不太走运。"
             }
         }
     },
@@ -511,7 +542,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Woohoo! Double bonus!"
+            "en": "Woohoo! Double bonus!",
+            "ja": "おっけ～ダブルボーナス！"
         },
         "translation": {
             "cn": {}
@@ -528,7 +560,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "T-t-t-triple the trouble, triple the pay!"
+            "en": "T-t-t-triple the trouble, triple the pay!",
+            "ja": "３人まとめておちるとかウケる～！"
         },
         "translation": {
             "cn": {}
@@ -545,7 +578,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Four down, what a haul!"
+            "en": "Four down, what a haul!",
+            "ja": "４人抜き～、これ特別手当出るレベルじゃん！"
         },
         "translation": {
             "cn": {}
@@ -562,7 +596,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Five down already?! I'm billing extra for this?!"
+            "en": "Five down already?! I'm billing extra for this?!",
+            "ja": "やったこれいた～！ねぇボス！ちょっとくらい上乗せしてよ～！"
         },
         "translation": {
             "cn": {}
@@ -579,7 +614,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "See that? I'm not some helpless lamb!"
+            "en": "See that? I'm not some helpless lamb!",
+            "ja": "あーしを子ども扱いしたらこうなるんだよ！！"
         },
         "translation": {
             "cn": {}
@@ -596,7 +632,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Just returning the favor."
+            "en": "Just returning the favor.",
+            "ja": "これでチャラね"
         },
         "translation": {
             "cn": {}
@@ -613,7 +650,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "That really hurts."
+            "en": "That really hurts.",
+            "ja": "いっった・・・"
         },
         "translation": {
             "cn": {}
@@ -630,7 +668,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Guess you really do run into ghosts."
+            "en": "Guess you really do run into ghosts.",
+            "ja": "危ない橋を渡りすぎたら・・・そりゃ落ちるよね・・・"
         },
         "translation": {
             "cn": {}
@@ -647,7 +686,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Stay down and stay still."
+            "en": "Stay down and stay still.",
+            "ja": "はい、ここまで～"
         },
         "translation": {
             "cn": {}
@@ -664,7 +704,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Uh-oh, this is bad, really bad."
+            "en": "Uh-oh, this is bad, really bad.",
+            "ja": "あぁ～やっちゃった・・・"
         },
         "translation": {
             "cn": {}
@@ -681,7 +722,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "The ocean feels so far away."
+            "en": "The ocean feels so far away.",
+            "ja": "汐なのに・・・海見えないや・・・"
         },
         "translation": {
             "cn": {}
@@ -698,7 +740,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "All right, guess this is goodbye."
+            "en": "All right, guess this is goodbye.",
+            "ja": "しょうがないね・・・バイバイ"
         },
         "translation": {
             "cn": {}
@@ -715,7 +758,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Uh, a little help here, please?"
+            "en": "Uh, a little help here, please?",
+            "ja": "助けて～！"
         },
         "translation": {
             "cn": {}
@@ -758,7 +802,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Oh, I owe you one. Guess I really do have nine lives."
+            "en": "Oh, I owe you one. Guess I really do have nine lives.",
+            "ja": "助かった～、ガチでありがとね！"
         },
         "translation": {
             "cn": {}
@@ -775,7 +820,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Rigged and ready."
+            "en": "Rigged and ready.",
+            "ja": "爆弾設置っと"
         },
         "translation": {
             "cn": {}
@@ -792,7 +838,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Bombs with me!"
+            "en": "Bombs with me!",
+            "ja": "爆弾、あーしが持った"
         },
         "translation": {
             "cn": {}
@@ -809,7 +856,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Time to defuse! Let's do this!"
+            "en": "Time to defuse! Let's do this!",
+            "ja": "解除いっくよ～"
         },
         "translation": {
             "cn": {}
@@ -826,7 +874,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Drop the bomb here!"
+            "en": "Drop the bomb here!",
+            "ja": "爆弾ここ置いとくね～"
         },
         "translation": {
             "cn": {}
@@ -843,7 +892,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Heads up! Bomb on the spot!"
+            "en": "Heads up! Bomb on the spot!",
+            "ja": "やば！ここ爆弾ある！"
         },
         "translation": {
             "cn": {}
@@ -860,7 +910,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Don't mind me, just gliding around."
+            "en": "Don't mind me, just gliding around.",
+            "ja": "ちょっと飛んでくる～"
         },
         "translation": {
             "cn": {}
@@ -903,7 +954,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Come on, everyone messes up sometimes. Just take it easy on my paycheck, okay?"
+            "en": "Come on, everyone messes up sometimes. Just take it easy on my paycheck, okay?",
+            "ja": "バイトとかミスるもんでしょ？減給とかなしで"
         },
         "translation": {
             "cn": {}
@@ -920,7 +972,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "I'm not risking my life for pocket change. See ya!"
+            "en": "I'm not risking my life for pocket change. See ya!",
+            "ja": "無理無理コスパ悪すぎ、もう帰る"
         },
         "translation": {
             "cn": {}
@@ -963,7 +1016,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hm? Hm-hm! Mission complete! Oh, uh, hang on! Gotta double-check my expenses!"
+            "en": "Hm? Hm-hm! Mission complete! Oh, uh, hang on! Gotta double-check my expenses!",
+            "ja": "オッケー、任務完了っと。あっ領収書どこやったっけ"
         },
         "translation": {
             "cn": {}
@@ -980,7 +1034,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hmm. A win's a win, and dinner's on me tonight."
+            "en": "Hmm. A win's a win, and dinner's on me tonight.",
+            "ja": "勝ったら儲けもんっしょ！今夜は焼肉～！"
         },
         "translation": {
             "cn": {}
@@ -1049,7 +1104,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Huh? Hahaha! Told you, I'm top-tier material!"
+            "en": "Huh? Hahaha! Told you, I'm top-tier material!",
+            "ja": "ほーらね？言ったっしょ？あーしは最強だ！"
         },
         "translation": {
             "cn": {}
@@ -1066,7 +1122,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Nice one! We're killing it out here!"
+            "en": "Nice one! We're killing it out here!",
+            "ja": "ナイス！うちら最強じゃん！"
         },
         "translation": {
             "cn": {}
@@ -1083,7 +1140,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Told ya! I'm worth every credit."
+            "en": "Told ya! I'm worth every credit.",
+            "ja": "ほーらね？やっぱあーし雇って正解っしょ？"
         },
         "translation": {
             "cn": {}
@@ -1100,7 +1158,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Oh, no! It's the investigator! Hope she didn't recognize me."
+            "en": "Oh, no! It's the investigator! Hope she didn't recognize me.",
+            "ja": "うわっ捜査官だ・・・顔ばれてないといいなぁ"
         },
         "translation": {
             "cn": {}
@@ -1117,7 +1176,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Well, blew it big time. Should have bought that injury insurance."
+            "en": "Well, blew it big time. Should have bought that injury insurance.",
+            "ja": "あぁ～もう！あの時保険はいっときゃよかったぁ！"
         },
         "translation": {
             "cn": {}
@@ -1134,7 +1194,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Don't worry. Rock Bottom's just the start of a comeback."
+            "en": "Don't worry. Rock Bottom's just the start of a comeback.",
+            "ja": "平気平気、落ちたら上がるだけっしょ！"
         },
         "translation": {
             "cn": {}
@@ -1151,7 +1212,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Sorry, Fuchsia. Guess I beat you to the bounty."
+            "en": "Sorry, Fuchsia. Guess I beat you to the bounty.",
+            "ja": "悪いけど、今回のはあーしの取り分ってことで"
         },
         "translation": {
             "cn": {}
@@ -1168,7 +1230,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Oh, come on, Ming. Nothing personal, yeah?"
+            "en": "Oh, come on, Ming. Nothing personal, yeah?",
+            "ja": "明ねぇさん怒んないでよぉ仕事だってば・・・"
         },
         "translation": {
             "cn": {}
@@ -1185,7 +1248,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hahaha! Calatea, getting hit by you must feel like a reward!"
+            "en": "Hahaha! Galatea, getting hit by you must feel like a reward!",
+            "ja": "ガラテア様～！！その一発尊すぎ～！"
         },
         "translation": {
             "cn": {}
@@ -1202,7 +1266,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hold on, Celestia. You're the kind of light that keeps us going."
+            "en": "Hold on, Celestia. You're the kind of light that keeps us going.",
+            "ja": "姉さんの光、こんなとこで消えるわけないでしょ！"
         },
         "translation": {
             "cn": {}
@@ -1219,7 +1284,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Relax! Your sister would kill me if I left you behind."
+            "en": "Relax! Your sister would kill me if I left you behind.",
+            "ja": "ほらほら、あんたの姉ちゃん推しだし？ほっとけるわけないじゃん"
         },
         "translation": {
             "cn": {}
@@ -1236,7 +1302,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ha ha ha! Told you my shots can put anyone right to sleep!"
+            "en": "Ha ha ha! Told you my shots can put anyone right to sleep!",
+            "ja": "一人お休みはいりま～す！"
         },
         "translation": {
             "cn": {}
@@ -1253,7 +1320,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Enemy down! Count that one for me!"
+            "en": "Enemy down! Count that one for me!",
+            "ja": "一人確保～、報酬はあーしがもらうよ"
         },
         "translation": {
             "cn": {}
@@ -1270,7 +1338,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Got visuals. Far ahead!"
+            "en": "Got visuals. Far ahead!",
+            "ja": "遠くに敵発見！"
         },
         "translation": {
             "cn": {}
@@ -1287,7 +1356,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Enemies approaching. Keep your eyes out!"
+            "en": "Enemies approaching. Keep your eyes out!",
+            "ja": "敵来た、ちょい遠めね！"
         },
         "translation": {
             "cn": {}
@@ -1304,7 +1374,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Contact! Coming right at me!"
+            "en": "Contact! Coming right at me!",
+            "ja": "近い近い！すぐ目の前！"
         },
         "translation": {
             "cn": {}
@@ -1321,7 +1392,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Close contact!"
+            "en": "Close contact!",
+            "ja": "接敵！至近距離！"
         },
         "translation": {
             "cn": {}
@@ -1338,7 +1410,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Whoa, got a whole crowd here!"
+            "en": "Whoa, got a whole crowd here!",
+            "ja": "やば！これ何人いるの！？"
         },
         "translation": {
             "cn": {}
@@ -1355,7 +1428,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "So many targets! Look alive!"
+            "en": "So many targets! Look alive!",
+            "ja": "ちょ、敵めっちゃ多いんだけど！"
         },
         "translation": {
             "cn": {}
@@ -1372,7 +1446,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Opening fire!"
+            "en": "Opening fire!",
+            "ja": "こっち交戦中！"
         },
         "translation": {
             "cn": {}
@@ -1389,7 +1464,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Engage with hostiles!"
+            "en": "Engage with hostiles!",
+            "ja": "敵と交戦中！"
         },
         "translation": {
             "cn": {}
@@ -1406,7 +1482,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Target hit. Keeping pressure on."
+            "en": "Target hit. Keeping pressure on.",
+            "ja": "よしヒット！まだ止まんないよ！"
         },
         "translation": {
             "cn": {}
@@ -1423,7 +1500,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "He's on his last legs!"
+            "en": "He's on his last legs!",
+            "ja": "あいつもう瀕死！あとちょい！"
         },
         "translation": {
             "cn": {}
@@ -1440,7 +1518,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Enemies heavily wounded!"
+            "en": "Enemies heavily wounded!",
+            "ja": "敵！重症確認！"
         },
         "translation": {
             "cn": {}
@@ -1457,7 +1536,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ha! Gave him a real nasty hit!"
+            "en": "Ha! Gave him a real nasty hit!",
+            "ja": "よし！いいのぶち込んだ！"
         },
         "translation": {
             "cn": {}
@@ -1474,7 +1554,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ow! Taking fire!"
+            "en": "Ow! Taking fire!",
+            "ja": "ちょ、誰！？撃ってきたの！"
         },
         "translation": {
             "cn": {}
@@ -1491,7 +1572,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Pin down! Need some help!"
+            "en": "Pin down! Need some help!",
+            "ja": "抑えられてる！誰かカバー！"
         },
         "translation": {
             "cn": {}
@@ -1508,7 +1590,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Left blink! Contact!"
+            "en": "Left blink! Contact!",
+            "ja": "左から撃たれてる"
         },
         "translation": {
             "cn": {}
@@ -1525,7 +1608,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Enemy movement on the left!"
+            "en": "Enemy movement on the left!",
+            "ja": "左に敵あり！"
         },
         "translation": {
             "cn": {}
@@ -1542,7 +1626,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Right flank, contact!"
+            "en": "Right flank, contact!",
+            "ja": "右！右撃たれてる！"
         },
         "translation": {
             "cn": {}
@@ -1559,7 +1644,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Enemy movement on the right!"
+            "en": "Enemy movement on the right!",
+            "ja": "敵！右サイド！"
         },
         "translation": {
             "cn": {}
@@ -1576,7 +1662,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "They're on my six!"
+            "en": "They're on my six!",
+            "ja": "背後！後ろにいる！"
         },
         "translation": {
             "cn": {}
@@ -1593,7 +1680,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Taking fire from behind!"
+            "en": "Taking fire from behind!",
+            "ja": "うわッ後ろとられた！"
         },
         "translation": {
             "cn": {}
@@ -1648,6 +1736,32 @@
                 "ru": "Погоди, я пойду вперед.",
                 "pt-br": "Espere, faça o que eu digo.",
                 "zh-hans": "先等等，看我眼色行事。"
+            }
+        }
+    },
+    "22130083": {
+        "id": 22130083,
+        "title": {},
+        "path": "Vox_Cielle_COM_083",
+        "file": {
+            "cn": "Vox_Cielle_COM_083.wav",
+            "ja": "Vox_Cielle_COM_083.wav",
+            "en": "Vox_Cielle_COM_083.wav"
+        },
+        "transcription": {
+            "cn": "撤退！快跑！",
+            "en": "Fall back! Move it!",
+            "ja": "無理！引く！"
+        },
+        "translation": {
+            "cn": {
+                "ko": "후퇴! 도망쳐!",
+                "es": "¡Para atrás! ¡A moverse!",
+                "fr": "Repliez-vous ! Plus vite !",
+                "de": "Zurückziehen! Beweg dich!",
+                "ru": "Отходим! Шевелись!",
+                "pt-br": "Recuar! Corram!",
+                "zh-hans": "撤退！快跑！"
             }
         }
     },
@@ -1818,7 +1932,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Heads up! Grenade!"
+            "en": "Heads up! Grenade!",
+            "ja": "はい、どうぞ"
         },
         "translation": {
             "cn": {}
@@ -1835,7 +1950,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Interceptor deployed! Don't even try it!"
+            "en": "Interceptor deployed! Don't even try it!",
+            "ja": "インターセプター配置っと"
         },
         "translation": {
             "cn": {}
@@ -1852,7 +1968,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Smoke out. Time to vanish."
+            "en": "Smoke out. Time to vanish.",
+            "ja": "スモークいっくよ～！"
         },
         "translation": {
             "cn": {}
@@ -1869,7 +1986,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Flash out! Lights off, suckers!"
+            "en": "Flash out! Lights off, suckers!",
+            "ja": "フラッシュいっけ～！"
         },
         "translation": {
             "cn": {}
@@ -1886,7 +2004,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Healing out, patch yourselves up!"
+            "en": "Healing out, patch yourselves up!",
+            "ja": "ヒールタイム、いっくよ～！"
         },
         "translation": {
             "cn": {}
@@ -1903,7 +2022,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Whoosh! Let's make him fly!"
+            "en": "Whoosh! Let's make him fly!",
+            "ja": "ほいっ、飛んでけ～！"
         },
         "translation": {
             "cn": {}
@@ -1920,7 +2040,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Slow grenade! Freeze right there!"
+            "en": "Slow grenade! Freeze right there!",
+            "ja": "そこ動かないで～！"
         },
         "translation": {
             "cn": {}
@@ -1937,7 +2058,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "All right, Alarm Buddy, do your thing!"
+            "en": "All right, Alarm Buddy, do your thing!",
+            "ja": "しっかり鳴いてよー？"
         },
         "translation": {
             "cn": {}
@@ -1954,7 +2076,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Mmm, something's off here."
+            "en": "Mmm, something's off here.",
+            "ja": "なんかここ、やな感じ"
         },
         "translation": {
             "cn": {}
@@ -1971,7 +2094,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "I'll guard the spot."
+            "en": "I'll guard the spot.",
+            "ja": "ここ、あーしが守るね？"
         },
         "translation": {
             "cn": {}
@@ -1988,7 +2112,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "We need support here ASAP!"
+            "en": "We need support here ASAP!",
+            "ja": "こっち援護ほしい"
         },
         "translation": {
             "cn": {}
@@ -2005,7 +2130,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "How about we push here?"
+            "en": "How about we push here?",
+            "ja": "ここ攻めちゃおっか？"
         },
         "translation": {
             "cn": {}
@@ -2022,7 +2148,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Eyes on this side."
+            "en": "Eyes on this side.",
+            "ja": "この辺注意ね？"
         },
         "translation": {
             "cn": {}
@@ -2039,7 +2166,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ready to set the charge here?"
+            "en": "Ready to set the charge here?",
+            "ja": "もう設置いけるっしょ？"
         },
         "translation": {
             "cn": {}
@@ -2056,7 +2184,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Oh hey, a bomb!"
+            "en": "Oh hey, a bomb!",
+            "ja": "うわっ、爆弾あんじゃん！"
         },
         "translation": {
             "cn": {}
@@ -2073,7 +2202,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Nice! More ammo for me!"
+            "en": "Nice! More ammo for me!",
+            "ja": "あ、弾あった"
         },
         "translation": {
             "cn": {}
@@ -2090,7 +2220,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hey, Armor! Dibs."
+            "en": "Hey, Armor! Dibs.",
+            "ja": "お、防具あるじゃん！"
         },
         "translation": {
             "cn": {}
@@ -2107,7 +2238,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Whoa, whose fancy gadget is this?"
+            "en": "Whoa, whose fancy gadget is this?",
+            "ja": "うわっ、戦術アイテム落ちてんじゃん！"
         },
         "translation": {
             "cn": {}
@@ -2124,10 +2256,37 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Alarm's been triggered! Heads up!"
+            "en": "Alarm's been triggered! Heads up!",
+            "ja": "警報！敵来る来る来る！"
         },
         "translation": {
             "cn": {}
+        }
+    },
+    "22130022": {
+        "id": 22130022,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_022",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_022.wav",
+            "ja": "Vox_Cielle_BPCHAR_022.wav",
+            "en": "Vox_Cielle_BPCHAR_022.wav"
+        },
+        "transcription": {
+            "cn": "卡拉彼丘。",
+            "en": "Strinova.",
+            "ja": "ストリノヴァ。"
+        },
+        "translation": {
+            "cn": {
+                "ko": "스트리노바.",
+                "es": "Strinova.",
+                "fr": "Strinova.",
+                "de": "Strinova.",
+                "ru": "Стринова.",
+                "pt-br": "Strinova.",
+                "zh-hans": "卡拉彼丘。"
+            }
         }
     },
     "22130018": {
@@ -2141,7 +2300,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Hiya, boss! I'm CL. Brains, skills, and bargains, all in one package! However you heard about me, wanna see what I can do?"
+            "en": "Hiya, boss! I'm Cielle. Brains, skills, and bargains, all in one package! However you heard about me, wanna see what I can do?",
+            "ja": "やっほ～ あーしは汐！頭切れて腕もピカイチ、あと値段も良心的！どお？お試しで雇ってみる？"
         },
         "translation": {
             "cn": {}
@@ -2158,7 +2318,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Good gear keeps you alive. Simple math. And yep, maintenance fees are included."
+            "en": "Good gear keeps you alive. Simple math. And yep, maintenance fees are included.",
+            "ja": "装備は命！ちゃんと整えて損なし！あ、メンテ費は請求書に入れとくね？"
         },
         "translation": {
             "cn": {}
@@ -2201,7 +2362,8 @@
         },
         "transcription": {
             "cn": "",
-            "en": "Ooh! Better choose carefully. These are my little, uh, gifts for the enemy."
+            "en": "Ooh! Better choose carefully. These are my little, uh, gifts for the enemy.",
+            "ja": "いっひひ♪　どれにしよっかなぁ～　敵さんへの贈りもんだし"
         },
         "translation": {
             "cn": {}

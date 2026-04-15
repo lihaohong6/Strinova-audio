@@ -2028,6 +2028,23 @@
             }
         }
     },
+    "22124254": {
+        "id": 22124254,
+        "title": {},
+        "path": "Vox_Kokona_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Kokona_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Kokona_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Kokona_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": "",
+            "en": "As long as I'm here, no one will fall."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22124076": {
         "id": 22124076,
         "title": {
@@ -6732,24 +6749,6 @@
             "cn": {
                 "en": ""
             }
-        },
-        "non_local": true
-    },
-    "22124254": {
-        "id": 22124254,
-        "title": {},
-        "path": "Vox_Kokona_BPCHAT_075_red01_a",
-        "file": {
-            "cn": "Vox_Kokona_InGame_Skill_red01-0028-event.wav",
-            "ja": "Vox_Kokona_InGame_Skill_red01-0028-event.wav",
-            "en": "Vox_Kokona_InGame_Skill_red01-0028-event.wav"
-        },
-        "transcription": {
-            "cn": "",
-            "en": "As long as I'm here, no one will fall."
-        },
-        "translation": {
-            "cn": {}
         },
         "non_local": true
     }

@@ -2445,7 +2445,7 @@
         "id": 22115143,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Michele downs an enemy"
         },
         "path": "Vox_Flavia_BPCHAT_143_a",
         "file": {
@@ -2485,7 +2485,7 @@
         "id": 22115144,
         "title": {
             "cn": "",
-            "en": ""
+            "en": "Killing Eika"
         },
         "path": "Vox_Flavia_BPCHAT_144_a",
         "file": {
@@ -2597,7 +2597,9 @@
     },
     "22115147": {
         "id": 22115147,
-        "title": {},
+        "title": {
+            "en": "Reviving Yvette"
+        },
         "path": "Vox_Flavia_BPCHAT_147_a",
         "file": {
             "cn": "",
@@ -2648,7 +2650,9 @@
     },
     "22115148": {
         "id": 22115148,
-        "title": {},
+        "title": {
+            "en": "Last ally remaining"
+        },
         "path": "Vox_Flavia_BPCHAT_149_a",
         "file": {
             "cn": "",
@@ -2682,7 +2686,9 @@
     },
     "22115149": {
         "id": 22115149,
-        "title": {},
+        "title": {
+            "en": "An ally gets killed"
+        },
         "path": "Vox_Flavia_BPCHAT_150_a",
         "file": {
             "cn": "",
