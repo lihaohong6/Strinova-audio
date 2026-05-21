@@ -161,7 +161,9 @@
     },
     "22306002": {
         "id": 22306002,
-        "title": {},
+        "title": {
+            "en": "Getting hit"
+        },
         "path": "Vox_Lilith_BPCHAT_002",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_002.wav",
@@ -177,7 +179,9 @@
     },
     "22306003": {
         "id": 22306003,
-        "title": {},
+        "title": {
+            "en": "Getting hit"
+        },
         "path": "Vox_Lilith_BPCHAT_003",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_003.wav",
@@ -529,7 +533,9 @@
     },
     "22306031": {
         "id": 22306031,
-        "title": {},
+        "title": {
+            "en": "Ultimate"
+        },
         "path": "Vox_Lilith_BPCHAT_103",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_103.wav",
@@ -561,7 +567,9 @@
     },
     "22306033": {
         "id": 22306033,
-        "title": {},
+        "title": {
+            "en": "Ultimate"
+        },
         "path": "Vox_Lilith_BPCHAT_105",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_105.wav",

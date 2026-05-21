@@ -1,4 +1,20 @@
 {
+    "22125328": {
+        "id": 22125328,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_029_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_029_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_029_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_029_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125066": {
         "id": 22125066,
         "title": {},
@@ -23,6 +39,22 @@
                 "pt-br": "O arco é meu caminho para a disciplina e meu ataque contra o mal.",
                 "zh-hans": "弓是自我修行的技艺，也是诛灭罪恶的手段。"
             }
+        }
+    },
+    "22125244": {
+        "id": 22125244,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125067": {
@@ -51,6 +83,22 @@
             }
         }
     },
+    "22125245": {
+        "id": 22125245,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_067_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125068": {
         "id": 22125068,
         "title": {},
@@ -75,6 +123,22 @@
                 "pt-br": "Reconfirmando restrições de combate... Pronto, foram todas suspensas.",
                 "zh-hans": "再确认一次，火力管控条例……嗯，已经解除。"
             }
+        }
+    },
+    "22125246": {
+        "id": 22125246,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_068_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_068_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_068_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125069": {
@@ -103,6 +167,22 @@
             }
         }
     },
+    "22125247": {
+        "id": 22125247,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_069_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_069_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_069_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125070": {
         "id": 22125070,
         "title": {},
@@ -129,6 +209,22 @@
             }
         }
     },
+    "22125248": {
+        "id": 22125248,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAR_070_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAR_070_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAR_070_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125071": {
         "id": 22125071,
         "title": {},
@@ -141,6 +237,22 @@
         "transcription": {
             "cn": "",
             "en": "My arrows are ready."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125258": {
+        "id": 22125258,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_071_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_071_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_071_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -172,6 +284,22 @@
             }
         }
     },
+    "22125259": {
+        "id": 22125259,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_072_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_072_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_072_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125073": {
         "id": 22125073,
         "title": {},
@@ -196,6 +324,22 @@
                 "pt-br": "Veloz como um trovão!",
                 "zh-hans": "疾！"
             }
+        }
+    },
+    "22125260": {
+        "id": 22125260,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_073_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_073_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_073_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125074": {
@@ -224,6 +368,22 @@
             }
         }
     },
+    "22125261": {
+        "id": 22125261,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_074_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_074_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_074_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125075": {
         "id": 22125075,
         "title": {},
@@ -241,6 +401,22 @@
             "cn": {}
         }
     },
+    "22125262": {
+        "id": 22125262,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125076": {
         "id": 22125076,
         "title": {},
@@ -253,6 +429,22 @@
         "transcription": {
             "cn": "",
             "en": "The cycle completes. I am ready for the perfect shot."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125263": {
+        "id": 22125263,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_076_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_076_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_076_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -284,6 +476,22 @@
             }
         }
     },
+    "22125264": {
+        "id": 22125264,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_077_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_077_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_077_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125078": {
         "id": 22125078,
         "title": {},
@@ -308,6 +516,22 @@
                 "pt-br": "Tudo se despedaçará. Tudo perecerá!",
                 "zh-hans": "枫燃霜碎，万端皆除！"
             }
+        }
+    },
+    "22125265": {
+        "id": 22125265,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_078_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_078_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_078_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125079": {
@@ -336,6 +560,22 @@
             }
         }
     },
+    "22125266": {
+        "id": 22125266,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_079_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_079_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_079_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125080": {
         "id": 22125080,
         "title": {},
@@ -353,6 +593,22 @@
             "cn": {}
         }
     },
+    "22125267": {
+        "id": 22125267,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_080_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_080_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125108": {
         "id": 22125108,
         "title": {},
@@ -365,6 +621,22 @@
         "transcription": {
             "cn": "",
             "en": "..."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125293": {
+        "id": 22125293,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_108_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -396,6 +668,22 @@
             }
         }
     },
+    "22125296": {
+        "id": 22125296,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_109_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_109_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_109_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125110": {
         "id": 22125110,
         "title": {},
@@ -420,6 +708,22 @@
                 "pt-br": "A imprudência sempre leva à queda.",
                 "zh-hans": "下次请谨记，妄动则有失。"
             }
+        }
+    },
+    "22125297": {
+        "id": 22125297,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_110_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_110_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_110_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125111": {
@@ -448,6 +752,22 @@
             }
         }
     },
+    "22125298": {
+        "id": 22125298,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_111_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_111_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_111_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125112": {
         "id": 22125112,
         "title": {},
@@ -472,6 +792,22 @@
                 "pt-br": "As flechas da conquista não têm misericórdia.",
                 "zh-hans": "征战之箭，不会被仁道束缚。"
             }
+        }
+    },
+    "22125299": {
+        "id": 22125299,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_112_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_112_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_112_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125113": {
@@ -500,6 +836,22 @@
             }
         }
     },
+    "22125300": {
+        "id": 22125300,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_113_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_113_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_113_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125114": {
         "id": 22125114,
         "title": {},
@@ -526,6 +878,22 @@
             }
         }
     },
+    "22125301": {
+        "id": 22125301,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_114_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_114_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_114_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125115": {
         "id": 22125115,
         "title": {},
@@ -538,6 +906,22 @@
         "transcription": {
             "cn": "",
             "en": "A double kill to display my precision."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125302": {
+        "id": 22125302,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_115_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_115_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_115_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -560,6 +944,22 @@
             "cn": {}
         }
     },
+    "22125303": {
+        "id": 22125303,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_116_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_116_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_116_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125117": {
         "id": 22125117,
         "title": {},
@@ -572,6 +972,22 @@
         "transcription": {
             "cn": "",
             "en": "Four arrows to secure victory and admiration."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125304": {
+        "id": 22125304,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_117_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_117_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_117_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -594,6 +1010,22 @@
             "cn": {}
         }
     },
+    "22125305": {
+        "id": 22125305,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_118_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_118_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_118_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125119": {
         "id": 22125119,
         "title": {},
@@ -606,6 +1038,22 @@
         "transcription": {
             "cn": "",
             "en": "To achieve no mind is to be invincible."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125306": {
+        "id": 22125306,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_119_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_119_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_119_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -628,6 +1076,22 @@
             "cn": {}
         }
     },
+    "22125307": {
+        "id": 22125307,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_120_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_120_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_120_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125123": {
         "id": 22125123,
         "title": {},
@@ -640,6 +1104,22 @@
         "transcription": {
             "cn": "",
             "en": "Is this as far as I go?"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125310": {
+        "id": 22125310,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_123_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_123_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_123_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -662,6 +1142,22 @@
             "cn": {}
         }
     },
+    "22125311": {
+        "id": 22125311,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_124_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_124_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_124_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125125": {
         "id": 22125125,
         "title": {},
@@ -674,6 +1170,22 @@
         "transcription": {
             "cn": "",
             "en": "Maple leaves, return my bow to a peaceful land."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125312": {
+        "id": 22125312,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_125_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_125_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_125_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_125_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -696,6 +1208,22 @@
             "cn": {}
         }
     },
+    "22125313": {
+        "id": 22125313,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_126_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_126_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_126_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125127": {
         "id": 22125127,
         "title": {},
@@ -708,6 +1236,22 @@
         "transcription": {
             "cn": "",
             "en": "Faster than I am? Impossible."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125314": {
+        "id": 22125314,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_127_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_127_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_127_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -730,6 +1274,22 @@
             "cn": {}
         }
     },
+    "22125309": {
+        "id": 22125309,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_122_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_122_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_122_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125121": {
         "id": 22125121,
         "title": {},
@@ -747,6 +1307,22 @@
             "cn": {}
         }
     },
+    "22125308": {
+        "id": 22125308,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_121_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_121_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_121_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125128": {
         "id": 22125128,
         "title": {},
@@ -759,6 +1335,22 @@
         "transcription": {
             "cn": "",
             "en": "Please help me get back to the fight!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125315": {
+        "id": 22125315,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_128_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_128_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_128_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -790,6 +1382,22 @@
             }
         }
     },
+    "22125316": {
+        "id": 22125316,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_129_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_129_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_129_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125130": {
         "id": 22125130,
         "title": {},
@@ -802,6 +1410,22 @@
         "transcription": {
             "cn": "",
             "en": "Thanks for your help."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125317": {
+        "id": 22125317,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_130_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_130_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_130_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -824,6 +1448,22 @@
             "cn": {}
         }
     },
+    "22125268": {
+        "id": 22125268,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_131_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125132": {
         "id": 22125132,
         "title": {},
@@ -836,6 +1476,22 @@
         "transcription": {
             "cn": "",
             "en": "I've secured the bomb. Should I hand it to Evidence?"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125270": {
+        "id": 22125270,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_132_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_132_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_132_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -858,6 +1514,22 @@
             "cn": {}
         }
     },
+    "22125271": {
+        "id": 22125271,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_133_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_133_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_133_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125134": {
         "id": 22125134,
         "title": {},
@@ -870,6 +1542,22 @@
         "transcription": {
             "cn": "",
             "en": "I placed the bomb here."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125272": {
+        "id": 22125272,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_134_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_134_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_134_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -892,6 +1580,22 @@
             "cn": {}
         }
     },
+    "22125269": {
+        "id": 22125269,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_135_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_135_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_135_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125136": {
         "id": 22125136,
         "title": {},
@@ -904,6 +1608,22 @@
         "transcription": {
             "cn": "",
             "en": "I can feel the trajectory of my flight."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125292": {
+        "id": 22125292,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_136_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_136_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_136_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -969,6 +1689,54 @@
             "cn": {}
         }
     },
+    "22125252": {
+        "id": 22125252,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_137_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_137_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125253": {
+        "id": 22125253,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_137_red01_b",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_Chiyo_BPCHAT_137_red01_b.wav",
+            "en": "Vox_Chiyo_BPCHAT_137_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125254": {
+        "id": 22125254,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_137_red01_c",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_Chiyo_BPCHAT_137_red01_c.wav",
+            "en": "Vox_Chiyo_BPCHAT_137_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125138": {
         "id": 22125138,
         "title": {},
@@ -1029,6 +1797,54 @@
             "cn": {}
         }
     },
+    "22125249": {
+        "id": 22125249,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_138_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_138_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_138_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125250": {
+        "id": 22125250,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_138_red01_b",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_Chiyo_BPCHAT_138_red01_b.wav",
+            "en": "Vox_Chiyo_BPCHAT_138_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125251": {
+        "id": 22125251,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_138_red01_c",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_Chiyo_BPCHAT_138_red01_c.wav",
+            "en": "Vox_Chiyo_BPCHAT_138_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125139": {
         "id": 22125139,
         "title": {},
@@ -1053,6 +1869,22 @@
                 "pt-br": "Quando dou o meu máximo, elevo as minhas habilidades ao limite.",
                 "zh-hans": "全力以赴的战斗，一定能将我的技艺推向极限。"
             }
+        }
+    },
+    "22125255": {
+        "id": 22125255,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_139_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_139_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_139_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22125140": {
@@ -1098,6 +1930,38 @@
             "cn": {}
         }
     },
+    "22125256": {
+        "id": 22125256,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_140_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_140_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_140_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125257": {
+        "id": 22125257,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_140_red01_b",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_Chiyo_BPCHAT_140_red01_b.wav",
+            "en": "Vox_Chiyo_BPCHAT_140_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125141": {
         "id": 22125141,
         "title": {},
@@ -1110,6 +1974,22 @@
         "transcription": {
             "cn": "",
             "en": "P.U.S. endures under my bow's protection."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125318": {
+        "id": 22125318,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_141_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_141_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1132,6 +2012,22 @@
             "cn": {}
         }
     },
+    "22125319": {
+        "id": 22125319,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_142_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_142_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125143": {
         "id": 22125143,
         "title": {},
@@ -1144,6 +2040,22 @@
         "transcription": {
             "cn": "",
             "en": "Do not despair. My arrows will break through!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125320": {
+        "id": 22125320,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_143_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_143_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1166,6 +2078,22 @@
             "cn": {}
         }
     },
+    "22125321": {
+        "id": 22125321,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_144_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_144_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125145": {
         "id": 22125145,
         "title": {},
@@ -1178,6 +2106,22 @@
         "transcription": {
             "cn": "",
             "en": "Well done, Super Gamer."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125322": {
+        "id": 22125322,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_145_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_145_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1200,6 +2144,22 @@
             "cn": {}
         }
     },
+    "22125323": {
+        "id": 22125323,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_146_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_146_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125147": {
         "id": 22125147,
         "title": {},
@@ -1212,6 +2172,22 @@
         "transcription": {
             "cn": "",
             "en": "Your reliability is admirable. I have a lot to learn from you."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125324": {
+        "id": 22125324,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_147_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_147_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1234,6 +2210,22 @@
             "cn": {}
         }
     },
+    "22125325": {
+        "id": 22125325,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_148_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_148_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125149": {
         "id": 22125149,
         "title": {},
@@ -1251,6 +2243,22 @@
             "cn": {}
         }
     },
+    "22125326": {
+        "id": 22125326,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_149_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_149_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125150": {
         "id": 22125150,
         "title": {},
@@ -1263,6 +2271,22 @@
         "transcription": {
             "cn": "",
             "en": "Your determination isn't strong enough to take you to the end."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125327": {
+        "id": 22125327,
+        "title": {},
+        "path": "Vox_Chiyo_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Chiyo_BPCHAT_150_red01_a.wav",
+            "en": "Vox_Chiyo_BPCHAT_150_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1893,6 +2917,22 @@
             "cn": {}
         }
     },
+    "22125273": {
+        "id": 22125273,
+        "title": {},
+        "path": "Vox_Chiyo_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_090_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_090_red01_a.wav",
+            "en": "Vox_Chiyo_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125091": {
         "id": 22125091,
         "title": {},
@@ -1905,6 +2945,22 @@
         "transcription": {
             "cn": "",
             "en": "Interceptor deployed."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125275": {
+        "id": 22125275,
+        "title": {},
+        "path": "Vox_Chiyo_COM_091_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_091_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_091_red01_a.wav",
+            "en": "Vox_Chiyo_COM_091_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1927,6 +2983,22 @@
             "cn": {}
         }
     },
+    "22125276": {
+        "id": 22125276,
+        "title": {},
+        "path": "Vox_Chiyo_COM_092_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_092_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_092_red01_a.wav",
+            "en": "Vox_Chiyo_COM_092_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125093": {
         "id": 22125093,
         "title": {},
@@ -1939,6 +3011,22 @@
         "transcription": {
             "cn": "",
             "en": "Flashbang"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125277": {
+        "id": 22125277,
+        "title": {},
+        "path": "Vox_Chiyo_COM_093_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_093_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_093_red01_a.wav",
+            "en": "Vox_Chiyo_COM_093_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1961,6 +3049,22 @@
             "cn": {}
         }
     },
+    "22125278": {
+        "id": 22125278,
+        "title": {},
+        "path": "Vox_Chiyo_COM_094_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_094_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_094_red01_a.wav",
+            "en": "Vox_Chiyo_COM_094_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125095": {
         "id": 22125095,
         "title": {},
@@ -1973,6 +3077,22 @@
         "transcription": {
             "cn": "",
             "en": "Windstorm grenade, out!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125279": {
+        "id": 22125279,
+        "title": {},
+        "path": "Vox_Chiyo_COM_095_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_095_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_095_red01_a.wav",
+            "en": "Vox_Chiyo_COM_095_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1995,6 +3115,22 @@
             "cn": {}
         }
     },
+    "22125280": {
+        "id": 22125280,
+        "title": {},
+        "path": "Vox_Chiyo_COM_096_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_096_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_096_red01_a.wav",
+            "en": "Vox_Chiyo_COM_096_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125097": {
         "id": 22125097,
         "title": {},
@@ -2007,6 +3143,22 @@
         "transcription": {
             "cn": "",
             "en": "Tattletale deployed!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125281": {
+        "id": 22125281,
+        "title": {},
+        "path": "Vox_Chiyo_COM_097_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_097_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_097_red01_a.wav",
+            "en": "Vox_Chiyo_COM_097_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2029,6 +3181,22 @@
             "cn": {}
         }
     },
+    "22125282": {
+        "id": 22125282,
+        "title": {},
+        "path": "Vox_Chiyo_COM_098_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_098_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_098_red01_a.wav",
+            "en": "Vox_Chiyo_COM_098_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125099": {
         "id": 22125099,
         "title": {},
@@ -2041,6 +3209,22 @@
         "transcription": {
             "cn": "",
             "en": "Secure this area!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125283": {
+        "id": 22125283,
+        "title": {},
+        "path": "Vox_Chiyo_COM_099_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_099_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_099_red01_a.wav",
+            "en": "Vox_Chiyo_COM_099_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2063,6 +3247,22 @@
             "cn": {}
         }
     },
+    "22125284": {
+        "id": 22125284,
+        "title": {},
+        "path": "Vox_Chiyo_COM_100_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_100_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_100_red01_a.wav",
+            "en": "Vox_Chiyo_COM_100_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125101": {
         "id": 22125101,
         "title": {},
@@ -2075,6 +3275,22 @@
         "transcription": {
             "cn": "",
             "en": "Target area marked."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125285": {
+        "id": 22125285,
+        "title": {},
+        "path": "Vox_Chiyo_COM_101_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_101_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_101_red01_a.wav",
+            "en": "Vox_Chiyo_COM_101_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2097,6 +3313,22 @@
             "cn": {}
         }
     },
+    "22125286": {
+        "id": 22125286,
+        "title": {},
+        "path": "Vox_Chiyo_COM_102_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_102_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_102_red01_a.wav",
+            "en": "Vox_Chiyo_COM_102_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125103": {
         "id": 22125103,
         "title": {},
@@ -2109,6 +3341,22 @@
         "transcription": {
             "cn": "",
             "en": "We can plant the bomb now."
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125287": {
+        "id": 22125287,
+        "title": {},
+        "path": "Vox_Chiyo_COM_103_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_103_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_103_red01_a.wav",
+            "en": "Vox_Chiyo_COM_103_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2131,6 +3379,22 @@
             "cn": {}
         }
     },
+    "22125288": {
+        "id": 22125288,
+        "title": {},
+        "path": "Vox_Chiyo_COM_104_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_104_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_104_red01_a.wav",
+            "en": "Vox_Chiyo_COM_104_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125105": {
         "id": 22125105,
         "title": {},
@@ -2143,6 +3407,22 @@
         "transcription": {
             "cn": "",
             "en": "Bullets here!"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125289": {
+        "id": 22125289,
+        "title": {},
+        "path": "Vox_Chiyo_COM_105_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_105_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_105_red01_a.wav",
+            "en": "Vox_Chiyo_COM_105_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2165,6 +3445,22 @@
             "cn": {}
         }
     },
+    "22125290": {
+        "id": 22125290,
+        "title": {},
+        "path": "Vox_Chiyo_COM_106_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_106_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_106_red01_a.wav",
+            "en": "Vox_Chiyo_COM_106_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22125107": {
         "id": 22125107,
         "title": {},
@@ -2177,6 +3473,22 @@
         "transcription": {
             "cn": "",
             "en": "Tactical items here"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22125291": {
+        "id": 22125291,
+        "title": {},
+        "path": "Vox_Chiyo_COM_107_red01_a",
+        "file": {
+            "cn": "Vox_Chiyo_COM_107_red01_a.wav",
+            "ja": "Vox_Chiyo_COM_107_red01_a.wav",
+            "en": "Vox_Chiyo_COM_107_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
