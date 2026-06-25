@@ -1,4 +1,20 @@
 {
+    "22130316": {
+        "id": 22130316,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_029_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_029_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_029_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_029_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130066": {
         "id": 22130066,
         "title": {},
@@ -23,6 +39,22 @@
                 "pt-br": "Um bico de batalha? Hã... bem, claro, é só aumentar o pagamento que eu topo!",
                 "zh-hans": "战斗委托？唔……也行，加钱就行！"
             }
+        }
+    },
+    "22130232": {
+        "id": 22130232,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_066_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_066_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_066_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_066_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130067": {
@@ -51,6 +83,22 @@
             }
         }
     },
+    "22130233": {
+        "id": 22130233,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_067_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_067_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_067_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_067_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130068": {
         "id": 22130068,
         "title": {},
@@ -75,6 +123,22 @@
                 "pt-br": "Vamos torcer para que a jornada de hoje seja tranquila... dedos cruzados!",
                 "zh-hans": "啊啊，希望今天的工作可以轻松一点！"
             }
+        }
+    },
+    "22130234": {
+        "id": 22130234,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_068_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_068_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_068_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_068_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130069": {
@@ -103,6 +167,22 @@
             }
         }
     },
+    "22130235": {
+        "id": 22130235,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_069_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_069_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_069_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_069_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130070": {
         "id": 22130070,
         "title": {},
@@ -129,6 +209,22 @@
             }
         }
     },
+    "22130236": {
+        "id": 22130236,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAR_070_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAR_070_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAR_070_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAR_070_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130071": {
         "id": 22130071,
         "title": {},
@@ -142,6 +238,22 @@
             "cn": "",
             "en": "Haha! My lucky charm's back in action!",
             "ja": "復活キター！待ってたよ～！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130246": {
+        "id": 22130246,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_071_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_071_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_071_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_071_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -173,6 +285,22 @@
             }
         }
     },
+    "22130247": {
+        "id": 22130247,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_072_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_072_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_072_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_072_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130073": {
         "id": 22130073,
         "title": {},
@@ -197,6 +325,22 @@
                 "pt-br": "Vou te colocar na luta, faz bonito!",
                 "zh-hans": "靠你了，我的超级搭档！"
             }
+        }
+    },
+    "22130248": {
+        "id": 22130248,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_073_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_073_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_073_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_073_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130074": {
@@ -225,6 +369,22 @@
             }
         }
     },
+    "22130249": {
+        "id": 22130249,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_074_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_074_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_074_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_074_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130075": {
         "id": 22130075,
         "title": {},
@@ -243,6 +403,22 @@
             "cn": {}
         }
     },
+    "22130250": {
+        "id": 22130250,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_075_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_075_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_075_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_075_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130076": {
         "id": 22130076,
         "title": {},
@@ -256,6 +432,22 @@
             "cn": "",
             "en": "Ah-hoo! My big baby's ready to roll!",
             "ja": "やっと使える、マイゴッデス！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130251": {
+        "id": 22130251,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_076_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_076_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_076_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_076_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -287,6 +479,22 @@
             }
         }
     },
+    "22130252": {
+        "id": 22130252,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_077_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_077_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_077_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_077_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130078": {
         "id": 22130078,
         "title": {},
@@ -311,6 +519,22 @@
                 "pt-br": "Asas liberadas, supercarga!",
                 "zh-hans": "翼姬，超限！"
             }
+        }
+    },
+    "22130253": {
+        "id": 22130253,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_078_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_078_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_078_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_078_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130079": {
@@ -339,6 +563,22 @@
             }
         }
     },
+    "22130254": {
+        "id": 22130254,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_079_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_079_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_079_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_079_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130080": {
         "id": 22130080,
         "title": {},
@@ -357,6 +597,22 @@
             "cn": {}
         }
     },
+    "22130255": {
+        "id": 22130255,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_080_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_080_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_080_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_080_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130108": {
         "id": 22130108,
         "title": {},
@@ -370,6 +626,22 @@
             "cn": "",
             "en": "",
             "ja": "うっそやばっ"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130281": {
+        "id": 22130281,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_108_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_108_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_108_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_108_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -401,6 +673,22 @@
             }
         }
     },
+    "22130284": {
+        "id": 22130284,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_109_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_109_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_109_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_109_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130110": {
         "id": 22130110,
         "title": {},
@@ -425,6 +713,22 @@
                 "pt-br": "Dia difícil pra você, hein?",
                 "zh-hans": "你今天不太走运。"
             }
+        }
+    },
+    "22130285": {
+        "id": 22130285,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_110_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_110_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_110_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_110_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130111": {
@@ -453,6 +757,22 @@
             }
         }
     },
+    "22130286": {
+        "id": 22130286,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_111_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_111_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_111_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_111_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130112": {
         "id": 22130112,
         "title": {},
@@ -477,6 +797,22 @@
                 "pt-br": "Ah, ops, foi totalmente um acidente!",
                 "zh-hans": "哎呀，不好意思，是意外！"
             }
+        }
+    },
+    "22130287": {
+        "id": 22130287,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_112_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_112_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_112_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_112_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130113": {
@@ -505,6 +841,22 @@
             }
         }
     },
+    "22130288": {
+        "id": 22130288,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_113_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_113_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_113_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_113_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130114": {
         "id": 22130114,
         "title": {},
@@ -531,6 +883,22 @@
             }
         }
     },
+    "22130289": {
+        "id": 22130289,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_114_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_114_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_114_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_114_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130115": {
         "id": 22130115,
         "title": {},
@@ -544,6 +912,22 @@
             "cn": "",
             "en": "Woohoo! Double bonus!",
             "ja": "おっけ～ダブルボーナス！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130290": {
+        "id": 22130290,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_115_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_115_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_115_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_115_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -567,6 +951,22 @@
             "cn": {}
         }
     },
+    "22130291": {
+        "id": 22130291,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_116_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_116_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_116_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_116_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130117": {
         "id": 22130117,
         "title": {},
@@ -580,6 +980,22 @@
             "cn": "",
             "en": "Four down, what a haul!",
             "ja": "４人抜き～、これ特別手当出るレベルじゃん！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130292": {
+        "id": 22130292,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_117_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_117_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_117_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_117_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -603,6 +1019,22 @@
             "cn": {}
         }
     },
+    "22130293": {
+        "id": 22130293,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_118_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_118_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_118_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_118_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130119": {
         "id": 22130119,
         "title": {},
@@ -616,6 +1048,22 @@
             "cn": "",
             "en": "See that? I'm not some helpless lamb!",
             "ja": "あーしを子ども扱いしたらこうなるんだよ！！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130294": {
+        "id": 22130294,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_119_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_119_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_119_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_119_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -639,6 +1087,22 @@
             "cn": {}
         }
     },
+    "22130295": {
+        "id": 22130295,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_120_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_120_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_120_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_120_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130123": {
         "id": 22130123,
         "title": {},
@@ -652,6 +1116,22 @@
             "cn": "",
             "en": "That really hurts.",
             "ja": "いっった・・・"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130298": {
+        "id": 22130298,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_123_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_123_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_123_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_123_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -675,6 +1155,22 @@
             "cn": {}
         }
     },
+    "22130299": {
+        "id": 22130299,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_124_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_124_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_124_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_124_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130126": {
         "id": 22130126,
         "title": {},
@@ -688,6 +1184,22 @@
             "cn": "",
             "en": "Stay down and stay still.",
             "ja": "はい、ここまで～"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130301": {
+        "id": 22130301,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_126_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_126_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_126_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_126_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -711,6 +1223,22 @@
             "cn": {}
         }
     },
+    "22130302": {
+        "id": 22130302,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_127_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_127_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_127_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_127_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130122": {
         "id": 22130122,
         "title": {},
@@ -724,6 +1252,22 @@
             "cn": "",
             "en": "The ocean feels so far away.",
             "ja": "汐なのに・・・海見えないや・・・"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130297": {
+        "id": 22130297,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_122_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_122_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_122_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_122_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -747,6 +1291,22 @@
             "cn": {}
         }
     },
+    "22130296": {
+        "id": 22130296,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_121_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_121_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_121_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_121_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130128": {
         "id": 22130128,
         "title": {},
@@ -760,6 +1320,22 @@
             "cn": "",
             "en": "Uh, a little help here, please?",
             "ja": "助けて～！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130303": {
+        "id": 22130303,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_128_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_128_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_128_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_128_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -791,6 +1367,22 @@
             }
         }
     },
+    "22130304": {
+        "id": 22130304,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_129_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_129_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_129_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_129_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130130": {
         "id": 22130130,
         "title": {},
@@ -804,6 +1396,22 @@
             "cn": "",
             "en": "Oh, I owe you one. Guess I really do have nine lives.",
             "ja": "助かった～、ガチでありがとね！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130305": {
+        "id": 22130305,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_130_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_130_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_130_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_130_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -827,6 +1435,22 @@
             "cn": {}
         }
     },
+    "22130256": {
+        "id": 22130256,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_131_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_131_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_131_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_131_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130132": {
         "id": 22130132,
         "title": {},
@@ -840,6 +1464,22 @@
             "cn": "",
             "en": "Bombs with me!",
             "ja": "爆弾、あーしが持った"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130258": {
+        "id": 22130258,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_132_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_132_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_132_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_132_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -863,6 +1503,22 @@
             "cn": {}
         }
     },
+    "22130259": {
+        "id": 22130259,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_133_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_133_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_133_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_133_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130134": {
         "id": 22130134,
         "title": {},
@@ -876,6 +1532,22 @@
             "cn": "",
             "en": "Drop the bomb here!",
             "ja": "爆弾ここ置いとくね～"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130260": {
+        "id": 22130260,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_134_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_134_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_134_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_134_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -899,6 +1571,22 @@
             "cn": {}
         }
     },
+    "22130257": {
+        "id": 22130257,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_135_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_135_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_135_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_135_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130136": {
         "id": 22130136,
         "title": {},
@@ -912,6 +1600,22 @@
             "cn": "",
             "en": "Don't mind me, just gliding around.",
             "ja": "ちょっと飛んでくる～"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130280": {
+        "id": 22130280,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_136_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_136_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_136_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_136_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -979,6 +1683,54 @@
             "cn": {}
         }
     },
+    "22130240": {
+        "id": 22130240,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_137_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_137_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_137_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_137_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130241": {
+        "id": 22130241,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_137_red01_b",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_137_red01_b.wav",
+            "ja": "Vox_Cielle_BPCHAT_137_red01_b.wav",
+            "en": "Vox_Cielle_BPCHAT_137_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130242": {
+        "id": 22130242,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_137_red01_c",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_137_red01_c.wav",
+            "ja": "Vox_Cielle_BPCHAT_137_red01_c.wav",
+            "en": "Vox_Cielle_BPCHAT_137_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130138": {
         "id": 22130138,
         "title": {},
@@ -1041,6 +1793,54 @@
             "cn": {}
         }
     },
+    "22130237": {
+        "id": 22130237,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_138_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_138_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_138_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_138_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130238": {
+        "id": 22130238,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_138_red01_b",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_138_red01_b.wav",
+            "ja": "Vox_Cielle_BPCHAT_138_red01_b.wav",
+            "en": "Vox_Cielle_BPCHAT_138_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130239": {
+        "id": 22130239,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_138_red01_c",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_138_red01_c.wav",
+            "ja": "Vox_Cielle_BPCHAT_138_red01_c.wav",
+            "en": "Vox_Cielle_BPCHAT_138_red01_c.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130139": {
         "id": 22130139,
         "title": {},
@@ -1065,6 +1865,22 @@
                 "pt-br": "Poderia ter sido pior... pelo menos meu ranking no topo ainda está seguro.",
                 "zh-hans": "还好还好，没有影响我的顶尖排名。"
             }
+        }
+    },
+    "22130243": {
+        "id": 22130243,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_139_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_139_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_139_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_139_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
         }
     },
     "22130140": {
@@ -1111,6 +1927,38 @@
             "cn": {}
         }
     },
+    "22130244": {
+        "id": 22130244,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_140_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_140_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_140_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_140_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130245": {
+        "id": 22130245,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_140_red01_b",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_140_red01_b.wav",
+            "ja": "Vox_Cielle_BPCHAT_140_red01_b.wav",
+            "en": "Vox_Cielle_BPCHAT_140_red01_b.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130141": {
         "id": 22130141,
         "title": {},
@@ -1124,6 +1972,22 @@
             "cn": "",
             "en": "Nice one! We're killing it out here!",
             "ja": "ナイス！うちら最強じゃん！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130306": {
+        "id": 22130306,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_141_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_141_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_141_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_141_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1147,6 +2011,22 @@
             "cn": {}
         }
     },
+    "22130307": {
+        "id": 22130307,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_142_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_142_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_142_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_142_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130143": {
         "id": 22130143,
         "title": {},
@@ -1160,6 +2040,22 @@
             "cn": "",
             "en": "Oh, no! It's the investigator! Hope she didn't recognize me.",
             "ja": "うわっ捜査官だ・・・顔ばれてないといいなぁ"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130308": {
+        "id": 22130308,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_143_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_143_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_143_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_143_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1183,6 +2079,22 @@
             "cn": {}
         }
     },
+    "22130309": {
+        "id": 22130309,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_144_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_144_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_144_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_144_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130145": {
         "id": 22130145,
         "title": {},
@@ -1196,6 +2108,22 @@
             "cn": "",
             "en": "Don't worry. Rock Bottom's just the start of a comeback.",
             "ja": "平気平気、落ちたら上がるだけっしょ！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130310": {
+        "id": 22130310,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_145_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_145_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_145_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_145_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1219,6 +2147,22 @@
             "cn": {}
         }
     },
+    "22130311": {
+        "id": 22130311,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_146_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_146_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_146_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_146_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130147": {
         "id": 22130147,
         "title": {},
@@ -1232,6 +2176,22 @@
             "cn": "",
             "en": "Oh, come on, Ming. Nothing personal, yeah?",
             "ja": "明ねぇさん怒んないでよぉ仕事だってば・・・"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130312": {
+        "id": 22130312,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_147_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_147_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_147_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_147_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1255,6 +2215,22 @@
             "cn": {}
         }
     },
+    "22130313": {
+        "id": 22130313,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_148_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_148_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_148_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_148_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130149": {
         "id": 22130149,
         "title": {},
@@ -1273,6 +2249,22 @@
             "cn": {}
         }
     },
+    "22130314": {
+        "id": 22130314,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_149_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_149_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_149_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_149_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130150": {
         "id": 22130150,
         "title": {},
@@ -1286,6 +2278,22 @@
             "cn": "",
             "en": "Relax! Your sister would kill me if I left you behind.",
             "ja": "ほらほら、あんたの姉ちゃん推しだし？ほっとけるわけないじゃん"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130315": {
+        "id": 22130315,
+        "title": {},
+        "path": "Vox_Cielle_BPCHAT_150_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_BPCHAT_150_red01_a.wav",
+            "ja": "Vox_Cielle_BPCHAT_150_red01_a.wav",
+            "en": "Vox_Cielle_BPCHAT_150_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1939,6 +2947,22 @@
             "cn": {}
         }
     },
+    "22130261": {
+        "id": 22130261,
+        "title": {},
+        "path": "Vox_Cielle_COM_090_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_090_red01_a.wav",
+            "ja": "Vox_Cielle_COM_090_red01_a.wav",
+            "en": "Vox_Cielle_COM_090_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130091": {
         "id": 22130091,
         "title": {},
@@ -1952,6 +2976,22 @@
             "cn": "",
             "en": "Interceptor deployed! Don't even try it!",
             "ja": "インターセプター配置っと"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130263": {
+        "id": 22130263,
+        "title": {},
+        "path": "Vox_Cielle_COM_091_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_091_red01_a.wav",
+            "ja": "Vox_Cielle_COM_091_red01_a.wav",
+            "en": "Vox_Cielle_COM_091_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -1975,6 +3015,22 @@
             "cn": {}
         }
     },
+    "22130264": {
+        "id": 22130264,
+        "title": {},
+        "path": "Vox_Cielle_COM_092_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_092_red01_a.wav",
+            "ja": "Vox_Cielle_COM_092_red01_a.wav",
+            "en": "Vox_Cielle_COM_092_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130093": {
         "id": 22130093,
         "title": {},
@@ -1988,6 +3044,22 @@
             "cn": "",
             "en": "Flash out! Lights off, suckers!",
             "ja": "フラッシュいっけ～！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130265": {
+        "id": 22130265,
+        "title": {},
+        "path": "Vox_Cielle_COM_093_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_093_red01_a.wav",
+            "ja": "Vox_Cielle_COM_093_red01_a.wav",
+            "en": "Vox_Cielle_COM_093_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2011,6 +3083,22 @@
             "cn": {}
         }
     },
+    "22130266": {
+        "id": 22130266,
+        "title": {},
+        "path": "Vox_Cielle_COM_094_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_094_red01_a.wav",
+            "ja": "Vox_Cielle_COM_094_red01_a.wav",
+            "en": "Vox_Cielle_COM_094_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130095": {
         "id": 22130095,
         "title": {},
@@ -2024,6 +3112,22 @@
             "cn": "",
             "en": "Whoosh! Let's make him fly!",
             "ja": "ほいっ、飛んでけ～！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130267": {
+        "id": 22130267,
+        "title": {},
+        "path": "Vox_Cielle_COM_095_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_095_red01_a.wav",
+            "ja": "Vox_Cielle_COM_095_red01_a.wav",
+            "en": "Vox_Cielle_COM_095_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2047,6 +3151,22 @@
             "cn": {}
         }
     },
+    "22130268": {
+        "id": 22130268,
+        "title": {},
+        "path": "Vox_Cielle_COM_096_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_096_red01_a.wav",
+            "ja": "Vox_Cielle_COM_096_red01_a.wav",
+            "en": "Vox_Cielle_COM_096_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130097": {
         "id": 22130097,
         "title": {},
@@ -2060,6 +3180,22 @@
             "cn": "",
             "en": "All right, Alarm Buddy, do your thing!",
             "ja": "しっかり鳴いてよー？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130269": {
+        "id": 22130269,
+        "title": {},
+        "path": "Vox_Cielle_COM_097_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_097_red01_a.wav",
+            "ja": "Vox_Cielle_COM_097_red01_a.wav",
+            "en": "Vox_Cielle_COM_097_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2083,6 +3219,22 @@
             "cn": {}
         }
     },
+    "22130270": {
+        "id": 22130270,
+        "title": {},
+        "path": "Vox_Cielle_COM_098_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_098_red01_a.wav",
+            "ja": "Vox_Cielle_COM_098_red01_a.wav",
+            "en": "Vox_Cielle_COM_098_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130099": {
         "id": 22130099,
         "title": {},
@@ -2096,6 +3248,22 @@
             "cn": "",
             "en": "I'll guard the spot.",
             "ja": "ここ、あーしが守るね？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130271": {
+        "id": 22130271,
+        "title": {},
+        "path": "Vox_Cielle_COM_099_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_099_red01_a.wav",
+            "ja": "Vox_Cielle_COM_099_red01_a.wav",
+            "en": "Vox_Cielle_COM_099_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2119,6 +3287,22 @@
             "cn": {}
         }
     },
+    "22130272": {
+        "id": 22130272,
+        "title": {},
+        "path": "Vox_Cielle_COM_100_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_100_red01_a.wav",
+            "ja": "Vox_Cielle_COM_100_red01_a.wav",
+            "en": "Vox_Cielle_COM_100_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130101": {
         "id": 22130101,
         "title": {},
@@ -2132,6 +3316,22 @@
             "cn": "",
             "en": "How about we push here?",
             "ja": "ここ攻めちゃおっか？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130273": {
+        "id": 22130273,
+        "title": {},
+        "path": "Vox_Cielle_COM_101_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_101_red01_a.wav",
+            "ja": "Vox_Cielle_COM_101_red01_a.wav",
+            "en": "Vox_Cielle_COM_101_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2155,6 +3355,22 @@
             "cn": {}
         }
     },
+    "22130274": {
+        "id": 22130274,
+        "title": {},
+        "path": "Vox_Cielle_COM_102_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_102_red01_a.wav",
+            "ja": "Vox_Cielle_COM_102_red01_a.wav",
+            "en": "Vox_Cielle_COM_102_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130103": {
         "id": 22130103,
         "title": {},
@@ -2168,6 +3384,22 @@
             "cn": "",
             "en": "Ready to set the charge here?",
             "ja": "もう設置いけるっしょ？"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130275": {
+        "id": 22130275,
+        "title": {},
+        "path": "Vox_Cielle_COM_103_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_103_red01_a.wav",
+            "ja": "Vox_Cielle_COM_103_red01_a.wav",
+            "en": "Vox_Cielle_COM_103_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2191,6 +3423,22 @@
             "cn": {}
         }
     },
+    "22130276": {
+        "id": 22130276,
+        "title": {},
+        "path": "Vox_Cielle_COM_104_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_104_red01_a.wav",
+            "ja": "Vox_Cielle_COM_104_red01_a.wav",
+            "en": "Vox_Cielle_COM_104_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130105": {
         "id": 22130105,
         "title": {},
@@ -2204,6 +3452,22 @@
             "cn": "",
             "en": "Nice! More ammo for me!",
             "ja": "あ、弾あった"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130277": {
+        "id": 22130277,
+        "title": {},
+        "path": "Vox_Cielle_COM_105_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_105_red01_a.wav",
+            "ja": "Vox_Cielle_COM_105_red01_a.wav",
+            "en": "Vox_Cielle_COM_105_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}
@@ -2227,6 +3491,22 @@
             "cn": {}
         }
     },
+    "22130278": {
+        "id": 22130278,
+        "title": {},
+        "path": "Vox_Cielle_COM_106_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_106_red01_a.wav",
+            "ja": "Vox_Cielle_COM_106_red01_a.wav",
+            "en": "Vox_Cielle_COM_106_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
     "22130107": {
         "id": 22130107,
         "title": {},
@@ -2240,6 +3520,22 @@
             "cn": "",
             "en": "Whoa, whose fancy gadget is this?",
             "ja": "うわっ、戦術アイテム落ちてんじゃん！"
+        },
+        "translation": {
+            "cn": {}
+        }
+    },
+    "22130279": {
+        "id": 22130279,
+        "title": {},
+        "path": "Vox_Cielle_COM_107_red01_a",
+        "file": {
+            "cn": "Vox_Cielle_COM_107_red01_a.wav",
+            "ja": "Vox_Cielle_COM_107_red01_a.wav",
+            "en": "Vox_Cielle_COM_107_red01_a.wav"
+        },
+        "transcription": {
+            "cn": ""
         },
         "translation": {
             "cn": {}

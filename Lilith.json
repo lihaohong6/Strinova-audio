@@ -1,7 +1,9 @@
 {
     "22306008": {
         "id": 22306008,
-        "title": {},
+        "title": {
+            "en": "Triple kill"
+        },
         "path": "Vox_Lilith_BPCHAT_008",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_008.wav",
@@ -9,7 +11,8 @@
             "en": "Vox_Lilith_BPCHAT_008.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "That's my kind of thrill..."
         },
         "translation": {
             "cn": {}
@@ -17,7 +20,9 @@
     },
     "22306009": {
         "id": 22306009,
-        "title": {},
+        "title": {
+            "en": "Quadra kill"
+        },
         "path": "Vox_Lilith_BPCHAT_009",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_009.wav",
@@ -25,7 +30,8 @@
             "en": "Vox_Lilith_BPCHAT_009.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Give in to my desires!"
         },
         "translation": {
             "cn": {}
@@ -33,7 +39,9 @@
     },
     "22306010": {
         "id": 22306010,
-        "title": {},
+        "title": {
+            "en": "Penta kill"
+        },
         "path": "Vox_Lilith_BPCHAT_010",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_010.wav",
@@ -41,7 +49,8 @@
             "en": "Vox_Lilith_BPCHAT_010.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Embracing death is the sweetest of seductions..."
         },
         "translation": {
             "cn": {}
@@ -49,7 +58,9 @@
     },
     "22306005": {
         "id": 22306005,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy"
+        },
         "path": "Vox_Lilith_BPCHAT_005",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_005.wav",
@@ -57,7 +68,8 @@
             "en": "Vox_Lilith_BPCHAT_005.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Accept my gentle touch..."
         },
         "translation": {
             "cn": {}
@@ -65,7 +77,9 @@
     },
     "22306013": {
         "id": 22306013,
-        "title": {},
+        "title": {
+            "en": "Dying (not permanently)"
+        },
         "path": "Vox_Lilith_BPCHAT_013",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_013.wav",
@@ -73,7 +87,8 @@
             "en": "Vox_Lilith_BPCHAT_013.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Ugh..."
         },
         "translation": {
             "cn": {}
@@ -81,7 +96,9 @@
     },
     "22306014": {
         "id": 22306014,
-        "title": {},
+        "title": {
+            "en": "Dying (permanently)"
+        },
         "path": "Vox_Lilith_BPCHAT_014",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_014.wav",
@@ -89,7 +106,8 @@
             "en": "Vox_Lilith_BPCHAT_014.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Everything... ripped away from me."
         },
         "translation": {
             "cn": {}
@@ -97,7 +115,9 @@
     },
     "22306015": {
         "id": 22306015,
-        "title": {},
+        "title": {
+            "en": "Opening line"
+        },
         "path": "Vox_Lilith_BPCHAT_015",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_015.wav",
@@ -105,7 +125,8 @@
             "en": "Vox_Lilith_BPCHAT_015.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Don't even blink or you'll miss me."
         },
         "translation": {
             "cn": {}
@@ -113,7 +134,9 @@
     },
     "22306016": {
         "id": 22306016,
-        "title": {},
+        "title": {
+            "en": "Opening line"
+        },
         "path": "Vox_Lilith_BPCHAT_016",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_016.wav",
@@ -121,7 +144,8 @@
             "en": "Vox_Lilith_BPCHAT_016.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "I'm closer than you think..."
         },
         "translation": {
             "cn": {}
@@ -129,7 +153,9 @@
     },
     "22306017": {
         "id": 22306017,
-        "title": {},
+        "title": {
+            "en": "Active skill cooldown complete"
+        },
         "path": "Vox_Lilith_BPCHAT_017",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_017.wav",
@@ -137,7 +163,8 @@
             "en": "Vox_Lilith_BPCHAT_017.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Hush. Tread lightly from here."
         },
         "translation": {
             "cn": {}
@@ -145,7 +172,9 @@
     },
     "22306001": {
         "id": 22306001,
-        "title": {},
+        "title": {
+            "en": "Double jump"
+        },
         "path": "Vox_Lilith_BPCHAT_001",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_001.wav",
@@ -153,7 +182,8 @@
             "en": "Vox_Lilith_BPCHAT_001.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Hum, hum."
         },
         "translation": {
             "cn": {}
@@ -171,7 +201,8 @@
             "en": "Vox_Lilith_BPCHAT_002.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Huh."
         },
         "translation": {
             "cn": {}
@@ -189,7 +220,8 @@
             "en": "Vox_Lilith_BPCHAT_003.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "''Gasp. Breathe.''"
         },
         "translation": {
             "cn": {}
@@ -197,7 +229,9 @@
     },
     "22306004": {
         "id": 22306004,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy"
+        },
         "path": "Vox_Lilith_BPCHAT_004",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_004.wav",
@@ -205,7 +239,8 @@
             "en": "Vox_Lilith_BPCHAT_004.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Aww... struggling with my sharp edges?"
         },
         "translation": {
             "cn": {}
@@ -213,7 +248,9 @@
     },
     "22306025": {
         "id": 22306025,
-        "title": {},
+        "title": {
+            "en": "Entering final showdown"
+        },
         "path": "Vox_Lilith_BPCHAT_025",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_025.wav",
@@ -221,7 +258,8 @@
             "en": "Vox_Lilith_BPCHAT_025.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "I'll see you all torn apart!"
         },
         "translation": {
             "cn": {}
@@ -229,7 +267,9 @@
     },
     "22306026": {
         "id": 22306026,
-        "title": {},
+        "title": {
+            "en": "Entering final showdown"
+        },
         "path": "Vox_Lilith_BPCHAT_026",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_026.wav",
@@ -237,7 +277,8 @@
             "en": "Vox_Lilith_BPCHAT_026.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "In all this ecstasy, who will become my offering?"
         },
         "translation": {
             "cn": {}
@@ -245,7 +286,9 @@
     },
     "22306027": {
         "id": 22306027,
-        "title": {},
+        "title": {
+            "en": "Character obtained"
+        },
         "path": "Vox_Lilith_BPCHAT_027",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_027.wav",
@@ -253,7 +296,8 @@
             "en": "Vox_Lilith_BPCHAT_027.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Tell me... do you feel the devil whispering inside?"
         },
         "translation": {
             "cn": {}
@@ -261,7 +305,9 @@
     },
     "22306028": {
         "id": 22306028,
-        "title": {},
+        "title": {
+            "en": "Character page"
+        },
         "path": "Vox_Lilith_BPCHAT_028",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_028.wav",
@@ -269,7 +315,8 @@
             "en": "Vox_Lilith_BPCHAT_028.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Ah~ I just can't resist my instincts."
         },
         "translation": {
             "cn": {}
@@ -277,7 +324,9 @@
     },
     "22306023": {
         "id": 22306023,
-        "title": {},
+        "title": {
+            "en": "Ultimate skill"
+        },
         "path": "Vox_Lilith_BPCHAT_023",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_023.wav",
@@ -285,7 +334,8 @@
             "en": "Vox_Lilith_BPCHAT_023.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "A present made just for you!"
         },
         "translation": {
             "cn": {}
@@ -293,7 +343,9 @@
     },
     "22306024": {
         "id": 22306024,
-        "title": {},
+        "title": {
+            "en": "Ultimate skill"
+        },
         "path": "Vox_Lilith_BPCHAT_024",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_024.wav",
@@ -301,7 +353,8 @@
             "en": "Vox_Lilith_BPCHAT_024.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Forever mine!"
         },
         "translation": {
             "cn": {}
@@ -309,7 +362,9 @@
     },
     "22306011": {
         "id": 22306011,
-        "title": {},
+        "title": {
+            "en": "God-like"
+        },
         "path": "Vox_Lilith_BPCHAT_011",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_011.wav",
@@ -317,7 +372,8 @@
             "en": "Vox_Lilith_BPCHAT_011.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Let my embrace be your eternal sanctuary!"
         },
         "translation": {
             "cn": {}
@@ -325,7 +381,9 @@
     },
     "22306012": {
         "id": 22306012,
-        "title": {},
+        "title": {
+            "en": "Dying (not permanently)"
+        },
         "path": "Vox_Lilith_BPCHAT_012",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_012.wav",
@@ -333,7 +391,8 @@
             "en": "Vox_Lilith_BPCHAT_012.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "''Ahem.'' We're destined to meet again, aren't we?"
         },
         "translation": {
             "cn": {}
@@ -341,7 +400,9 @@
     },
     "22306006": {
         "id": 22306006,
-        "title": {},
+        "title": {
+            "en": "Downing an enemy"
+        },
         "path": "Vox_Lilith_BPCHAT_006",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_006.wav",
@@ -349,7 +410,8 @@
             "en": "Vox_Lilith_BPCHAT_006.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Oopsies! ''Giggle.'' Did I play too rough?"
         },
         "translation": {
             "cn": {}
@@ -357,7 +419,9 @@
     },
     "22306007": {
         "id": 22306007,
-        "title": {},
+        "title": {
+            "en": "Double kill"
+        },
         "path": "Vox_Lilith_BPCHAT_007",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_007.wav",
@@ -365,7 +429,8 @@
             "en": "Vox_Lilith_BPCHAT_007.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Twice the thrill, twice the still."
         },
         "translation": {
             "cn": {}
@@ -617,7 +682,9 @@
     },
     "22306022": {
         "id": 22306022,
-        "title": {},
+        "title": {
+            "en": "Ultimate skill unavailable"
+        },
         "path": "Vox_Lilith_BPCHAT_022",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_022.wav",
@@ -625,7 +692,8 @@
             "en": "Vox_Lilith_BPCHAT_022.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "The hunger of desires, still unsatisfied..."
         },
         "translation": {
             "cn": {}
@@ -633,7 +701,9 @@
     },
     "22306018": {
         "id": 22306018,
-        "title": {},
+        "title": {
+            "en": "Active skill unavailable"
+        },
         "path": "Vox_Lilith_BPCHAT_018",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_018.wav",
@@ -641,7 +711,8 @@
             "en": "Vox_Lilith_BPCHAT_018.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Let's wait until the time is truly right."
         },
         "translation": {
             "cn": {}
@@ -649,7 +720,9 @@
     },
     "22306019": {
         "id": 22306019,
-        "title": {},
+        "title": {
+            "en": "Active skill"
+        },
         "path": "Vox_Lilith_BPCHAT_019",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_019.wav",
@@ -657,7 +730,8 @@
             "en": "Vox_Lilith_BPCHAT_019.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Cloaked in shadow."
         },
         "translation": {
             "cn": {}
@@ -665,7 +739,9 @@
     },
     "22306020": {
         "id": 22306020,
-        "title": {},
+        "title": {
+            "en": "Active skill"
+        },
         "path": "Vox_Lilith_BPCHAT_020",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_020.wav",
@@ -673,7 +749,8 @@
             "en": "Vox_Lilith_BPCHAT_020.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "I'm always within reach."
         },
         "translation": {
             "cn": {}
@@ -681,7 +758,9 @@
     },
     "22306021": {
         "id": 22306021,
-        "title": {},
+        "title": {
+            "en": "Ultimate charged"
+        },
         "path": "Vox_Lilith_BPCHAT_021",
         "file": {
             "cn": "Vox_Lilith_BPCHAT_021.wav",
@@ -689,7 +768,8 @@
             "en": "Vox_Lilith_BPCHAT_021.wav"
         },
         "transcription": {
-            "cn": ""
+            "cn": "",
+            "en": "Shall I show you my wrapper scythe?"
         },
         "translation": {
             "cn": {}
