@@ -1,7 +1,9 @@
 {
     "22130316": {
         "id": 22130316,
-        "title": {},
+        "title": {
+            "en": "Banner page"
+        },
         "path": "Vox_Cielle_BPCHAR_029_red01_a",
         "file": {
             "cn": "Vox_Cielle_BPCHAR_029_red01_a.wav",

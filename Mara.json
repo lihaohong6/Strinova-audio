@@ -1101,7 +1101,9 @@
     },
     "22122141": {
         "id": 22122141,
-        "title": {},
+        "title": {
+            "en": "Last standing"
+        },
         "path": "Vox_Mara_BPCHAT_141_a",
         "file": {
             "cn": "Vox_Mara_BPCHAT_141_a.wav",
@@ -1118,7 +1120,9 @@
     },
     "22122145": {
         "id": 22122145,
-        "title": {},
+        "title": {
+            "en": "Downed an enemy Flavia"
+        },
         "path": "Vox_Mara_BPCHAT_141",
         "file": {
             "cn": "Vox_Mara_BPCHAT_141.wav",
@@ -1169,7 +1173,9 @@
     },
     "22122143": {
         "id": 22122143,
-        "title": {},
+        "title": {
+            "en": "Losing three consecutive rounds"
+        },
         "path": "Vox_Mara_BPCHAT_143_a",
         "file": {
             "cn": "Vox_Mara_BPCHAT_143_a.wav",
@@ -1222,7 +1228,9 @@
     },
     "22122148": {
         "id": 22122148,
-        "title": {},
+        "title": {
+            "en": "Reviving an ally Ming"
+        },
         "path": "Vox_Mara_BPCHAT_144",
         "file": {
             "cn": "Vox_Mara_BPCHAT_144.wav",
@@ -1239,7 +1247,9 @@
     },
     "22122149": {
         "id": 22122149,
-        "title": {},
+        "title": {
+            "en": "Reviving an ally Meredith"
+        },
         "path": "Vox_Mara_BPCHAT_145",
         "file": {
             "cn": "Vox_Mara_BPCHAT_145.wav",
@@ -1256,7 +1266,9 @@
     },
     "22122150": {
         "id": 22122150,
-        "title": {},
+        "title": {
+            "en": "Reviving an ally Eika"
+        },
         "path": "Vox_Mara_BPCHAT_146",
         "file": {
             "cn": "Vox_Mara_BPCHAT_146.wav",
